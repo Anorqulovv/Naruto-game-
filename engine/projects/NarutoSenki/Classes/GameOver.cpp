@@ -75,7 +75,7 @@ void GameOver::listResult()
 		SimpleAudioEngine::sharedEngine()->playEffect("Audio/Menu/battle_over.ogg");
 
 	auto currPlayer = getGameLayer()->view();
-	auto half = Sprite::createWithSpriteFrameName(format("{}_half.png", currPlayer->displayName()).c_str());
+	auto half = Sprite::createWithSpriteFrameName(heroPictureName(currPlayer->displayName(), "_half.png").c_str());
 
 	if (currPlayer->getName() == HeroEnum::Konan ||
 		currPlayer->getName() == HeroEnum::Karin ||
@@ -184,7 +184,7 @@ void GameOver::listResult()
 			hero->changeGroup();
 		}
 
-		auto avator_small = Sprite::createWithSpriteFrameName(format("{}_small.png", hero->displayName()).c_str());
+		auto avator_small = Sprite::createWithSpriteFrameName(heroPictureName(hero->displayName(), "_small.png").c_str());
 		avator_small->setAnchorPoint(Vec2(0, 0));
 
 		uint32_t realKillNum = hero->getKillNum();

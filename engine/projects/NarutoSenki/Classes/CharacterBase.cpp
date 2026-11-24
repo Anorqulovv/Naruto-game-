@@ -660,7 +660,7 @@ void CharacterBase::acceptAttack(Ref *object)
 										}
 									}
 
-									if (monCount < 3)
+									if (monCount < 3 && attacker->getLV() >= 2)
 									{
 										getGameLayer()->getHudLayer()->skill4Button->unLock();
 									}
@@ -5212,7 +5212,7 @@ void CharacterBase::enableSkill3(float dt)
 
 void CharacterBase::increaseAllCkrs(uint32_t value, bool enableLv2, bool enableLv4)
 {
-	if (enableLv2) // RotN 2.2: ougis are open from level 1
+	if (_level >= 2 && enableLv2)
 	{
 		uint32_t ckr = MIN(getCKR() + value, 45000);
 		setCKR(ckr);
@@ -5224,7 +5224,7 @@ void CharacterBase::increaseAllCkrs(uint32_t value, bool enableLv2, bool enableL
 			getGameLayer()->setCKRLose(false);
 	}
 
-	if (enableLv4)
+	if (_level >= 4 && enableLv4)
 	{
 		uint32_t ckr2 = MIN(getCKR2() + value, 50000);
 		setCKR2(ckr2);

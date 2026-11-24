@@ -14,7 +14,10 @@ class Kakuzu : public Hero
 			_heartEffect->setDisplayFrame(frame);
 		}
 
-		unlockSkill4Button(); // RotN 2.2: no level lock
+		if (getLV() >= 2)
+		{
+			unlockSkill4Button();
+		}
 	}
 
 	void changeHPbar() override

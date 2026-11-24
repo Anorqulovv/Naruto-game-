@@ -322,11 +322,11 @@ void ActionButton::setOugisMark()
 	_delegate->addChild(ougismarkSprite, 500);
 	if (_abType == OUGIS1)
 	{
-		lockLabel1 = CCLabelBMFont::create("", Fonts::Default); // RotN 2.2: no level lock
+		lockLabel1 = CCLabelBMFont::create("LV2", Fonts::Default);
 	}
 	else
 	{
-		lockLabel1 = CCLabelBMFont::create("", Fonts::Default);
+		lockLabel1 = CCLabelBMFont::create("LV4", Fonts::Default);
 	}
 
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_LINUX || CC_TARGET_PLATFORM == CC_PLATFORM_WIN32 || CC_TARGET_PLATFORM == CC_PLATFORM_MAC)

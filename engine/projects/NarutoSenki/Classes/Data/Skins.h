@@ -39,3 +39,17 @@ inline const char *skinBase(const std::string &name)
 			return s.base;
 	return nullptr;
 }
+
+// "<hero><suffix>" if that picture is loaded, else the picture of the hero whose skills it uses
+// (RotN does not have every picture for its extra heroes).
+#include "cocos2d.h"
+inline std::string heroPictureName(const std::string &hero, const char *suffix)
+{
+	auto cache = cocos2d::CCSpriteFrameCache::sharedSpriteFrameCache();
+	std::string n = hero + suffix;
+	if (cache->spriteFrameByName(n.c_str()))
+		return n;
+	if (auto base = skinBase(hero))
+		return std::string(base) + suffix;
+	return n;
+}

@@ -172,7 +172,7 @@ void HudLayer::JoyStickUpdate(Vec2 direction)
 
 void HudLayer::initGearButton(const string &charName)
 {
-	gearMenuSprite = MenuItemSprite::create(Sprite::createWithSpriteFrameName(format("{}_avator.png", charName).c_str()), nullptr, nullptr, this, menu_selector(HudLayer::gearButtonClick));
+	gearMenuSprite = MenuItemSprite::create(Sprite::createWithSpriteFrameName(heroPictureName(charName, "_avator.png").c_str()), nullptr, nullptr, this, menu_selector(HudLayer::gearButtonClick));
 	if (gearMenuSprite == nullptr)
 	{
 		CCLOGERROR("Not found %s avator sprite", charName.c_str());
@@ -1069,12 +1069,12 @@ Sprite *HudLayer::createReport(const string &slayer, const string &dead, float &
 {
 	Sprite *reportSprite = Sprite::create();
 
-	Sprite *slain_p = Sprite::createWithSpriteFrameName(format("{}_rp.png", slayer).c_str());
+	Sprite *slain_p = Sprite::createWithSpriteFrameName(heroPictureName(slayer, "_rp.png").c_str());
 	slain_p->setAnchorPoint(Vec2(0, 0.5f));
 	slain_p->setPosition(Vec2(0, 0));
 	reportSprite->addChild(slain_p);
 
-	Sprite *slain_pf = Sprite::createWithSpriteFrameName(format("{}_rpf.png", slayer).c_str());
+	Sprite *slain_pf = Sprite::createWithSpriteFrameName(heroPictureName(slayer, "_rpf.png").c_str());
 	slain_pf->setPosition(Vec2(slain_p->getContentSize().width, 0));
 	slain_pf->setAnchorPoint(Vec2(0, 0.5f));
 	reportSprite->addChild(slain_pf);
@@ -1093,14 +1093,14 @@ Sprite *HudLayer::createReport(const string &slayer, const string &dead, float &
 	slain->setAnchorPoint(Vec2(0, 0.5f));
 	slain->setPosition(Vec2(slain_pf->getPositionX() + slain_pf->getContentSize().width, 0));
 
-	Sprite *death_pf = Sprite::createWithSpriteFrameName(format("{}_rpf.png", dead).c_str());
+	Sprite *death_pf = Sprite::createWithSpriteFrameName(heroPictureName(dead, "_rpf.png").c_str());
 	death_pf->setAnchorPoint(Vec2(0, 0.5f));
 	death_pf->setPosition(Vec2(slain->getPositionX() + slain->getContentSize().width, 0));
 	reportSprite->addChild(death_pf);
 	Sprite *death_p;
 	if (dead != kRoleTower)
 	{
-		death_p = Sprite::createWithSpriteFrameName(format("{}_rp.png", dead).c_str());
+		death_p = Sprite::createWithSpriteFrameName(heroPictureName(dead, "_rp.png").c_str());
 		death_p->setAnchorPoint(Vec2(0, 0.5f));
 		death_p->setPosition(Vec2(death_pf->getPositionX() + death_pf->getContentSize().width, 0));
 		reportSprite->addChild(death_p);
@@ -1378,7 +1378,7 @@ void HudLayer::updateSkillButtons()
 		return;
 
 	// update avator
-	auto avator = Sprite::createWithSpriteFrameName((charName + "_avator.png").c_str());
+	auto avator = Sprite::createWithSpriteFrameName(heroPictureName(charName, "_avator.png").c_str());
 	if (avator)
 		gearMenuSprite->setNormalImage(avator);
 
@@ -1386,7 +1386,7 @@ void HudLayer::updateSkillButtons()
 	SpriteFrame *frame;
 
 #define updateButtonInfo(index)                                                    \
-	frame = cache->spriteFrameByName((charName + "_skill" #index ".png").c_str()); \
+	frame = cache->spriteFrameByName(heroPictureName(charName, "_skill" #index ".png").c_str()); \
 	if (skill##index##Button)                                                      \
 	{                                                                              \
 		if (frame != nullptr)                                                      \
@@ -1396,7 +1396,7 @@ void HudLayer::updateSkillButtons()
 	}
 
 #define updateOugiButtonInfo(index)                                                \
-	frame = cache->spriteFrameByName((charName + "_skill" #index ".png").c_str()); \
+	frame = cache->spriteFrameByName(heroPictureName(charName, "_skill" #index ".png").c_str()); \
 	if (skill##index##Button)                                                      \
 	{                                                                              \
 		if (frame != nullptr)                                                      \

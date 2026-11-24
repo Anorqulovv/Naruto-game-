@@ -40,12 +40,6 @@ constexpr const char *kHeroList[] = {
 	HeroEnum::Tobi,
 	HeroEnum::Tobirama,
 	HeroEnum::Tsunade,
-	// RotN 2.2: transformation forms that can be picked as heroes of their own
-	HeroEnum::SageNaruto,
-	HeroEnum::RikudoNaruto,
-	HeroEnum::Nagato,
-	HeroEnum::ImmortalSasuke,
-	HeroEnum::SageJiraiya,
 	// RotN's extra heroes (see Data/Skins.h)
 	"KillerBee",
 	"Madara",
@@ -56,7 +50,6 @@ constexpr const char *kHeroList[] = {
 	"Obito",
 	"Sasori",
 	"Mei",
-	"JuubiObito",
 	"Onoki",
 	"RikudoSennin",
 	"Zabuza",
@@ -64,7 +57,6 @@ constexpr const char *kHeroList[] = {
 	"Hanzo",
 	"Temari",
 	"Shisui",
-	"ObitoMask",
 	"Kaguya",
 	"NarutoKCM",
 };
