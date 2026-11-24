@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<unit>
+
+	<action name="Idle">
+		<data>
+			<p type="attackType">Jugo</p>
+			<p type="attackValue">5000</p>
+			<p type="attackRangeX">70</p>
+			<p type="attackRangeY">80</p>
+			<p type="cd">224</p>
+		</data>
+		<frame>
+			<f>Obito_R_idle_01</f><f>Obito_R_idle_02</f><f>Obito_R_idle_03</f><f>Obito_R_idle_04</f></frame>
+	</action>
+
+	<action name="Walk">
+		<frame>
+			<f>Obito_R_walk_01</f><f>Obito_R_walk_02</f><f>Obito_R_walk_03</f><f>Obito_R_walk_04</f><f>Obito_R_walk_05</f><f>Obito_R_walk_06</f></frame>
+	</action>
+
+	<action name="Hurt">
+		<frame>
+			<e type="setMove">32</e>
+			<f>Obito_R_hurt_01</f><f>Obito_R_hurt_02</f><e type="setSound">Audio/Obito/obito_hurt.ogg</e>
+		</frame>
+	</action>
+
+	<action name="AirHurt">
+		<frame>
+			<f>Obito_R_airhurt_01</f></frame>
+	</action>
+
+	<action name="KnockDown">
+		<frame>
+			<f>Obito_R_knockdown_01</f><f>Obito_R_knockdown_02</f><e type="setDelay">10</e>
+			<e type="setDelay">60</e>
+			<f>Obito_R_knockdown_03</f><f>Obito_R_knockdown_04</f><f>Obito_R_knockdown_05</f></frame>
+	</action>
+
+	<action name="Float">
+		<frame>
+			<f>Obito_R_float_01</f><e type="setDelay">10</e>
+			<e type="setDelay">10</e>
+			</frame>
+	</action>
+
+	<action name="Dead">
+		<frame>
+			<f>Obito_R_dead_01</f><f>Obito_R_dead_02</f><f>Obito_R_dead_03</f><e type="setSound">Audio/Obito/obito_dead.ogg</e>
+
+		</frame>
+	</action>
+
+	<action name="nAttack">
+		<data>
+			<p type="attackType">nAttack</p>
+			<p type="attackValue">80</p>
+			<p type="attackRangeX">16</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Obito_R_nattack_01</f><f>Obito_R_nattack_02</f><f>Obito_R_nattack_03</f><e type="setSound">Audio/Effect/combo1.ogg</e>
+			<e type="setAttackBox">n_hit</e>
+			<f>Obito_R_nattack_04</f><f>Obito_R_nattack_05</f><f>Obito_R_nattack_06</f><f>Obito_R_nattack_07</f><e type="setMove">8</e>
+			<f>Obito_R_nattack_08</f><e type="setSound">Audio/Effect/combo2.ogg</e>
+			<e type="setAttackBox">n_hit</e>
+			<f>Obito_R_nattack_09</f><f>Obito_R_nattack_10</f><f>Obito_R_nattack_11</f><e type="setSound">Audio/Obito/obito_combo1.ogg</e>
+			<e type="setMove">16</e>
+			<e type="setDelay">10</e>
+			<f>Obito_R_nattack_12</f><e type="setSound">Audio/Effect/combo3.ogg</e>
+			<e type="setAttackBox">l_hit</e>
+			<f>Obito_R_nattack_13</f></frame>
+	</action>
+
+	<action name="skill01">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">1060</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">10</p>
+			<p type="combatPoint">1060</p>
+		</data>
+		<frame>
+			<f>Obito_R_skill01_01</f><f>Obito_R_skill01_02</f><f>Obito_R_skill01_03</f><f>Obito_R_skill01_04</f><f>Obito_R_skill01_05</f><f>Obito_R_skill01_06</f><e type="setSound">Audio/Obito/obito_skill1.ogg</e>
+			<f>Obito_R_skill01_07</f><f>Obito_R_skill01_08</f><f>Obito_R_skill01_09</f><f>Obito_R_skill01_10</f><f>Obito_R_skill01_11</f><f>Obito_R_skill01_12</f><f>Obito_R_skill01_13</f><f>Obito_R_skill01_14</f><f>Obito_R_skill01_15</f><f>Obito_R_skill01_16</f><f>Obito_R_skill01_17</f><f>Obito_R_skill01_18</f><f>Obito_R_skill01_19</f><f>Obito_R_skill01_20</f><e type="setChargeB">192</e>
+			<e type="setDelay">10</e>
+			<f>Obito_R_skill01_21</f><f>Obito_R_skill01_22</f><f>Obito_R_skill01_23</f><f>Obito_R_skill01_24</f><f>Obito_R_skill01_25</f><f>Obito_R_skill01_26</f><e type="setAttackBox">c_hit</e>
+			<e type="setDSound">Audio/Effect/damage_l.ogg</e>
+		</frame>
+	</action>
+
+	<action name="skill02">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">660</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">15</p>
+			<p type="combatPoint">1320</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Obito/obito_skill2.ogg</e>
+			<f>Obito_R_skill02_01</f><f>Obito_R_skill02_02</f><e type="setCharge">280</e>
+			<f>Obito_R_skill02_03</f><f>Obito_R_skill02_04</f><e type="setAttackBox">c_hit</e>
+			<e type="setDSound">Audio/Effect/damage_o.ogg</e>
+			<f>Obito_R_skill02_05</f><f>Obito_R_skill02_06</f><f>Obito_R_skill02_07</f><f>Obito_R_skill02_08</f><f>Obito_R_skill02_09</f><e type="setMon">Crash</e>
+			<f>Obito_R_skill02_10</f><e type="setAttackBox">b_hit</e>
+			<e type="setDSound">Audio/Effect/damage_h.ogg</e>
+			<f>Obito_R_skill02_11</f><f>Obito_R_skill02_12</f></frame>
+	</action>
+
+	<action name="skill03">
+		<data>
+			<p type="attackType">cBuff</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">25</p>
+			<p type="cd">25</p>
+			<p type="combatPoint">2460</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Obito/obito_skill1.ogg</e>
+			<f>Obito_R_skill03_01</f><f>Obito_R_skill03_02</f><f>Obito_R_skill03_03</f><f>Obito_R_skill03_04</f><f>Obito_R_skill03_05</f><f>Obito_R_skill03_06</f><f>Obito_R_skill03_07</f><f>Obito_R_skill03_08</f><f>Obito_R_skill03_09</f><f>Obito_R_skill03_10</f><f>Obito_R_skill03_11</f><f>Obito_R_skill03_12</f><f>Obito_R_skill03_13</f><f>Obito_R_skill03_14</f><f>Obito_R_skill03_15</f><f>Obito_R_skill03_16</f><f>Obito_R_skill03_17</f><f>Obito_R_skill03_18</f><f>Obito_R_skill03_19</f><f>Obito_R_skill03_20</f><f>Obito_R_skill03_21</f><f>Obito_R_skill03_22</f><f>Obito_R_skill03_23</f><f>Obito_R_skill03_24</f><f>Obito_R_skill03_25</f><f>Obito_R_skill03_26</f><f>Obito_R_skill03_27</f><f>Obito_R_skill03_28</f><e type="setDelay">10</e>
+			<f>Obito_R_skill03_29</f><f>Obito_R_skill03_30</f><f>Obito_R_skill03_31</f><f>Obito_R_skill03_32</f><f>Obito_R_skill03_33</f><f>Obito_R_skill03_34</f><f>Obito_R_skill03_35</f><f>Obito_R_skill03_36</f><f>Obito_R_skill03_37</f><f>Obito_R_skill03_38</f><f>Obito_R_skill03_39</f><f>Obito_R_skill03_40</f><f>Obito_R_skill03_41</f><f>Obito_R_skill03_42</f><e type="setBuff">17</e>
+		</frame>
+	</action>
+
+	<action name="skill04">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">1560</p>
+			<p type="attackRangeX">16</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">1</p>
+			<p type="combatPoint">3120</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<e type="setSound">Audio/Obito/obito_skill4.ogg</e>
+			<f>Obito_R_skill04_01</f><f>Obito_R_skill04_02</f><f>Obito_R_skill04_03</f><f>Obito_R_skill04_04</f><f>Obito_R_skill04_05</f><f>Obito_R_skill04_06</f><f>Obito_R_skill04_07</f><f>Obito_R_skill04_08</f><e type="setMove">32</e>
+			<f>Obito_R_skill04_09</f><f>Obito_R_skill04_10</f><f>Obito_R_skill04_11</f><e type="setAttackBox">f_hit</e>
+			<e type="setDSound">Audio/Effect/damage_o2.ogg</e>
+			<e type="setDelay">10</e>
+			<f>Obito_R_skill04_12</f><f>Obito_R_skill04_13</f><e type="setDelay">10</e>
+			<f>Obito_R_skill04_14</f><f>Obito_R_skill04_15</f><f>Obito_R_skill04_16</f><e type="setJump">true</e>
+			<e type="setDelay">40</e>
+			<f>Obito_R_skill04_17</f><f>Obito_R_skill04_18</f><f>Obito_R_skill04_19</f><f>Obito_R_skill04_20</f><f>Obito_R_skill04_21</f><e type="setDelay">10</e>
+			<f>Obito_R_skill04_22</f><f>Obito_R_skill04_23</f><f>Obito_R_skill04_24</f><e type="setMon">Crash2</e>
+			<e type="setAttackBox">b_hit</e>
+			<e type="setDSound">Audio/Effect/damage_k.ogg</e>
+			<f>Obito_R_skill04_25</f><f>Obito_R_skill04_26</f><e type="setDelay">10</e>
+			<f>Obito_R_skill04_27</f><f>Obito_R_skill04_28</f><f>Obito_R_skill04_29</f></frame>
+	</action>
+	<action name="skill05">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">2660</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">1</p>
+			<p type="combatPoint">7980</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<f>Obito_R_skill05_01</f><e type="setDelay">10</e>
+			<e type="setCommand">setInvincible</e>
+			<f>Obito_R_skill05_02</f><e type="setOugis">10</e>
+			<f>Obito_R_skill05_03</f><f>Obito_R_skill05_04</f><f>Obito_R_skill05_05</f><e type="setSound">Audio/Obito/obito_skill5_0.ogg</e>
+			<f>Obito_R_skill05_06</f><f>Obito_R_skill05_07</f><e type="setSound">Audio/Effect/break_sound3.ogg</e>
+			<e type="setAttackBox">a_hit</e>
+			<f>Obito_R_skill05_08</f><f>Obito_R_skill05_09</f><f>Obito_R_skill05_10</f><e type="setAttackBox">a_hit</e>
+			<f>Obito_R_skill05_11</f><f>Obito_R_skill05_12</f><e type="setAttackBox">a_hit</e>
+			<f>Obito_R_skill05_13</f><f>Obito_R_skill05_14</f><f>Obito_R_skill05_15</f><f>Obito_R_skill05_16</f><f>Obito_R_skill05_17</f><f>Obito_R_skill05_18</f><e type="setCommand">reInvincible</e>
+		</frame>
+	</action>
+	<action name="skill06">
+		<frame />
+	</action>
+	<action name="skill07">
+		<frame />
+	</action>
+	<action name="skill08">
+		<frame />
+	</action>
+	<action name="skill09">
+		<frame />
+	</action>
+	<action name="skill10">
+		<data>
+			<p type="attackType">Idle</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Jugo_Skill10_01</f>
+		</frame>
+	</action>
+	<action name="skill11">
+		<data>
+			<p type="attackType">Walk</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Jugo_Run_01</f>
+			<f>Jugo_Run_02</f>
+			<f>Jugo_Run_03</f>
+		</frame>
+	</action>
+	<action name="skill12">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">32</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Jugo_Skill11_02</f>
+			<e type="setDelay">10</e>
+			<f>Jugo_Skill11_03</f>
+			<e type="setSound">Audio/Jugo/Jugo_skill10.ogg</e>
+			<f>Jugo_Skill11_04</f>
+			<e type="setAttackBox">c_hit</e>
+			<e type="setDSound">Audio/Effect/damage_h.ogg</e>
+			<e type="setActionResume">20</e>
+			<e type="setDelay">10</e>
+			<f>Jugo_Skill11_05</f>
+			<e type="setDelay">10</e>
+			<f>Jugo_Skill11_06</f>
+		</frame>
+	</action>
+
+</unit>

@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<unit>
+
+	<action name="Idle">
+		<data>
+			<p type="attackType">Hidan</p>
+			<p type="attackValue">6000</p>
+			<p type="attackRangeX">63</p>
+			<p type="attackRangeY">80</p>
+			<p type="cd">224</p>
+		</data>
+		<frame>
+			<f>ZetsuSpiral_R_idle_01</f><f>ZetsuSpiral_R_idle_02</f><f>ZetsuSpiral_R_idle_03</f><f>ZetsuSpiral_R_idle_04</f><f>ZetsuSpiral_R_idle_05</f></frame>
+	</action>
+
+	<action name="Walk">
+		<frame>
+			<f>ZetsuSpiral_R_walk_01</f><f>ZetsuSpiral_R_walk_02</f><f>ZetsuSpiral_R_walk_03</f><f>ZetsuSpiral_R_walk_04</f><f>ZetsuSpiral_R_walk_05</f><f>ZetsuSpiral_R_walk_06</f></frame>
+	</action>
+
+	<action name="Hurt">
+		<frame>
+			<e type="setMove">32</e>
+			<f>ZetsuSpiral_R_hurt_01</f><f>ZetsuSpiral_R_hurt_02</f></frame>
+	</action>
+
+	<action name="AirHurt">
+		<frame>
+			<f>ZetsuSpiral_R_airhurt_01</f></frame>
+	</action>
+
+	<action name="KnockDown">
+		<frame>
+			<f>ZetsuSpiral_R_knockdown_01</f><e type="setDelay">10</e>
+			<f>ZetsuSpiral_R_knockdown_02</f><e type="setDelay">60</e>
+			<f>ZetsuSpiral_R_knockdown_03</f><f>ZetsuSpiral_R_knockdown_04</f><f>ZetsuSpiral_R_knockdown_05</f></frame>
+	</action>
+
+	<action name="Float">
+		<frame>
+			<f>ZetsuSpiral_R_float_01</f><e type="setDelay">10</e>
+			<f>ZetsuSpiral_R_float_02</f><e type="setDelay">10</e>
+			<f>ZetsuSpiral_R_float_03</f></frame>
+	</action>
+
+	<action name="Dead">
+		<frame>
+			<f>ZetsuSpiral_R_dead_01</f><e type="setSound">Audio/ZetsuSpiral/Hidan_dead.ogg</e>
+		</frame>
+	</action>
+
+	<action name="nAttack">
+		<data>
+			<p type="attackType">nAttack</p>
+			<p type="attackValue">60</p>
+			<p type="attackRangeX">16</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>ZetsuSpiral_R_nattack_01</f><f>ZetsuSpiral_R_nattack_02</f><f>ZetsuSpiral_R_nattack_03</f><f>ZetsuSpiral_R_nattack_04</f><e type="setAttackBox">n_hit</e>
+			<e type="setSound">Audio/Effect/combo1.ogg</e>
+			<f>ZetsuSpiral_R_nattack_05</f><f>ZetsuSpiral_R_nattack_06</f><f>ZetsuSpiral_R_nattack_07</f><f>ZetsuSpiral_R_nattack_08</f><e type="setMove">8</e>
+			<f>ZetsuSpiral_R_nattack_09</f><e type="setAttackBox">n_hit</e>
+			<e type="setDelay">10</e>
+			<f>ZetsuSpiral_R_nattack_10</f><f>ZetsuSpiral_R_nattack_11</f><e type="setSound">Audio/Effect/kong.ogg</e>
+			<f>ZetsuSpiral_R_nattack_12</f><f>ZetsuSpiral_R_nattack_13</f><f>ZetsuSpiral_R_nattack_14</f><e type="setSound">Audio/ZetsuSpiral/Hidan_combo.ogg</e>
+			<e type="setMove">16</e>
+			<f>ZetsuSpiral_R_nattack_15</f><e type="setAttackBox">l_hit</e>
+			<e type="setSound">Audio/Effect/kong.ogg</e>
+			<e type="setDelay">10</e>
+		</frame>
+	</action>
+
+	<action name="skill01">
+		<data>
+			<p type="attackType">Summon</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">10</p>
+			<p type="combatPoint">0</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/ZetsuSpiral/Hidan_skill1.ogg</e>
+			<e type="setCommand">setInvincible</e>
+			<f>ZetsuSpiral_R_skill01_01</f><f>ZetsuSpiral_R_skill01_02</f><e type="setDelay">10</e>
+			<f>ZetsuSpiral_R_skill01_03</f><f>ZetsuSpiral_R_skill01_04</f><e type="setMon">CircleMark</e>
+			<f>ZetsuSpiral_R_skill01_05</f><f>ZetsuSpiral_R_skill01_06</f><f>ZetsuSpiral_R_skill01_07</f><f>ZetsuSpiral_R_skill01_08</f><f>ZetsuSpiral_R_skill01_09</f><f>ZetsuSpiral_R_skill01_10</f><e type="setDelay">10</e>
+			<e type="setCommand">reInvincible</e>
+		</frame>
+	</action>
+	<action name="skill02">
+		<data>
+			<p type="attackType">cAttack</p>
+			<p type="attackValue">1460</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">15</p>
+			<p type="combatPoint">1460</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/ZetsuSpiral/Hidan_skill2.ogg</e>
+			<f>ZetsuSpiral_R_skill02_01</f><f>ZetsuSpiral_R_skill02_02</f><f>ZetsuSpiral_R_skill02_03</f><f>ZetsuSpiral_R_skill02_04</f><f>ZetsuSpiral_R_skill02_05</f><f>ZetsuSpiral_R_skill02_06</f><f>ZetsuSpiral_R_skill02_07</f><f>ZetsuSpiral_R_skill02_08</f><f>ZetsuSpiral_R_skill02_09</f><f>ZetsuSpiral_R_skill02_10</f><f>ZetsuSpiral_R_skill02_11</f><f>ZetsuSpiral_R_skill02_12</f><f>ZetsuSpiral_R_skill02_13</f><f>ZetsuSpiral_R_skill02_14</f><e type="setAttackBox">o_hit</e>
+			<e type="setDSound">Audio/Effect/blade_damage2.ogg</e>
+			<f>ZetsuSpiral_R_skill02_15</f><f>ZetsuSpiral_R_skill02_16</f><f>ZetsuSpiral_R_skill02_17</f></frame>
+	</action>
+	<action name="skill03">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">360</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">25</p>
+			<p type="combatPoint">2160</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/ZetsuSpiral/Hidan_skill3.ogg</e>
+			<f>ZetsuSpiral_R_skill03_01</f><e type="setAttackBox">s_hit</e>
+			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
+			<e type="setAttackBox">s_hit</e>
+			<f>ZetsuSpiral_R_skill03_02</f><e type="setAttackBox">s_hit</e>
+			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
+			<e type="setAttackBox">s_hit</e>
+			<f>ZetsuSpiral_R_skill03_03</f><e type="setAttackBox">s_hit</e>
+			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
+			<f>ZetsuSpiral_R_skill03_04</f><e type="setAttackBox">s_hit</e>
+			</frame>
+	</action>
+	<action name="skill04">
+		<data>
+			<p type="attackType">cAttack</p>
+			<p type="attackValue">760</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">1</p>
+			<p type="combatPoint">3800</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<f>ZetsuSpiral_R_skill04_01</f><e type="setShadow">10</e>
+			<e type="setMove">32</e>
+			<e type="setSound">Audio/ZetsuSpiral/Hidan_skill4_1.ogg</e>
+			<e type="setMon">Wave</e>
+			<e type="setShadow">10</e>
+			<f>ZetsuSpiral_R_skill04_02</f><e type="setShadow">10</e>
+			<f>ZetsuSpiral_R_skill04_03</f><e type="setAttackBox">ab_hit</e>
+			<e type="setAttackBox">ab_hit</e>
+			<e type="setAttackBox">b_hit</e>
+			<e type="setDSound">Audio/Effect/blade_damage2.ogg</e>
+			<f>ZetsuSpiral_R_skill04_04</f></frame>
+	</action>
+	<action name="skill05">
+		<data>
+			<p type="attackType">cBuff</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">15</p>
+			<p type="cd">1</p>
+			<p type="combatPoint">0</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<f>ZetsuSpiral_R_skill05_01</f><f>ZetsuSpiral_R_skill05_02</f><f>ZetsuSpiral_R_skill05_03</f><f>ZetsuSpiral_R_skill05_04</f><f>ZetsuSpiral_R_skill05_05</f><f>ZetsuSpiral_R_skill05_06</f><f>ZetsuSpiral_R_skill05_07</f><e type="setCommand">setInvincible</e>
+			<f>ZetsuSpiral_R_skill05_08</f><f>ZetsuSpiral_R_skill05_09</f><f>ZetsuSpiral_R_skill05_10</f><f>ZetsuSpiral_R_skill05_11</f><f>ZetsuSpiral_R_skill05_12</f><f>ZetsuSpiral_R_skill05_13</f><f>ZetsuSpiral_R_skill05_14</f><f>ZetsuSpiral_R_skill05_15</f><f>ZetsuSpiral_R_skill05_16</f><f>ZetsuSpiral_R_skill05_17</f><f>ZetsuSpiral_R_skill05_18</f><f>ZetsuSpiral_R_skill05_19</f><f>ZetsuSpiral_R_skill05_20</f><f>ZetsuSpiral_R_skill05_21</f><f>ZetsuSpiral_R_skill05_22</f><f>ZetsuSpiral_R_skill05_23</f><f>ZetsuSpiral_R_skill05_24</f><f>ZetsuSpiral_R_skill05_25</f><f>ZetsuSpiral_R_skill05_26</f><f>ZetsuSpiral_R_skill05_27</f><f>ZetsuSpiral_R_skill05_28</f><f>ZetsuSpiral_R_skill05_29</f><f>ZetsuSpiral_R_skill05_30</f><f>ZetsuSpiral_R_skill05_31</f><f>ZetsuSpiral_R_skill05_32</f><f>ZetsuSpiral_R_skill05_33</f><f>ZetsuSpiral_R_skill05_34</f><f>ZetsuSpiral_R_skill05_35</f><f>ZetsuSpiral_R_skill05_36</f><f>ZetsuSpiral_R_skill05_37</f><f>ZetsuSpiral_R_skill05_38</f><f>ZetsuSpiral_R_skill05_39</f><f>ZetsuSpiral_R_skill05_40</f><f>ZetsuSpiral_R_skill05_41</f><f>ZetsuSpiral_R_skill05_42</f><f>ZetsuSpiral_R_skill05_43</f><e type="setOugis">10</e>
+			<f>ZetsuSpiral_R_skill05_44</f><f>ZetsuSpiral_R_skill05_45</f><f>ZetsuSpiral_R_skill05_46</f><f>ZetsuSpiral_R_skill05_47</f><f>ZetsuSpiral_R_skill05_48</f><f>ZetsuSpiral_R_skill05_49</f><f>ZetsuSpiral_R_skill05_50</f><e type="setBuff">18</e>
+			<e type="setCommand">reInvincible</e>
+		</frame>
+	</action>
+
+	<action name="skill06">
+		<frame />
+	</action>
+	<action name="skill07">
+		<frame />
+	</action>
+	<action name="skill08">
+		<frame />
+	</action>
+	<action name="skill09">
+		<frame />
+	</action>
+	<action name="skill10">
+		<data>
+			<p type="attackType">Idle</p>
+			<p type="attackValue">660</p>
+			<p type="attackRangeX">16</p>
+			<p type="attackRangeY">32</p>
+			<p type="cd">10</p>
+		</data>
+		<frame>
+			<f>Hidan_Skill10_001</f>
+			<e type="setDelay">10</e>
+			<f>Hidan_Skill10_002</f>
+			<e type="setDelay">10</e>
+		</frame>
+	</action>
+	<action name="skill11">
+		<data>
+			<p type="attackType">Walk</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">15</p>
+		</data>
+		<frame>
+			<f>Hidan_Run_01</f>
+			<e type="setShadow">10</e>
+			<f>Hidan_Run_02</f>
+			<f>Hidan_Run_03</f>
+			<e type="setShadow">10</e>
+			<f>Hidan_Run_04</f>
+			<f>Hidan_Run_05</f>
+			<e type="setShadow">10</e>
+			<f>Hidan_Run_06</f>
+		</frame>
+
+	</action>
+	<action name="skill12">
+		<data>
+			<p type="attackType">nAttack</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Hidan_Skill12_001</f>
+			<f>Hidan_Skill12_002</f>
+			<f>Hidan_Skill12_003</f>
+			<f>Hidan_Skill12_004</f>
+			<f>Hidan_Skill12_005</f>
+			<f>Hidan_Skill12_006</f>
+			<e type="setCommand">setCounter</e>
+		</frame>
+	</action>
+</unit>

@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<unit>
+
+	<action name="Idle">
+		<data>
+			<p type="attackType">Choji</p>
+			<p type="attackValue">6000</p>
+			<p type="attackRangeX">51</p>
+			<p type="attackRangeY">78</p>
+			<p type="cd">224</p>
+		</data>
+		<frame>
+			<f>Izuna_R_idle_01</f><e type="setDelay">10</e>
+			<e type="setDelay">10</e>
+			</frame>
+	</action>
+
+	<action name="Walk">
+		<frame>
+			<f>Izuna_R_walk_01</f><f>Izuna_R_walk_02</f><f>Izuna_R_walk_03</f><f>Izuna_R_walk_04</f><f>Izuna_R_walk_05</f><f>Izuna_R_walk_06</f></frame>
+	</action>
+
+	<action name="Hurt">
+		<frame>
+			<e type="setMove">32</e>
+			<f>Izuna_R_hurt_01</f><f>Izuna_R_hurt_02</f></frame>
+	</action>
+
+	<action name="AirHurt">
+		<frame>
+			<f>Izuna_R_airhurt_01</f></frame>
+	</action>
+
+	<action name="KnockDown">
+		<frame>
+			<f>Izuna_R_knockdown_01</f><e type="setDelay">10</e>
+			<f>Izuna_R_knockdown_02</f><f>Izuna_R_knockdown_03</f><f>Izuna_R_knockdown_04</f><e type="setDelay">60</e>
+			<f>Izuna_R_knockdown_05</f><f>Izuna_R_knockdown_06</f><f>Izuna_R_knockdown_07</f><f>Izuna_R_knockdown_08</f></frame>
+	</action>
+
+	<action name="Float">
+		<frame>
+			<f>Izuna_R_float_01</f><f>Izuna_R_float_02</f><f>Izuna_R_float_03</f></frame>
+	</action>
+
+	<action name="Dead">
+		<frame>
+			<f>Izuna_R_dead_01</f><f>Izuna_R_dead_02</f></frame>
+	</action>
+
+	<action name="nAttack">
+		<data>
+			<p type="attackType">nAttack</p>
+			<p type="attackValue">80</p>
+			<p type="attackRangeX">16</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Izuna_R_nattack_01</f><e type="setDelay">10</e>
+			<f>Izuna_R_nattack_02</f><f>Izuna_R_nattack_03</f><e type="setDelay">10</e>
+			<f>Izuna_R_nattack_04</f><e type="setSound">Audio/Effect/combo1.ogg</e>
+			<e type="setAttackBox">n_hit</e>
+			<f>Izuna_R_nattack_05</f><e type="setDelay">10</e>
+			<f>Izuna_R_nattack_06</f><e type="setMove">8</e>
+			<f>Izuna_R_nattack_07</f><f>Izuna_R_nattack_08</f><e type="setAttackBox">n_hit</e>
+			<e type="setSound">Audio/Effect/combo2.ogg</e>
+			<e type="setDelay">10</e>
+			<f>Izuna_R_nattack_09</f><f>Izuna_R_nattack_10</f><e type="setDelay">10</e>
+			<f>Izuna_R_nattack_11</f><f>Izuna_R_nattack_12</f><e type="setMove">16</e>
+			<f>Izuna_R_nattack_13</f><e type="setSound">Audio/Effect/combo3.ogg</e>
+			<e type="setAttackBox">l_hit</e>
+			<e type="setDelay">10</e>
+		</frame>
+	</action>
+
+	<action name="skill01">
+		<data>
+			<p type="attackType">dcBuff</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">15</p>
+			<p type="cd">20</p>
+			<p type="combatPoint">0</p>
+		</data>
+		<frame>
+			<f>Izuna_R_skill01_01</f><f>Izuna_R_skill01_02</f><f>Izuna_R_skill01_03</f><f>Izuna_R_skill01_04</f><f>Izuna_R_skill01_05</f><f>Izuna_R_skill01_06</f><f>Izuna_R_skill01_07</f><f>Izuna_R_skill01_08</f><f>Izuna_R_skill01_09</f><f>Izuna_R_skill01_10</f><e type="setDelay">10</e>
+			<f>Izuna_R_skill01_11</f><f>Izuna_R_skill01_12</f><f>Izuna_R_skill01_13</f><f>Izuna_R_skill01_14</f><f>Izuna_R_skill01_15</f><f>Izuna_R_skill01_16</f><f>Izuna_R_skill01_17</f><f>Izuna_R_skill01_18</f><f>Izuna_R_skill01_19</f><f>Izuna_R_skill01_20</f><e type="setDelay">30</e>
+			<e type="setBuff">200</e>
+		</frame>
+	</action>
+
+	<action name="skill02">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">360</p>
+			<p type="attackRangeX">16</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">15</p>
+			<p type="combatPoint">1440</p>
+		</data>
+		<frame>
+			<f>Izuna_R_skill02_01</f><e type="setAttackBox">c_hit</e>
+			<e type="setDSound">Audio/Effect/damage_l.ogg</e>
+			<f>Izuna_R_skill02_02</f><f>Izuna_R_skill02_03</f><e type="setAttackBox">c_hit</e>
+			<f>Izuna_R_skill02_04</f><e type="setChargeB">196</e>
+			<f>Izuna_R_skill02_05</f><e type="setAttackBox">c_hit</e>
+			<e type="setDSound">Audio/Effect/damage_l.ogg</e>
+			<f>Izuna_R_skill02_06</f><f>Izuna_R_skill02_07</f><e type="setAttackBox">c_hit</e>
+			<f>Izuna_R_skill02_08</f><e type="setDelay">10</e>
+		</frame>
+	</action>
+
+	<action name="skill03">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">960</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">25</p>
+			<p type="combatPoint">1920</p>
+		</data>
+		<frame>
+			<f>Izuna_R_skill03_01</f><f>Izuna_R_skill03_02</f><f>Izuna_R_skill03_03</f><e type="setJump">true</e>
+			<e type="setDelay">30</e>
+			<e type="setSkillEffect">smk</e>
+			<f>Izuna_R_skill03_04</f><e type="setDelay">30</e>
+			<f>Izuna_R_skill03_05</f><f>Izuna_R_skill03_06</f><f>Izuna_R_skill03_07</f><e type="setAttackBox">b_hit</e>
+			<e type="setDSound">Audio/Effect/damage_h.ogg</e>
+			<f>Izuna_R_skill03_08</f><f>Izuna_R_skill03_09</f><f>Izuna_R_skill03_10</f><e type="setAttackBox">b_hit</e>
+			<f>Izuna_R_skill03_11</f><e type="setSkillEffect">smk</e>
+		</frame>
+	</action>
+
+	<action name="skill04">
+		<data>
+			<p type="attackType">Summon</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">1</p>
+			<p type="combatPoint">3480</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<f>Choji_Skill04_02</f>
+			<e type="setSound">Audio/Choji/Choji_skill4.ogg</e>
+			<e type="setSkillEffect">smk</e>
+			<f>Choji_Skill04_03</f>
+			<e type="setDelay">20</e>
+			<f>Choji_Skill04_04</f>
+			<f>Choji_Skill04_05</f>
+			<e type="setDelay">10</e>
+			<f>Choji_Skill04_06</f>
+			<e type="setDelay">10</e>
+			<f>Choji_Skill04_07</f>
+			<e type="setDelay">10</e>
+			<f>Choji_Skill04_08</f>
+			<e type="setMon">ChuiDi</e>
+			<e type="setDelay">60</e>
+			<e type="setSkillEffect">smk</e>
+			<e type="setDelay">10</e>
+		</frame>
+	</action>
+
+	<action name="skill05">
+		<data>
+			<p type="attackType">cBuff</p>
+			<p type="attackValue">460</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">15</p>
+			<p type="cd">0</p>
+			<p type="combatPoint">8000</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<e type="setCommand">setInvincible</e>
+			<f>Izuna_R_skill05_01</f><f>Izuna_R_skill05_02</f><e type="setOugis">10</e>
+			<f>Izuna_R_skill05_03</f><f>Izuna_R_skill05_04</f><f>Izuna_R_skill05_05</f><e type="setDelay">20</e>
+			<e type="setSkillEffect">smk</e>
+			<e type="setBuff">18</e>
+			<e type="setCommand">reInvincible</e>
+		</frame>
+	</action>
+
+
+	<action name="skill06">
+		<frame />
+	</action>
+	<action name="skill07">
+		<frame />
+	</action>
+	<action name="skill08">
+		<frame />
+	</action>
+	<action name="skill09">
+		<data>
+			<p type="attackType">Idle</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">1</p>
+		</data>
+		<frame>
+			<f>Choji_Skill09_001</f>
+			<f>Choji_Skill09_002</f>
+			<f>Choji_Skill09_003</f>
+			<f>Choji_Skill09_004</f>
+		</frame>
+	</action>
+
+	<action name="skill10">
+		<data>
+			<p type="attackType">nAttack</p>
+			<p type="attackValue">100</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">16</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Choji_Skill10_001</f>
+			<e type="setDelay">10</e>
+			<f>Choji_Skill10_002</f>
+			<e type="setDelay">10</e>
+			<f>Choji_Skill10_003</f>
+			<e type="setSound">Audio/Effect/combo1.ogg</e>
+			<e type="setAttackBox">l_hit</e>
+			<f>Choji_Skill10_004</f>
+			<e type="setDelay">10</e>
+			<f>Choji_Skill10_005</f>
+			<e type="setMove">16</e>
+			<f>Choji_Skill10_006</f>
+			<e type="setSound">Audio/Choji/Choji_combo.ogg</e>
+			<f>Choji_Skill10_007</f>
+			<e type="setDelay">10</e>
+			<f>Choji_Skill10_008</f>
+			<e type="setSound">Audio/Effect/combo3.ogg</e>
+			<e type="setDelay">10</e>
+		</frame>
+	</action>
+
+
+	<action name="skill11">
+		<data>
+			<p type="attackType">Walk</p>
+			<p type="attackValue">660</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Choji_Skill11_001</f>
+			<f>Choji_Skill11_002</f>
+			<f>Choji_Skill11_003</f>
+			<f>Choji_Skill11_004</f>
+			<f>Choji_Skill11_005</f>
+			<f>Choji_Skill11_006</f>
+		</frame>
+	</action>
+
+	<action name="skill12">
+		<data>
+			<p type="attackType">nAttack</p>
+			<p type="attackValue">100</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Choji_Skill10_001</f>
+			<e type="setDelay">10</e>
+			<f>Choji_Skill10_002</f>
+			<f>Choji_Skill10_003</f>
+			<e type="setSound">Audio/Effect/combo1.ogg</e>
+			<e type="setAttackBox">l_hit</e>
+			<e type="setDelay">10</e>
+			<f>Choji_Skill10_004</f>
+			<f>Choji_Skill10_005</f>
+			<e type="setSound">Audio/Choji/Choji_skill10.ogg</e>
+			<e type="setMove">16</e>
+			<f>Choji_Skill10_006</f>
+			<f>Choji_Skill10_007</f>
+			<e type="setAttackBox">l_hit</e>
+			<f>Choji_Skill10_008</f>
+			<e type="setSound">Audio/Effect/combo3.ogg</e>
+			<e type="setDelay">10</e>
+		</frame>
+	</action>
+
+
+</unit>

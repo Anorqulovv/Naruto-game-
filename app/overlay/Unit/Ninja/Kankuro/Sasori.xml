@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<unit>
+
+	<action name="Idle">
+		<data>
+			<p type="attackType">Kankuro</p>
+			<p type="attackValue">5500</p>
+			<p type="attackRangeX">45</p>
+			<p type="attackRangeY">75</p>
+			<p type="cd">224</p>
+		</data>
+		<frame>
+			<f>Sasori_R_idle_01</f><f>Sasori_R_idle_02</f><f>Sasori_R_idle_03</f></frame>
+	</action>
+
+	<action name="Walk">
+		<frame>
+			<f>Sasori_R_walk_01</f><f>Sasori_R_walk_02</f><f>Sasori_R_walk_03</f><f>Sasori_R_walk_04</f><f>Sasori_R_walk_05</f><f>Sasori_R_walk_06</f></frame>
+	</action>
+
+	<action name="Hurt">
+		<frame>
+			<e type="setMove">32</e>
+			<f>Sasori_R_hurt_01</f><f>Sasori_R_hurt_02</f></frame>
+	</action>
+
+	<action name="AirHurt">
+		<frame>
+			<f>Sasori_R_airhurt_01</f></frame>
+	</action>
+
+	<action name="KnockDown">
+		<frame>
+			<f>Sasori_R_knockdown_01</f><e type="setDelay">10</e>
+			<f>Sasori_R_knockdown_02</f><e type="setDelay">60</e>
+			<f>Sasori_R_knockdown_03</f><f>Sasori_R_knockdown_04</f><f>Sasori_R_knockdown_05</f></frame>
+	</action>
+
+	<action name="Float">
+		<frame>
+			<f>Sasori_R_float_01</f><e type="setDelay">10</e>
+			<f>Sasori_R_float_02</f><e type="setDelay">10</e>
+			<f>Sasori_R_float_03</f></frame>
+	</action>
+
+	<action name="Dead">
+		<frame>
+			<f>Sasori_R_dead_01</f><f>Sasori_R_dead_02</f><f>Sasori_R_dead_03</f></frame>
+	</action>
+
+	<action name="nAttack">
+		<data>
+			<p type="attackType">nAttack</p>
+			<p type="attackValue">60</p>
+			<p type="attackRangeX">16</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Sasori_R_nattack_01</f><f>Sasori_R_nattack_02</f><f>Sasori_R_nattack_03</f><f>Sasori_R_nattack_04</f><e type="setSound">Audio/Effect/combo1.ogg</e>
+			<e type="setAttackBox">n_hit</e>
+			<f>Sasori_R_nattack_05</f><f>Sasori_R_nattack_06</f><e type="setMove">8</e>
+			<f>Sasori_R_nattack_07</f><e type="setSound">Audio/Effect/combo2.ogg</e>
+			<e type="setAttackBox">n_hit</e>
+			<f>Sasori_R_nattack_08</f><f>Sasori_R_nattack_09</f><f>Sasori_R_nattack_10</f><e type="setMove">16</e>
+			<f>Sasori_R_nattack_11</f><e type="setSound">Audio/Effect/combo3.ogg</e>
+			<e type="setAttackBox">l_hit</e>
+		</frame>
+	</action>
+
+	<action name="skill01">
+		<data>
+			<p type="attackType">cBuff</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">10</p>
+			<p type="combatPoint">0</p>
+		</data>
+		<frame>
+			<f>Kankuro_Skill01_01</f>
+			<e type="setSound">Audio/Kankuro/kankuro_skill1.ogg</e>
+			<f>Kankuro_Skill01_03</f>
+			<f>Kankuro_Skill01_04</f>
+			<f>Kankuro_Skill01_05</f>
+			<e type="setClone">0</e>
+			<e type="setBuff">17</e>
+		</frame>
+	</action>
+
+	<action name="skill02">
+		<data>
+			<p type="attackType">cBuff</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">15</p>
+			<p type="cd">15</p>
+			<p type="combatPoint">1680</p>
+		</data>
+		<frame>
+			<e type="setMonAttack">2</e>
+			<f>Sasori_R_skill02_01</f><f>Sasori_R_skill02_02</f><f>Sasori_R_skill02_03</f><f>Sasori_R_skill02_04</f><f>Sasori_R_skill02_05</f><f>Sasori_R_skill02_06</f><f>Sasori_R_skill02_07</f><f>Sasori_R_skill02_08</f><f>Sasori_R_skill02_09</f><f>Sasori_R_skill02_10</f><f>Sasori_R_skill02_11</f><f>Sasori_R_skill02_12</f></frame>
+	</action>
+
+	<action name="skill03">
+		<data>
+			<p type="attackType">Summon</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">25</p>
+			<p type="combatPoint">2060</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Kankuro/kankuro_skill3.ogg</e>
+			<f>Kankuro_Skill03_01</f>
+			<e type="setMon">Kuroari</e>
+			<f>Kankuro_Skill03_02</f>
+			<f>Kankuro_Skill03_03</f>
+			<f>Kankuro_Skill03_04</f>
+		</frame>
+	</action>
+
+	<action name="skill04">
+		<data>
+			<p type="attackType">cBuff</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">0</p>
+			<p type="combatPoint">0</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<f>Sasori_R_skill04_01</f><f>Sasori_R_skill04_02</f><f>Sasori_R_skill04_03</f><f>Sasori_R_skill04_04</f><e type="setDelay">20</e>
+			<f>Sasori_R_skill04_05</f><f>Sasori_R_skill04_06</f><f>Sasori_R_skill04_07</f><f>Sasori_R_skill04_08</f><f>Sasori_R_skill04_09</f><f>Sasori_R_skill04_10</f><f>Sasori_R_skill04_11</f><f>Sasori_R_skill04_12</f><f>Sasori_R_skill04_13</f><f>Sasori_R_skill04_14</f><f>Sasori_R_skill04_15</f><f>Sasori_R_skill04_16</f><f>Sasori_R_skill04_17</f><e type="setDelay">20</e>
+			<e type="setClone">1</e>
+		</frame>
+	</action>
+
+	<action name="skill05">
+		<data>
+			<p type="attackType">Summon</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">0</p>
+			<p type="cd">0</p>
+			<p type="combatPoint">0</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<f>Sasori_R_skill05_01</f><f>Sasori_R_skill05_02</f><f>Sasori_R_skill05_03</f><f>Sasori_R_skill05_04</f><f>Sasori_R_skill05_05</f><f>Sasori_R_skill05_06</f><f>Sasori_R_skill05_07</f><f>Sasori_R_skill05_08</f><f>Sasori_R_skill05_09</f><e type="setCommand">setInvincible</e>
+			<e type="setDelay">10</e>
+			<f>Sasori_R_skill05_10</f><f>Sasori_R_skill05_11</f><f>Sasori_R_skill05_12</f><f>Sasori_R_skill05_13</f><f>Sasori_R_skill05_14</f><f>Sasori_R_skill05_15</f><f>Sasori_R_skill05_16</f><f>Sasori_R_skill05_17</f><e type="setDelay">10</e>
+			<e type="setOugis">10</e>
+			<f>Sasori_R_skill05_18</f><f>Sasori_R_skill05_19</f><f>Sasori_R_skill05_20</f><f>Sasori_R_skill05_21</f><f>Sasori_R_skill05_22</f><f>Sasori_R_skill05_23</f><f>Sasori_R_skill05_24</f><f>Sasori_R_skill05_25</f><f>Sasori_R_skill05_26</f><e type="setDelay">10</e>
+			<e type="setClone">2</e>
+			<e type="setCommand">reInvincible</e>
+		</frame>
+
+	</action>
+	<action name="skill06">
+		<frame />
+	</action>
+	<action name="skill07">
+		<frame />
+	</action>
+	<action name="skill08">
+		<frame />
+	</action>
+	<action name="skill09">
+		<frame />
+	</action>
+	<action name="skill10">
+		<frame />
+	</action>
+
+</unit>

@@ -1,0 +1,13 @@
+# build output
+app/build/
+app/build-native/
+app/build-key/
+app/skin.log
+app/overlay/.stamp
+__pycache__/
+*.pyc
+.DS_Store
+# local only (not in the repository)
+app/music/
+*.keystore
+*.jks

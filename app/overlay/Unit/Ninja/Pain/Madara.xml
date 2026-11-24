@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<unit>
+
+	<action name="Idle">
+		<data>
+			<p type="attackType">Pain</p>
+			<p type="attackValue">6000</p>
+			<p type="attackRangeX">24</p>
+			<p type="attackRangeY">83</p>
+			<p type="cd">224</p>
+		</data>
+		<frame>
+			<f>Madara_R_idle_01</f><f>Madara_R_idle_02</f><f>Madara_R_idle_03</f></frame>
+	</action>
+
+	<action name="Walk">
+		<frame>
+			<f>Madara_R_walk_01</f><f>Madara_R_walk_02</f><f>Madara_R_walk_03</f><f>Madara_R_walk_04</f><f>Madara_R_walk_05</f><f>Madara_R_walk_06</f></frame>
+	</action>
+
+	<action name="Hurt">
+		<frame>
+			<e type="setMove">32</e>
+			<f>Madara_R_hurt_01</f><f>Madara_R_hurt_02</f><e type="setSound">Audio/Madara/m_hurt.ogg</e>
+		</frame>
+	</action>
+
+	<action name="AirHurt">
+		<frame>
+			<f>Madara_R_airhurt_01</f></frame>
+	</action>
+
+	<action name="KnockDown">
+		<frame>
+			<f>Madara_R_knockdown_01</f><e type="setDelay">10</e>
+			<f>Madara_R_knockdown_02</f><e type="setDelay">60</e>
+			<f>Madara_R_knockdown_03</f><f>Madara_R_knockdown_04</f><f>Madara_R_knockdown_05</f></frame>
+	</action>
+
+	<action name="Float">
+		<frame>
+			<f>Madara_R_float_01</f><e type="setDelay">10</e>
+			<f>Madara_R_float_02</f><e type="setDelay">10</e>
+			<f>Madara_R_float_03</f></frame>
+	</action>
+
+	<action name="Dead">
+		<frame>
+			<f>Madara_R_dead_01</f><f>Madara_R_dead_02</f><e type="setSound">Audio/Madara/dead.ogg</e>
+		</frame>
+	</action>
+
+	<action name="nAttack">
+		<data>
+			<p type="attackType">nAttack</p>
+			<p type="attackValue">100</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">16</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>Madara_R_nattack_01</f><e type="setSound">Audio/Effect/combo1.ogg</e>
+			<e type="setAttackBox">n_hit</e>
+			<f>Madara_R_nattack_02</f><f>Madara_R_nattack_03</f><e type="setMove">8</e>
+			<f>Madara_R_nattack_04</f><e type="setSound">Audio/Effect/combo2.ogg</e>
+			<e type="setAttackBox">n_hit</e>
+			<f>Madara_R_nattack_05</f><e type="setSound">Audio/Madara/combo.ogg</e>
+			<e type="setMove">16</e>
+			<e type="setAttackBox">l_hit</e>
+			<e type="setSound">Audio/Effect/combo3.ogg</e>
+			<f>Madara_R_nattack_06</f></frame>
+	</action>
+
+	<action name="skill01">
+		<data>
+			<p type="attackType">sBuff</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">15</p>
+			<p type="cd">25</p>
+		</data>
+		<frame>
+			<f>Madara_R_skill01_01</f><f>Madara_R_skill01_02</f><f>Madara_R_skill01_03</f><f>Madara_R_skill01_04</f><e type="setSound">Audio/Madara/1.ogg</e>
+			<f>Madara_R_skill01_05</f><f>Madara_R_skill01_06</f><f>Madara_R_skill01_07</f><f>Madara_R_skill01_08</f><e type="setDelay">10</e>
+			<f>Madara_R_skill01_09</f><f>Madara_R_skill01_10</f><f>Madara_R_skill01_11</f><f>Madara_R_skill01_12</f><e type="setDelay">40</e>
+			<f>Madara_R_skill01_13</f><f>Madara_R_skill01_14</f><f>Madara_R_skill01_15</f><f>Madara_R_skill01_16</f><e type="setDelay">10</e>
+			<e type="setBuff">500</e>
+		</frame>
+	</action>
+
+	<action name="skill02">
+		<data>
+			<p type="attackType">abAttack</p>
+			<p type="attackValue">900</p>
+			<p type="attackRangeX">192</p>
+			<p type="attackRangeY">64</p>
+			<p type="cd">15</p>
+		</data>
+		<frame>
+			<f>Madara_R_skill02_01</f><e type="setSound">Audio/Madara/2.ogg</e>
+			<e type="setDelay">10</e>
+			<f>Madara_R_skill02_02</f><e type="setDelay">10</e>
+			<f>Madara_R_skill02_03</f><f>Madara_R_skill02_04</f><e type="setAttackBox">ab_hit</e>
+			<f>Madara_R_skill02_05</f><f>Madara_R_skill02_06</f><f>Madara_R_skill02_07</f></frame>
+	</action>
+
+	<action name="skill03">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">320</p>
+			<p type="attackRangeX">160</p>
+			<p type="attackRangeY">64</p>
+			<p type="cd">25</p>
+		</data>
+		<frame>
+			<f>Madara_R_skill03_01</f><f>Madara_R_skill03_02</f><f>Madara_R_skill03_03</f><f>Madara_R_skill03_04</f><f>Madara_R_skill03_05</f><f>Madara_R_skill03_06</f><f>Madara_R_skill03_07</f><f>Madara_R_skill03_08</f><f>Madara_R_skill03_09</f><f>Madara_R_skill03_10</f><f>Madara_R_skill03_11</f><f>Madara_R_skill03_12</f><f>Madara_R_skill03_13</f><e type="setAttackBox">n_hit</e>
+			<e type="setDelay">10</e>
+			<f>Madara_R_skill03_14</f><f>Madara_R_skill03_15</f><f>Madara_R_skill03_16</f><e type="setAttackBox">n_hit</e>
+			<e type="setDelay">10</e>
+			<f>Madara_R_skill03_17</f><f>Madara_R_skill03_18</f><f>Madara_R_skill03_19</f><e type="setAttackBox">n_hit</e>
+			<e type="setDelay">10</e>
+			<f>Madara_R_skill03_20</f><f>Madara_R_skill03_21</f><f>Madara_R_skill03_22</f><e type="setAttackBox">n_hit</e>
+			<e type="setDelay">10</e>
+		</frame>
+	</action>
+
+	<action name="skill04">
+		<data>
+			<p type="attackType">oAttack</p>
+			<p type="attackValue">250</p>
+			<p type="attackRangeX">48</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">1</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<f>Madara_R_skill04_01</f><f>Madara_R_skill04_02</f><f>Madara_R_skill04_03</f><f>Madara_R_skill04_04</f><f>Madara_R_skill04_05</f><f>Madara_R_skill04_06</f><e type="setFont">dbtx</e>
+			<e type="setDelay">20</e>
+			<e type="setSound">Audio/Madara/4.ogg</e>
+			<e type="setMon">Jibaku</e>
+			<e type="setDelay">30</e>
+			<f>Madara_R_skill04_07</f><f>Madara_R_skill04_08</f><f>Madara_R_skill04_09</f><f>Madara_R_skill04_10</f><f>Madara_R_skill04_11</f><f>Madara_R_skill04_12</f><f>Madara_R_skill04_13</f><e type="setFont">ka</e>
+			<e type="setDelay">10</e>
+			<f>Madara_R_skill04_14</f><f>Madara_R_skill04_15</f><f>Madara_R_skill04_16</f><f>Madara_R_skill04_17</f><f>Madara_R_skill04_18</f><f>Madara_R_skill04_19</f><e type="setDelay">10</e>
+		</frame>
+	</action>
+
+	<action name="skill05">
+		<data>
+			<p type="attackType">oAttack</p>
+			<p type="attackValue">250</p>
+			<p type="attackRangeX">48</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">1</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<f>Madara_R_skill05_01</f><e type="setCommand">setInvincible</e>
+			<e type="setSkillEffect">Kujiyose</e>
+			<e type="setDelay">10</e>
+			<f>Madara_R_skill05_02</f><e type="setOugis">10</e>
+			<f>Madara_R_skill05_03</f><f>Madara_R_skill05_04</f><f>Madara_R_skill05_05</f><f>Madara_R_skill05_06</f><f>Madara_R_skill05_07</f><f>Madara_R_skill05_08</f><e type="setDelay">10</e>
+			<f>Madara_R_skill05_09</f><f>Madara_R_skill05_10</f><f>Madara_R_skill05_11</f><f>Madara_R_skill05_12</f><f>Madara_R_skill05_13</f><f>Madara_R_skill05_14</f><e type="setDelay">10</e>
+			<f>Madara_R_skill05_15</f><e type="setDelay">10</e>
+			<e type="setTransform">40</e>
+			<e type="setCommand">reInvincible</e>
+		</frame>
+	</action>
+	<action name="skill06">
+		<frame />
+	</action>
+	<action name="skill07">
+		<frame />
+	</action>
+	<action name="skill08">
+		<frame />
+	</action>
+	<action name="skill09">
+		<frame />
+	</action>
+	<action name="skill10">
+
+	</action>
+
+
+</unit>

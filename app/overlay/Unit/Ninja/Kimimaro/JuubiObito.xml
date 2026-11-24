@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<unit>
+
+	<action name="Idle">
+		<data>
+			<p type="attackType">Kimimaro</p>
+			<p type="attackValue">5500</p>
+			<p type="attackRangeX">70</p>
+			<p type="attackRangeY">80</p>
+			<p type="cd">224</p>
+		</data>
+		<frame>
+			<f>JuubiObito_R_idle_01</f></frame>
+	</action>
+
+	<action name="Walk">
+		<frame>
+			<f>JuubiObito_R_walk_01</f><f>JuubiObito_R_walk_02</f><f>JuubiObito_R_walk_03</f><f>JuubiObito_R_walk_04</f><f>JuubiObito_R_walk_05</f><f>JuubiObito_R_walk_06</f></frame>
+	</action>
+
+	<action name="Hurt">
+		<frame>
+			<e type="setMove">32</e>
+			<f>JuubiObito_R_hurt_01</f><f>JuubiObito_R_hurt_02</f><e type="setSound">Audio/JuubiObito/obito_hurt.ogg</e>
+		</frame>
+	</action>
+
+	<action name="AirHurt">
+		<frame>
+			<f>JuubiObito_R_airhurt_01</f></frame>
+	</action>
+
+	<action name="KnockDown">
+		<frame>
+			<f>JuubiObito_R_knockdown_01</f><e type="setDelay">10</e>
+			<f>JuubiObito_R_knockdown_02</f><e type="setDelay">60</e>
+			<f>JuubiObito_R_knockdown_03</f><f>JuubiObito_R_knockdown_04</f><f>JuubiObito_R_knockdown_05</f></frame>
+	</action>
+
+	<action name="Float">
+		<frame>
+			<f>JuubiObito_R_float_01</f><e type="setDelay">10</e>
+			<e type="setDelay">10</e>
+			</frame>
+	</action>
+
+	<action name="Dead">
+		<frame>
+			<f>JuubiObito_R_dead_01</f><f>JuubiObito_R_dead_02</f><f>JuubiObito_R_dead_03</f><e type="setSound">Audio/JuubiObito/obito_dead.ogg</e>
+		</frame>
+	</action>
+
+	<action name="nAttack">
+		<data>
+			<p type="attackType">nAttack</p>
+			<p type="attackValue">60</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">16</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>JuubiObito_R_nattack_01</f><f>JuubiObito_R_nattack_02</f><e type="setMove">8</e>
+			<f>JuubiObito_R_nattack_03</f><e type="setSound">Audio/Effect/kong.ogg</e>
+			<e type="setAttackBox">n_hit</e>
+			<f>JuubiObito_R_nattack_04</f><f>JuubiObito_R_nattack_05</f><f>JuubiObito_R_nattack_06</f><f>JuubiObito_R_nattack_07</f><f>JuubiObito_R_nattack_08</f><e type="setSound">Audio/JuubiObito/obito_combo1.ogg</e>
+			<e type="setMove">16</e>
+			<f>JuubiObito_R_nattack_09</f><f>JuubiObito_R_nattack_10</f><e type="setSound">Audio/Effect/kong.ogg</e>
+			<e type="setAttackBox">bl_hit</e>
+			<e type="setDelay">10</e>
+			<e type="setAttackBox">bl_hit</e>
+			<e type="setDelay">10</e>
+		</frame>
+	</action>
+
+	<action name="skill01">
+		<data>
+			<p type="attackType">cAttack</p>
+			<p type="attackValue">460</p>
+			<p type="attackRangeX">64</p>
+			<p type="attackRangeY">32</p>
+			<p type="cd">10</p>
+		</data>
+		<frame>
+			<f>JuubiObito_R_skill01_01</f><f>JuubiObito_R_skill01_02</f><e type="setSound">Audio/JuubiObito/k_skill1.ogg</e>
+			<f>JuubiObito_R_skill01_03</f><f>JuubiObito_R_skill01_04</f><f>JuubiObito_R_skill01_05</f><f>JuubiObito_R_skill01_06</f><f>JuubiObito_R_skill01_07</f><f>JuubiObito_R_skill01_08</f><f>JuubiObito_R_skill01_09</f><f>JuubiObito_R_skill01_10</f><f>JuubiObito_R_skill01_11</f><e type="setBullet">BoneBullet</e>
+			<e type="setDelay">40</e>
+		</frame>
+	</action>
+
+	<action name="skill02">
+		<data>
+			<p type="attackType">Bullet</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">10</p>
+			<p type="cd">15</p>
+		</data>
+		<frame>
+			<f>JuubiObito_R_skill02_01</f><f>JuubiObito_R_skill02_02</f><f>JuubiObito_R_skill02_03</f><f>JuubiObito_R_skill02_04</f><f>JuubiObito_R_skill02_05</f><f>JuubiObito_R_skill02_06</f><f>JuubiObito_R_skill02_07</f><f>JuubiObito_R_skill02_08</f><e type="setSound">Audio/JuubiObito/k_skill2.ogg</e>
+			<e type="setDelay">10</e>
+			<f>JuubiObito_R_skill02_09</f><f>JuubiObito_R_skill02_10</f><f>JuubiObito_R_skill02_11</f><f>JuubiObito_R_skill02_12</f><f>JuubiObito_R_skill02_13</f><f>JuubiObito_R_skill02_14</f><f>JuubiObito_R_skill02_15</f><e type="setBullet">Bone</e>
+			<e type="setDelay">10</e>
+		</frame>
+	</action>
+
+	<action name="skill03">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">560</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">32</p>
+			<p type="cd">25</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Kimimaro/Kimimaro_skill3.ogg</e>
+			<f>Kimimaro_Skill03_01</f>
+			<e type="setAttackBox">c_hit</e>
+			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
+			<e type="setMove">32</e>
+			<f>Kimimaro_Skill03_02</f>
+			<f>Kimimaro_Skill03_03</f>
+			<e type="setAttackBox">l_hit</e>
+			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
+			<f>Kimimaro_Skill03_04</f>
+			<e type="setMove">16</e>
+			<f>Kimimaro_Skill03_05</f>
+			<e type="setAttackBox">c_hit</e>
+			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
+			<f>Kimimaro_Skill03_06</f>
+			<f>Kimimaro_Skill03_07</f>
+			<e type="setAttackBox">l_hit</e>
+			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
+			<e type="setMove">16</e>
+			<f>Kimimaro_Skill03_08</f>
+			<f>Kimimaro_Skill03_09</f>
+			<e type="setAttackBox">c_hit</e>
+			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
+			<f>Kimimaro_Skill03_10</f>
+			<e type="setMove">16</e>
+			<f>Kimimaro_Skill03_11</f>
+			<e type="setAttackBox">l_hit</e>
+			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
+			<f>Kimimaro_Skill03_12</f>
+			<f>Kimimaro_Skill03_13</f>
+		</frame>
+	</action>
+
+	<action name="skill04">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">860</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">32</p>
+			<p type="cd">1</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<f>JuubiObito_R_skill04_01</f><e type="setSound">Audio/JuubiObito/k_skill4.ogg</e>
+			<f>JuubiObito_R_skill04_02</f><f>JuubiObito_R_skill04_03</f><f>JuubiObito_R_skill04_04</f><f>JuubiObito_R_skill04_05</f><f>JuubiObito_R_skill04_06</f><e type="setAttackBox">o_hit</e>
+			<e type="setChargeB">224</e>
+			<f>JuubiObito_R_skill04_07</f><e type="setAttackBox">o_hit</e>
+			<e type="setChargeB">224</e>
+			<f>JuubiObito_R_skill04_08</f><f>JuubiObito_R_skill04_09</f><e type="setAttackBox">o_hit</e>
+			<e type="setChargeB">224</e>
+			<f>JuubiObito_R_skill04_10</f><e type="setAttackBox">o_hit</e>
+			<e type="setChargeB">224</e>
+			<f>JuubiObito_R_skill04_11</f><f>JuubiObito_R_skill04_12</f><f>JuubiObito_R_skill04_13</f><f>JuubiObito_R_skill04_14</f><f>JuubiObito_R_skill04_15</f><f>JuubiObito_R_skill04_16</f><f>JuubiObito_R_skill04_17</f></frame>
+	</action>
+	<action name="skill05">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">2200</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">1</p>
+			<p type="combatPoint">8000</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e>
+			<f>Kimimaro_Skill05_001</f>
+			<e type="setCommand">setInvincible</e>
+			<e type="setOugis">10</e>
+			<f>Kimimaro_Skill05_002</f>
+			<f>Kimimaro_Skill05_01</f>
+			<f>Kimimaro_Skill05_02</f>
+			<f>Kimimaro_Skill05_03</f>
+			<e type="setSound">Audio/Kimimaro/Kimimaro_skill5.ogg</e>
+			<f>Kimimaro_Skill05_04</f>
+			<f>Kimimaro_Skill05_05</f>
+			<f>Kimimaro_Skill05_06</f>
+			<e type="setAttackBox">c_hit</e>
+			<f>Kimimaro_Skill05_07</f>
+			<e type="setAttackBox">c_hit</e>
+			<f>Kimimaro_Skill05_08</f>
+			<e type="setAttackBox">c_hit</e>
+			<f>Kimimaro_Skill05_09</f>
+			<e type="setAttackBox">c_hit</e>
+			<f>Kimimaro_Skill05_04</f>
+			<f>Kimimaro_Skill05_03</f>
+			<f>Kimimaro_Skill05_02</f>
+			<f>Kimimaro_Skill05_01</f>
+			<f>Kimimaro_Skill05_10</f>
+			
+			<e type="setCommand">reInvincible</e>
+		</frame>
+	</action>
+
+
+</unit>
