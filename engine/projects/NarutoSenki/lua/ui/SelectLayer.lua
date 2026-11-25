@@ -204,21 +204,16 @@ function SelectLayer:init()
     self:addChild(menu, 5)
 
     -- RotN 2.2: undo the last pick (own hero or a computer ally) and choose again
-    local cancel_btn = ui.newTTFLabelMenuItem({
-        text = 'BEKOR QILISH',
-        size = 12,
-        color = ccc3(255, 236, 200),
-        align = ui.TEXT_ALIGN_CENTER,
-        dimensions = CCSizeMake(100, 26),
+    local cancel_btn = ui.newImageMenuItem({
+        image = '#rotn_cancel_btn.png',
+        listener = function() self:cancelSelect() end
     })
-    -- (ui.newTTFLabelMenuItem binds its listener to node events, not to taps)
-    cancel_btn:registerScriptTapHandler(function() self:cancelSelect() end)
-    local cancelBg = CCLayerColor:create(ccc4(0, 0, 0, 150), 100, 26)
-    cancelBg:setPosition(width - 180, 13)
-    self:addChild(cancelBg, 4)
+    cancel_btn:setScale(1 / 3) -- the picture is drawn at 3x for a sharp look
     local cancelMenu = ui.newMenu({cancel_btn})
-    cancelMenu:setPosition(width - 130, 26)
+    cancelMenu:setPosition(width - 146, 27)
     self:addChild(cancelMenu, 5)
+    cancelBtn = cancel_btn
+    cancelBtn:setOpacity(110) -- nothing to undo yet
     lockStack = {}
 
     local skill_btn = ui.newImageMenuItem({
@@ -469,11 +464,13 @@ lockStack = {}
 
 function SelectLayer:pushLock(btn, kind)
     lockStack[#lockStack + 1] = {btn = btn, kind = kind}
+    if cancelBtn then cancelBtn:setOpacity(255) end
 end
 
 function SelectLayer:cancelSelect()
     local top = table.remove(lockStack)
     if not top then return end
+    if #lockStack == 0 and cancelBtn then cancelBtn:setOpacity(110) end
     audio.playSound('Audio/Menu/cancel.ogg')
     local btn = top.btn
     if btn._black then

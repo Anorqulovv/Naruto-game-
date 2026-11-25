@@ -3589,6 +3589,11 @@ void CharacterBase::setMonAttack(int skillNum)
 
 void CharacterBase::setTransform()
 {
+	// RotN 2.2: Pain keeps his form; only Madara (RotN hero on Pain's skills) awakens into Rikudo Madara
+	// (RotN's art on the Nagato form)
+	if (getName() == HeroEnum::Pain && _skin != "Madara")
+		return;
+
 	CCNotificationCenter::sharedNotificationCenter()->removeObserver(this, "acceptAttack");
 	unschedule(schedule_selector(CharacterBase::dehealBuff));
 

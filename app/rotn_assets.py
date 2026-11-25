@@ -105,16 +105,35 @@ def silhouette(half_img, name):
     k = min(260 / fig.width, 300 / fig.height)
     fig = fig.resize((max(1, int(fig.width * k)), max(1, int(fig.height * k))), Image.LANCZOS)
     a = fig.split()[3].point(lambda v: 255 if v > 200 else 0)  # glow/aura is not part of the figure
+    # V2 portraits are cut off at the bottom: let the figure melt into the ink instead of ending in a
+    # hard edge
+    from PIL import ImageChops
+    fade = Image.new('L', fig.size, 255)
+    fd = ImageDraw.Draw(fade)
+    top = H - fig.height  # canvas y of the figure's first row
+    y0, y1 = 165 - top, 238 - top  # fully gone at the name stroke
+    for y in range(max(0, y0), fig.height):
+        v = 0 if y >= y1 else int(255 * (1 - (y - y0) / max(1, y1 - y0)) ** 1.4)
+        fd.line([(0, y), (fig.width, y)], fill=v)
+    # where the portrait was cut off at the left/right border, the figure fades out (only there)
+    cut = Image.new('L', fig.size, 0)
+    for x in (0, fig.width - 1):
+        col = a.crop((x, 0, x + 1, fig.height))
+        cut.paste(col, (x, 0))
+    if cut.getbbox():
+        glow = cut.filter(ImageFilter.MaxFilter(9)).filter(ImageFilter.GaussianBlur(16))
+        m = max(1, glow.getextrema()[1])
+        fade = ImageChops.multiply(fade, glow.point(lambda v: max(0, 255 - min(255, v * 255 * 1.6 / m))))
+    a = ImageChops.multiply(a, fade).filter(ImageFilter.GaussianBlur(0.8))
     black = Image.new('RGBA', fig.size, (8, 8, 10, 255))
     black.putalpha(a)
-    canvas.paste(black, ((W - fig.width) // 2, H - fig.height), black)
+    canvas.alpha_composite(black, ((W - fig.width) // 2, H - fig.height))
     d = ImageDraw.Draw(canvas)
-    # brush stroke + name, like the RotN pictures
-    stroke = Image.new('RGBA', (W, 50))
-    sd = ImageDraw.Draw(stroke)
-    sd.rectangle((0, 12, W, 38), fill=(0, 0, 0, 235))
-    stroke = stroke.filter(ImageFilter.GaussianBlur(2))
-    canvas.alpha_composite(stroke, (0, 215))
+    # ink brush stroke + name, like the RotN pictures
+    sys.path.insert(0, os.path.join(HERE, 'tools'))
+    from cancel_btn import brush_stroke
+    stroke = brush_stroke(W, 46, (0, 0, 0, 240), seed=len(name))
+    canvas.alpha_composite(stroke, (0, 212))
     font = ImageFont.truetype('/System/Library/Fonts/Supplemental/Impact.ttf', 22)
     text = name.upper()
     gap = 1.5
@@ -241,6 +260,11 @@ def select_extras():
     for n in ('skill_btn.png', 'start_btn.png', 'tip1.png', 'tip2.png', 'tip3.png'):
         img = rotn[n][0]
         items['rotn_' + n] = (img, full(img))
+    # "Bekor" (undo the last pick), drawn in the style of RotN's captions at 3x (scaled down in Lua)
+    sys.path.insert(0, os.path.join(HERE, 'tools'))
+    from cancel_btn import cancel_button
+    img = cancel_button()
+    items['rotn_cancel_btn.png'] = (img, full(img))
     atlas.write_atlas(OUT, 'Select', items)
     print('select extras:', len(heroes), 'heroes')
 

@@ -7,7 +7,7 @@
 		<key>1p.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3647,2434},{41,71}}</string>
+			<string>{{3932,2434},{41,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>2p.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3690,2434},{41,71}}</string>
+			<string>{{3975,2434},{41,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Asuma_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1738,2701},{200,60}}</string>
+			<string>{{2108,2701},{200,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Asuma_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{131,2628},{29,66}}</string>
+			<string>{{489,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Asuma_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2797,2628},{35,65}}</string>
+			<string>{{3155,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>Black_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1450,2768},{48,39}}</string>
+			<string>{{1841,2768},{48,39}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Blink_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2834,2628},{35,65}}</string>
+			<string>{{3192,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Chiyo_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{154,2768},{156,57}}</string>
+			<string>{{545,2768},{156,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Chiyo_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{162,2628},{29,66}}</string>
+			<string>{{520,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Chiyo_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2871,2628},{35,65}}</string>
+			<string>{{3229,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>Choji_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{312,2768},{165,57}}</string>
+			<string>{{703,2768},{165,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Choji_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{193,2628},{29,66}}</string>
+			<string>{{551,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Choji_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2908,2628},{35,65}}</string>
+			<string>{{3266,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Deidara_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{271,2701},{124,62}}</string>
+			<string>{{641,2701},{124,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Deidara_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{224,2628},{29,66}}</string>
+			<string>{{582,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Deidara_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2945,2628},{35,65}}</string>
+			<string>{{3303,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Gaara_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1009,2701},{122,61}}</string>
+			<string>{{1379,2701},{122,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>Gaara_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{255,2628},{29,66}}</string>
+			<string>{{613,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Gaara_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2982,2628},{35,65}}</string>
+			<string>{{3340,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>Hanzo_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3455,2768},{1,1}}</string>
+			<string>{{3846,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>Hanzo_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{286,2628},{29,66}}</string>
+			<string>{{644,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>Hanzo_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{317,2628},{29,66}}</string>
+			<string>{{675,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>Hanzo_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2967,2434},{32,73}}</string>
+			<string>{{3252,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>Hashirama_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3458,2768},{1,1}}</string>
+			<string>{{3849,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>Hashirama_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{348,2628},{29,66}}</string>
+			<string>{{706,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>Hashirama_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{379,2628},{29,66}}</string>
+			<string>{{737,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>Hashirama_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3001,2434},{32,73}}</string>
+			<string>{{3286,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>Hidan_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{479,2768},{80,57}}</string>
+			<string>{{870,2768},{80,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>Hidan_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{410,2628},{29,66}}</string>
+			<string>{{768,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>Hidan_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3019,2628},{35,65}}</string>
+			<string>{{3377,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>Hinata_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2298,2701},{152,59}}</string>
+			<string>{{2668,2701},{152,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>Hinata_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{441,2628},{29,66}}</string>
+			<string>{{799,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>Hinata_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3056,2628},{35,65}}</string>
+			<string>{{3414,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>Hiruzen_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1133,2701},{160,61}}</string>
+			<string>{{1503,2701},{160,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>Hiruzen_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{472,2628},{29,66}}</string>
+			<string>{{830,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>Hiruzen_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3093,2628},{35,65}}</string>
+			<string>{{3451,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>ImmortalSasuke_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3461,2768},{1,1}}</string>
+			<string>{{3852,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>ImmortalSasuke_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{503,2628},{29,66}}</string>
+			<string>{{861,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>ImmortalSasuke_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{534,2628},{29,66}}</string>
+			<string>{{892,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>ImmortalSasuke_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1716,2768},{32,32}}</string>
+			<string>{{2107,2768},{32,32}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>Ino_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2452,2701},{159,59}}</string>
+			<string>{{2822,2701},{159,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>Ino_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{565,2628},{29,66}}</string>
+			<string>{{923,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>Ino_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3130,2628},{35,65}}</string>
+			<string>{{3488,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -891,7 +891,7 @@
 		<key>Itachi_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3091,2701},{155,58}}</string>
+			<string>{{3461,2701},{155,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -917,7 +917,7 @@
 		<key>Itachi_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{596,2628},{29,66}}</string>
+			<string>{{954,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -930,7 +930,7 @@
 		<key>Itachi_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3167,2628},{35,65}}</string>
+			<string>{{3525,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -956,7 +956,7 @@
 		<key>Izuna_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3464,2768},{1,1}}</string>
+			<string>{{3855,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -982,7 +982,7 @@
 		<key>Izuna_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{627,2628},{29,66}}</string>
+			<string>{{985,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -995,7 +995,7 @@
 		<key>Izuna_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{658,2628},{29,66}}</string>
+			<string>{{1016,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1021,7 @@
 		<key>Izuna_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3035,2434},{32,73}}</string>
+			<string>{{3320,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1034,7 @@
 		<key>Jiraiya_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1295,2701},{118,61}}</string>
+			<string>{{1665,2701},{118,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1060,7 +1060,7 @@
 		<key>Jiraiya_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{689,2628},{29,66}}</string>
+			<string>{{1047,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1073,7 +1073,7 @@
 		<key>Jiraiya_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3204,2628},{35,65}}</string>
+			<string>{{3562,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1099,7 +1099,7 @@
 		<key>Jugo_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3248,2701},{158,58}}</string>
+			<string>{{3618,2701},{158,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1125,7 +1125,7 @@
 		<key>Jugo_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{720,2628},{29,66}}</string>
+			<string>{{1078,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1138,7 +1138,7 @@
 		<key>Jugo_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3241,2628},{35,65}}</string>
+			<string>{{3599,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1164,7 +1164,7 @@
 		<key>JuubiObito_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3467,2768},{1,1}}</string>
+			<string>{{3858,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1190,7 +1190,7 @@
 		<key>JuubiObito_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{751,2628},{29,66}}</string>
+			<string>{{1109,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1203,7 +1203,7 @@
 		<key>JuubiObito_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{782,2628},{29,66}}</string>
+			<string>{{1140,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1229,7 +1229,7 @@
 		<key>JuubiObito_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3069,2434},{32,73}}</string>
+			<string>{{3354,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1242,7 +1242,7 @@
 		<key>Kaguya_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3470,2768},{1,1}}</string>
+			<string>{{3861,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1268,7 +1268,7 @@
 		<key>Kaguya_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{813,2628},{29,66}}</string>
+			<string>{{1171,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1281,7 +1281,7 @@
 		<key>Kaguya_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{844,2628},{29,66}}</string>
+			<string>{{1202,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1307,7 +1307,7 @@
 		<key>Kaguya_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3103,2434},{32,73}}</string>
+			<string>{{3388,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1320,7 +1320,7 @@
 		<key>Kakashi_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3408,2701},{201,58}}</string>
+			<string>{{3778,2701},{201,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1346,7 +1346,7 @@
 		<key>Kakashi_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,2628},{29,66}}</string>
+			<string>{{1233,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1359,7 +1359,7 @@
 		<key>Kakashi_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3278,2628},{35,65}}</string>
+			<string>{{3636,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1385,7 +1385,7 @@
 		<key>Kakuzu_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1940,2701},{75,60}}</string>
+			<string>{{2310,2701},{75,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1411,7 +1411,7 @@
 		<key>Kakuzu_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{906,2628},{29,66}}</string>
+			<string>{{1264,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1424,7 +1424,7 @@
 		<key>Kakuzu_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3315,2628},{35,65}}</string>
+			<string>{{3673,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1450,7 +1450,7 @@
 		<key>Kankuro_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{397,2701},{119,62}}</string>
+			<string>{{767,2701},{119,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1476,7 +1476,7 @@
 		<key>Kankuro_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{937,2628},{29,66}}</string>
+			<string>{{1295,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1489,7 +1489,7 @@
 		<key>Kankuro_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3352,2628},{35,65}}</string>
+			<string>{{3710,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1515,7 +1515,7 @@
 		<key>Karin_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{518,2701},{164,62}}</string>
+			<string>{{888,2701},{164,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1541,7 +1541,7 @@
 		<key>Karin_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{968,2628},{29,66}}</string>
+			<string>{{1326,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1554,7 +1554,7 @@
 		<key>Karin_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3389,2628},{35,65}}</string>
+			<string>{{3747,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1580,7 +1580,7 @@
 		<key>KazekageGaara_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3473,2768},{1,1}}</string>
+			<string>{{3864,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1606,7 +1606,7 @@
 		<key>KazekageGaara_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{999,2628},{29,66}}</string>
+			<string>{{1357,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1619,7 +1619,7 @@
 		<key>KazekageGaara_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1030,2628},{29,66}}</string>
+			<string>{{1388,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1645,7 +1645,7 @@
 		<key>KazekageGaara_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3137,2434},{32,73}}</string>
+			<string>{{3422,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1658,7 +1658,7 @@
 		<key>Kiba_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3611,2701},{115,58}}</string>
+			<string>{{0,2768},{115,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1684,7 +1684,7 @@
 		<key>Kiba_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1061,2628},{29,66}}</string>
+			<string>{{1419,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1697,7 +1697,7 @@
 		<key>Kiba_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3426,2628},{35,65}}</string>
+			<string>{{3784,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1723,7 +1723,7 @@
 		<key>KillerBee_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3476,2768},{1,1}}</string>
+			<string>{{3867,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1749,7 +1749,7 @@
 		<key>KillerBee_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1092,2628},{29,66}}</string>
+			<string>{{1450,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1762,7 +1762,7 @@
 		<key>KillerBee_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1123,2628},{29,66}}</string>
+			<string>{{1481,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1788,7 +1788,7 @@
 		<key>KillerBee_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3171,2434},{32,73}}</string>
+			<string>{{3456,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1801,7 +1801,7 @@
 		<key>Kimimaro_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2613,2701},{117,59}}</string>
+			<string>{{2983,2701},{117,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1827,7 +1827,7 @@
 		<key>Kimimaro_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1154,2628},{29,66}}</string>
+			<string>{{1512,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1840,7 +1840,7 @@
 		<key>Kimimaro_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3463,2628},{35,65}}</string>
+			<string>{{3821,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1866,7 +1866,7 @@
 		<key>Kisame_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{561,2768},{161,57}}</string>
+			<string>{{952,2768},{161,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1892,7 +1892,7 @@
 		<key>Kisame_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1185,2628},{29,66}}</string>
+			<string>{{1543,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1905,7 +1905,7 @@
 		<key>Kisame_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3500,2628},{35,65}}</string>
+			<string>{{3858,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1931,7 +1931,7 @@
 		<key>Konan_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3728,2701},{76,58}}</string>
+			<string>{{117,2768},{76,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1957,7 +1957,7 @@
 		<key>Konan_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1216,2628},{29,66}}</string>
+			<string>{{1574,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1970,7 +1970,7 @@
 		<key>Konan_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3537,2628},{35,65}}</string>
+			<string>{{3895,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1996,7 +1996,7 @@
 		<key>Lee_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{148,2701},{121,63}}</string>
+			<string>{{518,2701},{121,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2022,7 +2022,7 @@
 		<key>Lee_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1247,2628},{29,66}}</string>
+			<string>{{1605,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2035,7 +2035,7 @@
 		<key>Lee_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3574,2628},{35,65}}</string>
+			<string>{{3932,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2061,7 +2061,7 @@
 		<key>Madara_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3479,2768},{1,1}}</string>
+			<string>{{3870,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2087,7 +2087,7 @@
 		<key>Madara_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1278,2628},{29,66}}</string>
+			<string>{{1636,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2100,7 +2100,7 @@
 		<key>Madara_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1309,2628},{29,66}}</string>
+			<string>{{1667,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2126,7 +2126,7 @@
 		<key>Madara_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3205,2434},{32,73}}</string>
+			<string>{{3490,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2139,7 +2139,7 @@
 		<key>Mei_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3482,2768},{1,1}}</string>
+			<string>{{3873,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2165,7 +2165,7 @@
 		<key>Mei_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1340,2628},{29,66}}</string>
+			<string>{{1698,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2178,7 +2178,7 @@
 		<key>Mei_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1371,2628},{29,66}}</string>
+			<string>{{1729,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2204,7 +2204,7 @@
 		<key>Mei_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3239,2434},{32,73}}</string>
+			<string>{{3524,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2217,7 +2217,7 @@
 		<key>Minato_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{724,2768},{159,57}}</string>
+			<string>{{1115,2768},{159,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2243,7 +2243,7 @@
 		<key>Minato_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1402,2628},{29,66}}</string>
+			<string>{{1760,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2256,7 +2256,7 @@
 		<key>Minato_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3611,2628},{35,65}}</string>
+			<string>{{3969,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2282,7 +2282,7 @@
 		<key>Nagato_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3485,2768},{1,1}}</string>
+			<string>{{3876,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2308,7 +2308,7 @@
 		<key>Nagato_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1433,2628},{29,66}}</string>
+			<string>{{1791,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2321,7 +2321,7 @@
 		<key>Nagato_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1464,2628},{29,66}}</string>
+			<string>{{1822,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2347,7 +2347,7 @@
 		<key>Nagato_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1682,2768},{32,35}}</string>
+			<string>{{2073,2768},{32,35}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2360,7 +2360,7 @@
 		<key>NarutoKCM_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3488,2768},{1,1}}</string>
+			<string>{{3879,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2386,7 +2386,7 @@
 		<key>NarutoKCM_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1495,2628},{29,66}}</string>
+			<string>{{1853,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2399,7 +2399,7 @@
 		<key>NarutoKCM_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1526,2628},{29,66}}</string>
+			<string>{{1884,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2425,7 +2425,7 @@
 		<key>NarutoKCM_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3273,2434},{32,73}}</string>
+			<string>{{3558,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2451,7 +2451,7 @@
 		<key>Naruto_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{684,2701},{165,62}}</string>
+			<string>{{1054,2701},{165,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2477,7 +2477,7 @@
 		<key>Naruto_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1557,2628},{29,66}}</string>
+			<string>{{1915,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2490,7 +2490,7 @@
 		<key>Naruto_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3648,2628},{35,65}}</string>
+			<string>{{4006,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2516,7 +2516,7 @@
 		<key>Neji_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2017,2701},{157,60}}</string>
+			<string>{{2387,2701},{157,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2542,7 +2542,7 @@
 		<key>Neji_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1588,2628},{29,66}}</string>
+			<string>{{1946,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2555,7 +2555,7 @@
 		<key>Neji_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3685,2628},{35,65}}</string>
+			<string>{{4043,2628},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2581,7 +2581,7 @@
 		<key>None2_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3722,2628},{35,65}}</string>
+			<string>{{0,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2594,7 +2594,7 @@
 		<key>None_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3759,2628},{35,65}}</string>
+			<string>{{37,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2607,7 +2607,7 @@
 		<key>ObitoMask_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3491,2768},{1,1}}</string>
+			<string>{{3882,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2633,7 +2633,7 @@
 		<key>ObitoMask_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1619,2628},{29,66}}</string>
+			<string>{{1977,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2646,7 +2646,7 @@
 		<key>ObitoMask_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1650,2628},{29,66}}</string>
+			<string>{{2008,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2672,7 +2672,7 @@
 		<key>ObitoMask_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3307,2434},{32,73}}</string>
+			<string>{{3592,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2685,7 +2685,7 @@
 		<key>Obito_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3494,2768},{1,1}}</string>
+			<string>{{3885,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2711,7 +2711,7 @@
 		<key>Obito_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1681,2628},{29,66}}</string>
+			<string>{{2039,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2724,7 +2724,7 @@
 		<key>Obito_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1712,2628},{29,66}}</string>
+			<string>{{2070,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2750,7 +2750,7 @@
 		<key>Obito_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3341,2434},{32,73}}</string>
+			<string>{{3626,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2763,7 +2763,7 @@
 		<key>Onoki_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3497,2768},{1,1}}</string>
+			<string>{{3888,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2789,7 +2789,7 @@
 		<key>Onoki_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1743,2628},{29,66}}</string>
+			<string>{{2101,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2802,7 +2802,7 @@
 		<key>Onoki_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1774,2628},{29,66}}</string>
+			<string>{{2132,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2828,7 +2828,7 @@
 		<key>Onoki_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3375,2434},{32,73}}</string>
+			<string>{{3660,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2841,7 +2841,7 @@
 		<key>Orochimaru_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2732,2701},{120,59}}</string>
+			<string>{{3102,2701},{120,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2867,7 +2867,7 @@
 		<key>Orochimaru_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1805,2628},{29,66}}</string>
+			<string>{{2163,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2880,7 +2880,7 @@
 		<key>Orochimaru_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3796,2628},{35,65}}</string>
+			<string>{{74,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2906,7 +2906,7 @@
 		<key>Pain_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{966,2768},{82,56}}</string>
+			<string>{{1357,2768},{82,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2932,7 +2932,7 @@
 		<key>Pain_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1836,2628},{29,66}}</string>
+			<string>{{2194,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2945,7 +2945,7 @@
 		<key>Pain_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3833,2628},{35,65}}</string>
+			<string>{{111,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2971,7 +2971,7 @@
 		<key>RikudoNaruto_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3500,2768},{1,1}}</string>
+			<string>{{3891,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2997,7 +2997,7 @@
 		<key>RikudoNaruto_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1867,2628},{29,66}}</string>
+			<string>{{2225,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3010,7 +3010,7 @@
 		<key>RikudoNaruto_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1898,2628},{29,66}}</string>
+			<string>{{2256,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3036,7 +3036,7 @@
 		<key>RikudoNaruto_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1784,2768},{32,28}}</string>
+			<string>{{2175,2768},{32,28}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3049,7 +3049,7 @@
 		<key>RikudoSennin_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3503,2768},{1,1}}</string>
+			<string>{{3894,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3075,7 +3075,7 @@
 		<key>RikudoSennin_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1929,2628},{29,66}}</string>
+			<string>{{2287,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3088,7 +3088,7 @@
 		<key>RikudoSennin_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1960,2628},{29,66}}</string>
+			<string>{{2318,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3114,7 +3114,7 @@
 		<key>RikudoSennin_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3409,2434},{32,73}}</string>
+			<string>{{3694,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3140,7 +3140,7 @@
 		<key>SageJiraiya_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3506,2768},{1,1}}</string>
+			<string>{{3897,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3166,7 +3166,7 @@
 		<key>SageJiraiya_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1991,2628},{29,66}}</string>
+			<string>{{2349,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3179,7 +3179,7 @@
 		<key>SageJiraiya_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2022,2628},{29,66}}</string>
+			<string>{{2380,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3205,7 +3205,7 @@
 		<key>SageJiraiya_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1750,2768},{32,31}}</string>
+			<string>{{2141,2768},{32,31}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3218,7 +3218,7 @@
 		<key>SageNaruto_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3509,2768},{1,1}}</string>
+			<string>{{3900,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3244,7 +3244,7 @@
 		<key>SageNaruto_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2053,2628},{29,66}}</string>
+			<string>{{2411,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3257,7 +3257,7 @@
 		<key>SageNaruto_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2084,2628},{29,66}}</string>
+			<string>{{2442,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3283,7 +3283,7 @@
 		<key>SageNaruto_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1818,2768},{32,28}}</string>
+			<string>{{2209,2768},{32,28}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3296,7 +3296,7 @@
 		<key>Sai_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2854,2701},{79,59}}</string>
+			<string>{{3224,2701},{79,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3322,7 +3322,7 @@
 		<key>Sai_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2115,2628},{29,66}}</string>
+			<string>{{2473,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3335,7 +3335,7 @@
 		<key>Sai_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3870,2628},{35,65}}</string>
+			<string>{{148,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3361,7 +3361,7 @@
 		<key>Sakura_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2176,2701},{120,60}}</string>
+			<string>{{2546,2701},{120,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3387,7 +3387,7 @@
 		<key>Sakura_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2146,2628},{29,66}}</string>
+			<string>{{2504,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3400,7 +3400,7 @@
 		<key>Sakura_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3907,2628},{35,65}}</string>
+			<string>{{185,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3426,7 +3426,7 @@
 		<key>Sasori_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3512,2768},{1,1}}</string>
+			<string>{{3903,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3452,7 +3452,7 @@
 		<key>Sasori_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2177,2628},{29,66}}</string>
+			<string>{{2535,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3465,7 +3465,7 @@
 		<key>Sasori_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2208,2628},{29,66}}</string>
+			<string>{{2566,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3491,7 +3491,7 @@
 		<key>Sasori_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3443,2434},{32,73}}</string>
+			<string>{{3728,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3517,7 +3517,7 @@
 		<key>Sasuke_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3806,2701},{194,58}}</string>
+			<string>{{195,2768},{194,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3543,7 +3543,7 @@
 		<key>Sasuke_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2239,2628},{29,66}}</string>
+			<string>{{2597,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3556,7 +3556,7 @@
 		<key>Sasuke_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3944,2628},{35,65}}</string>
+			<string>{{222,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3582,7 +3582,7 @@
 		<key>Shikamaru_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1415,2701},{162,61}}</string>
+			<string>{{1785,2701},{162,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3608,7 +3608,7 @@
 		<key>Shikamaru_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2270,2628},{29,66}}</string>
+			<string>{{2628,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3621,7 +3621,7 @@
 		<key>Shikamaru_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3981,2628},{35,65}}</string>
+			<string>{{259,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3647,7 +3647,7 @@
 		<key>Shino_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1579,2701},{157,61}}</string>
+			<string>{{1949,2701},{157,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3673,7 +3673,7 @@
 		<key>Shino_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2301,2628},{29,66}}</string>
+			<string>{{2659,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3686,7 +3686,7 @@
 		<key>Shino_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{4018,2628},{35,65}}</string>
+			<string>{{296,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3712,7 +3712,7 @@
 		<key>Shisui_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3515,2768},{1,1}}</string>
+			<string>{{3906,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3738,7 +3738,7 @@
 		<key>Shisui_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2332,2628},{29,66}}</string>
+			<string>{{2690,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3751,7 +3751,7 @@
 		<key>Shisui_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2363,2628},{29,66}}</string>
+			<string>{{2721,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3777,7 +3777,7 @@
 		<key>Shisui_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3477,2434},{32,73}}</string>
+			<string>{{3762,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3790,7 +3790,7 @@
 		<key>Suigetsu_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2935,2701},{154,59}}</string>
+			<string>{{3305,2701},{154,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3816,7 +3816,7 @@
 		<key>Suigetsu_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2394,2628},{29,66}}</string>
+			<string>{{2752,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3829,7 +3829,7 @@
 		<key>Suigetsu_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{4055,2628},{35,65}}</string>
+			<string>{{333,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3855,7 +3855,7 @@
 		<key>Temari_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3518,2768},{1,1}}</string>
+			<string>{{3909,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3881,7 +3881,7 @@
 		<key>Temari_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2425,2628},{29,66}}</string>
+			<string>{{2783,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3894,7 +3894,7 @@
 		<key>Temari_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2456,2628},{29,66}}</string>
+			<string>{{2814,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3920,7 +3920,7 @@
 		<key>Temari_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3511,2434},{32,73}}</string>
+			<string>{{3796,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3933,7 +3933,7 @@
 		<key>Tenten_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1050,2768},{81,54}}</string>
+			<string>{{1441,2768},{81,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3959,7 +3959,7 @@
 		<key>Tenten_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2487,2628},{29,66}}</string>
+			<string>{{2845,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3972,7 +3972,7 @@
 		<key>Tenten_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2701},{35,65}}</string>
+			<string>{{370,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3998,7 +3998,7 @@
 		<key>Tobi_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{885,2768},{79,57}}</string>
+			<string>{{1276,2768},{79,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4024,7 +4024,7 @@
 		<key>Tobi_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2518,2628},{29,66}}</string>
+			<string>{{2876,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4037,7 +4037,7 @@
 		<key>Tobi_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{37,2701},{35,65}}</string>
+			<string>{{407,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4063,7 +4063,7 @@
 		<key>Tobirama_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{851,2701},{156,62}}</string>
+			<string>{{1221,2701},{156,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4089,7 +4089,7 @@
 		<key>Tobirama_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2549,2628},{29,66}}</string>
+			<string>{{2907,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4102,7 +4102,7 @@
 		<key>Tobirama_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{74,2701},{35,65}}</string>
+			<string>{{444,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4128,7 +4128,7 @@
 		<key>Tsunade_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2768},{152,58}}</string>
+			<string>{{391,2768},{152,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4154,7 +4154,7 @@
 		<key>Tsunade_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2580,2628},{29,66}}</string>
+			<string>{{2938,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4167,7 +4167,7 @@
 		<key>Tsunade_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{111,2701},{35,65}}</string>
+			<string>{{481,2701},{35,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4193,7 +4193,7 @@
 		<key>Yagura_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3521,2768},{1,1}}</string>
+			<string>{{3912,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4219,7 +4219,7 @@
 		<key>Yagura_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2611,2628},{29,66}}</string>
+			<string>{{2969,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4232,7 +4232,7 @@
 		<key>Yagura_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2642,2628},{29,66}}</string>
+			<string>{{3000,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4258,7 +4258,7 @@
 		<key>Yagura_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3545,2434},{32,73}}</string>
+			<string>{{3830,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4271,7 +4271,7 @@
 		<key>Zabuza_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3524,2768},{1,1}}</string>
+			<string>{{3915,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4297,7 +4297,7 @@
 		<key>Zabuza_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2673,2628},{29,66}}</string>
+			<string>{{3031,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4310,7 +4310,7 @@
 		<key>Zabuza_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2704,2628},{29,66}}</string>
+			<string>{{3062,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4336,7 +4336,7 @@
 		<key>Zabuza_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3579,2434},{32,73}}</string>
+			<string>{{3864,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4349,7 +4349,7 @@
 		<key>ZetsuSpiral_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3527,2768},{1,1}}</string>
+			<string>{{3918,2768},{1,1}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4375,7 +4375,7 @@
 		<key>ZetsuSpiral_rcard.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2735,2628},{29,66}}</string>
+			<string>{{3093,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4388,7 +4388,7 @@
 		<key>ZetsuSpiral_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2766,2628},{29,66}}</string>
+			<string>{{3124,2628},{29,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4414,7 +4414,7 @@
 		<key>ZetsuSpiral_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3613,2434},{32,73}}</string>
+			<string>{{3898,2434},{32,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4427,7 +4427,7 @@
 		<key>cloud_top.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3733,2434},{356,71}}</string>
+			<string>{{0,2628},{356,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4440,7 +4440,7 @@
 		<key>com.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2628},{41,71}}</string>
+			<string>{{358,2628},{41,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4453,7 +4453,7 @@
 		<key>com_label.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3399,2768},{36,14}}</string>
+			<string>{{3790,2768},{36,14}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4466,7 +4466,7 @@
 		<key>com_label2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3437,2768},{16,11}}</string>
+			<string>{{3828,2768},{16,11}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4479,7 +4479,7 @@
 		<key>loading_font.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2090,2768},{72,20}}</string>
+			<string>{{2481,2768},{72,20}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4492,7 +4492,7 @@
 		<key>page1_off.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1198,2768},{40,40}}</string>
+			<string>{{1589,2768},{40,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4505,7 +4505,7 @@
 		<key>page1_on.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1240,2768},{40,40}}</string>
+			<string>{{1631,2768},{40,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4518,7 +4518,7 @@
 		<key>page2_off.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1282,2768},{40,40}}</string>
+			<string>{{1673,2768},{40,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4531,7 +4531,7 @@
 		<key>page2_on.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1324,2768},{40,40}}</string>
+			<string>{{1715,2768},{40,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4544,7 +4544,7 @@
 		<key>page3_off.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1366,2768},{40,40}}</string>
+			<string>{{1757,2768},{40,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4557,7 +4557,7 @@
 		<key>page3_on.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1408,2768},{40,40}}</string>
+			<string>{{1799,2768},{40,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4567,10 +4567,23 @@
 			<key>sourceSize</key>
 			<string>{40,40}</string>
 		</dict>
+		<key>rotn_cancel_btn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2967,2434},{283,109}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{283,109}}</string>
+			<key>sourceSize</key>
+			<string>{283,109}</string>
+		</dict>
 		<key>rotn_skill_btn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2034,2768},{54,22}}</string>
+			<string>{{2425,2768},{54,22}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4583,7 +4596,7 @@
 		<key>rotn_start_btn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1852,2768},{78,28}}</string>
+			<string>{{2243,2768},{78,28}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4635,7 +4648,7 @@
 		<key>skill_btn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1133,2768},{63,46}}</string>
+			<string>{{1524,2768},{63,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4648,7 +4661,7 @@
 		<key>start_btn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{43,2628},{86,68}}</string>
+			<string>{{401,2628},{86,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4661,7 +4674,7 @@
 		<key>team_bg.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1500,2768},{180,39}}</string>
+			<string>{{1891,2768},{180,39}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4674,7 +4687,7 @@
 		<key>tip1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2957,2768},{440,18}}</string>
+			<string>{{3348,2768},{440,18}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4687,7 +4700,7 @@
 		<key>tip2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2164,2768},{400,19}}</string>
+			<string>{{2555,2768},{400,19}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4700,7 +4713,7 @@
 		<key>tip3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2566,2768},{389,19}}</string>
+			<string>{{2957,2768},{389,19}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4713,7 +4726,7 @@
 		<key>unknow_select.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1932,2768},{32,26}}</string>
+			<string>{{2323,2768},{32,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4726,7 +4739,7 @@
 		<key>unknow_select2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1966,2768},{32,26}}</string>
+			<string>{{2357,2768},{32,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4739,7 +4752,7 @@
 		<key>unknow_select3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2000,2768},{32,26}}</string>
+			<string>{{2391,2768},{32,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>

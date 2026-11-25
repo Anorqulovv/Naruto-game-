@@ -56,7 +56,7 @@ public:
 		setGroup(group);
 
 		auto fileUtils = FileUtils::sharedFileUtils();
-		string fpath = fileUtils->fullPathForFilename(format("Unit/Ninja/{}/{}.xml", name, _skin.empty() ? name : _skin).c_str());
+		string fpath = fileUtils->fullPathForFilename(format("Unit/Ninja/{}/{}.xml", name, (!_skin.empty() && name == _skinBase) ? _skin : name).c_str());
 		if (!fileUtils->isFileExist(fpath))
 		{
 			fpath = fileUtils->fullPathForFilename(format("Unit/Kuchiyose/{}/{}.xml", name, name).c_str());
