@@ -7,7 +7,7 @@
 		<key>Shisui_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{265,2291},{41,73}}</string>
+			<string>{{1942,5729},{41,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>Shisui_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1498,2291},{73,41}}</string>
+			<string>{{3548,5729},{73,41}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Shisui_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1648,2291},{79,39}}</string>
+			<string>{{3698,5729},{79,39}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>Shisui_R_dead_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1810,2291},{83,26}}</string>
+			<string>{{3860,5729},{83,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Shisui_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{308,2291},{50,73}}</string>
+			<string>{{1985,5729},{50,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Shisui_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{193,2291},{34,74}}</string>
+			<string>{{1870,5729},{34,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>Shisui_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{547,2291},{29,65}}</string>
+			<string>{{2224,5729},{29,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>Shisui_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{360,2291},{50,73}}</string>
+			<string>{{2037,5729},{50,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Shisui_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{229,2291},{34,74}}</string>
+			<string>{{1906,5729},{34,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Shisui_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3867,2192},{35,85}}</string>
+			<string>{{1284,5729},{35,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>Shisui_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3904,2192},{35,85}}</string>
+			<string>{{1321,5729},{35,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Shisui_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3941,2192},{35,85}}</string>
+			<string>{{1358,5729},{35,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Shisui_R_idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3978,2192},{35,85}}</string>
+			<string>{{1395,5729},{35,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>Shisui_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1573,2291},{73,41}}</string>
+			<string>{{3623,5729},{73,41}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>Shisui_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1729,2291},{79,39}}</string>
+			<string>{{3779,5729},{79,39}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>Shisui_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1895,2291},{83,26}}</string>
+			<string>{{3945,5729},{83,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Shisui_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1419,2291},{39,46}}</string>
+			<string>{{3469,5729},{39,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Shisui_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{708,2291},{55,62}}</string>
+			<string>{{2450,5729},{55,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>Shisui_R_knockdown_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1460,2291},{36,45}}</string>
+			<string>{{3510,5729},{36,45}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Shisui_R_knockdown_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1137,2291},{36,60}}</string>
+			<string>{{3065,5729},{36,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>Shisui_R_knockdown_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{506,2291},{39,69}}</string>
+			<string>{{2183,5729},{39,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Shisui_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1759,2049},{166,97}}</string>
+			<string>{{760,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Shisui_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1927,2049},{166,97}}</string>
+			<string>{{928,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>Shisui_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2095,2049},{166,97}}</string>
+			<string>{{1096,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Shisui_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2263,2049},{166,97}}</string>
+			<string>{{1264,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>Shisui_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2431,2049},{166,97}}</string>
+			<string>{{1432,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>Shisui_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2599,2049},{166,97}}</string>
+			<string>{{1600,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Shisui_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2767,2049},{166,97}}</string>
+			<string>{{1768,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>Shisui_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2935,2049},{166,97}}</string>
+			<string>{{1936,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>Shisui_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3103,2049},{166,97}}</string>
+			<string>{{2104,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>Shisui_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3271,2049},{166,97}}</string>
+			<string>{{2272,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>Shisui_R_nattack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3439,2049},{166,97}}</string>
+			<string>{{2440,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>Shisui_R_nattack_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3607,2049},{166,97}}</string>
+			<string>{{2608,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>Shisui_R_nattack_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3775,2049},{166,97}}</string>
+			<string>{{2776,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>Shisui_R_nattack_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2192},{166,97}}</string>
+			<string>{{2944,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>Shisui_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{4015,2192},{26,80}}</string>
+			<string>{{1580,5729},{26,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>Shisui_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{4043,2192},{26,80}}</string>
+			<string>{{1608,5729},{26,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>Shisui_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2291},{27,80}}</string>
+			<string>{{1636,5729},{27,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>Shisui_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1368,1749},{427,141}}</string>
+			<string>{{342,5203},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>Shisui_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1797,1749},{427,141}}</string>
+			<string>{{771,5203},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>Shisui_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2226,1749},{427,141}}</string>
+			<string>{{1200,5203},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>Shisui_R_skill01_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2655,1749},{427,141}}</string>
+			<string>{{1629,5203},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>Shisui_R_skill01_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3084,1749},{427,141}}</string>
+			<string>{{2058,5203},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>Shisui_R_skill01_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3513,1749},{427,141}}</string>
+			<string>{{2487,5203},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>Shisui_R_skill01_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1906},{427,141}}</string>
+			<string>{{2916,5203},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>Shisui_R_skill01_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{429,1906},{427,141}}</string>
+			<string>{{3345,5203},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>Shisui_R_skill01_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{858,1906},{427,141}}</string>
+			<string>{{0,5360},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>Shisui_R_skill01_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1287,1906},{427,141}}</string>
+			<string>{{429,5360},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>Shisui_R_skill01_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1716,1906},{427,141}}</string>
+			<string>{{858,5360},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>Shisui_R_skill01_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2145,1906},{427,141}}</string>
+			<string>{{1287,5360},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>Shisui_R_skill01_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2574,1906},{427,141}}</string>
+			<string>{{1716,5360},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>Shisui_R_skill01_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3003,1906},{427,141}}</string>
+			<string>{{2145,5360},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>Shisui_R_skill01_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3432,1906},{427,141}}</string>
+			<string>{{2574,5360},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>Shisui_R_skill01_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2049},{427,141}}</string>
+			<string>{{3003,5360},{427,141}}</string>
 			<key>offset</key>
 			<string>{164.5,-34}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>Shisui_R_skill01_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{168,2192},{166,97}}</string>
+			<string>{{3112,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>Shisui_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2708,1344},{340,155}}</string>
+			<string>{{1654,4844},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -735,7 +735,7 @@
 		<key>Shisui_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3050,1344},{340,155}}</string>
+			<string>{{1996,4844},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>Shisui_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3392,1344},{340,155}}</string>
+			<string>{{2338,4844},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>Shisui_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3734,1344},{340,155}}</string>
+			<string>{{2680,4844},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>Shisui_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1592},{340,155}}</string>
+			<string>{{3022,4844},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>Shisui_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{342,1592},{340,155}}</string>
+			<string>{{3364,4844},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>Shisui_R_skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3474,2192},{129,91}}</string>
+			<string>{{891,5729},{129,91}}</string>
 			<key>offset</key>
 			<string>{0.5,0}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>Shisui_R_skill02_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3605,2192},{129,91}}</string>
+			<string>{{1022,5729},{129,91}}</string>
 			<key>offset</key>
 			<string>{0.5,0}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>Shisui_R_skill02_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3736,2192},{129,91}}</string>
+			<string>{{1153,5729},{129,91}}</string>
 			<key>offset</key>
 			<string>{0.5,0}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>Shisui_R_skill02_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{429,2049},{188,125}}</string>
+			<string>{{3432,5360},{188,125}}</string>
 			<key>offset</key>
 			<string>{-52.5,-10}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>Shisui_R_skill02_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{619,2049},{188,125}}</string>
+			<string>{{3622,5360},{188,125}}</string>
 			<key>offset</key>
 			<string>{-52.5,-10}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>Shisui_R_skill02_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{809,2049},{188,125}}</string>
+			<string>{{3812,5360},{188,125}}</string>
 			<key>offset</key>
 			<string>{-52.5,-10}</string>
 			<key>rotated</key>
@@ -878,7 +878,7 @@
 		<key>Shisui_R_skill02_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{999,2049},{188,125}}</string>
+			<string>{{0,5503},{188,125}}</string>
 			<key>offset</key>
 			<string>{-52.5,-10}</string>
 			<key>rotated</key>
@@ -891,7 +891,7 @@
 		<key>Shisui_R_skill02_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1189,2049},{188,125}}</string>
+			<string>{{190,5503},{188,125}}</string>
 			<key>offset</key>
 			<string>{-52.5,-10}</string>
 			<key>rotated</key>
@@ -904,7 +904,7 @@
 		<key>Shisui_R_skill02_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1379,2049},{188,125}}</string>
+			<string>{{380,5503},{188,125}}</string>
 			<key>offset</key>
 			<string>{-52.5,-10}</string>
 			<key>rotated</key>
@@ -917,7 +917,7 @@
 		<key>Shisui_R_skill02_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1569,2049},{188,125}}</string>
+			<string>{{570,5503},{188,125}}</string>
 			<key>offset</key>
 			<string>{-52.5,-10}</string>
 			<key>rotated</key>
@@ -930,7 +930,7 @@
 		<key>Shisui_R_skill02_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,834},{428,253}}</string>
+			<string>{{1936,3751},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -943,7 +943,7 @@
 		<key>Shisui_R_skill02_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{430,834},{428,253}}</string>
+			<string>{{2366,3751},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -956,7 +956,7 @@
 		<key>Shisui_R_skill02_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{860,834},{428,253}}</string>
+			<string>{{2796,3751},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -969,7 +969,7 @@
 		<key>Shisui_R_skill02_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1290,834},{428,253}}</string>
+			<string>{{3226,3751},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -982,7 +982,7 @@
 		<key>Shisui_R_skill02_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1720,834},{428,253}}</string>
+			<string>{{3656,3751},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -995,7 +995,7 @@
 		<key>Shisui_R_skill02_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2150,834},{428,253}}</string>
+			<string>{{0,4087},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -1008,7 +1008,7 @@
 		<key>Shisui_R_skill02_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2580,834},{428,253}}</string>
+			<string>{{430,4087},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -1021,7 +1021,7 @@
 		<key>Shisui_R_skill02_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3010,834},{428,253}}</string>
+			<string>{{860,4087},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -1034,7 +1034,7 @@
 		<key>Shisui_R_skill02_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3440,834},{428,253}}</string>
+			<string>{{1290,4087},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -1047,7 +1047,7 @@
 		<key>Shisui_R_skill02_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1089},{428,253}}</string>
+			<string>{{1720,4087},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -1060,7 +1060,7 @@
 		<key>Shisui_R_skill02_27</key>
 		<dict>
 			<key>frame</key>
-			<string>{{430,1089},{428,253}}</string>
+			<string>{{2150,4087},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -1073,7 +1073,7 @@
 		<key>Shisui_R_skill02_28</key>
 		<dict>
 			<key>frame</key>
-			<string>{{860,1089},{428,253}}</string>
+			<string>{{2580,4087},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -1086,7 +1086,7 @@
 		<key>Shisui_R_skill02_29</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1290,1089},{428,253}}</string>
+			<string>{{3010,4087},{428,253}}</string>
 			<key>offset</key>
 			<string>{109.5,-90}</string>
 			<key>rotated</key>
@@ -1099,7 +1099,7 @@
 		<key>Shisui_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{29,2291},{26,80}}</string>
+			<string>{{1665,5729},{26,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1112,7 +1112,7 @@
 		<key>Shisui_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{57,2291},{26,80}}</string>
+			<string>{{1693,5729},{26,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1125,7 +1125,7 @@
 		<key>Shisui_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{85,2291},{27,80}}</string>
+			<string>{{1721,5729},{27,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1138,7 +1138,7 @@
 		<key>Shisui_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1720,1089},{386,246}}</string>
+			<string>{{507,4593},{386,246}}</string>
 			<key>offset</key>
 			<string>{100.5,-35}</string>
 			<key>rotated</key>
@@ -1151,7 +1151,7 @@
 		<key>Shisui_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2108,1089},{386,246}}</string>
+			<string>{{895,4593},{386,246}}</string>
 			<key>offset</key>
 			<string>{100.5,-35}</string>
 			<key>rotated</key>
@@ -1164,7 +1164,7 @@
 		<key>Shisui_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2496,1089},{386,246}}</string>
+			<string>{{1283,4593},{386,246}}</string>
 			<key>offset</key>
 			<string>{100.5,-35}</string>
 			<key>rotated</key>
@@ -1177,7 +1177,7 @@
 		<key>Shisui_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2884,1089},{386,246}}</string>
+			<string>{{1671,4593},{386,246}}</string>
 			<key>offset</key>
 			<string>{100.5,-35}</string>
 			<key>rotated</key>
@@ -1190,7 +1190,7 @@
 		<key>Shisui_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3272,1089},{386,246}}</string>
+			<string>{{2059,4593},{386,246}}</string>
 			<key>offset</key>
 			<string>{100.5,-35}</string>
 			<key>rotated</key>
@@ -1203,7 +1203,7 @@
 		<key>Shisui_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3660,1089},{386,246}}</string>
+			<string>{{2447,4593},{386,246}}</string>
 			<key>offset</key>
 			<string>{100.5,-35}</string>
 			<key>rotated</key>
@@ -1216,7 +1216,7 @@
 		<key>Shisui_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1344},{386,246}}</string>
+			<string>{{2835,4593},{386,246}}</string>
 			<key>offset</key>
 			<string>{100.5,-35}</string>
 			<key>rotated</key>
@@ -1229,7 +1229,7 @@
 		<key>Shisui_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{114,2291},{39,76}}</string>
+			<string>{{1750,5729},{39,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1242,7 +1242,7 @@
 		<key>Shisui_R_skill03_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{412,2291},{45,70}}</string>
+			<string>{{2089,5729},{45,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1255,7 +1255,7 @@
 		<key>Shisui_R_skill03_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{504,2192},{295,92}}</string>
+			<string>{{1848,5630},{295,92}}</string>
 			<key>offset</key>
 			<string>{-99.5,-16}</string>
 			<key>rotated</key>
@@ -1268,7 +1268,7 @@
 		<key>Shisui_R_skill03_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{801,2192},{295,92}}</string>
+			<string>{{2145,5630},{295,92}}</string>
 			<key>offset</key>
 			<string>{-99.5,-16}</string>
 			<key>rotated</key>
@@ -1281,7 +1281,7 @@
 		<key>Shisui_R_skill03_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1098,2192},{295,92}}</string>
+			<string>{{2442,5630},{295,92}}</string>
 			<key>offset</key>
 			<string>{-99.5,-16}</string>
 			<key>rotated</key>
@@ -1294,7 +1294,7 @@
 		<key>Shisui_R_skill03_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1395,2192},{295,92}}</string>
+			<string>{{2739,5630},{295,92}}</string>
 			<key>offset</key>
 			<string>{-99.5,-16}</string>
 			<key>rotated</key>
@@ -1307,7 +1307,7 @@
 		<key>Shisui_R_skill03_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1692,2192},{295,92}}</string>
+			<string>{{3036,5630},{295,92}}</string>
 			<key>offset</key>
 			<string>{-99.5,-16}</string>
 			<key>rotated</key>
@@ -1320,7 +1320,7 @@
 		<key>Shisui_R_skill03_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{684,1592},{340,155}}</string>
+			<string>{{3706,4844},{340,155}}</string>
 			<key>offset</key>
 			<string>{80.5,-42}</string>
 			<key>rotated</key>
@@ -1333,7 +1333,7 @@
 		<key>Shisui_R_skill03_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1026,1592},{340,155}}</string>
+			<string>{{0,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{80.5,-42}</string>
 			<key>rotated</key>
@@ -1346,7 +1346,7 @@
 		<key>Shisui_R_skill03_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1368,1592},{340,155}}</string>
+			<string>{{342,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{80.5,-42}</string>
 			<key>rotated</key>
@@ -1359,7 +1359,7 @@
 		<key>Shisui_R_skill03_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1710,1592},{340,155}}</string>
+			<string>{{684,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{80.5,-42}</string>
 			<key>rotated</key>
@@ -1372,7 +1372,7 @@
 		<key>Shisui_R_skill03_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2052,1592},{340,155}}</string>
+			<string>{{1026,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{80.5,-42}</string>
 			<key>rotated</key>
@@ -1385,7 +1385,7 @@
 		<key>Shisui_R_skill03_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2394,1592},{340,155}}</string>
+			<string>{{1368,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{80.5,-42}</string>
 			<key>rotated</key>
@@ -1398,7 +1398,7 @@
 		<key>Shisui_R_skill03_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2736,1592},{340,155}}</string>
+			<string>{{1710,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{80.5,-42}</string>
 			<key>rotated</key>
@@ -1411,7 +1411,7 @@
 		<key>Shisui_R_skill03_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3078,1592},{340,155}}</string>
+			<string>{{2052,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -1424,7 +1424,7 @@
 		<key>Shisui_R_skill03_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3420,1592},{340,155}}</string>
+			<string>{{2394,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -1437,7 +1437,7 @@
 		<key>Shisui_R_skill03_27</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1749},{340,155}}</string>
+			<string>{{2736,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -1450,7 +1450,7 @@
 		<key>Shisui_R_skill03_28</key>
 		<dict>
 			<key>frame</key>
-			<string>{{342,1749},{340,155}}</string>
+			<string>{{3078,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -1463,7 +1463,7 @@
 		<key>Shisui_R_skill03_29</key>
 		<dict>
 			<key>frame</key>
-			<string>{{684,1749},{340,155}}</string>
+			<string>{{3420,5046},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -1476,7 +1476,7 @@
 		<key>Shisui_R_skill03_30</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1026,1749},{340,155}}</string>
+			<string>{{0,5203},{340,155}}</string>
 			<key>offset</key>
 			<string>{92,-15}</string>
 			<key>rotated</key>
@@ -1489,7 +1489,7 @@
 		<key>Shisui_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{155,2291},{36,76}}</string>
+			<string>{{1791,5729},{36,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1502,7 +1502,7 @@
 		<key>Shisui_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{388,1344},{220,200}}</string>
+			<string>{{3223,4593},{220,200}}</string>
 			<key>offset</key>
 			<string>{15.5,-58}</string>
 			<key>rotated</key>
@@ -1515,7 +1515,7 @@
 		<key>Shisui_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{610,1344},{220,200}}</string>
+			<string>{{3445,4593},{220,200}}</string>
 			<key>offset</key>
 			<string>{15.5,-58}</string>
 			<key>rotated</key>
@@ -1528,7 +1528,7 @@
 		<key>Shisui_R_skill04_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{832,1344},{220,200}}</string>
+			<string>{{3667,4593},{220,200}}</string>
 			<key>offset</key>
 			<string>{15.5,-58}</string>
 			<key>rotated</key>
@@ -1541,7 +1541,7 @@
 		<key>Shisui_R_skill04_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1054,1344},{220,200}}</string>
+			<string>{{0,4844},{220,200}}</string>
 			<key>offset</key>
 			<string>{15.5,-58}</string>
 			<key>rotated</key>
@@ -1554,7 +1554,7 @@
 		<key>Shisui_R_skill04_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1276,1344},{220,200}}</string>
+			<string>{{222,4844},{220,200}}</string>
 			<key>offset</key>
 			<string>{15.5,-58}</string>
 			<key>rotated</key>
@@ -1567,7 +1567,7 @@
 		<key>Shisui_R_skill04_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{459,2291},{45,70}}</string>
+			<string>{{2136,5729},{45,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1580,7 +1580,7 @@
 		<key>Shisui_R_skill04_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1989,2192},{295,92}}</string>
+			<string>{{3333,5630},{295,92}}</string>
 			<key>offset</key>
 			<string>{-99.5,-16}</string>
 			<key>rotated</key>
@@ -1593,7 +1593,7 @@
 		<key>Shisui_R_skill04_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2286,2192},{295,92}}</string>
+			<string>{{3630,5630},{295,92}}</string>
 			<key>offset</key>
 			<string>{-99.5,-16}</string>
 			<key>rotated</key>
@@ -1606,7 +1606,7 @@
 		<key>Shisui_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2583,2192},{295,92}}</string>
+			<string>{{0,5729},{295,92}}</string>
 			<key>offset</key>
 			<string>{-99.5,-16}</string>
 			<key>rotated</key>
@@ -1619,7 +1619,7 @@
 		<key>Shisui_R_skill04_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2880,2192},{295,92}}</string>
+			<string>{{297,5729},{295,92}}</string>
 			<key>offset</key>
 			<string>{-99.5,-16}</string>
 			<key>rotated</key>
@@ -1632,7 +1632,7 @@
 		<key>Shisui_R_skill04_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3177,2192},{295,92}}</string>
+			<string>{{594,5729},{295,92}}</string>
 			<key>offset</key>
 			<string>{-99.5,-16}</string>
 			<key>rotated</key>
@@ -1645,7 +1645,7 @@
 		<key>Shisui_R_skill04_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{336,2192},{166,97}}</string>
+			<string>{{3280,5503},{166,97}}</string>
 			<key>offset</key>
 			<string>{4.5,0}</string>
 			<key>rotated</key>
@@ -1658,7 +1658,7 @@
 		<key>Shisui_R_skill04_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1827,417},{240,334}}</string>
+			<string>{{3660,3387},{240,334}}</string>
 			<key>offset</key>
 			<string>{3,-48}</string>
 			<key>rotated</key>
@@ -1671,7 +1671,7 @@
 		<key>Shisui_R_skill04_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2069,417},{240,334}}</string>
+			<string>{{0,3751},{240,334}}</string>
 			<key>offset</key>
 			<string>{3,-48}</string>
 			<key>rotated</key>
@@ -1684,7 +1684,7 @@
 		<key>Shisui_R_skill04_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2311,417},{240,334}}</string>
+			<string>{{242,3751},{240,334}}</string>
 			<key>offset</key>
 			<string>{3,-48}</string>
 			<key>rotated</key>
@@ -1697,7 +1697,7 @@
 		<key>Shisui_R_skill04_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2553,417},{240,334}}</string>
+			<string>{{484,3751},{240,334}}</string>
 			<key>offset</key>
 			<string>{3,-48}</string>
 			<key>rotated</key>
@@ -1710,7 +1710,7 @@
 		<key>Shisui_R_skill04_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2795,417},{240,334}}</string>
+			<string>{{726,3751},{240,334}}</string>
 			<key>offset</key>
 			<string>{3,-48}</string>
 			<key>rotated</key>
@@ -1723,7 +1723,7 @@
 		<key>Shisui_R_skill04_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3037,417},{240,334}}</string>
+			<string>{{968,3751},{240,334}}</string>
 			<key>offset</key>
 			<string>{3,-48}</string>
 			<key>rotated</key>
@@ -1736,7 +1736,7 @@
 		<key>Shisui_R_skill04_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3279,417},{240,334}}</string>
+			<string>{{1210,3751},{240,334}}</string>
 			<key>offset</key>
 			<string>{3,-48}</string>
 			<key>rotated</key>
@@ -1749,7 +1749,7 @@
 		<key>Shisui_R_skill04_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3521,417},{240,334}}</string>
+			<string>{{1452,3751},{240,334}}</string>
 			<key>offset</key>
 			<string>{3,-48}</string>
 			<key>rotated</key>
@@ -1762,7 +1762,7 @@
 		<key>Shisui_R_skill04_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3763,417},{240,334}}</string>
+			<string>{{1694,3751},{240,334}}</string>
 			<key>offset</key>
 			<string>{3,-48}</string>
 			<key>rotated</key>
@@ -1775,7 +1775,7 @@
 		<key>Shisui_R_skill04_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{607,415}}</string>
+			<string>{{0,2553},{607,415}}</string>
 			<key>offset</key>
 			<string>{121.5,-125}</string>
 			<key>rotated</key>
@@ -1788,7 +1788,7 @@
 		<key>Shisui_R_skill04_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{609,0},{607,415}}</string>
+			<string>{{609,2553},{607,415}}</string>
 			<key>offset</key>
 			<string>{121.5,-125}</string>
 			<key>rotated</key>
@@ -1801,7 +1801,7 @@
 		<key>Shisui_R_skill04_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1218,0},{607,415}}</string>
+			<string>{{1218,2553},{607,415}}</string>
 			<key>offset</key>
 			<string>{121.5,-125}</string>
 			<key>rotated</key>
@@ -1814,7 +1814,7 @@
 		<key>Shisui_R_skill04_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1827,0},{607,415}}</string>
+			<string>{{1827,2553},{607,415}}</string>
 			<key>offset</key>
 			<string>{121.5,-125}</string>
 			<key>rotated</key>
@@ -1827,7 +1827,7 @@
 		<key>Shisui_R_skill04_27</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2436,0},{607,415}}</string>
+			<string>{{2436,2553},{607,415}}</string>
 			<key>offset</key>
 			<string>{121.5,-125}</string>
 			<key>rotated</key>
@@ -1840,7 +1840,7 @@
 		<key>Shisui_R_skill04_28</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3045,0},{607,415}}</string>
+			<string>{{3045,2553},{607,415}}</string>
 			<key>offset</key>
 			<string>{121.5,-125}</string>
 			<key>rotated</key>
@@ -1853,7 +1853,7 @@
 		<key>Shisui_R_skill04_29</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,417},{607,415}}</string>
+			<string>{{0,2970},{607,415}}</string>
 			<key>offset</key>
 			<string>{121.5,-125}</string>
 			<key>rotated</key>
@@ -1866,7 +1866,7 @@
 		<key>Shisui_R_skill04_30</key>
 		<dict>
 			<key>frame</key>
-			<string>{{609,417},{607,415}}</string>
+			<string>{{609,2970},{607,415}}</string>
 			<key>offset</key>
 			<string>{121.5,-125}</string>
 			<key>rotated</key>
@@ -1879,7 +1879,7 @@
 		<key>Shisui_R_skill04_31</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1218,417},{607,415}}</string>
+			<string>{{1218,2970},{607,415}}</string>
 			<key>offset</key>
 			<string>{121.5,-125}</string>
 			<key>rotated</key>
@@ -1892,7 +1892,7 @@
 		<key>Shisui_R_skill04_32</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1498,1344},{240,194}}</string>
+			<string>{{444,4844},{240,194}}</string>
 			<key>offset</key>
 			<string>{-8.5,-38}</string>
 			<key>rotated</key>
@@ -1905,7 +1905,7 @@
 		<key>Shisui_R_skill04_33</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1740,1344},{240,194}}</string>
+			<string>{{686,4844},{240,194}}</string>
 			<key>offset</key>
 			<string>{-8.5,-38}</string>
 			<key>rotated</key>
@@ -1918,7 +1918,7 @@
 		<key>Shisui_R_skill04_34</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1982,1344},{240,194}}</string>
+			<string>{{928,4844},{240,194}}</string>
 			<key>offset</key>
 			<string>{-8.5,-38}</string>
 			<key>rotated</key>
@@ -1931,7 +1931,7 @@
 		<key>Shisui_R_skill04_35</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2224,1344},{240,194}}</string>
+			<string>{{1170,4844},{240,194}}</string>
 			<key>offset</key>
 			<string>{-8.5,-38}</string>
 			<key>rotated</key>
@@ -1944,7 +1944,7 @@
 		<key>Shisui_R_skill04_36</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2466,1344},{240,194}}</string>
+			<string>{{1412,4844},{240,194}}</string>
 			<key>offset</key>
 			<string>{-8.5,-38}</string>
 			<key>rotated</key>
@@ -1954,10 +1954,868 @@
 			<key>sourceSize</key>
 			<string>{240,194}</string>
 		</dict>
+		<key>Shisui_R_skill05_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3440,4087},{505,249}}</string>
+			<key>offset</key>
+			<string>{82.5,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{505,249}}</string>
+			<key>sourceSize</key>
+			<string>{505,249}</string>
+		</dict>
+		<key>Shisui_R_skill05_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,4342},{505,249}}</string>
+			<key>offset</key>
+			<string>{82.5,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{505,249}}</string>
+			<key>sourceSize</key>
+			<string>{505,249}</string>
+		</dict>
+		<key>Shisui_R_skill05_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{507,4342},{505,249}}</string>
+			<key>offset</key>
+			<string>{82.5,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{505,249}}</string>
+			<key>sourceSize</key>
+			<string>{505,249}</string>
+		</dict>
+		<key>Shisui_R_skill05_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1014,4342},{505,249}}</string>
+			<key>offset</key>
+			<string>{82.5,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{505,249}}</string>
+			<key>sourceSize</key>
+			<string>{505,249}</string>
+		</dict>
+		<key>Shisui_R_skill05_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1521,4342},{505,249}}</string>
+			<key>offset</key>
+			<string>{82.5,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{505,249}}</string>
+			<key>sourceSize</key>
+			<string>{505,249}</string>
+		</dict>
+		<key>Shisui_R_skill05_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2028,4342},{505,249}}</string>
+			<key>offset</key>
+			<string>{82.5,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{505,249}}</string>
+			<key>sourceSize</key>
+			<string>{505,249}</string>
+		</dict>
+		<key>Shisui_R_skill05_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2535,4342},{505,249}}</string>
+			<key>offset</key>
+			<string>{82.5,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{505,249}}</string>
+			<key>sourceSize</key>
+			<string>{505,249}</string>
+		</dict>
+		<key>Shisui_R_skill05_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3042,4342},{505,249}}</string>
+			<key>offset</key>
+			<string>{82.5,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{505,249}}</string>
+			<key>sourceSize</key>
+			<string>{505,249}</string>
+		</dict>
+		<key>Shisui_R_skill05_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3549,4342},{505,249}}</string>
+			<key>offset</key>
+			<string>{82.5,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{505,249}}</string>
+			<key>sourceSize</key>
+			<string>{505,249}</string>
+		</dict>
+		<key>Shisui_R_skill05_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,4593},{505,249}}</string>
+			<key>offset</key>
+			<string>{82.5,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{505,249}}</string>
+			<key>sourceSize</key>
+			<string>{505,249}</string>
+		</dict>
+		<key>Shisui_R_skill05_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1827,2970},{730,362}}</string>
+			<key>offset</key>
+			<string>{194.5,-82}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{730,362}}</string>
+			<key>sourceSize</key>
+			<string>{730,362}</string>
+		</dict>
+		<key>Shisui_R_skill05_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2559,2970},{730,362}}</string>
+			<key>offset</key>
+			<string>{194.5,-82}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{730,362}}</string>
+			<key>sourceSize</key>
+			<string>{730,362}</string>
+		</dict>
+		<key>Shisui_R_skill05_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3291,2970},{730,362}}</string>
+			<key>offset</key>
+			<string>{194.5,-82}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{730,362}}</string>
+			<key>sourceSize</key>
+			<string>{730,362}</string>
+		</dict>
+		<key>Shisui_R_skill05_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,3387},{730,362}}</string>
+			<key>offset</key>
+			<string>{194.5,-82}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{730,362}}</string>
+			<key>sourceSize</key>
+			<string>{730,362}</string>
+		</dict>
+		<key>Shisui_R_skill05_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{732,3387},{730,362}}</string>
+			<key>offset</key>
+			<string>{194.5,-82}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{730,362}}</string>
+			<key>sourceSize</key>
+			<string>{730,362}</string>
+		</dict>
+		<key>Shisui_R_skill05_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1464,3387},{730,362}}</string>
+			<key>offset</key>
+			<string>{194.5,-82}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{730,362}}</string>
+			<key>sourceSize</key>
+			<string>{730,362}</string>
+		</dict>
+		<key>Shisui_R_skill05_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2196,3387},{730,362}}</string>
+			<key>offset</key>
+			<string>{194.5,-82}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{730,362}}</string>
+			<key>sourceSize</key>
+			<string>{730,362}</string>
+		</dict>
+		<key>Shisui_R_skill05_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2928,3387},{730,362}}</string>
+			<key>offset</key>
+			<string>{194.5,-82}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{730,362}}</string>
+			<key>sourceSize</key>
+			<string>{730,362}</string>
+		</dict>
+		<key>Shisui_R_skill05_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1829,5729},{39,76}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{39,76}}</string>
+			<key>sourceSize</key>
+			<string>{39,76}</string>
+		</dict>
+		<key>Shisui_R_skill05_20</key>
+		<dict>
+			<key>frame</key>
+			<string>{{594,1926},{503,532}}</string>
+			<key>offset</key>
+			<string>{-100.5,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{503,532}}</string>
+			<key>sourceSize</key>
+			<string>{503,532}</string>
+		</dict>
+		<key>Shisui_R_skill05_21</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1099,1926},{503,532}}</string>
+			<key>offset</key>
+			<string>{-100.5,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{503,532}}</string>
+			<key>sourceSize</key>
+			<string>{503,532}</string>
+		</dict>
+		<key>Shisui_R_skill05_22</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1604,1926},{503,532}}</string>
+			<key>offset</key>
+			<string>{-100.5,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{503,532}}</string>
+			<key>sourceSize</key>
+			<string>{503,532}</string>
+		</dict>
+		<key>Shisui_R_skill05_23</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2109,1926},{503,532}}</string>
+			<key>offset</key>
+			<string>{-100.5,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{503,532}}</string>
+			<key>sourceSize</key>
+			<string>{503,532}</string>
+		</dict>
+		<key>Shisui_R_skill05_24</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2614,1926},{503,532}}</string>
+			<key>offset</key>
+			<string>{-100.5,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{503,532}}</string>
+			<key>sourceSize</key>
+			<string>{503,532}</string>
+		</dict>
+		<key>Shisui_R_skill05_25</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3119,1926},{503,532}}</string>
+			<key>offset</key>
+			<string>{-100.5,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{503,532}}</string>
+			<key>sourceSize</key>
+			<string>{503,532}</string>
+		</dict>
+		<key>Shisui_R_skill05_26</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_27</key>
+		<dict>
+			<key>frame</key>
+			<string>{{769,0},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_28</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1538,0},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_29</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2307,0},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_30</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3076,0},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_31</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,642},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_32</key>
+		<dict>
+			<key>frame</key>
+			<string>{{769,642},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_33</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1538,642},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_34</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2307,642},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_35</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3076,642},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_36</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1284},{767,640}}</string>
+			<key>offset</key>
+			<string>{21.5,-257}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{767,640}}</string>
+			<key>sourceSize</key>
+			<string>{767,640}</string>
+		</dict>
+		<key>Shisui_R_skill05_37</key>
+		<dict>
+			<key>frame</key>
+			<string>{{769,1284},{592,625}}</string>
+			<key>offset</key>
+			<string>{-23,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{592,625}}</string>
+			<key>sourceSize</key>
+			<string>{592,625}</string>
+		</dict>
+		<key>Shisui_R_skill05_38</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1363,1284},{592,625}}</string>
+			<key>offset</key>
+			<string>{-23,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{592,625}}</string>
+			<key>sourceSize</key>
+			<string>{592,625}</string>
+		</dict>
+		<key>Shisui_R_skill05_39</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1957,1284},{592,625}}</string>
+			<key>offset</key>
+			<string>{-23,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{592,625}}</string>
+			<key>sourceSize</key>
+			<string>{592,625}</string>
+		</dict>
+		<key>Shisui_R_skill05_40</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2551,1284},{592,625}}</string>
+			<key>offset</key>
+			<string>{-23,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{592,625}}</string>
+			<key>sourceSize</key>
+			<string>{592,625}</string>
+		</dict>
+		<key>Shisui_R_skill05_41</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3145,1284},{592,625}}</string>
+			<key>offset</key>
+			<string>{-23,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{592,625}}</string>
+			<key>sourceSize</key>
+			<string>{592,625}</string>
+		</dict>
+		<key>Shisui_R_skill05_42</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1926},{592,625}}</string>
+			<key>offset</key>
+			<string>{-23,-241}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{592,625}}</string>
+			<key>sourceSize</key>
+			<string>{592,625}</string>
+		</dict>
+		<key>Shisui_R_skill10_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1432,5729},{35,85}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{35,85}}</string>
+			<key>sourceSize</key>
+			<string>{35,85}</string>
+		</dict>
+		<key>Shisui_R_skill10_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1469,5729},{35,85}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{35,85}}</string>
+			<key>sourceSize</key>
+			<string>{35,85}</string>
+		</dict>
+		<key>Shisui_R_skill10_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1506,5729},{35,85}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{35,85}}</string>
+			<key>sourceSize</key>
+			<string>{35,85}</string>
+		</dict>
+		<key>Shisui_R_skill10_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1543,5729},{35,85}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{35,85}}</string>
+			<key>sourceSize</key>
+			<string>{35,85}</string>
+		</dict>
+		<key>Shisui_R_skill11_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2507,5729},{64,62}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{64,62}}</string>
+			<key>sourceSize</key>
+			<string>{64,62}</string>
+		</dict>
+		<key>Shisui_R_skill11_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2573,5729},{62,62}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{62,62}}</string>
+			<key>sourceSize</key>
+			<string>{62,62}</string>
+		</dict>
+		<key>Shisui_R_skill11_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2897,5729},{54,61}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{54,61}}</string>
+			<key>sourceSize</key>
+			<string>{54,61}</string>
+		</dict>
+		<key>Shisui_R_skill11_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2255,5729},{63,63}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{63,63}}</string>
+			<key>sourceSize</key>
+			<string>{63,63}</string>
+		</dict>
+		<key>Shisui_R_skill11_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3103,5729},{63,60}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{63,60}}</string>
+			<key>sourceSize</key>
+			<string>{63,60}</string>
+		</dict>
+		<key>Shisui_R_skill11_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3298,5729},{55,58}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{55,58}}</string>
+			<key>sourceSize</key>
+			<string>{55,58}</string>
+		</dict>
+		<key>Shisui_R_skill12_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3448,5503},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3616,5503},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3784,5503},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{168,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{336,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{504,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{672,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{840,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1008,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1176,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1344,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1512,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
+		<key>Shisui_R_skill12_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1680,5630},{166,97}}</string>
+			<key>offset</key>
+			<string>{4.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,97}}</string>
+			<key>sourceSize</key>
+			<string>{166,97}</string>
+		</dict>
 		<key>Shisui_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{765,2291},{64,62}}</string>
+			<string>{{2637,5729},{64,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1970,7 +2828,7 @@
 		<key>Shisui_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{831,2291},{62,62}}</string>
+			<string>{{2703,5729},{62,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1983,7 +2841,7 @@
 		<key>Shisui_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1025,2291},{54,61}}</string>
+			<string>{{2953,5729},{54,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1996,7 +2854,7 @@
 		<key>Shisui_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{578,2291},{63,63}}</string>
+			<string>{{2320,5729},{63,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2009,7 +2867,7 @@
 		<key>Shisui_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1175,2291},{63,60}}</string>
+			<string>{{3168,5729},{63,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2022,7 +2880,7 @@
 		<key>Shisui_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1305,2291},{55,58}}</string>
+			<string>{{3355,5729},{55,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2035,7 +2893,7 @@
 		<key>Shisui_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{895,2291},{64,62}}</string>
+			<string>{{2767,5729},{64,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2048,7 +2906,7 @@
 		<key>Shisui_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{961,2291},{62,62}}</string>
+			<string>{{2833,5729},{62,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2061,7 +2919,7 @@
 		<key>Shisui_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1081,2291},{54,61}}</string>
+			<string>{{3009,5729},{54,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2074,7 +2932,7 @@
 		<key>Shisui_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{643,2291},{63,63}}</string>
+			<string>{{2385,5729},{63,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2087,7 +2945,7 @@
 		<key>Shisui_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1240,2291},{63,60}}</string>
+			<string>{{3233,5729},{63,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2100,7 +2958,7 @@
 		<key>Shisui_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1362,2291},{55,58}}</string>
+			<string>{{3412,5729},{55,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2118,7 +2976,7 @@
 		<key>realTextureFileName</key>
 		<string>Shisui.pvr.ccz</string>
 		<key>size</key>
-		<string>{4096,4096}</string>
+		<string>{4096,8192}</string>
 		<key>textureFileName</key>
 		<string>Shisui.pvr.ccz</string>
 	</dict>

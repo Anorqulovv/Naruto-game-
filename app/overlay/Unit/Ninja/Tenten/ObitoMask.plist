@@ -7,7 +7,7 @@
 		<key>ObitoMask_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1669,543},{59,94}}</string>
+			<string>{{1884,2208},{59,94}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>ObitoMask_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{491,945},{92,39}}</string>
+			<string>{{638,2430},{92,39}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>ObitoMask_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{679,945},{98,35}}</string>
+			<string>{{826,2430},{98,35}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>ObitoMask_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{88,671},{39,93}}</string>
+			<string>{{2329,2208},{39,93}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>ObitoMask_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{912,767},{69,85}}</string>
+			<string>{{1070,2338},{69,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>ObitoMask_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{407,945},{82,57}}</string>
+			<string>{{554,2430},{82,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>ObitoMask_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{129,671},{48,92}}</string>
+			<string>{{2370,2208},{48,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>ObitoMask_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{179,671},{48,92}}</string>
+			<string>{{2420,2208},{48,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>ObitoMask_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1655,671},{77,90}}</string>
+			<string>{{3896,2208},{77,90}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>ObitoMask_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1734,671},{77,90}}</string>
+			<string>{{3975,2208},{77,90}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>ObitoMask_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1813,671},{77,90}}</string>
+			<string>{{0,2338},{77,90}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>ObitoMask_R_idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1892,671},{77,90}}</string>
+			<string>{{79,2338},{77,90}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>ObitoMask_R_idle_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,767},{77,90}}</string>
+			<string>{{158,2338},{77,90}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>ObitoMask_R_idle_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{79,767},{77,90}}</string>
+			<string>{{237,2338},{77,90}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>ObitoMask_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{585,945},{92,39}}</string>
+			<string>{{732,2430},{92,39}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>ObitoMask_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{779,945},{98,35}}</string>
+			<string>{{926,2430},{98,35}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>ObitoMask_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{512,859},{65,78}}</string>
+			<string>{{2713,2338},{65,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>ObitoMask_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{579,859},{65,78}}</string>
+			<string>{{2780,2338},{65,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>ObitoMask_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1832,859},{63,62}}</string>
+			<string>{{0,2430},{63,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>ObitoMask_R_knockdown_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1303,767},{40,84}}</string>
+			<string>{{1461,2338},{40,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>ObitoMask_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1730,543},{39,94}}</string>
+			<string>{{1945,2208},{39,94}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>ObitoMask_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1771,543},{35,94}}</string>
+			<string>{{1986,2208},{35,94}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>ObitoMask_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{535,767},{65,87}}</string>
+			<string>{{693,2338},{65,87}}</string>
 			<key>offset</key>
 			<string>{11,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>ObitoMask_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{983,767},{58,85}}</string>
+			<string>{{1141,2338},{58,85}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>ObitoMask_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1345,767},{42,84}}</string>
+			<string>{{1503,2338},{42,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>ObitoMask_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1808,543},{63,94}}</string>
+			<string>{{2023,2208},{63,94}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>ObitoMask_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{158,767},{53,90}}</string>
+			<string>{{316,2338},{53,90}}</string>
 			<key>offset</key>
 			<string>{3,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>ObitoMask_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1381,671},{69,91}}</string>
+			<string>{{3622,2208},{69,91}}</string>
 			<key>offset</key>
 			<string>{16,0}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>ObitoMask_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1452,671},{64,91}}</string>
+			<string>{{3693,2208},{64,91}}</string>
 			<key>offset</key>
 			<string>{13,0}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>ObitoMask_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{268,767},{52,89}}</string>
+			<string>{{426,2338},{52,89}}</string>
 			<key>offset</key>
 			<string>{-8,0}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>ObitoMask_R_nattack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1389,767},{55,84}}</string>
+			<string>{{1547,2338},{55,84}}</string>
 			<key>offset</key>
 			<string>{-6,0}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>ObitoMask_R_nattack_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1446,767},{100,84}}</string>
+			<string>{{1604,2338},{100,84}}</string>
 			<key>offset</key>
 			<string>{19,0}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>ObitoMask_R_nattack_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1548,767},{95,84}}</string>
+			<string>{{1706,2338},{95,84}}</string>
 			<key>offset</key>
 			<string>{19.5,0}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>ObitoMask_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{677,767},{46,86}}</string>
+			<string>{{835,2338},{46,86}}</string>
 			<key>offset</key>
 			<string>{2.5,0}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>ObitoMask_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{725,767},{42,86}}</string>
+			<string>{{883,2338},{42,86}}</string>
 			<key>offset</key>
 			<string>{0.5,0}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>ObitoMask_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1645,767},{50,84}}</string>
+			<string>{{1803,2338},{50,84}}</string>
 			<key>offset</key>
 			<string>{-4.5,0}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>ObitoMask_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1697,767},{41,84}}</string>
+			<string>{{1855,2338},{41,84}}</string>
 			<key>offset</key>
 			<string>{-2.5,0}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>ObitoMask_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{322,767},{129,89}}</string>
+			<string>{{480,2338},{129,89}}</string>
 			<key>offset</key>
 			<string>{27.5,0}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>ObitoMask_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{463,369},{176,152}}</string>
+			<string>{{2703,2025},{176,152}}</string>
 			<key>offset</key>
 			<string>{48,0}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>ObitoMask_R_skill01_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{275,369},{186,159}}</string>
+			<string>{{2515,2025},{186,159}}</string>
 			<key>offset</key>
 			<string>{56,0}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>ObitoMask_R_skill01_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{256,184}}</string>
+			<string>{{2345,1620},{256,184}}</string>
 			<key>offset</key>
 			<string>{88,0}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>ObitoMask_R_skill01_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{258,0},{258,182}}</string>
+			<string>{{2603,1620},{258,182}}</string>
 			<key>offset</key>
 			<string>{92,0}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>ObitoMask_R_skill01_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,369},{273,172}}</string>
+			<string>{{2240,2025},{273,172}}</string>
 			<key>offset</key>
 			<string>{96.5,0}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>ObitoMask_R_skill01_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,543},{249,126}}</string>
+			<string>{{215,2208},{249,126}}</string>
 			<key>offset</key>
 			<string>{87.5,0}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>ObitoMask_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1043,767},{50,85}}</string>
+			<string>{{1201,2338},{50,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>ObitoMask_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{689,543},{57,112}}</string>
+			<string>{{904,2208},{57,112}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>ObitoMask_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1138,859},{96,64}}</string>
+			<string>{{3339,2338},{96,64}}</string>
 			<key>offset</key>
 			<string>{-17.5,0}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>ObitoMask_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{641,369},{131,146}}</string>
+			<string>{{2881,2025},{131,146}}</string>
 			<key>offset</key>
 			<string>{-8,0}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>ObitoMask_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1680,369},{66,135}}</string>
+			<string>{{3920,2025},{66,135}}</string>
 			<key>offset</key>
 			<string>{-6.5,0}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>ObitoMask_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1095,767},{50,85}}</string>
+			<string>{{1253,2338},{50,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>ObitoMask_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1147,767},{50,85}}</string>
+			<string>{{1305,2338},{50,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>ObitoMask_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1547,543},{120,95}}</string>
+			<string>{{1762,2208},{120,95}}</string>
 			<key>offset</key>
 			<string>{-30,0}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>ObitoMask_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1136,369},{90,139}}</string>
+			<string>{{3376,2025},{90,139}}</string>
 			<key>offset</key>
 			<string>{-8.5,0}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>ObitoMask_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1465,369},{213,138}}</string>
+			<string>{{3705,2025},{213,138}}</string>
 			<key>offset</key>
 			<string>{76.5,-60}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>ObitoMask_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1228,369},{235,139}}</string>
+			<string>{{3468,2025},{235,139}}</string>
 			<key>offset</key>
 			<string>{87.5,-80}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>ObitoMask_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{907,369},{227,143}}</string>
+			<string>{{3147,2025},{227,143}}</string>
 			<key>offset</key>
 			<string>{83,-84}</string>
 			<key>rotated</key>
@@ -735,7 +735,7 @@
 		<key>ObitoMask_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{251,543},{221,124}}</string>
+			<string>{{466,2208},{221,124}}</string>
 			<key>offset</key>
 			<string>{80.5,-65}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>ObitoMask_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1816,369},{213,128}}</string>
+			<string>{{0,2208},{213,128}}</string>
 			<key>offset</key>
 			<string>{76.5,-69}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>ObitoMask_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{474,543},{213,116}}</string>
+			<string>{{689,2208},{213,116}}</string>
 			<key>offset</key>
 			<string>{76,-57}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>ObitoMask_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{807,543},{213,109}}</string>
+			<string>{{1022,2208},{213,109}}</string>
 			<key>offset</key>
 			<string>{76.5,-50}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>ObitoMask_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1022,543},{213,109}}</string>
+			<string>{{1237,2208},{213,109}}</string>
 			<key>offset</key>
 			<string>{76.5,-50}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>ObitoMask_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{229,671},{94,92}}</string>
+			<string>{{2470,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>ObitoMask_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{325,671},{94,92}}</string>
+			<string>{{2566,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>ObitoMask_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{421,671},{94,92}}</string>
+			<string>{{2662,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>ObitoMask_R_skill04_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{517,671},{94,92}}</string>
+			<string>{{2758,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>ObitoMask_R_skill04_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{613,671},{94,92}}</string>
+			<string>{{2854,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>ObitoMask_R_skill04_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{709,671},{94,92}}</string>
+			<string>{{2950,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -878,7 +878,7 @@
 		<key>ObitoMask_R_skill04_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{805,671},{94,92}}</string>
+			<string>{{3046,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -891,7 +891,7 @@
 		<key>ObitoMask_R_skill04_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{901,671},{94,92}}</string>
+			<string>{{3142,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -904,7 +904,7 @@
 		<key>ObitoMask_R_skill04_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1740,767},{55,84}}</string>
+			<string>{{1898,2338},{55,84}}</string>
 			<key>offset</key>
 			<string>{-6,0}</string>
 			<key>rotated</key>
@@ -917,7 +917,7 @@
 		<key>ObitoMask_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1797,767},{100,84}}</string>
+			<string>{{1955,2338},{100,84}}</string>
 			<key>offset</key>
 			<string>{19,0}</string>
 			<key>rotated</key>
@@ -930,7 +930,7 @@
 		<key>ObitoMask_R_skill04_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1899,767},{95,84}}</string>
+			<string>{{2057,2338},{95,84}}</string>
 			<key>offset</key>
 			<string>{19.5,0}</string>
 			<key>rotated</key>
@@ -943,7 +943,7 @@
 		<key>ObitoMask_R_skill04_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,859},{55,84}}</string>
+			<string>{{2154,2338},{55,84}}</string>
 			<key>offset</key>
 			<string>{-6,0}</string>
 			<key>rotated</key>
@@ -956,7 +956,7 @@
 		<key>ObitoMask_R_skill04_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{57,859},{100,84}}</string>
+			<string>{{2211,2338},{100,84}}</string>
 			<key>offset</key>
 			<string>{19,0}</string>
 			<key>rotated</key>
@@ -969,7 +969,7 @@
 		<key>ObitoMask_R_skill04_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{159,859},{95,84}}</string>
+			<string>{{2313,2338},{95,84}}</string>
 			<key>offset</key>
 			<string>{19.5,0}</string>
 			<key>rotated</key>
@@ -982,7 +982,7 @@
 		<key>ObitoMask_R_skill04_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{256,859},{55,84}}</string>
+			<string>{{2410,2338},{55,84}}</string>
 			<key>offset</key>
 			<string>{-6,0}</string>
 			<key>rotated</key>
@@ -995,7 +995,7 @@
 		<key>ObitoMask_R_skill04_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{313,859},{100,84}}</string>
+			<string>{{2467,2338},{100,84}}</string>
 			<key>offset</key>
 			<string>{19,0}</string>
 			<key>rotated</key>
@@ -1008,7 +1008,7 @@
 		<key>ObitoMask_R_skill04_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{415,859},{95,84}}</string>
+			<string>{{2569,2338},{95,84}}</string>
 			<key>offset</key>
 			<string>{19.5,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1021,7 @@
 		<key>ObitoMask_R_skill04_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1873,543},{63,94}}</string>
+			<string>{{2088,2208},{63,94}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1034,7 @@
 		<key>ObitoMask_R_skill04_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{213,767},{53,90}}</string>
+			<string>{{371,2338},{53,90}}</string>
 			<key>offset</key>
 			<string>{3,0}</string>
 			<key>rotated</key>
@@ -1047,7 +1047,7 @@
 		<key>ObitoMask_R_skill04_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1518,671},{69,91}}</string>
+			<string>{{3759,2208},{69,91}}</string>
 			<key>offset</key>
 			<string>{16,0}</string>
 			<key>rotated</key>
@@ -1060,7 +1060,7 @@
 		<key>ObitoMask_R_skill04_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1589,671},{64,91}}</string>
+			<string>{{3830,2208},{64,91}}</string>
 			<key>offset</key>
 			<string>{13,0}</string>
 			<key>rotated</key>
@@ -1073,7 +1073,7 @@
 		<key>ObitoMask_R_skill04_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{453,767},{44,89}}</string>
+			<string>{{611,2338},{44,89}}</string>
 			<key>offset</key>
 			<string>{-6.5,0}</string>
 			<key>rotated</key>
@@ -1086,7 +1086,7 @@
 		<key>ObitoMask_R_skill04_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{602,767},{73,87}}</string>
+			<string>{{760,2338},{73,87}}</string>
 			<key>offset</key>
 			<string>{2.5,0}</string>
 			<key>rotated</key>
@@ -1099,7 +1099,7 @@
 		<key>ObitoMask_R_skill04_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{769,767},{74,86}}</string>
+			<string>{{927,2338},{74,86}}</string>
 			<key>offset</key>
 			<string>{2.5,0}</string>
 			<key>rotated</key>
@@ -1112,7 +1112,7 @@
 		<key>ObitoMask_R_skill04_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{845,767},{65,86}}</string>
+			<string>{{1003,2338},{65,86}}</string>
 			<key>offset</key>
 			<string>{5,0}</string>
 			<key>rotated</key>
@@ -1125,7 +1125,7 @@
 		<key>ObitoMask_R_skill04_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{499,767},{34,89}}</string>
+			<string>{{657,2338},{34,89}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -1138,7 +1138,7 @@
 		<key>ObitoMask_R_skill04_27</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1938,543},{42,94}}</string>
+			<string>{{2153,2208},{42,94}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1151,7 +1151,7 @@
 		<key>ObitoMask_R_skill04_28</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1982,543},{42,94}}</string>
+			<string>{{2197,2208},{42,94}}</string>
 			<key>offset</key>
 			<string>{0,20}</string>
 			<key>rotated</key>
@@ -1164,7 +1164,7 @@
 		<key>ObitoMask_R_skill04_29</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,671},{42,94}}</string>
+			<string>{{2241,2208},{42,94}}</string>
 			<key>offset</key>
 			<string>{0,46}</string>
 			<key>rotated</key>
@@ -1177,7 +1177,7 @@
 		<key>ObitoMask_R_skill04_30</key>
 		<dict>
 			<key>frame</key>
-			<string>{{44,671},{42,94}}</string>
+			<string>{{2285,2208},{42,94}}</string>
 			<key>offset</key>
 			<string>{0,80}</string>
 			<key>rotated</key>
@@ -1190,7 +1190,7 @@
 		<key>ObitoMask_R_skill04_31</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1237,543},{39,98}}</string>
+			<string>{{1452,2208},{39,98}}</string>
 			<key>offset</key>
 			<string>{0,80}</string>
 			<key>rotated</key>
@@ -1203,7 +1203,7 @@
 		<key>ObitoMask_R_skill04_32</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1278,543},{43,97}}</string>
+			<string>{{1493,2208},{43,97}}</string>
 			<key>offset</key>
 			<string>{0,80}</string>
 			<key>rotated</key>
@@ -1216,7 +1216,7 @@
 		<key>ObitoMask_R_skill04_33</key>
 		<dict>
 			<key>frame</key>
-			<string>{{518,0},{284,181}}</string>
+			<string>{{2863,1620},{284,181}}</string>
 			<key>offset</key>
 			<string>{120,0}</string>
 			<key>rotated</key>
@@ -1229,7 +1229,7 @@
 		<key>ObitoMask_R_skill04_34</key>
 		<dict>
 			<key>frame</key>
-			<string>{{804,0},{276,181}}</string>
+			<string>{{3149,1620},{276,181}}</string>
 			<key>offset</key>
 			<string>{115.5,0}</string>
 			<key>rotated</key>
@@ -1242,7 +1242,7 @@
 		<key>ObitoMask_R_skill04_35</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1082,0},{276,181}}</string>
+			<string>{{3427,1620},{276,181}}</string>
 			<key>offset</key>
 			<string>{116,0}</string>
 			<key>rotated</key>
@@ -1255,7 +1255,7 @@
 		<key>ObitoMask_R_skill04_36</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1360,0},{284,181}}</string>
+			<string>{{3705,1620},{284,181}}</string>
 			<key>offset</key>
 			<string>{120,0}</string>
 			<key>rotated</key>
@@ -1268,7 +1268,7 @@
 		<key>ObitoMask_R_skill04_37</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1646,0},{276,181}}</string>
+			<string>{{0,2025},{276,181}}</string>
 			<key>offset</key>
 			<string>{115.5,0}</string>
 			<key>rotated</key>
@@ -1281,7 +1281,7 @@
 		<key>ObitoMask_R_skill04_38</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,186},{276,181}}</string>
+			<string>{{278,2025},{276,181}}</string>
 			<key>offset</key>
 			<string>{116,0}</string>
 			<key>rotated</key>
@@ -1294,7 +1294,7 @@
 		<key>ObitoMask_R_skill04_39</key>
 		<dict>
 			<key>frame</key>
-			<string>{{278,186},{284,181}}</string>
+			<string>{{556,2025},{284,181}}</string>
 			<key>offset</key>
 			<string>{120,0}</string>
 			<key>rotated</key>
@@ -1307,7 +1307,7 @@
 		<key>ObitoMask_R_skill04_40</key>
 		<dict>
 			<key>frame</key>
-			<string>{{564,186},{276,181}}</string>
+			<string>{{842,2025},{276,181}}</string>
 			<key>offset</key>
 			<string>{115.5,0}</string>
 			<key>rotated</key>
@@ -1320,7 +1320,7 @@
 		<key>ObitoMask_R_skill04_41</key>
 		<dict>
 			<key>frame</key>
-			<string>{{842,186},{276,181}}</string>
+			<string>{{1120,2025},{276,181}}</string>
 			<key>offset</key>
 			<string>{116,0}</string>
 			<key>rotated</key>
@@ -1333,7 +1333,7 @@
 		<key>ObitoMask_R_skill04_42</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1120,186},{284,181}}</string>
+			<string>{{1398,2025},{284,181}}</string>
 			<key>offset</key>
 			<string>{120,0}</string>
 			<key>rotated</key>
@@ -1346,7 +1346,7 @@
 		<key>ObitoMask_R_skill04_43</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1406,186},{276,181}}</string>
+			<string>{{1684,2025},{276,181}}</string>
 			<key>offset</key>
 			<string>{115.5,0}</string>
 			<key>rotated</key>
@@ -1359,7 +1359,7 @@
 		<key>ObitoMask_R_skill04_44</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1684,186},{276,181}}</string>
+			<string>{{1962,2025},{276,181}}</string>
 			<key>offset</key>
 			<string>{116,0}</string>
 			<key>rotated</key>
@@ -1372,7 +1372,7 @@
 		<key>ObitoMask_R_skill04_45</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1323,543},{54,96}}</string>
+			<string>{{1538,2208},{54,96}}</string>
 			<key>offset</key>
 			<string>{0,80}</string>
 			<key>rotated</key>
@@ -1385,7 +1385,7 @@
 		<key>ObitoMask_R_skill04_46</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1379,543},{54,96}}</string>
+			<string>{{1594,2208},{54,96}}</string>
 			<key>offset</key>
 			<string>{0,50}</string>
 			<key>rotated</key>
@@ -1398,7 +1398,7 @@
 		<key>ObitoMask_R_skill04_47</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1435,543},{54,96}}</string>
+			<string>{{1650,2208},{54,96}}</string>
 			<key>offset</key>
 			<string>{0,20}</string>
 			<key>rotated</key>
@@ -1411,7 +1411,7 @@
 		<key>ObitoMask_R_skill04_48</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1491,543},{54,96}}</string>
+			<string>{{1706,2208},{54,96}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1424,7 +1424,7 @@
 		<key>ObitoMask_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{997,671},{94,92}}</string>
+			<string>{{3238,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1437,7 +1437,7 @@
 		<key>ObitoMask_R_skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1093,671},{94,92}}</string>
+			<string>{{3334,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1450,7 +1450,7 @@
 		<key>ObitoMask_R_skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1189,671},{94,92}}</string>
+			<string>{{3430,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1463,7 +1463,7 @@
 		<key>ObitoMask_R_skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1285,671},{94,92}}</string>
+			<string>{{3526,2208},{94,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1476,7 +1476,7 @@
 		<key>ObitoMask_R_skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1199,767},{50,85}}</string>
+			<string>{{1357,2338},{50,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1489,7 +1489,7 @@
 		<key>ObitoMask_R_skill05_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{748,543},{57,112}}</string>
+			<string>{{963,2208},{57,112}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1502,7 +1502,7 @@
 		<key>ObitoMask_R_skill05_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1236,859},{96,64}}</string>
+			<string>{{3437,2338},{96,64}}</string>
 			<key>offset</key>
 			<string>{-17.5,0}</string>
 			<key>rotated</key>
@@ -1515,7 +1515,7 @@
 		<key>ObitoMask_R_skill05_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{774,369},{131,146}}</string>
+			<string>{{3014,2025},{131,146}}</string>
 			<key>offset</key>
 			<string>{-8,0}</string>
 			<key>rotated</key>
@@ -1528,7 +1528,7 @@
 		<key>ObitoMask_R_skill05_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1748,369},{66,135}}</string>
+			<string>{{3988,2025},{66,135}}</string>
 			<key>offset</key>
 			<string>{-6.5,0}</string>
 			<key>rotated</key>
@@ -1541,7 +1541,7 @@
 		<key>ObitoMask_R_skill05_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1251,767},{50,85}}</string>
+			<string>{{1409,2338},{50,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1551,10 +1551,426 @@
 			<key>sourceSize</key>
 			<string>{50,85}</string>
 		</dict>
+		<key>ObitoMask_R_skill05_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2666,2338},{45,83}}</string>
+			<key>offset</key>
+			<string>{0.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{45,83}}</string>
+			<key>sourceSize</key>
+			<string>{45,83}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2000,1620},{343,315}}</string>
+			<key>offset</key>
+			<string>{-0.5,-10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{343,315}}</string>
+			<key>sourceSize</key>
+			<string>{343,315}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1300,1620},{346,317}}</string>
+			<key>offset</key>
+			<string>{-1.5,-11}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{346,317}}</string>
+			<key>sourceSize</key>
+			<string>{346,317}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1648,1620},{350,317}}</string>
+			<key>offset</key>
+			<string>{-1,-11}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{350,317}}</string>
+			<key>sourceSize</key>
+			<string>{350,317}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{946,1620},{352,318}}</string>
+			<key>offset</key>
+			<string>{-2.5,-11}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{352,318}}</string>
+			<key>sourceSize</key>
+			<string>{352,318}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{768,1620},{176,319}}</string>
+			<key>offset</key>
+			<string>{6.5,-12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{176,319}}</string>
+			<key>sourceSize</key>
+			<string>{176,319}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{606,1620},{160,320}}</string>
+			<key>offset</key>
+			<string>{7,-12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{160,320}}</string>
+			<key>sourceSize</key>
+			<string>{160,320}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{606,0},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_20</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1212,0},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_21</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1818,0},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_22</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2424,0},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_23</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3030,0},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_24</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,405},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_25</key>
+		<dict>
+			<key>frame</key>
+			<string>{{606,405},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_26</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1212,405},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_27</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1818,405},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_28</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2424,405},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_29</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3030,405},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_30</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,810},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_31</key>
+		<dict>
+			<key>frame</key>
+			<string>{{606,810},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_32</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1212,810},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_33</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1818,810},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_34</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2424,810},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_35</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3030,810},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_36</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1215},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_37</key>
+		<dict>
+			<key>frame</key>
+			<string>{{606,1215},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_38</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1212,1215},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_39</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1818,1215},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_40</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2424,1215},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_41</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3030,1215},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
+		<key>ObitoMask_R_skill05_42</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1620},{604,403}}</string>
+			<key>offset</key>
+			<string>{-6,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{604,403}}</string>
+			<key>sourceSize</key>
+			<string>{604,403}</string>
+		</dict>
 		<key>ObitoMask_R_skill10_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{646,859},{79,66}}</string>
+			<string>{{2847,2338},{79,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1567,7 +1983,7 @@
 		<key>ObitoMask_R_skill10_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1334,859},{81,64}}</string>
+			<string>{{3535,2338},{81,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1580,7 +1996,7 @@
 		<key>ObitoMask_R_skill10_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1897,859},{80,62}}</string>
+			<string>{{65,2430},{80,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1593,7 +2009,7 @@
 		<key>ObitoMask_R_skill10_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{727,859},{81,66}}</string>
+			<string>{{2928,2338},{81,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1606,7 +2022,7 @@
 		<key>ObitoMask_R_skill10_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1417,859},{81,64}}</string>
+			<string>{{3618,2338},{81,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1619,7 +2035,7 @@
 		<key>ObitoMask_R_skill10_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,945},{79,62}}</string>
+			<string>{{147,2430},{79,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1632,7 +2048,7 @@
 		<key>ObitoMask_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{810,859},{79,66}}</string>
+			<string>{{3011,2338},{79,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1645,7 +2061,7 @@
 		<key>ObitoMask_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1500,859},{81,64}}</string>
+			<string>{{3701,2338},{81,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1658,7 +2074,7 @@
 		<key>ObitoMask_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{81,945},{80,62}}</string>
+			<string>{{228,2430},{80,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1671,7 +2087,7 @@
 		<key>ObitoMask_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{891,859},{81,66}}</string>
+			<string>{{3092,2338},{81,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1684,7 +2100,7 @@
 		<key>ObitoMask_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1583,859},{81,64}}</string>
+			<string>{{3784,2338},{81,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1697,7 +2113,7 @@
 		<key>ObitoMask_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{163,945},{79,62}}</string>
+			<string>{{310,2430},{79,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1710,7 +2126,7 @@
 		<key>ObitoMask_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{974,859},{79,66}}</string>
+			<string>{{3175,2338},{79,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1723,7 +2139,7 @@
 		<key>ObitoMask_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1666,859},{81,64}}</string>
+			<string>{{3867,2338},{81,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1736,7 +2152,7 @@
 		<key>ObitoMask_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{244,945},{80,62}}</string>
+			<string>{{391,2430},{80,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1749,7 +2165,7 @@
 		<key>ObitoMask_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1055,859},{81,66}}</string>
+			<string>{{3256,2338},{81,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1762,7 +2178,7 @@
 		<key>ObitoMask_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1749,859},{81,64}}</string>
+			<string>{{3950,2338},{81,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1775,7 +2191,7 @@
 		<key>ObitoMask_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{326,945},{79,62}}</string>
+			<string>{{473,2430},{79,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1793,7 +2209,7 @@
 		<key>realTextureFileName</key>
 		<string>ObitoMask.pvr.ccz</string>
 		<key>size</key>
-		<string>{2048,1024}</string>
+		<string>{4096,4096}</string>
 		<key>textureFileName</key>
 		<string>ObitoMask.pvr.ccz</string>
 	</dict>

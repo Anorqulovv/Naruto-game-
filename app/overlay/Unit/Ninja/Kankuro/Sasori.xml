@@ -78,12 +78,8 @@
 			<p type="combatPoint">0</p>
 		</data>
 		<frame>
-			<f>Kankuro_Skill01_01</f>
-			<e type="setSound">Audio/Kankuro/kankuro_skill1.ogg</e>
-			<f>Kankuro_Skill01_03</f>
-			<f>Kankuro_Skill01_04</f>
-			<f>Kankuro_Skill01_05</f>
-			<e type="setClone">0</e>
+			<f>Sasori_R_skill01_01</f><e type="setSound">Audio/Sasori/Skill1.1.ogg</e>
+			<f>Sasori_R_skill01_02</f><f>Sasori_R_skill01_03</f><f>Sasori_R_skill01_04</f><f>Sasori_R_skill01_05</f><e type="setClone">0</e>
 			<e type="setBuff">17</e>
 		</frame>
 	</action>
@@ -112,13 +108,9 @@
 			<p type="combatPoint">2060</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Kankuro/kankuro_skill3.ogg</e>
-			<f>Kankuro_Skill03_01</f>
-			<e type="setMon">Kuroari</e>
-			<f>Kankuro_Skill03_02</f>
-			<f>Kankuro_Skill03_03</f>
-			<f>Kankuro_Skill03_04</f>
-		</frame>
+			<e type="setSound">Audio/Sasori/Skill3.2.ogg</e>
+			<f>Sasori_R_skill03_01</f><f>Sasori_R_skill03_02</f><f>Sasori_R_skill03_03</f><f>Sasori_R_skill03_04</f><f>Sasori_R_skill03_05</f><e type="setMon">Kuroari</e>
+			<f>Sasori_R_skill03_06</f><f>Sasori_R_skill03_07</f><f>Sasori_R_skill03_08</f><f>Sasori_R_skill03_09</f><f>Sasori_R_skill03_10</f><f>Sasori_R_skill03_11</f><f>Sasori_R_skill03_12</f><f>Sasori_R_skill03_13</f><f>Sasori_R_skill03_14</f><f>Sasori_R_skill03_15</f><f>Sasori_R_skill03_16</f><f>Sasori_R_skill03_17</f><f>Sasori_R_skill03_18</f><f>Sasori_R_skill03_19</f><f>Sasori_R_skill03_20</f></frame>
 	</action>
 
 	<action name="skill04">

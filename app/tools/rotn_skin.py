@@ -95,8 +95,10 @@ def skin_unit(v2_plist, rotn_plist, v2_res, out_dir, log):
         log.append('skip (missing RotN texture/xml): ' + os.path.basename(v2_plist)); return
     items = load_frames(v2_plist, v2_tex)
     pvr = v2_tex.endswith('.pvr.ccz')
-    rframes = load_frames(rotn_plist, r_tex)
     ract = rotn_actions(r_xml)
+    rotn_root = rotn_plist[:rotn_plist.index(os.sep + 'Element' + os.sep)]
+    rframes = rotn_heroes.pool(rotn_root).frames(load_frames(rotn_plist, r_tex), [n for v in ract.values() for n in v],
+                                                 os.path.basename(rotn_plist)[:-6])
     unit = os.path.basename(v2_plist)[:-6]
     tree = ET.parse(v2_xml)
     changed = 0

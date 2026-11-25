@@ -7,7 +7,7 @@
 		<key>Yagura_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{870,519},{53,70}}</string>
+			<string>{{655,1608},{53,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>Yagura_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1500,603},{93,36}}</string>
+			<string>{{622,1682},{93,36}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Yagura_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1166,603},{92,43}}</string>
+			<string>{{288,1682},{92,43}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>Yagura_R_dead_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1690,603},{91,24}}</string>
+			<string>{{812,1682},{91,24}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Yagura_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1891,519},{57,63}}</string>
+			<string>{{2506,1608},{57,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Yagura_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{455,603},{70,56}}</string>
+			<string>{{3410,1608},{70,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>Yagura_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{376,603},{77,57}}</string>
+			<string>{{3331,1608},{77,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>Yagura_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{224,603},{70,59}}</string>
+			<string>{{3179,1608},{70,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Yagura_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{628,519},{43,71}}</string>
+			<string>{{146,1608},{43,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Yagura_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,603},{54,61}}</string>
+			<string>{{2731,1608},{54,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>Yagura_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{56,603},{54,61}}</string>
+			<string>{{2787,1608},{54,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Yagura_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{112,603},{54,61}}</string>
+			<string>{{2843,1608},{54,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Yagura_R_idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{168,603},{54,61}}</string>
+			<string>{{2899,1608},{54,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>Yagura_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1260,603},{92,43}}</string>
+			<string>{{382,1682},{92,43}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>Yagura_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1595,603},{93,36}}</string>
+			<string>{{717,1682},{93,36}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>Yagura_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1783,603},{91,24}}</string>
+			<string>{{905,1682},{91,24}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Yagura_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1354,603},{71,43}}</string>
+			<string>{{476,1682},{71,43}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Yagura_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1022,603},{70,46}}</string>
+			<string>{{144,1682},{70,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>Yagura_R_knockdown_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{662,603},{66,53}}</string>
+			<string>{{3752,1608},{66,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Yagura_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{925,519},{56,69}}</string>
+			<string>{{710,1608},{56,69}}</string>
 			<key>offset</key>
 			<string>{21,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>Yagura_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{983,519},{95,68}}</string>
+			<string>{{826,1608},{95,68}}</string>
 			<key>offset</key>
 			<string>{-27,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Yagura_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1080,519},{79,68}}</string>
+			<string>{{923,1608},{79,68}}</string>
 			<key>offset</key>
 			<string>{19,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Yagura_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{673,519},{195,71}}</string>
+			<string>{{191,1608},{195,71}}</string>
 			<key>offset</key>
 			<string>{67,-7}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>Yagura_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{310,519},{170,73}}</string>
+			<string>{{3730,1493},{170,73}}</string>
 			<key>offset</key>
 			<string>{57,-12}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Yagura_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1336,404},{178,94}}</string>
+			<string>{{2514,1493},{178,94}}</string>
 			<key>offset</key>
 			<string>{48.5,-15}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>Yagura_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1516,404},{180,93}}</string>
+			<string>{{2874,1493},{180,93}}</string>
 			<key>offset</key>
 			<string>{49.5,-13}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>Yagura_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{950,603},{70,50}}</string>
+			<string>{{0,1682},{70,50}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Yagura_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{527,603},{133,55}}</string>
+			<string>{{3482,1608},{133,55}}</string>
 			<key>offset</key>
 			<string>{36,0}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>Yagura_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1539,202},{140,116}}</string>
+			<string>{{3379,1318},{140,116}}</string>
 			<key>offset</key>
 			<string>{39.5,-15}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>Yagura_R_nattack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1808,202},{142,113}}</string>
+			<string>{{3917,1318},{142,113}}</string>
 			<key>offset</key>
 			<string>{44.5,-10}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>Yagura_R_nattack_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1394,202},{143,123}}</string>
+			<string>{{3089,1318},{143,123}}</string>
 			<key>offset</key>
 			<string>{26,0}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>Yagura_R_nattack_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1950,519},{81,63}}</string>
+			<string>{{2565,1608},{81,63}}</string>
 			<key>offset</key>
 			<string>{-19,0}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>Yagura_R_nattack_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1611,519},{64,65}}</string>
+			<string>{{1929,1608},{64,65}}</string>
 			<key>offset</key>
 			<string>{-17,0}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>Yagura_R_nattack_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1681,202},{125,116}}</string>
+			<string>{{3521,1318},{125,116}}</string>
 			<key>offset</key>
 			<string>{19.5,-19}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>Yagura_R_nattack_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,404},{147,113}}</string>
+			<string>{{0,1493},{147,113}}</string>
 			<key>offset</key>
 			<string>{60.5,-19}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>Yagura_R_nattack_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{149,404},{231,110}}</string>
+			<string>{{442,1493},{231,110}}</string>
 			<key>offset</key>
 			<string>{64.5,-16}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>Yagura_R_nattack_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{382,404},{277,110}}</string>
+			<string>{{675,1493},{277,110}}</string>
 			<key>offset</key>
 			<string>{75,-15}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>Yagura_R_nattack_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{661,404},{371,110}}</string>
+			<string>{{954,1493},{371,110}}</string>
 			<key>offset</key>
 			<string>{122,-17}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>Yagura_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{482,519},{36,72}}</string>
+			<string>{{0,1608},{36,72}}</string>
 			<key>offset</key>
 			<string>{-5.5,0}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>Yagura_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{520,519},{33,72}}</string>
+			<string>{{38,1608},{33,72}}</string>
 			<key>offset</key>
 			<string>{-5.5,0}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>Yagura_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{296,603},{78,58}}</string>
+			<string>{{3251,1608},{78,58}}</string>
 			<key>offset</key>
 			<string>{-19.5,0}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>Yagura_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{874,603},{74,51}}</string>
+			<string>{{3964,1608},{74,51}}</string>
 			<key>offset</key>
 			<string>{-13.5,0}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>Yagura_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{798,603},{74,52}}</string>
+			<string>{{3888,1608},{74,52}}</string>
 			<key>offset</key>
 			<string>{-13.5,0}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>Yagura_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{187,202},{189,180}}</string>
+			<string>{{1762,233},{189,180}}</string>
 			<key>offset</key>
 			<string>{-35.5,-14}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>Yagura_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{378,202},{350,172}}</string>
+			<string>{{1638,1318},{350,172}}</string>
 			<key>offset</key>
 			<string>{62,-18}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>Yagura_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{730,202},{360,147}}</string>
+			<string>{{2425,1318},{360,147}}</string>
 			<key>offset</key>
 			<string>{77,-23}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>Yagura_R_skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1092,202},{300,129}}</string>
+			<string>{{2787,1318},{300,129}}</string>
 			<key>offset</key>
 			<string>{106,-25}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>Yagura_R_skill02_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1034,404},{300,105}}</string>
+			<string>{{2212,1493},{300,105}}</string>
 			<key>offset</key>
 			<string>{106,-31}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>Yagura_R_skill02_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,519},{308,82}}</string>
+			<string>{{3420,1493},{308,82}}</string>
 			<key>offset</key>
 			<string>{110,-15}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>Yagura_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{555,519},{36,72}}</string>
+			<string>{{73,1608},{36,72}}</string>
 			<key>offset</key>
 			<string>{-5.5,0}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>Yagura_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{593,519},{33,72}}</string>
+			<string>{{111,1608},{33,72}}</string>
 			<key>offset</key>
 			<string>{-5.5,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>Yagura_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{63,202},{60,199}}</string>
+			<string>{{1005,233},{60,199}}</string>
 			<key>offset</key>
 			<string>{-19,0}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>Yagura_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{61,200}}</string>
+			<string>{{2730,0},{61,200}}</string>
 			<key>offset</key>
 			<string>{-19,0}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>Yagura_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{63,0},{61,200}}</string>
+			<string>{{2793,0},{61,200}}</string>
 			<key>offset</key>
 			<string>{-19,0}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>Yagura_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{126,0},{81,200}}</string>
+			<string>{{2856,0},{81,200}}</string>
 			<key>offset</key>
 			<string>{-8.5,0}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>Yagura_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{209,0},{126,200}}</string>
+			<string>{{2939,0},{126,200}}</string>
 			<key>offset</key>
 			<string>{14,0}</string>
 			<key>rotated</key>
@@ -735,7 +735,7 @@
 		<key>Yagura_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{337,0},{190,200}}</string>
+			<string>{{3067,0},{190,200}}</string>
 			<key>offset</key>
 			<string>{46,0}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>Yagura_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{529,0},{234,200}}</string>
+			<string>{{3259,0},{234,200}}</string>
 			<key>offset</key>
 			<string>{68,0}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>Yagura_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{765,0},{327,200}}</string>
+			<string>{{3495,0},{327,200}}</string>
 			<key>offset</key>
 			<string>{114.5,0}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>Yagura_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1094,0},{404,200}}</string>
+			<string>{{0,233},{404,200}}</string>
 			<key>offset</key>
 			<string>{153,0}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>Yagura_R_skill03_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1500,0},{471,200}}</string>
+			<string>{{406,233},{471,200}}</string>
 			<key>offset</key>
 			<string>{186.5,0}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>Yagura_R_skill03_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1973,0},{61,200}}</string>
+			<string>{{879,233},{61,200}}</string>
 			<key>offset</key>
 			<string>{-19,0}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>Yagura_R_skill03_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,202},{61,200}}</string>
+			<string>{{942,233},{61,200}}</string>
 			<key>offset</key>
 			<string>{-19,0}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>Yagura_R_skill03_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{125,202},{60,199}}</string>
+			<string>{{1067,233},{60,199}}</string>
 			<key>offset</key>
 			<string>{-19,0}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>Yagura_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1698,404},{75,85}}</string>
+			<string>{{3343,1493},{75,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -852,7 +852,579 @@
 		<key>Yagura_R_skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1876,603},{91,24}}</string>
+			<string>{{1995,1608},{66,65}}</string>
+			<key>offset</key>
+			<string>{2.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{66,65}}</string>
+			<key>sourceSize</key>
+			<string>{66,65}</string>
+		</dict>
+		<key>Yagura_R_skill05_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2063,1608},{54,65}}</string>
+			<key>offset</key>
+			<string>{6,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{54,65}}</string>
+			<key>sourceSize</key>
+			<string>{54,65}</string>
+		</dict>
+		<key>Yagura_R_skill05_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3302,1493},{39,87}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{39,87}}</string>
+			<key>sourceSize</key>
+			<string>{39,87}</string>
+		</dict>
+		<key>Yagura_R_skill05_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3238,1493},{62,88}}</string>
+			<key>offset</key>
+			<string>{-1.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{62,88}}</string>
+			<key>sourceSize</key>
+			<string>{62,88}</string>
+		</dict>
+		<key>Yagura_R_skill05_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1004,1608},{70,68}}</string>
+			<key>offset</key>
+			<string>{-2.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{70,68}}</string>
+			<key>sourceSize</key>
+			<string>{70,68}</string>
+		</dict>
+		<key>Yagura_R_skill05_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{388,1608},{68,71}}</string>
+			<key>offset</key>
+			<string>{-3.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{68,71}}</string>
+			<key>sourceSize</key>
+			<string>{68,71}</string>
+		</dict>
+		<key>Yagura_R_skill05_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{702,0},{226,228}}</string>
+			<key>offset</key>
+			<string>{-1.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{226,228}}</string>
+			<key>sourceSize</key>
+			<string>{226,228}</string>
+		</dict>
+		<key>Yagura_R_skill05_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1686,0},{246,221}}</string>
+			<key>offset</key>
+			<string>{1.5,-75}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{246,221}}</string>
+			<key>sourceSize</key>
+			<string>{246,221}</string>
+		</dict>
+		<key>Yagura_R_skill05_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{232,231}}</string>
+			<key>offset</key>
+			<string>{-4.5,-88}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{232,231}}</string>
+			<key>sourceSize</key>
+			<string>{232,231}</string>
+		</dict>
+		<key>Yagura_R_skill05_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{930,0},{226,228}}</string>
+			<key>offset</key>
+			<string>{-1.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{226,228}}</string>
+			<key>sourceSize</key>
+			<string>{226,228}</string>
+		</dict>
+		<key>Yagura_R_skill05_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1934,0},{246,221}}</string>
+			<key>offset</key>
+			<string>{1.5,-75}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{246,221}}</string>
+			<key>sourceSize</key>
+			<string>{246,221}</string>
+		</dict>
+		<key>Yagura_R_skill05_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{234,0},{232,231}}</string>
+			<key>offset</key>
+			<string>{-4.5,-88}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{232,231}}</string>
+			<key>sourceSize</key>
+			<string>{232,231}</string>
+		</dict>
+		<key>Yagura_R_skill05_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1158,0},{226,228}}</string>
+			<key>offset</key>
+			<string>{-1.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{226,228}}</string>
+			<key>sourceSize</key>
+			<string>{226,228}</string>
+		</dict>
+		<key>Yagura_R_skill05_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2182,0},{246,221}}</string>
+			<key>offset</key>
+			<string>{1.5,-75}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{246,221}}</string>
+			<key>sourceSize</key>
+			<string>{246,221}</string>
+		</dict>
+		<key>Yagura_R_skill05_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{468,0},{232,231}}</string>
+			<key>offset</key>
+			<string>{-4.5,-88}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{232,231}}</string>
+			<key>sourceSize</key>
+			<string>{232,231}</string>
+		</dict>
+		<key>Yagura_R_skill05_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1386,0},{298,222}}</string>
+			<key>offset</key>
+			<string>{-22.5,30}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{298,222}}</string>
+			<key>sourceSize</key>
+			<string>{298,222}</string>
+		</dict>
+		<key>Yagura_R_skill05_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2430,0},{298,208}}</string>
+			<key>offset</key>
+			<string>{-22.5,15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{298,208}}</string>
+			<key>sourceSize</key>
+			<string>{298,208}</string>
+		</dict>
+		<key>Yagura_R_skill05_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1129,233},{298,199}}</string>
+			<key>offset</key>
+			<string>{-22.5,-4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{298,199}}</string>
+			<key>sourceSize</key>
+			<string>{298,199}</string>
+		</dict>
+		<key>Yagura_R_skill05_20</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1429,233},{331,189}}</string>
+			<key>offset</key>
+			<string>{-71,-10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{331,189}}</string>
+			<key>sourceSize</key>
+			<string>{331,189}</string>
+		</dict>
+		<key>Yagura_R_skill05_21</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1990,1318},{433,162}}</string>
+			<key>offset</key>
+			<string>{-144,-9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{433,162}}</string>
+			<key>sourceSize</key>
+			<string>{433,162}</string>
+		</dict>
+		<key>Yagura_R_skill05_22</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1650,614},{831,173}}</string>
+			<key>offset</key>
+			<string>{56,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{831,173}}</string>
+			<key>sourceSize</key>
+			<string>{831,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_23</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1953,233},{823,177}}</string>
+			<key>offset</key>
+			<string>{52,-24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{823,177}}</string>
+			<key>sourceSize</key>
+			<string>{823,177}</string>
+		</dict>
+		<key>Yagura_R_skill05_24</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2483,614},{803,173}}</string>
+			<key>offset</key>
+			<string>{42,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{803,173}}</string>
+			<key>sourceSize</key>
+			<string>{803,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_25</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,793},{831,173}}</string>
+			<key>offset</key>
+			<string>{56,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{831,173}}</string>
+			<key>sourceSize</key>
+			<string>{831,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_26</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2778,233},{823,177}}</string>
+			<key>offset</key>
+			<string>{52,-24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{823,177}}</string>
+			<key>sourceSize</key>
+			<string>{823,177}</string>
+		</dict>
+		<key>Yagura_R_skill05_27</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833,793},{803,173}}</string>
+			<key>offset</key>
+			<string>{42,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{803,173}}</string>
+			<key>sourceSize</key>
+			<string>{803,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_28</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1638,793},{831,173}}</string>
+			<key>offset</key>
+			<string>{56,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{831,173}}</string>
+			<key>sourceSize</key>
+			<string>{831,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_29</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,435},{823,177}}</string>
+			<key>offset</key>
+			<string>{52,-24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{823,177}}</string>
+			<key>sourceSize</key>
+			<string>{823,177}</string>
+		</dict>
+		<key>Yagura_R_skill05_30</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2471,793},{803,173}}</string>
+			<key>offset</key>
+			<string>{42,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{803,173}}</string>
+			<key>sourceSize</key>
+			<string>{803,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_31</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,968},{831,173}}</string>
+			<key>offset</key>
+			<string>{56,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{831,173}}</string>
+			<key>sourceSize</key>
+			<string>{831,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_32</key>
+		<dict>
+			<key>frame</key>
+			<string>{{825,435},{823,177}}</string>
+			<key>offset</key>
+			<string>{52,-24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{823,177}}</string>
+			<key>sourceSize</key>
+			<string>{823,177}</string>
+		</dict>
+		<key>Yagura_R_skill05_33</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833,968},{803,173}}</string>
+			<key>offset</key>
+			<string>{42,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{803,173}}</string>
+			<key>sourceSize</key>
+			<string>{803,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_34</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1638,968},{831,173}}</string>
+			<key>offset</key>
+			<string>{56,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{831,173}}</string>
+			<key>sourceSize</key>
+			<string>{831,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_35</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1650,435},{823,177}}</string>
+			<key>offset</key>
+			<string>{52,-24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{823,177}}</string>
+			<key>sourceSize</key>
+			<string>{823,177}</string>
+		</dict>
+		<key>Yagura_R_skill05_36</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2471,968},{803,173}}</string>
+			<key>offset</key>
+			<string>{42,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{803,173}}</string>
+			<key>sourceSize</key>
+			<string>{803,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_37</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1143},{831,173}}</string>
+			<key>offset</key>
+			<string>{56,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{831,173}}</string>
+			<key>sourceSize</key>
+			<string>{831,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_38</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2475,435},{823,177}}</string>
+			<key>offset</key>
+			<string>{52,-24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{823,177}}</string>
+			<key>sourceSize</key>
+			<string>{823,177}</string>
+		</dict>
+		<key>Yagura_R_skill05_39</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833,1143},{803,173}}</string>
+			<key>offset</key>
+			<string>{42,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{803,173}}</string>
+			<key>sourceSize</key>
+			<string>{803,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_40</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1638,1143},{831,173}}</string>
+			<key>offset</key>
+			<string>{56,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{831,173}}</string>
+			<key>sourceSize</key>
+			<string>{831,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_41</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,614},{823,177}}</string>
+			<key>offset</key>
+			<string>{52,-24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{823,177}}</string>
+			<key>sourceSize</key>
+			<string>{823,177}</string>
+		</dict>
+		<key>Yagura_R_skill05_42</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2471,1143},{803,173}}</string>
+			<key>offset</key>
+			<string>{42,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{803,173}}</string>
+			<key>sourceSize</key>
+			<string>{803,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_43</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1318},{831,173}}</string>
+			<key>offset</key>
+			<string>{56,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{831,173}}</string>
+			<key>sourceSize</key>
+			<string>{831,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_44</key>
+		<dict>
+			<key>frame</key>
+			<string>{{825,614},{823,177}}</string>
+			<key>offset</key>
+			<string>{52,-24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{823,177}}</string>
+			<key>sourceSize</key>
+			<string>{823,177}</string>
+		</dict>
+		<key>Yagura_R_skill05_45</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833,1318},{803,173}}</string>
+			<key>offset</key>
+			<string>{42,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{803,173}}</string>
+			<key>sourceSize</key>
+			<string>{803,173}</string>
+		</dict>
+		<key>Yagura_R_skill05_46</key>
+		<dict>
+			<key>frame</key>
+			<string>{{998,1682},{91,24}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -862,10 +1434,10 @@
 			<key>sourceSize</key>
 			<string>{91,24}</string>
 		</dict>
-		<key>Yagura_R_skill05_03</key>
+		<key>Yagura_R_skill05_47</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1427,603},{71,43}}</string>
+			<string>{{549,1682},{71,43}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -875,10 +1447,10 @@
 			<key>sourceSize</key>
 			<string>{71,43}</string>
 		</dict>
-		<key>Yagura_R_skill05_04</key>
+		<key>Yagura_R_skill05_48</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1094,603},{70,46}}</string>
+			<string>{{216,1682},{70,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -888,10 +1460,10 @@
 			<key>sourceSize</key>
 			<string>{70,46}</string>
 		</dict>
-		<key>Yagura_R_skill05_05</key>
+		<key>Yagura_R_skill05_49</key>
 		<dict>
 			<key>frame</key>
-			<string>{{730,603},{66,53}}</string>
+			<string>{{3820,1608},{66,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -901,10 +1473,387 @@
 			<key>sourceSize</key>
 			<string>{66,53}</string>
 		</dict>
+		<key>Yagura_R_skill10_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{768,1608},{56,69}}</string>
+			<key>offset</key>
+			<string>{21,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{56,69}}</string>
+			<key>sourceSize</key>
+			<string>{56,69}</string>
+		</dict>
+		<key>Yagura_R_skill10_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1076,1608},{95,68}}</string>
+			<key>offset</key>
+			<string>{-27,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{95,68}}</string>
+			<key>sourceSize</key>
+			<string>{95,68}</string>
+		</dict>
+		<key>Yagura_R_skill10_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1173,1608},{79,68}}</string>
+			<key>offset</key>
+			<string>{19,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{79,68}}</string>
+			<key>sourceSize</key>
+			<string>{79,68}</string>
+		</dict>
+		<key>Yagura_R_skill10_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{458,1608},{195,71}}</string>
+			<key>offset</key>
+			<string>{67,-7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{195,71}}</string>
+			<key>sourceSize</key>
+			<string>{195,71}</string>
+		</dict>
+		<key>Yagura_R_skill10_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3902,1493},{170,73}}</string>
+			<key>offset</key>
+			<string>{57,-12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{170,73}}</string>
+			<key>sourceSize</key>
+			<string>{170,73}</string>
+		</dict>
+		<key>Yagura_R_skill10_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2694,1493},{178,94}}</string>
+			<key>offset</key>
+			<string>{48.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{178,94}}</string>
+			<key>sourceSize</key>
+			<string>{178,94}</string>
+		</dict>
+		<key>Yagura_R_skill10_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3056,1493},{180,93}}</string>
+			<key>offset</key>
+			<string>{49.5,-13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{180,93}}</string>
+			<key>sourceSize</key>
+			<string>{180,93}</string>
+		</dict>
+		<key>Yagura_R_skill10_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{72,1682},{70,50}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{70,50}}</string>
+			<key>sourceSize</key>
+			<string>{70,50}</string>
+		</dict>
+		<key>Yagura_R_skill10_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3617,1608},{133,55}}</string>
+			<key>offset</key>
+			<string>{36,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{133,55}}</string>
+			<key>sourceSize</key>
+			<string>{133,55}</string>
+		</dict>
+		<key>Yagura_R_skill10_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3648,1318},{140,116}}</string>
+			<key>offset</key>
+			<string>{39.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{140,116}}</string>
+			<key>sourceSize</key>
+			<string>{140,116}</string>
+		</dict>
+		<key>Yagura_R_skill10_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{149,1493},{142,113}}</string>
+			<key>offset</key>
+			<string>{44.5,-10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{142,113}}</string>
+			<key>sourceSize</key>
+			<string>{142,113}</string>
+		</dict>
+		<key>Yagura_R_skill10_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3234,1318},{143,123}}</string>
+			<key>offset</key>
+			<string>{26,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{143,123}}</string>
+			<key>sourceSize</key>
+			<string>{143,123}</string>
+		</dict>
+		<key>Yagura_R_skill10_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2648,1608},{81,63}}</string>
+			<key>offset</key>
+			<string>{-19,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{81,63}}</string>
+			<key>sourceSize</key>
+			<string>{81,63}</string>
+		</dict>
+		<key>Yagura_R_skill10_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2119,1608},{64,65}}</string>
+			<key>offset</key>
+			<string>{-17,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{64,65}}</string>
+			<key>sourceSize</key>
+			<string>{64,65}</string>
+		</dict>
+		<key>Yagura_R_skill10_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3790,1318},{125,116}}</string>
+			<key>offset</key>
+			<string>{19.5,-19}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{125,116}}</string>
+			<key>sourceSize</key>
+			<string>{125,116}</string>
+		</dict>
+		<key>Yagura_R_skill10_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{293,1493},{147,113}}</string>
+			<key>offset</key>
+			<string>{60.5,-19}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{147,113}}</string>
+			<key>sourceSize</key>
+			<string>{147,113}</string>
+		</dict>
+		<key>Yagura_R_skill10_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1327,1493},{231,110}}</string>
+			<key>offset</key>
+			<string>{64.5,-16}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{231,110}}</string>
+			<key>sourceSize</key>
+			<string>{231,110}</string>
+		</dict>
+		<key>Yagura_R_skill10_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1560,1493},{277,110}}</string>
+			<key>offset</key>
+			<string>{75,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{277,110}}</string>
+			<key>sourceSize</key>
+			<string>{277,110}</string>
+		</dict>
+		<key>Yagura_R_skill10_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1839,1493},{371,110}}</string>
+			<key>offset</key>
+			<string>{122,-17}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{371,110}}</string>
+			<key>sourceSize</key>
+			<string>{371,110}</string>
+		</dict>
+		<key>Yagura_R_skill11_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2955,1608},{54,61}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{54,61}}</string>
+			<key>sourceSize</key>
+			<string>{54,61}</string>
+		</dict>
+		<key>Yagura_R_skill11_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3011,1608},{54,61}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{54,61}}</string>
+			<key>sourceSize</key>
+			<string>{54,61}</string>
+		</dict>
+		<key>Yagura_R_skill11_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3067,1608},{54,61}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{54,61}}</string>
+			<key>sourceSize</key>
+			<string>{54,61}</string>
+		</dict>
+		<key>Yagura_R_skill11_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3123,1608},{54,61}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{54,61}}</string>
+			<key>sourceSize</key>
+			<string>{54,61}</string>
+		</dict>
+		<key>Yagura_R_skill12_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2185,1608},{49,64}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{49,64}}</string>
+			<key>sourceSize</key>
+			<string>{49,64}</string>
+		</dict>
+		<key>Yagura_R_skill12_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2236,1608},{54,64}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,5},{54,64}}</string>
+			<key>sourceSize</key>
+			<string>{54,64}</string>
+		</dict>
+		<key>Yagura_R_skill12_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1254,1608},{50,68}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,5},{50,68}}</string>
+			<key>sourceSize</key>
+			<string>{50,68}</string>
+		</dict>
+		<key>Yagura_R_skill12_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1306,1608},{50,68}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{50,68}}</string>
+			<key>sourceSize</key>
+			<string>{50,68}</string>
+		</dict>
+		<key>Yagura_R_skill12_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1566,1608},{55,66}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,4},{55,66}}</string>
+			<key>sourceSize</key>
+			<string>{55,66}</string>
+		</dict>
+		<key>Yagura_R_skill12_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1623,1608},{62,66}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,5},{62,66}}</string>
+			<key>sourceSize</key>
+			<string>{62,66}</string>
+		</dict>
 		<key>Yagura_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1677,519},{49,64}}</string>
+			<string>{{2292,1608},{49,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -917,7 +1866,7 @@
 		<key>Yagura_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1728,519},{54,64}}</string>
+			<string>{{2343,1608},{54,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -930,7 +1879,7 @@
 		<key>Yagura_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1161,519},{50,68}}</string>
+			<string>{{1358,1608},{50,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -943,7 +1892,7 @@
 		<key>Yagura_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1213,519},{50,68}}</string>
+			<string>{{1410,1608},{50,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -956,7 +1905,7 @@
 		<key>Yagura_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1369,519},{55,66}}</string>
+			<string>{{1687,1608},{55,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -969,7 +1918,7 @@
 		<key>Yagura_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1426,519},{62,66}}</string>
+			<string>{{1744,1608},{62,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -982,7 +1931,7 @@
 		<key>Yagura_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1784,519},{49,64}}</string>
+			<string>{{2399,1608},{49,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -995,7 +1944,7 @@
 		<key>Yagura_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1835,519},{54,64}}</string>
+			<string>{{2450,1608},{54,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1008,7 +1957,7 @@
 		<key>Yagura_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1265,519},{50,68}}</string>
+			<string>{{1462,1608},{50,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1970,7 @@
 		<key>Yagura_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1317,519},{50,68}}</string>
+			<string>{{1514,1608},{50,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1983,7 @@
 		<key>Yagura_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1490,519},{55,66}}</string>
+			<string>{{1808,1608},{55,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1047,7 +1996,7 @@
 		<key>Yagura_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1547,519},{62,66}}</string>
+			<string>{{1865,1608},{62,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1065,7 +2014,7 @@
 		<key>realTextureFileName</key>
 		<string>Yagura.pvr.ccz</string>
 		<key>size</key>
-		<string>{2048,1024}</string>
+		<string>{4096,2048}</string>
 		<key>textureFileName</key>
 		<string>Yagura.pvr.ccz</string>
 	</dict>

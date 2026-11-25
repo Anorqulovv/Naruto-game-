@@ -143,20 +143,12 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>Choji_Skill04_02</f>
-			<e type="setSound">Audio/Choji/Choji_skill4.ogg</e>
-			<e type="setSkillEffect">smk</e>
-			<f>Choji_Skill04_03</f>
-			<e type="setDelay">20</e>
-			<f>Choji_Skill04_04</f>
-			<f>Choji_Skill04_05</f>
-			<e type="setDelay">10</e>
-			<f>Choji_Skill04_06</f>
-			<e type="setDelay">10</e>
-			<f>Choji_Skill04_07</f>
-			<e type="setDelay">10</e>
-			<f>Choji_Skill04_08</f>
-			<e type="setMon">ChuiDi</e>
+			<f>Izuna_R_skill04_01</f><f>Izuna_R_skill04_02</f><f>Izuna_R_skill04_03</f><e type="setSkillEffect">smk</e>
+			<f>Izuna_R_skill04_04</f><f>Izuna_R_skill04_05</f><f>Izuna_R_skill04_06</f><e type="setDelay">20</e>
+			<f>Izuna_R_skill04_07</f><f>Izuna_R_skill04_08</f><f>Izuna_R_skill04_09</f><f>Izuna_R_skill04_10</f><f>Izuna_R_skill04_11</f><f>Izuna_R_skill04_12</f><f>Izuna_R_skill04_13</f><e type="setDelay">10</e>
+			<f>Izuna_R_skill04_14</f><f>Izuna_R_skill04_15</f><f>Izuna_R_skill04_16</f><e type="setDelay">10</e>
+			<f>Izuna_R_skill04_17</f><f>Izuna_R_skill04_18</f><f>Izuna_R_skill04_19</f><e type="setDelay">10</e>
+			<f>Izuna_R_skill04_20</f><f>Izuna_R_skill04_21</f><f>Izuna_R_skill04_22</f><e type="setMon">ChuiDi</e>
 			<e type="setDelay">60</e>
 			<e type="setSkillEffect">smk</e>
 			<e type="setDelay">10</e>
@@ -202,11 +194,7 @@
 			<p type="cd">1</p>
 		</data>
 		<frame>
-			<f>Choji_Skill09_001</f>
-			<f>Choji_Skill09_002</f>
-			<f>Choji_Skill09_003</f>
-			<f>Choji_Skill09_004</f>
-		</frame>
+			<f>Izuna_R_skill09_01</f><f>Izuna_R_skill09_02</f><f>Izuna_R_skill09_03</f><f>Izuna_R_skill09_04</f></frame>
 	</action>
 
 	<action name="skill10">
@@ -218,23 +206,14 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Choji_Skill10_001</f>
+			<f>Izuna_R_skill10_01</f><e type="setDelay">10</e>
 			<e type="setDelay">10</e>
-			<f>Choji_Skill10_002</f>
-			<e type="setDelay">10</e>
-			<f>Choji_Skill10_003</f>
-			<e type="setSound">Audio/Effect/combo1.ogg</e>
+			<f>Izuna_R_skill10_02</f><e type="setSound">Audio/Effect/combo1.ogg</e>
 			<e type="setAttackBox">l_hit</e>
-			<f>Choji_Skill10_004</f>
 			<e type="setDelay">10</e>
-			<f>Choji_Skill10_005</f>
-			<e type="setMove">16</e>
-			<f>Choji_Skill10_006</f>
-			<e type="setSound">Audio/Choji/Choji_combo.ogg</e>
-			<f>Choji_Skill10_007</f>
-			<e type="setDelay">10</e>
-			<f>Choji_Skill10_008</f>
-			<e type="setSound">Audio/Effect/combo3.ogg</e>
+			<f>Izuna_R_skill10_03</f><e type="setMove">16</e>
+			<f>Izuna_R_skill10_04</f><e type="setDelay">10</e>
+			<f>Izuna_R_skill10_05</f><e type="setSound">Audio/Effect/combo3.ogg</e>
 			<e type="setDelay">10</e>
 		</frame>
 	</action>
@@ -249,13 +228,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Choji_Skill11_001</f>
-			<f>Choji_Skill11_002</f>
-			<f>Choji_Skill11_003</f>
-			<f>Choji_Skill11_004</f>
-			<f>Choji_Skill11_005</f>
-			<f>Choji_Skill11_006</f>
-		</frame>
+			<f>Izuna_R_skill11_01</f><f>Izuna_R_skill11_02</f><f>Izuna_R_skill11_03</f><f>Izuna_R_skill11_04</f><f>Izuna_R_skill11_05</f><f>Izuna_R_skill11_06</f></frame>
 	</action>
 
 	<action name="skill12">
@@ -267,22 +240,13 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Choji_Skill10_001</f>
-			<e type="setDelay">10</e>
-			<f>Choji_Skill10_002</f>
-			<f>Choji_Skill10_003</f>
-			<e type="setSound">Audio/Effect/combo1.ogg</e>
+			<f>Izuna_R_skill12_01</f><e type="setDelay">10</e>
+			<f>Izuna_R_skill12_02</f><e type="setSound">Audio/Effect/combo1.ogg</e>
 			<e type="setAttackBox">l_hit</e>
 			<e type="setDelay">10</e>
-			<f>Choji_Skill10_004</f>
-			<f>Choji_Skill10_005</f>
-			<e type="setSound">Audio/Choji/Choji_skill10.ogg</e>
-			<e type="setMove">16</e>
-			<f>Choji_Skill10_006</f>
-			<f>Choji_Skill10_007</f>
-			<e type="setAttackBox">l_hit</e>
-			<f>Choji_Skill10_008</f>
-			<e type="setSound">Audio/Effect/combo3.ogg</e>
+			<f>Izuna_R_skill12_03</f><e type="setMove">16</e>
+			<f>Izuna_R_skill12_04</f><e type="setAttackBox">l_hit</e>
+			<f>Izuna_R_skill12_05</f><e type="setSound">Audio/Effect/combo3.ogg</e>
 			<e type="setDelay">10</e>
 		</frame>
 	</action>

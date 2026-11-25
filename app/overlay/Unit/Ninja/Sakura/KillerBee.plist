@@ -7,7 +7,7 @@
 		<key>KillerBee_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{731,447},{60,77}}</string>
+			<string>{{2269,983},{60,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>KillerBee_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1422,537},{78,40}}</string>
+			<string>{{1103,1084},{78,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>KillerBee_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1582,537},{82,33}}</string>
+			<string>{{1263,1084},{82,33}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>KillerBee_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{562,447},{46,78}}</string>
+			<string>{{2100,983},{46,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>KillerBee_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1342,537},{78,46}}</string>
+			<string>{{1023,1084},{78,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>KillerBee_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1266,537},{74,48}}</string>
+			<string>{{947,1084},{74,48}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>KillerBee_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{793,447},{59,76}}</string>
+			<string>{{2331,983},{59,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>KillerBee_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{854,447},{59,76}}</string>
+			<string>{{2392,983},{59,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>KillerBee_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{55,447},{36,85}}</string>
+			<string>{{1593,983},{36,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>KillerBee_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{93,447},{36,83}}</string>
+			<string>{{1631,983},{36,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>KillerBee_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{131,447},{36,83}}</string>
+			<string>{{1669,983},{36,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>KillerBee_R_idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{169,447},{36,83}}</string>
+			<string>{{1707,983},{36,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>KillerBee_R_idle_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{207,447},{36,83}}</string>
+			<string>{{1745,983},{36,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>KillerBee_R_idle_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{245,447},{36,83}}</string>
+			<string>{{1783,983},{36,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>KillerBee_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1502,537},{78,40}}</string>
+			<string>{{1183,1084},{78,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>KillerBee_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1666,537},{82,33}}</string>
+			<string>{{1347,1084},{82,33}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>KillerBee_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{575,537},{42,60}}</string>
+			<string>{{256,1084},{42,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>KillerBee_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1009,537},{70,57}}</string>
+			<string>{{690,1084},{70,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>KillerBee_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{955,537},{52,58}}</string>
+			<string>{{636,1084},{52,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>KillerBee_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{610,447},{58,78}}</string>
+			<string>{{2148,983},{58,78}}</string>
 			<key>offset</key>
 			<string>{8.5,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>KillerBee_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{141,537},{92,62}}</string>
+			<string>{{3909,983},{92,62}}</string>
 			<key>offset</key>
 			<string>{18,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>KillerBee_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{235,537},{82,62}}</string>
+			<string>{{4003,983},{82,62}}</string>
 			<key>offset</key>
 			<string>{17.5,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>KillerBee_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1189,447},{43,67}}</string>
+			<string>{{2916,983},{43,67}}</string>
 			<key>offset</key>
 			<string>{-7,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>KillerBee_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{670,447},{59,78}}</string>
+			<string>{{2208,983},{59,78}}</string>
 			<key>offset</key>
 			<string>{1.5,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>KillerBee_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{356,447},{79,81}}</string>
+			<string>{{1894,983},{79,81}}</string>
 			<key>offset</key>
 			<string>{16,0}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>KillerBee_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{437,447},{77,81}}</string>
+			<string>{{1975,983},{77,81}}</string>
 			<key>offset</key>
 			<string>{15,0}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>KillerBee_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{516,447},{44,80}}</string>
+			<string>{{2054,983},{44,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>KillerBee_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{885,0},{176,172}}</string>
+			<string>{{1625,659},{176,172}}</string>
 			<key>offset</key>
 			<string>{63.5,-40}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>KillerBee_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{553,0},{165,174}}</string>
+			<string>{{1293,659},{165,174}}</string>
 			<key>offset</key>
 			<string>{63,-41}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>KillerBee_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{720,0},{163,174}}</string>
+			<string>{{1460,659},{163,174}}</string>
 			<key>offset</key>
 			<string>{62,-43}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>KillerBee_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1319,0},{157,142}}</string>
+			<string>{{2059,659},{157,142}}</string>
 			<key>offset</key>
 			<string>{60,-25}</string>
 			<key>rotated</key>
@@ -410,7 +410,72 @@
 		<key>KillerBee_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{915,447},{46,72}}</string>
+			<string>{{2581,983},{61,71}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{61,71}}</string>
+			<key>sourceSize</key>
+			<string>{61,71}</string>
+		</dict>
+		<key>KillerBee_R_skill01_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2644,983},{124,71}}</string>
+			<key>offset</key>
+			<string>{-32,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{124,71}}</string>
+			<key>sourceSize</key>
+			<string>{124,71}</string>
+		</dict>
+		<key>KillerBee_R_skill01_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{974,659},{119,177}}</string>
+			<key>offset</key>
+			<string>{-34.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{119,177}}</string>
+			<key>sourceSize</key>
+			<string>{119,177}</string>
+		</dict>
+		<key>KillerBee_R_skill01_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,983},{229,99}}</string>
+			<key>offset</key>
+			<string>{84,-35}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{229,99}}</string>
+			<key>sourceSize</key>
+			<string>{229,99}</string>
+		</dict>
+		<key>KillerBee_R_skill01_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{487,983},{229,94}}</string>
+			<key>offset</key>
+			<string>{84,-37}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{229,94}}</string>
+			<key>sourceSize</key>
+			<string>{229,94}</string>
+		</dict>
+		<key>KillerBee_R_skill01_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2453,983},{46,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -420,10 +485,10 @@
 			<key>sourceSize</key>
 			<string>{46,72}</string>
 		</dict>
-		<key>KillerBee_R_skill01_07</key>
+		<key>KillerBee_R_skill01_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,447},{53,88}}</string>
+			<string>{{1538,983},{53,88}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -433,10 +498,10 @@
 			<key>sourceSize</key>
 			<string>{53,88}</string>
 		</dict>
-		<key>KillerBee_R_skill01_08</key>
+		<key>KillerBee_R_skill01_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1784,334},{56,92}}</string>
+			<string>{{718,983},{56,92}}</string>
 			<key>offset</key>
 			<string>{4,0}</string>
 			<key>rotated</key>
@@ -449,7 +514,7 @@
 		<key>KillerBee_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1842,334},{65,90}}</string>
+			<string>{{1350,983},{65,90}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -462,7 +527,7 @@
 		<key>KillerBee_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{226,334},{151,110}}</string>
+			<string>{{1869,863},{151,110}}</string>
 			<key>offset</key>
 			<string>{4,-27}</string>
 			<key>rotated</key>
@@ -475,7 +540,7 @@
 		<key>KillerBee_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1590,334},{192,109}}</string>
+			<string>{{3233,863},{192,109}}</string>
 			<key>offset</key>
 			<string>{-6,-26}</string>
 			<key>rotated</key>
@@ -488,7 +553,7 @@
 		<key>KillerBee_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1699,210},{161,111}}</string>
+			<string>{{1367,863},{161,111}}</string>
 			<key>offset</key>
 			<string>{3,-28}</string>
 			<key>rotated</key>
@@ -501,7 +566,7 @@
 		<key>KillerBee_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1372,210},{107,115}}</string>
+			<string>{{1040,863},{107,115}}</string>
 			<key>offset</key>
 			<string>{-1.5,-18}</string>
 			<key>rotated</key>
@@ -514,7 +579,7 @@
 		<key>KillerBee_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{688,210},{114,118}}</string>
+			<string>{{0,863},{114,118}}</string>
 			<key>offset</key>
 			<string>{1,-30}</string>
 			<key>rotated</key>
@@ -527,7 +592,7 @@
 		<key>KillerBee_R_skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1036,210},{110,116}}</string>
+			<string>{{348,863},{110,116}}</string>
 			<key>offset</key>
 			<string>{6,-21}</string>
 			<key>rotated</key>
@@ -540,7 +605,7 @@
 		<key>KillerBee_R_skill02_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1862,210},{111,111}}</string>
+			<string>{{1530,863},{111,111}}</string>
 			<key>offset</key>
 			<string>{-1,-12}</string>
 			<key>rotated</key>
@@ -553,7 +618,7 @@
 		<key>KillerBee_R_skill02_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1481,210},{107,115}}</string>
+			<string>{{1149,863},{107,115}}</string>
 			<key>offset</key>
 			<string>{-1.5,-18}</string>
 			<key>rotated</key>
@@ -566,7 +631,7 @@
 		<key>KillerBee_R_skill02_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{804,210},{114,118}}</string>
+			<string>{{116,863},{114,118}}</string>
 			<key>offset</key>
 			<string>{1,-30}</string>
 			<key>rotated</key>
@@ -579,7 +644,7 @@
 		<key>KillerBee_R_skill02_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1148,210},{110,116}}</string>
+			<string>{{460,863},{110,116}}</string>
 			<key>offset</key>
 			<string>{6,-21}</string>
 			<key>rotated</key>
@@ -592,7 +657,7 @@
 		<key>KillerBee_R_skill02_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,334},{111,111}}</string>
+			<string>{{1643,863},{111,111}}</string>
 			<key>offset</key>
 			<string>{-1,-12}</string>
 			<key>rotated</key>
@@ -605,7 +670,7 @@
 		<key>KillerBee_R_skill02_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1590,210},{107,115}}</string>
+			<string>{{1258,863},{107,115}}</string>
 			<key>offset</key>
 			<string>{-1.5,-18}</string>
 			<key>rotated</key>
@@ -618,7 +683,7 @@
 		<key>KillerBee_R_skill02_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{920,210},{114,118}}</string>
+			<string>{{232,863},{114,118}}</string>
 			<key>offset</key>
 			<string>{1,-30}</string>
 			<key>rotated</key>
@@ -631,7 +696,7 @@
 		<key>KillerBee_R_skill02_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1260,210},{110,116}}</string>
+			<string>{{572,863},{110,116}}</string>
 			<key>offset</key>
 			<string>{6,-21}</string>
 			<key>rotated</key>
@@ -644,7 +709,7 @@
 		<key>KillerBee_R_skill02_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{113,334},{111,111}}</string>
+			<string>{{1756,863},{111,111}}</string>
 			<key>offset</key>
 			<string>{-1,-12}</string>
 			<key>rotated</key>
@@ -657,7 +722,7 @@
 		<key>KillerBee_R_skill02_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1909,334},{65,90}}</string>
+			<string>{{1417,983},{65,90}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -670,7 +735,7 @@
 		<key>KillerBee_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1380,447},{47,66}}</string>
+			<string>{{3107,983},{47,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -683,7 +748,7 @@
 		<key>KillerBee_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1429,447},{50,66}}</string>
+			<string>{{3156,983},{50,66}}</string>
 			<key>offset</key>
 			<string>{3.5,0}</string>
 			<key>rotated</key>
@@ -696,7 +761,7 @@
 		<key>KillerBee_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1481,447},{56,66}}</string>
+			<string>{{3208,983},{56,66}}</string>
 			<key>offset</key>
 			<string>{6.5,0}</string>
 			<key>rotated</key>
@@ -709,7 +774,7 @@
 		<key>KillerBee_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{963,447},{78,72}}</string>
+			<string>{{2501,983},{78,72}}</string>
 			<key>offset</key>
 			<string>{9,0}</string>
 			<key>rotated</key>
@@ -722,7 +787,7 @@
 		<key>KillerBee_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{355,0},{196,176}}</string>
+			<string>{{1095,659},{196,176}}</string>
 			<key>offset</key>
 			<string>{75,-40}</string>
 			<key>rotated</key>
@@ -735,7 +800,7 @@
 		<key>KillerBee_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{191,208}}</string>
+			<string>{{1512,0},{191,208}}</string>
 			<key>offset</key>
 			<string>{70,-55}</string>
 			<key>rotated</key>
@@ -748,7 +813,7 @@
 		<key>KillerBee_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{193,0},{160,190}}</string>
+			<string>{{812,659},{160,190}}</string>
 			<key>offset</key>
 			<string>{55,-46}</string>
 			<key>rotated</key>
@@ -761,7 +826,7 @@
 		<key>KillerBee_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1063,0},{137,166}}</string>
+			<string>{{1803,659},{137,166}}</string>
 			<key>offset</key>
 			<string>{43.5,-32}</string>
 			<key>rotated</key>
@@ -774,7 +839,7 @@
 		<key>KillerBee_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1202,0},{115,166}}</string>
+			<string>{{1942,659},{115,166}}</string>
 			<key>offset</key>
 			<string>{32.5,-35}</string>
 			<key>rotated</key>
@@ -787,7 +852,7 @@
 		<key>KillerBee_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{619,537},{104,60}}</string>
+			<string>{{300,1084},{104,60}}</string>
 			<key>offset</key>
 			<string>{27,0}</string>
 			<key>rotated</key>
@@ -800,7 +865,7 @@
 		<key>KillerBee_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1208,537},{56,51}}</string>
+			<string>{{889,1084},{56,51}}</string>
 			<key>offset</key>
 			<string>{5.5,0}</string>
 			<key>rotated</key>
@@ -813,7 +878,7 @@
 		<key>KillerBee_R_skill03_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{283,447},{71,83}}</string>
+			<string>{{1821,983},{71,83}}</string>
 			<key>offset</key>
 			<string>{9.5,0}</string>
 			<key>rotated</key>
@@ -826,7 +891,7 @@
 		<key>KillerBee_R_skill03_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1976,334},{52,89}}</string>
+			<string>{{1484,983},{52,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -839,111 +904,111 @@
 		<key>KillerBee_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{379,334},{171,110}}</string>
+			<string>{{3266,983},{47,66}}</string>
 			<key>offset</key>
-			<string>{-22,-15}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,2},{171,110}}</string>
+			<string>{{0,0},{47,66}}</string>
 			<key>sourceSize</key>
-			<string>{171,110}</string>
+			<string>{47,66}</string>
 		</dict>
 		<key>KillerBee_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1478,0},{170,122}}</string>
+			<string>{{3521,863},{92,106}}</string>
 			<key>offset</key>
-			<string>{-21.5,-15}</string>
+			<string>{-10,-13}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,6},{170,122}}</string>
+			<string>{{0,0},{92,106}}</string>
 			<key>sourceSize</key>
-			<string>{170,122}</string>
+			<string>{92,106}</string>
 		</dict>
 		<key>KillerBee_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{552,334},{171,110}}</string>
+			<string>{{3735,863},{118,102}}</string>
 			<key>offset</key>
-			<string>{-22,-15}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,2},{171,110}}</string>
+			<string>{{0,0},{118,102}}</string>
 			<key>sourceSize</key>
-			<string>{171,110}</string>
+			<string>{118,102}</string>
 		</dict>
 		<key>KillerBee_R_skill04_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1650,0},{170,122}}</string>
+			<string>{{231,983},{143,99}}</string>
 			<key>offset</key>
-			<string>{-21.5,-15}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,6},{170,122}}</string>
+			<string>{{0,0},{143,99}}</string>
 			<key>sourceSize</key>
-			<string>{170,122}</string>
+			<string>{143,99}</string>
 		</dict>
 		<key>KillerBee_R_skill04_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{725,334},{171,110}}</string>
+			<string>{{776,983},{140,91}}</string>
 			<key>offset</key>
-			<string>{-22,-15}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,2},{171,110}}</string>
+			<string>{{0,0},{140,91}}</string>
 			<key>sourceSize</key>
-			<string>{171,110}</string>
+			<string>{140,91}</string>
 		</dict>
 		<key>KillerBee_R_skill04_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1822,0},{170,122}}</string>
+			<string>{{918,983},{143,91}}</string>
 			<key>offset</key>
-			<string>{-21.5,-15}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,6},{170,122}}</string>
+			<string>{{0,0},{143,91}}</string>
 			<key>sourceSize</key>
-			<string>{170,122}</string>
+			<string>{143,91}</string>
 		</dict>
 		<key>KillerBee_R_skill04_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{898,334},{171,110}}</string>
+			<string>{{1063,983},{140,91}}</string>
 			<key>offset</key>
-			<string>{-22,-15}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,2},{171,110}}</string>
+			<string>{{0,0},{140,91}}</string>
 			<key>sourceSize</key>
-			<string>{171,110}</string>
+			<string>{140,91}</string>
 		</dict>
 		<key>KillerBee_R_skill04_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,210},{170,122}}</string>
+			<string>{{1205,983},{143,91}}</string>
 			<key>offset</key>
-			<string>{-21.5,-15}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,6},{170,122}}</string>
+			<string>{{0,0},{143,91}}</string>
 			<key>sourceSize</key>
-			<string>{170,122}</string>
+			<string>{143,91}</string>
 		</dict>
 		<key>KillerBee_R_skill04_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1071,334},{171,110}}</string>
+			<string>{{2022,863},{171,110}}</string>
 			<key>offset</key>
 			<string>{-22,-15}</string>
 			<key>rotated</key>
@@ -956,7 +1021,7 @@
 		<key>KillerBee_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{172,210},{170,122}}</string>
+			<string>{{2880,659},{170,122}}</string>
 			<key>offset</key>
 			<string>{-21.5,-15}</string>
 			<key>rotated</key>
@@ -969,7 +1034,7 @@
 		<key>KillerBee_R_skill04_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1244,334},{171,110}}</string>
+			<string>{{2195,863},{171,110}}</string>
 			<key>offset</key>
 			<string>{-22,-15}</string>
 			<key>rotated</key>
@@ -982,7 +1047,7 @@
 		<key>KillerBee_R_skill04_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{344,210},{170,122}}</string>
+			<string>{{3052,659},{170,122}}</string>
 			<key>offset</key>
 			<string>{-21.5,-15}</string>
 			<key>rotated</key>
@@ -995,7 +1060,7 @@
 		<key>KillerBee_R_skill04_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1417,334},{171,110}}</string>
+			<string>{{2368,863},{171,110}}</string>
 			<key>offset</key>
 			<string>{-22,-15}</string>
 			<key>rotated</key>
@@ -1008,7 +1073,7 @@
 		<key>KillerBee_R_skill04_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{516,210},{170,122}}</string>
+			<string>{{3224,659},{170,122}}</string>
 			<key>offset</key>
 			<string>{-21.5,-15}</string>
 			<key>rotated</key>
@@ -1018,10 +1083,491 @@
 			<key>sourceSize</key>
 			<string>{170,122}</string>
 		</dict>
+		<key>KillerBee_R_skill04_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2541,863},{171,110}}</string>
+			<key>offset</key>
+			<string>{-22,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{171,110}}</string>
+			<key>sourceSize</key>
+			<string>{171,110}</string>
+		</dict>
+		<key>KillerBee_R_skill04_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3396,659},{170,122}}</string>
+			<key>offset</key>
+			<string>{-21.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,6},{170,122}}</string>
+			<key>sourceSize</key>
+			<string>{170,122}</string>
+		</dict>
+		<key>KillerBee_R_skill04_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2714,863},{171,110}}</string>
+			<key>offset</key>
+			<string>{-22,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{171,110}}</string>
+			<key>sourceSize</key>
+			<string>{171,110}</string>
+		</dict>
+		<key>KillerBee_R_skill04_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3568,659},{170,122}}</string>
+			<key>offset</key>
+			<string>{-21.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,6},{170,122}}</string>
+			<key>sourceSize</key>
+			<string>{170,122}</string>
+		</dict>
+		<key>KillerBee_R_skill04_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2887,863},{171,110}}</string>
+			<key>offset</key>
+			<string>{-22,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{171,110}}</string>
+			<key>sourceSize</key>
+			<string>{171,110}</string>
+		</dict>
+		<key>KillerBee_R_skill04_20</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3740,659},{170,122}}</string>
+			<key>offset</key>
+			<string>{-21.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,6},{170,122}}</string>
+			<key>sourceSize</key>
+			<string>{170,122}</string>
+		</dict>
+		<key>KillerBee_R_skill04_21</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3060,863},{171,110}}</string>
+			<key>offset</key>
+			<string>{-22,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{171,110}}</string>
+			<key>sourceSize</key>
+			<string>{171,110}</string>
+		</dict>
+		<key>KillerBee_R_skill04_22</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3912,659},{170,122}}</string>
+			<key>offset</key>
+			<string>{-21.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,6},{170,122}}</string>
+			<key>sourceSize</key>
+			<string>{170,122}</string>
+		</dict>
+		<key>KillerBee_R_skill04_23</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3855,863},{99,101}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{99,101}}</string>
+			<key>sourceSize</key>
+			<string>{99,101}</string>
+		</dict>
+		<key>KillerBee_R_skill04_24</key>
+		<dict>
+			<key>frame</key>
+			<string>{{376,983},{109,96}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{109,96}}</string>
+			<key>sourceSize</key>
+			<string>{109,95}</string>
+		</dict>
+		<key>KillerBee_R_skill04_25</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3615,863},{118,103}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{118,103}}</string>
+			<key>sourceSize</key>
+			<string>{118,103}</string>
+		</dict>
+		<key>KillerBee_R_skill04_26</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2559,659},{319,128}}</string>
+			<key>offset</key>
+			<string>{86,-18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{319,128}}</string>
+			<key>sourceSize</key>
+			<string>{319,128}</string>
+		</dict>
+		<key>KillerBee_R_skill04_27</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2218,659},{339,132}}</string>
+			<key>offset</key>
+			<string>{92,-23}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{339,132}}</string>
+			<key>sourceSize</key>
+			<string>{339,132}</string>
+		</dict>
+		<key>KillerBee_R_skill05_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3427,863},{46,107}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{46,107}}</string>
+			<key>sourceSize</key>
+			<string>{46,107}</string>
+		</dict>
+		<key>KillerBee_R_skill05_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3475,863},{44,107}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{44,107}}</string>
+			<key>sourceSize</key>
+			<string>{44,107}</string>
+		</dict>
+		<key>KillerBee_R_skill05_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{684,863},{84,116}}</string>
+			<key>offset</key>
+			<string>{0,-9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{84,116}}</string>
+			<key>sourceSize</key>
+			<string>{84,116}</string>
+		</dict>
+		<key>KillerBee_R_skill05_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{770,863},{90,116}}</string>
+			<key>offset</key>
+			<string>{-1,-9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{90,116}}</string>
+			<key>sourceSize</key>
+			<string>{90,116}</string>
+		</dict>
+		<key>KillerBee_R_skill05_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{862,863},{84,116}}</string>
+			<key>offset</key>
+			<string>{0,-9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{84,116}}</string>
+			<key>sourceSize</key>
+			<string>{84,116}</string>
+		</dict>
+		<key>KillerBee_R_skill05_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{948,863},{90,116}}</string>
+			<key>offset</key>
+			<string>{-1,-9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{90,116}}</string>
+			<key>sourceSize</key>
+			<string>{90,116}</string>
+		</dict>
+		<key>KillerBee_R_skill05_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1705,0},{376,202}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{376,202}}</string>
+			<key>sourceSize</key>
+			<string>{376,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{756,0},{376,238}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{376,238}}</string>
+			<key>sourceSize</key>
+			<string>{376,238}</string>
+		</dict>
+		<key>KillerBee_R_skill05_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{376,249}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{376,249}}</string>
+			<key>sourceSize</key>
+			<string>{376,249}</string>
+		</dict>
+		<key>KillerBee_R_skill05_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1134,0},{376,238}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{376,238}}</string>
+			<key>sourceSize</key>
+			<string>{376,238}</string>
+		</dict>
+		<key>KillerBee_R_skill05_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{378,0},{376,249}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{376,249}}</string>
+			<key>sourceSize</key>
+			<string>{376,249}</string>
+		</dict>
+		<key>KillerBee_R_skill05_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2083,0},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2895,0},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,251},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{812,251},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1624,251},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2436,251},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3248,251},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,455},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_20</key>
+		<dict>
+			<key>frame</key>
+			<string>{{812,455},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_21</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1624,455},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_22</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2436,455},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_23</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3248,455},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
+		<key>KillerBee_R_skill05_24</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,659},{810,202}}</string>
+			<key>offset</key>
+			<string>{217,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{810,202}}</string>
+			<key>sourceSize</key>
+			<string>{810,202}</string>
+		</dict>
 		<key>KillerBee_R_skill10_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1674,447},{63,64}}</string>
+			<string>{{3450,983},{63,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1580,7 @@
 		<key>KillerBee_R_skill10_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1739,447},{61,64}}</string>
+			<string>{{3515,983},{61,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1047,7 +1593,7 @@
 		<key>KillerBee_R_skill10_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1581,447},{41,65}}</string>
+			<string>{{3357,983},{41,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1060,7 +1606,7 @@
 		<key>KillerBee_R_skill10_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1539,447},{40,66}}</string>
+			<string>{{3315,983},{40,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1073,7 +1619,7 @@
 		<key>KillerBee_R_skill10_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{725,537},{74,59}}</string>
+			<string>{{406,1084},{74,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1086,7 +1632,7 @@
 		<key>KillerBee_R_skill10_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{801,537},{73,59}}</string>
+			<string>{{482,1084},{73,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1099,7 +1645,7 @@
 		<key>KillerBee_R_skill10_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1624,447},{48,65}}</string>
+			<string>{{3400,983},{48,65}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -1112,7 +1658,7 @@
 		<key>KillerBee_R_skill10_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1802,447},{47,63}}</string>
+			<string>{{3578,983},{47,63}}</string>
 			<key>offset</key>
 			<string>{0,-2}</string>
 			<key>rotated</key>
@@ -1125,7 +1671,7 @@
 		<key>KillerBee_R_skill10_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{876,537},{77,59}}</string>
+			<string>{{557,1084},{77,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1138,7 +1684,7 @@
 		<key>KillerBee_R_skill10_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1081,537},{65,53}}</string>
+			<string>{{762,1084},{65,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1151,7 +1697,7 @@
 		<key>KillerBee_R_skill10_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1148,537},{58,53}}</string>
+			<string>{{829,1084},{58,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1164,7 +1710,7 @@
 		<key>KillerBee_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1851,447},{68,63}}</string>
+			<string>{{3627,983},{68,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1177,7 +1723,7 @@
 		<key>KillerBee_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1234,447},{71,67}}</string>
+			<string>{{2961,983},{71,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1190,7 +1736,7 @@
 		<key>KillerBee_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{319,537},{62,62}}</string>
+			<string>{{0,1084},{62,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1203,7 +1749,7 @@
 		<key>KillerBee_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1921,447},{69,63}}</string>
+			<string>{{3697,983},{69,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1216,7 +1762,7 @@
 		<key>KillerBee_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1043,447},{71,68}}</string>
+			<string>{{2770,983},{71,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1229,7 +1775,7 @@
 		<key>KillerBee_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{383,537},{62,62}}</string>
+			<string>{{64,1084},{62,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1242,7 +1788,7 @@
 		<key>KillerBee_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,537},{68,63}}</string>
+			<string>{{3768,983},{68,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1255,7 +1801,7 @@
 		<key>KillerBee_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1307,447},{71,67}}</string>
+			<string>{{3034,983},{71,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1268,7 +1814,7 @@
 		<key>KillerBee_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{447,537},{62,62}}</string>
+			<string>{{128,1084},{62,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1281,7 +1827,7 @@
 		<key>KillerBee_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{70,537},{69,63}}</string>
+			<string>{{3838,983},{69,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1294,7 +1840,7 @@
 		<key>KillerBee_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1116,447},{71,68}}</string>
+			<string>{{2843,983},{71,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1307,7 +1853,7 @@
 		<key>KillerBee_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{511,537},{62,62}}</string>
+			<string>{{192,1084},{62,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1325,7 +1871,7 @@
 		<key>realTextureFileName</key>
 		<string>KillerBee.pvr.ccz</string>
 		<key>size</key>
-		<string>{2048,1024}</string>
+		<string>{4096,2048}</string>
 		<key>textureFileName</key>
 		<string>KillerBee.pvr.ccz</string>
 	</dict>

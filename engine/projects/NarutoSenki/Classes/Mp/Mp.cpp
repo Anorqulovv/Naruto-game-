@@ -40,7 +40,7 @@ namespace mp
 	static const int kInputDelay = 6;	   // frames between a touch and its effect (~100 ms)
 	static const int kMaxPlayers = 6;
 	static const int kTimeoutMs = 3000;	   // a silent player is replaced by a bot after this
-	static const uint32_t kVersion = 220;
+	static const uint32_t kVersion = 221;
 
 	enum Role { Off = 0, Host = 1, Client = 2 };
 
@@ -51,6 +51,7 @@ namespace mp
 	{
 		std::vector<std::pair<int, Commands>> cmds; // player id -> commands
 		std::vector<int> gone;						// players replaced by bots at this frame
+		std::vector<int> back;						// players that took their hero back at this frame
 	};
 
 	struct Conn // host side, one per client
@@ -60,8 +61,10 @@ namespace mp
 		int team = 0; // 0 with the host, 1 against
 		bool picked = false;
 		std::string pick;
-		bool gone = false;
-		bool goneSent = false;
+		bool gone = false;	 // the connection is closed
+		bool bot = false;	 // a bot plays this hero (announced to everybody)
+		bool away = false;	 // the app is in the background
+		int64_t lastInputFrame = -1;
 		std::map<int64_t, Commands> inputs; // frame -> commands
 		int64_t lastSeenMs = 0;
 	};
@@ -100,7 +103,8 @@ namespace mp
 	static int64_t s_frame = 0;
 	static Commands s_pending;			   // captured locally since the last frame
 	static std::map<int64_t, Commands> s_own; // host: own scheduled commands
-	static std::map<int, CharacterBase *> s_heroOf;
+	static std::map<int, CharacterBase *> s_heroOf; // heroes driven by their owners' commands
+	static std::map<int, CharacterBase *> s_humans; // every human's hero (also while a bot plays it)
 	static std::map<CharacterBase *, bool> s_released;
 	static int64_t s_stallSince = 0;
 	static bool s_desyncReported = false;
@@ -251,6 +255,8 @@ namespace mp
 	{
 		int one = 1;
 		setsockopt(s, IPPROTO_TCP, TCP_NODELAY, &one, sizeof one);
+		timeval tv{3, 0}; // a phone that stopped reading must not block the game
+		setsockopt(s, SOL_SOCKET, SO_SNDTIMEO, &tv, sizeof tv);
 	}
 
 	// ------------------------------------------------------------------ room status
@@ -296,6 +302,7 @@ namespace mp
 			{
 				int64_t f = r.i64();
 				c->inputs[f] = r.cmds();
+				c->lastInputFrame = std::max(c->lastInputFrame, f);
 			}
 			else if (type == 'C')
 			{
@@ -309,6 +316,8 @@ namespace mp
 					setStatus("warning: desync");
 				}
 			}
+			else if (type == 'Z')
+				c->away = r.u8() != 0;
 			else if (type == 'X')
 				break;
 			// 'K' (keep-alive) only refreshes lastSeenMs
@@ -466,6 +475,9 @@ namespace mp
 				int g = rd.u8();
 				for (int i = 0; i < g; i++)
 					b.gone.push_back(rd.u8());
+				g = rd.u8();
+				for (int i = 0; i < g; i++)
+					b.back.push_back(rd.u8());
 				s_bundles[f] = std::move(b);
 			}
 			else if (type == 'X')
@@ -539,8 +551,6 @@ namespace mp
 		while (session == s_session)
 		{
 			std::this_thread::sleep_for(std::chrono::milliseconds(500));
-			if (s_paused)
-				continue;
 			std::lock_guard<std::recursive_mutex> lk(mu);
 			if (session != s_session)
 				return;
@@ -556,7 +566,19 @@ namespace mp
 		}
 	}
 
-	void appPaused(bool p) { s_paused = p; }
+	// The app went to the background / came back. A client's hero is played by a bot meanwhile and
+	// is given back once the phone has caught up; while the host is away everybody waits (up to 60 s).
+	void appPaused(bool p)
+	{
+		s_paused = p;
+		std::lock_guard<std::recursive_mutex> lk(mu);
+		if (s_role == Client && s_sock >= 0)
+		{
+			Writer w('Z');
+			w.u8(p ? 1 : 0);
+			sendMsg(s_sock, w);
+		}
+	}
 
 
 	void configure(int role, const char *ip)
@@ -788,6 +810,7 @@ namespace mp
 		s_own.clear();
 		s_bundles.erase(s_bundles.begin(), s_bundles.lower_bound(0));
 		s_heroOf.clear();
+		s_humans.clear();
 		s_released.clear();
 		s_stallSince = 0;
 		s_sentFor = -1;
@@ -819,10 +842,22 @@ namespace mp
 		{
 			if (e.owner < 0)
 				continue;
+			// RotN extra heroes (skins) carry their base hero's name: match the shown name
 			for (auto *c : gl->_CharacterArray)
-				if (c->getName() == e.name)
+			{
+				bool used = false;
+				for (auto &kv : s_heroOf)
+					used |= kv.second == c;
+				if (!used && c->displayName() == e.name)
+				{
 					s_heroOf[e.owner] = c;
+					break;
+				}
+			}
+			if (!s_heroOf.count(e.owner))
+				MPLOG("no hero for player %d (%s)", e.owner, e.name.c_str());
 		}
+		s_humans = s_heroOf;
 		auto it = s_heroOf.find(s_myId);
 		gl->viewPlayer = (s_role == Client && it != s_heroOf.end()) ? it->second : nullptr;
 		if (!gl->viewPlayer)
@@ -873,6 +908,7 @@ namespace mp
 		s_haveLineup = false;
 		s_waitingLineup = false;
 		s_heroOf.clear();
+		s_humans.clear();
 		s_released.clear();
 		s_bundles.clear();
 		s_hostSums.clear();
@@ -882,7 +918,9 @@ namespace mp
 		{
 			c->picked = false;
 			c->inputs.clear();
-			c->goneSent = c->gone;
+			c->bot = c->gone;
+			c->away = false;
+			c->lastInputFrame = -1;
 		}
 		if (s_role == Host)
 			setStatus(roomStatus());
@@ -985,6 +1023,20 @@ namespace mp
 			if (!h->isPlayer())
 				h->doAI();
 		}
+		for (int id : b.back)
+		{
+			auto it = s_humans.find(id);
+			if (it == s_humans.end() || s_heroOf.count(id))
+				continue;
+			auto *h = it->second;
+			s_heroOf[id] = h;
+			s_released[h] = true;
+			h->unschedule(schedule_selector(CharacterBase::setAI));
+			h->_isAI = false;
+			if (h->getState() == State::WALK)
+				h->idle();
+			MPLOG("player %d plays again from frame %lld", id, (long long)s_frame);
+		}
 	}
 
 	void localWalk(float x, float y)
@@ -1039,6 +1091,12 @@ namespace mp
 	{
 		// the host vanished: everybody else becomes a bot, I keep playing my hero
 		s_solo = true;
+		if (s_sock >= 0)
+		{
+			Writer w('X');
+			sendMsg(s_sock, w);
+			::shutdown(s_sock, SHUT_RDWR);
+		}
 		std::vector<CharacterBase *> others;
 		for (auto &kv : s_heroOf)
 			if (kv.first != s_myId)
@@ -1078,27 +1136,32 @@ namespace mp
 			b.cmds.push_back({0, mine == s_own.end() ? Commands() : mine->second});
 			int64_t now = nowMs();
 			bool missing = false;
+			std::vector<Conn *> toBot, toBack;
 			for (auto *c : s_conns)
 			{
-				if (c->goneSent)
-					continue;
-				if (c->gone)
+				bool silent = now - c->lastSeenMs > kTimeoutMs;
+				if (c->bot)
 				{
-					b.gone.push_back(c->id);
+					if (!c->gone && now - c->lastSeenMs > 60000)
+					{
+						c->gone = true; // gone for good
+						::shutdown(c->sock, SHUT_RDWR);
+					}
+					// back from the background and caught up (a few frames behind at most): the player takes the
+					// hero back; we may wait a moment for its first inputs
+					if (!c->gone && !c->away && !silent && c->lastInputFrame >= f - kInputDelay)
+						toBack.push_back(c);
+					continue;
+				}
+				if (c->gone || c->away || (silent && f >= kInputDelay))
+				{
+					toBot.push_back(c);
 					continue;
 				}
 				auto it = c->inputs.find(f);
 				if (it != c->inputs.end())
-					b.cmds.push_back({c->id, it->second}), c->inputs.erase(it);
-				else if (f < kInputDelay)
-					; // nobody can have sent input for the first frames
-				else if (now - c->lastSeenMs > kTimeoutMs)
-				{
-					MPLOG("player %d is silent: a bot takes over", c->id);
-					c->gone = true;
-					b.gone.push_back(c->id);
-				}
-				else
+					b.cmds.push_back({c->id, it->second});
+				else if (f >= kInputDelay) // nobody can have sent input for the first frames
 					missing = true;
 			}
 			if (missing)
@@ -1107,9 +1170,20 @@ namespace mp
 					s_stallSince = now;
 				return false;
 			}
+			for (auto *c : toBot)
+			{
+				MPLOG("player %d is %s: a bot takes over", c->id, c->gone ? "gone" : c->away ? "away" : "silent");
+				c->bot = true;
+				b.gone.push_back(c->id);
+			}
+			for (auto *c : toBack)
+			{
+				c->bot = false;
+				b.back.push_back(c->id);
+			}
+			// inputs for frames that are over (or were sent while a bot played) are useless
 			for (auto *c : s_conns)
-				if (c->gone && !c->goneSent && std::find(b.gone.begin(), b.gone.end(), c->id) != b.gone.end())
-					c->goneSent = true;
+				c->inputs.erase(c->inputs.begin(), c->inputs.upper_bound(f));
 			s_stallSince = 0;
 			Writer w('B');
 			w.i64(f);
@@ -1122,10 +1196,16 @@ namespace mp
 			w.u8((uint8_t)b.gone.size());
 			for (int id : b.gone)
 				w.u8((uint8_t)id);
+			w.u8((uint8_t)b.back.size());
+			for (int id : b.back)
+				w.u8((uint8_t)id);
 			for (auto *c : s_conns)
 				if (!c->gone)
 					if (!sendMsg(c->sock, w))
+					{
 						c->gone = true;
+						::shutdown(c->sock, SHUT_RDWR);
+					}
 			s_own.erase(f);
 			applyBundle(b);
 			return true;
@@ -1152,7 +1232,8 @@ namespace mp
 			int64_t now = nowMs();
 			if (!s_stallSince)
 				s_stallSince = now;
-			if (now - s_hostSeenMs > 10000 && now - s_stallSince > 10000)
+			// the host stopped answering, or stays in the background for a long time
+			if ((now - s_hostSeenMs > 10000 && now - s_stallSince > 10000) || now - s_stallSince > 60000)
 			{
 				MPLOG("the host is silent: continuing alone");
 				s_hostGone = true;
@@ -1167,6 +1248,14 @@ namespace mp
 		s_bundles.erase(it);
 		applyBundle(b);
 		return true;
+	}
+
+	// A client that is far behind (it was in the background) runs extra frames to catch up.
+	bool catchUp()
+	{
+		std::lock_guard<std::recursive_mutex> lk(mu);
+		return s_battle && !s_solo && s_role == Client && s_frame >= 60 && !s_bundles.empty() &&
+			   s_bundles.count(s_frame) && s_bundles.rbegin()->first - s_frame > 4;
 	}
 
 	void afterStep()
@@ -1244,6 +1333,7 @@ bool ns_mp_step_gate() { return mp::stepGate(); }
 void ns_mp_after_step() { mp::afterStep(); }
 bool ns_mp_virtual_time(cocos2d::cc_timeval *tv) { return mp::virtualTime(tv); }
 bool ns_mp_fixed_dt() { return mp::inBattle(); }
+bool ns_mp_catch_up() { return mp::catchUp(); }
 int ns_random(int x) { return mp::rngRandom(x); }
 void ns_setRand() { mp::rngSetRand(); }
 int ns_rand() { return mp::logicRand(); }

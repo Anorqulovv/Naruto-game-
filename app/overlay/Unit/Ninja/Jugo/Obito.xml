@@ -196,8 +196,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Jugo_Skill10_01</f>
-		</frame>
+			<f>Obito_R_skill10_01</f><f>Obito_R_skill10_02</f><f>Obito_R_skill10_03</f><f>Obito_R_skill10_04</f></frame>
 	</action>
 	<action name="skill11">
 		<data>
@@ -208,10 +207,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Jugo_Run_01</f>
-			<f>Jugo_Run_02</f>
-			<f>Jugo_Run_03</f>
-		</frame>
+			<f>Obito_R_skill11_01</f><f>Obito_R_skill11_02</f><f>Obito_R_skill11_03</f><f>Obito_R_skill11_04</f><f>Obito_R_skill11_05</f><f>Obito_R_skill11_06</f></frame>
 	</action>
 	<action name="skill12">
 		<data>
@@ -222,19 +218,14 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Jugo_Skill11_02</f>
-			<e type="setDelay">10</e>
-			<f>Jugo_Skill11_03</f>
-			<e type="setSound">Audio/Jugo/Jugo_skill10.ogg</e>
-			<f>Jugo_Skill11_04</f>
-			<e type="setAttackBox">c_hit</e>
+			<f>Obito_R_skill12_01</f><f>Obito_R_skill12_02</f><f>Obito_R_skill12_03</f><e type="setDelay">10</e>
+			<f>Obito_R_skill12_04</f><f>Obito_R_skill12_05</f><e type="setSound">Audio/Obito/obito_combo1.ogg</e>
+			<f>Obito_R_skill12_06</f><f>Obito_R_skill12_07</f><f>Obito_R_skill12_08</f><e type="setAttackBox">c_hit</e>
 			<e type="setDSound">Audio/Effect/damage_h.ogg</e>
 			<e type="setActionResume">20</e>
 			<e type="setDelay">10</e>
-			<f>Jugo_Skill11_05</f>
-			<e type="setDelay">10</e>
-			<f>Jugo_Skill11_06</f>
-		</frame>
+			<f>Obito_R_skill12_09</f><f>Obito_R_skill12_10</f><e type="setDelay">10</e>
+			<f>Obito_R_skill12_11</f><f>Obito_R_skill12_12</f><f>Obito_R_skill12_13</f></frame>
 	</action>
 
 </unit>

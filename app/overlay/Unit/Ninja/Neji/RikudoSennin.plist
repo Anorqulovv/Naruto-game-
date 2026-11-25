@@ -7,7 +7,7 @@
 		<key>RikudoSennin_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3564,1706},{52,68}}</string>
+			<string>{{3956,5749},{52,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>RikudoSennin_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{693,1960},{82,54}}</string>
+			<string>{{1048,6003},{82,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>RikudoSennin_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{931,1960},{90,22}}</string>
+			<string>{{1286,6003},{90,22}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>RikudoSennin_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2358,1706},{54,82}}</string>
+			<string>{{2258,5749},{54,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>RikudoSennin_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3618,1706},{52,68}}</string>
+			<string>{{4010,5749},{52,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>RikudoSennin_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{861,1960},{68,53}}</string>
+			<string>{{1216,6003},{68,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>RikudoSennin_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2414,1706},{54,82}}</string>
+			<string>{{2314,5749},{54,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>RikudoSennin_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3672,1706},{52,68}}</string>
+			<string>{{0,6003},{52,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>RikudoSennin_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1674,1706},{44,89}}</string>
+			<string>{{1417,5749},{44,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>RikudoSennin_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1720,1706},{44,89}}</string>
+			<string>{{1463,5749},{44,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>RikudoSennin_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1766,1706},{44,89}}</string>
+			<string>{{1509,5749},{44,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>RikudoSennin_R_idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1812,1706},{44,89}}</string>
+			<string>{{1555,5749},{44,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>RikudoSennin_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{777,1960},{82,54}}</string>
+			<string>{{1132,6003},{82,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>RikudoSennin_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1023,1960},{90,22}}</string>
+			<string>{{1378,6003},{90,22}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>RikudoSennin_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{408,1960},{55,60}}</string>
+			<string>{{763,6003},{55,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>RikudoSennin_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{465,1960},{55,60}}</string>
+			<string>{{820,6003},{55,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>RikudoSennin_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2470,1706},{44,82}}</string>
+			<string>{{2370,5749},{44,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>RikudoSennin_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2568,1706},{100,80}}</string>
+			<string>{{2468,5749},{100,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>RikudoSennin_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3726,1706},{47,68}}</string>
+			<string>{{54,6003},{47,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>RikudoSennin_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2834,1706},{35,79}}</string>
+			<string>{{2938,5749},{35,79}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>RikudoSennin_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2091,1706},{73,84}}</string>
+			<string>{{1834,5749},{73,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>RikudoSennin_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2166,1706},{73,84}}</string>
+			<string>{{1909,5749},{73,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>RikudoSennin_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3267,1706},{53,69}}</string>
+			<string>{{3559,5749},{53,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>RikudoSennin_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2516,1706},{50,81}}</string>
+			<string>{{2416,5749},{50,81}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>RikudoSennin_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2670,1706},{80,80}}</string>
+			<string>{{2570,5749},{80,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>RikudoSennin_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2752,1706},{80,80}}</string>
+			<string>{{2652,5749},{80,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>RikudoSennin_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2241,1706},{49,83}}</string>
+			<string>{{2031,5749},{49,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>RikudoSennin_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3775,1706},{59,67}}</string>
+			<string>{{103,6003},{59,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>RikudoSennin_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3836,1706},{59,67}}</string>
+			<string>{{164,6003},{59,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>RikudoSennin_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1192},{455,255}}</string>
+			<string>{{3197,4887},{455,255}}</string>
 			<key>offset</key>
 			<string>{198,-72}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>RikudoSennin_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{457,1192},{455,255}}</string>
+			<string>{{0,5235},{455,255}}</string>
 			<key>offset</key>
 			<string>{198,-72}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>RikudoSennin_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{914,1192},{455,255}}</string>
+			<string>{{457,5235},{455,255}}</string>
 			<key>offset</key>
 			<string>{198,-72}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>RikudoSennin_R_skill01_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1371,1192},{455,255}}</string>
+			<string>{{914,5235},{455,255}}</string>
 			<key>offset</key>
 			<string>{198,-72}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>RikudoSennin_R_skill01_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1828,1192},{455,255}}</string>
+			<string>{{1371,5235},{455,255}}</string>
 			<key>offset</key>
 			<string>{198,-72}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>RikudoSennin_R_skill01_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2285,1192},{455,255}}</string>
+			<string>{{1828,5235},{455,255}}</string>
 			<key>offset</key>
 			<string>{198,-72}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>RikudoSennin_R_skill01_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2742,1192},{455,255}}</string>
+			<string>{{2285,5235},{455,255}}</string>
 			<key>offset</key>
 			<string>{198,-72}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>RikudoSennin_R_skill01_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3199,1192},{455,255}}</string>
+			<string>{{2742,5235},{455,255}}</string>
 			<key>offset</key>
 			<string>{198,-72}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>RikudoSennin_R_skill01_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1449},{455,255}}</string>
+			<string>{{3199,5235},{455,255}}</string>
 			<key>offset</key>
 			<string>{198,-72}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>RikudoSennin_R_skill01_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{457,1449},{455,255}}</string>
+			<string>{{0,5492},{455,255}}</string>
 			<key>offset</key>
 			<string>{198,-72}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>RikudoSennin_R_skill01_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3066,1706},{57,70}}</string>
+			<string>{{3358,5749},{57,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>RikudoSennin_R_skill01_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2932,1706},{58,73}}</string>
+			<string>{{3224,5749},{58,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>RikudoSennin_R_skill01_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2992,1706},{72,71}}</string>
+			<string>{{3284,5749},{72,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>RikudoSennin_R_skill01_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{914,1449},{544,252}}</string>
+			<string>{{457,5492},{544,252}}</string>
 			<key>offset</key>
 			<string>{214,-73}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>RikudoSennin_R_skill01_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1460,1449},{544,252}}</string>
+			<string>{{1003,5492},{544,252}}</string>
 			<key>offset</key>
 			<string>{214,-73}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>RikudoSennin_R_skill01_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2006,1449},{544,252}}</string>
+			<string>{{1549,5492},{544,252}}</string>
 			<key>offset</key>
 			<string>{214,-73}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>RikudoSennin_R_skill01_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2552,1449},{544,252}}</string>
+			<string>{{2095,5492},{544,252}}</string>
 			<key>offset</key>
 			<string>{214,-73}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>RikudoSennin_R_skill01_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3098,1449},{544,252}}</string>
+			<string>{{2641,5492},{544,252}}</string>
 			<key>offset</key>
 			<string>{214,-73}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>RikudoSennin_R_skill01_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1706},{544,252}}</string>
+			<string>{{3187,5492},{544,252}}</string>
 			<key>offset</key>
 			<string>{214,-73}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>RikudoSennin_R_skill01_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{546,1706},{544,252}}</string>
+			<string>{{0,5749},{544,252}}</string>
 			<key>offset</key>
 			<string>{214,-73}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>RikudoSennin_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2292,1706},{64,83}}</string>
+			<string>{{2082,5749},{64,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>RikudoSennin_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2871,1706},{59,78}}</string>
+			<string>{{3030,5749},{59,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>RikudoSennin_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1858,1706},{48,85}}</string>
+			<string>{{1601,5749},{48,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>RikudoSennin_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1908,1706},{73,85}}</string>
+			<string>{{1651,5749},{73,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -696,20 +696,59 @@
 		<key>RikudoSennin_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1983,1706},{52,85}}</string>
+			<string>{{2148,5749},{53,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{52,85}}</string>
+			<string>{{0,0},{53,83}}</string>
 			<key>sourceSize</key>
-			<string>{52,85}</string>
+			<string>{53,83}</string>
 		</dict>
 		<key>RikudoSennin_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2037,1706},{52,85}}</string>
+			<string>{{2203,5749},{53,83}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{53,83}}</string>
+			<key>sourceSize</key>
+			<string>{53,83}</string>
+		</dict>
+		<key>RikudoSennin_R_skill02_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2975,5749},{53,79}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{53,79}}</string>
+			<key>sourceSize</key>
+			<string>{53,79}</string>
+		</dict>
+		<key>RikudoSennin_R_skill02_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1984,5749},{45,84}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{45,84}}</string>
+			<key>sourceSize</key>
+			<string>{45,84}</string>
+		</dict>
+		<key>RikudoSennin_R_skill02_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1726,5749},{52,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -719,62 +758,23 @@
 			<key>sourceSize</key>
 			<string>{52,85}</string>
 		</dict>
-		<key>RikudoSennin_R_skill02_07</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,0},{578,420}}</string>
-			<key>offset</key>
-			<string>{238.5,-62}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{578,420}}</string>
-			<key>sourceSize</key>
-			<string>{578,420}</string>
-		</dict>
-		<key>RikudoSennin_R_skill02_08</key>
-		<dict>
-			<key>frame</key>
-			<string>{{580,0},{578,420}}</string>
-			<key>offset</key>
-			<string>{238.5,-62}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{578,420}}</string>
-			<key>sourceSize</key>
-			<string>{578,420}</string>
-		</dict>
-		<key>RikudoSennin_R_skill02_09</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1160,0},{578,420}}</string>
-			<key>offset</key>
-			<string>{238.5,-62}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{578,420}}</string>
-			<key>sourceSize</key>
-			<string>{578,420}</string>
-		</dict>
 		<key>RikudoSennin_R_skill02_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1740,0},{578,420}}</string>
+			<string>{{1780,5749},{52,85}}</string>
 			<key>offset</key>
-			<string>{238.5,-62}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{578,420}}</string>
+			<string>{{0,0},{52,85}}</string>
 			<key>sourceSize</key>
-			<string>{578,420}</string>
+			<string>{52,85}</string>
 		</dict>
 		<key>RikudoSennin_R_skill02_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2320,0},{578,420}}</string>
+			<string>{{2718,3694},{578,420}}</string>
 			<key>offset</key>
 			<string>{238.5,-62}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>RikudoSennin_R_skill02_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2900,0},{578,420}}</string>
+			<string>{{3298,3694},{578,420}}</string>
 			<key>offset</key>
 			<string>{238.5,-62}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>RikudoSennin_R_skill02_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3480,0},{578,420}}</string>
+			<string>{{0,4117},{578,420}}</string>
 			<key>offset</key>
 			<string>{238.5,-62}</string>
 			<key>rotated</key>
@@ -813,7 +813,59 @@
 		<key>RikudoSennin_R_skill02_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,422},{578,420}}</string>
+			<string>{{580,4117},{578,420}}</string>
+			<key>offset</key>
+			<string>{238.5,-62}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{578,420}}</string>
+			<key>sourceSize</key>
+			<string>{578,420}</string>
+		</dict>
+		<key>RikudoSennin_R_skill02_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1160,4117},{578,420}}</string>
+			<key>offset</key>
+			<string>{238.5,-62}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{578,420}}</string>
+			<key>sourceSize</key>
+			<string>{578,420}</string>
+		</dict>
+		<key>RikudoSennin_R_skill02_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1740,4117},{578,420}}</string>
+			<key>offset</key>
+			<string>{238.5,-62}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{578,420}}</string>
+			<key>sourceSize</key>
+			<string>{578,420}</string>
+		</dict>
+		<key>RikudoSennin_R_skill02_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2320,4117},{578,420}}</string>
+			<key>offset</key>
+			<string>{238.5,-62}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{578,420}}</string>
+			<key>sourceSize</key>
+			<string>{578,420}</string>
+		</dict>
+		<key>RikudoSennin_R_skill02_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2900,4117},{578,420}}</string>
 			<key>offset</key>
 			<string>{238.5,-62}</string>
 			<key>rotated</key>
@@ -826,59 +878,59 @@
 		<key>RikudoSennin_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{580,422},{377,346}}</string>
+			<string>{{3614,5749},{98,69}}</string>
 			<key>offset</key>
-			<string>{31.5,-19}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{377,346}}</string>
+			<string>{{0,0},{98,69}}</string>
 			<key>sourceSize</key>
-			<string>{377,346}</string>
+			<string>{98,69}</string>
 		</dict>
 		<key>RikudoSennin_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{959,422},{377,346}}</string>
+			<string>{{3091,5749},{131,77}}</string>
 			<key>offset</key>
-			<string>{31.5,-19}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{377,346}}</string>
+			<string>{{0,0},{131,77}}</string>
 			<key>sourceSize</key>
-			<string>{377,346}</string>
+			<string>{131,77}</string>
 		</dict>
 		<key>RikudoSennin_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1338,422},{377,346}}</string>
+			<string>{{595,5749},{238,113}}</string>
 			<key>offset</key>
-			<string>{31.5,-19}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{377,346}}</string>
+			<string>{{0,0},{238,113}}</string>
 			<key>sourceSize</key>
-			<string>{377,346}</string>
+			<string>{238,113}</string>
 		</dict>
 		<key>RikudoSennin_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1717,422},{377,346}}</string>
+			<string>{{546,5749},{47,117}}</string>
 			<key>offset</key>
-			<string>{31.5,-19}</string>
+			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{377,346}}</string>
+			<string>{{0,0},{47,117}}</string>
 			<key>sourceSize</key>
-			<string>{377,346}</string>
+			<string>{47,117}</string>
 		</dict>
 		<key>RikudoSennin_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2096,422},{377,346}}</string>
+			<string>{{3480,4117},{377,346}}</string>
 			<key>offset</key>
 			<string>{31.5,-19}</string>
 			<key>rotated</key>
@@ -891,7 +943,7 @@
 		<key>RikudoSennin_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2475,422},{377,346}}</string>
+			<string>{{0,4539},{377,346}}</string>
 			<key>offset</key>
 			<string>{31.5,-19}</string>
 			<key>rotated</key>
@@ -904,7 +956,7 @@
 		<key>RikudoSennin_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2854,422},{377,346}}</string>
+			<string>{{379,4539},{377,346}}</string>
 			<key>offset</key>
 			<string>{31.5,-19}</string>
 			<key>rotated</key>
@@ -917,7 +969,7 @@
 		<key>RikudoSennin_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3233,422},{377,346}}</string>
+			<string>{{758,4539},{377,346}}</string>
 			<key>offset</key>
 			<string>{31.5,-19}</string>
 			<key>rotated</key>
@@ -930,7 +982,7 @@
 		<key>RikudoSennin_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3612,422},{377,346}}</string>
+			<string>{{1137,4539},{377,346}}</string>
 			<key>offset</key>
 			<string>{31.5,-19}</string>
 			<key>rotated</key>
@@ -943,7 +995,7 @@
 		<key>RikudoSennin_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,844},{377,346}}</string>
+			<string>{{1516,4539},{377,346}}</string>
 			<key>offset</key>
 			<string>{31.5,-19}</string>
 			<key>rotated</key>
@@ -956,7 +1008,7 @@
 		<key>RikudoSennin_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{379,844},{377,346}}</string>
+			<string>{{1895,4539},{377,346}}</string>
 			<key>offset</key>
 			<string>{31.5,-19}</string>
 			<key>rotated</key>
@@ -969,7 +1021,7 @@
 		<key>RikudoSennin_R_skill03_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{758,844},{377,346}}</string>
+			<string>{{2274,4539},{377,346}}</string>
 			<key>offset</key>
 			<string>{31.5,-19}</string>
 			<key>rotated</key>
@@ -982,7 +1034,59 @@
 		<key>RikudoSennin_R_skill03_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1137,844},{377,346}}</string>
+			<string>{{2653,4539},{377,346}}</string>
+			<key>offset</key>
+			<string>{31.5,-19}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{377,346}}</string>
+			<key>sourceSize</key>
+			<string>{377,346}</string>
+		</dict>
+		<key>RikudoSennin_R_skill03_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3032,4539},{377,346}}</string>
+			<key>offset</key>
+			<string>{31.5,-19}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{377,346}}</string>
+			<key>sourceSize</key>
+			<string>{377,346}</string>
+		</dict>
+		<key>RikudoSennin_R_skill03_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3411,4539},{377,346}}</string>
+			<key>offset</key>
+			<string>{31.5,-19}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{377,346}}</string>
+			<key>sourceSize</key>
+			<string>{377,346}</string>
+		</dict>
+		<key>RikudoSennin_R_skill03_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,4887},{377,346}}</string>
+			<key>offset</key>
+			<string>{31.5,-19}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{377,346}}</string>
+			<key>sourceSize</key>
+			<string>{377,346}</string>
+		</dict>
+		<key>RikudoSennin_R_skill03_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{379,4887},{377,346}}</string>
 			<key>offset</key>
 			<string>{31.5,-19}</string>
 			<key>rotated</key>
@@ -995,7 +1099,7 @@
 		<key>RikudoSennin_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3322,1706},{48,69}}</string>
+			<string>{{3714,5749},{48,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1008,7 +1112,7 @@
 		<key>RikudoSennin_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{522,1960},{55,60}}</string>
+			<string>{{877,6003},{55,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1125,306 @@
 		<key>RikudoSennin_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{579,1960},{55,60}}</string>
+			<string>{{0,0},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{400,0},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{800,0},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1200,0},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1600,0},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2000,0},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2400,0},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,485},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1057,485},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2114,485},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,970},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1057,970},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2114,970},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1455},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1057,1455},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2114,1455},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1940},{1055,483}}</string>
+			<key>offset</key>
+			<string>{14,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1055,483}}</string>
+			<key>sourceSize</key>
+			<string>{1055,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_20</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1057,1940},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_21</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1457,1940},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_22</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1857,1940},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_23</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2257,1940},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_24</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2657,1940},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_25</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3057,1940},{398,483}}</string>
+			<key>offset</key>
+			<string>{19.5,-91}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{398,483}}</string>
+			<key>sourceSize</key>
+			<string>{398,483}</string>
+		</dict>
+		<key>RikudoSennin_R_skill04_26</key>
+		<dict>
+			<key>frame</key>
+			<string>{{934,6003},{55,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1437,7 @@
 		<key>RikudoSennin_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1092,1706},{95,92}}</string>
+			<string>{{835,5749},{95,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1047,7 +1450,7 @@
 		<key>RikudoSennin_R_skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1189,1706},{95,92}}</string>
+			<string>{{932,5749},{95,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1060,7 +1463,7 @@
 		<key>RikudoSennin_R_skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1286,1706},{95,92}}</string>
+			<string>{{1029,5749},{95,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1073,7 +1476,7 @@
 		<key>RikudoSennin_R_skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1383,1706},{95,92}}</string>
+			<string>{{1126,5749},{95,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1086,7 +1489,7 @@
 		<key>RikudoSennin_R_skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1480,1706},{95,92}}</string>
+			<string>{{1223,5749},{95,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1099,7 +1502,7 @@
 		<key>RikudoSennin_R_skill05_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1577,1706},{95,92}}</string>
+			<string>{{1320,5749},{95,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1112,7 +1515,7 @@
 		<key>RikudoSennin_R_skill05_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1516,844},{269,282}}</string>
+			<string>{{758,4887},{269,282}}</string>
 			<key>offset</key>
 			<string>{95,-92}</string>
 			<key>rotated</key>
@@ -1125,7 +1528,7 @@
 		<key>RikudoSennin_R_skill05_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1787,844},{269,282}}</string>
+			<string>{{1029,4887},{269,282}}</string>
 			<key>offset</key>
 			<string>{95,-92}</string>
 			<key>rotated</key>
@@ -1138,7 +1541,7 @@
 		<key>RikudoSennin_R_skill05_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2058,844},{269,282}}</string>
+			<string>{{1300,4887},{269,282}}</string>
 			<key>offset</key>
 			<string>{95,-92}</string>
 			<key>rotated</key>
@@ -1151,7 +1554,7 @@
 		<key>RikudoSennin_R_skill05_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2329,844},{269,282}}</string>
+			<string>{{1571,4887},{269,282}}</string>
 			<key>offset</key>
 			<string>{95,-92}</string>
 			<key>rotated</key>
@@ -1164,7 +1567,7 @@
 		<key>RikudoSennin_R_skill05_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2600,844},{269,282}}</string>
+			<string>{{1842,4887},{269,282}}</string>
 			<key>offset</key>
 			<string>{95,-92}</string>
 			<key>rotated</key>
@@ -1177,7 +1580,7 @@
 		<key>RikudoSennin_R_skill05_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2871,844},{269,282}}</string>
+			<string>{{2113,4887},{269,282}}</string>
 			<key>offset</key>
 			<string>{95,-92}</string>
 			<key>rotated</key>
@@ -1190,7 +1593,7 @@
 		<key>RikudoSennin_R_skill05_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3142,844},{269,282}}</string>
+			<string>{{2384,4887},{269,282}}</string>
 			<key>offset</key>
 			<string>{95,-92}</string>
 			<key>rotated</key>
@@ -1203,7 +1606,7 @@
 		<key>RikudoSennin_R_skill05_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3413,844},{269,282}}</string>
+			<string>{{2655,4887},{269,282}}</string>
 			<key>offset</key>
 			<string>{95,-92}</string>
 			<key>rotated</key>
@@ -1216,7 +1619,7 @@
 		<key>RikudoSennin_R_skill05_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3684,844},{269,282}}</string>
+			<string>{{2926,4887},{269,282}}</string>
 			<key>offset</key>
 			<string>{95,-92}</string>
 			<key>rotated</key>
@@ -1229,7 +1632,59 @@
 		<key>RikudoSennin_R_skill05_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3372,1706},{48,69}}</string>
+			<string>{{2734,5749},{49,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{49,80}}</string>
+			<key>sourceSize</key>
+			<string>{49,80}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2785,5749},{49,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{49,80}}</string>
+			<key>sourceSize</key>
+			<string>{49,80}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2836,5749},{49,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{49,80}}</string>
+			<key>sourceSize</key>
+			<string>{49,80}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2887,5749},{49,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{49,80}}</string>
+			<key>sourceSize</key>
+			<string>{49,80}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_20</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3764,5749},{48,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1239,10 +1694,10 @@
 			<key>sourceSize</key>
 			<string>{48,69}</string>
 		</dict>
-		<key>RikudoSennin_R_skill05_17</key>
+		<key>RikudoSennin_R_skill05_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{636,1960},{55,60}}</string>
+			<string>{{991,6003},{55,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1252,10 +1707,205 @@
 			<key>sourceSize</key>
 			<string>{55,60}</string>
 		</dict>
+		<key>RikudoSennin_R_skill05_22</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,2425},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_23</key>
+		<dict>
+			<key>frame</key>
+			<string>{{906,2425},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_24</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1812,2425},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_25</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2718,2425},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_26</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,2848},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_27</key>
+		<dict>
+			<key>frame</key>
+			<string>{{906,2848},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_28</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1812,2848},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_29</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2718,2848},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_30</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,3271},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_31</key>
+		<dict>
+			<key>frame</key>
+			<string>{{906,3271},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_32</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1812,3271},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_33</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2718,3271},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_34</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,3694},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_35</key>
+		<dict>
+			<key>frame</key>
+			<string>{{906,3694},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
+		<key>RikudoSennin_R_skill05_36</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1812,3694},{904,421}}</string>
+			<key>offset</key>
+			<string>{56.5,-80}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{904,421}}</string>
+			<key>sourceSize</key>
+			<string>{904,421}</string>
+		</dict>
 		<key>RikudoSennin_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1960},{68,65}}</string>
+			<string>{{355,6003},{68,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1268,7 +1918,7 @@
 		<key>RikudoSennin_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3125,1706},{69,70}}</string>
+			<string>{{3417,5749},{69,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1281,7 +1931,7 @@
 		<key>RikudoSennin_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3897,1706},{63,66}}</string>
+			<string>{{225,6003},{63,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1294,7 +1944,7 @@
 		<key>RikudoSennin_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{70,1960},{64,65}}</string>
+			<string>{{425,6003},{64,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1307,7 +1957,7 @@
 		<key>RikudoSennin_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3422,1706},{69,69}}</string>
+			<string>{{3814,5749},{69,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1320,7 +1970,7 @@
 		<key>RikudoSennin_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{136,1960},{66,65}}</string>
+			<string>{{491,6003},{66,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1333,7 +1983,7 @@
 		<key>RikudoSennin_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{204,1960},{68,65}}</string>
+			<string>{{559,6003},{68,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1346,7 +1996,7 @@
 		<key>RikudoSennin_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3196,1706},{69,70}}</string>
+			<string>{{3488,5749},{69,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1359,7 +2009,7 @@
 		<key>RikudoSennin_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3962,1706},{63,66}}</string>
+			<string>{{290,6003},{63,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1372,7 +2022,7 @@
 		<key>RikudoSennin_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{274,1960},{64,65}}</string>
+			<string>{{629,6003},{64,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1385,7 +2035,7 @@
 		<key>RikudoSennin_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3493,1706},{69,69}}</string>
+			<string>{{3885,5749},{69,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1398,7 +2048,7 @@
 		<key>RikudoSennin_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{340,1960},{66,65}}</string>
+			<string>{{695,6003},{66,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1416,7 +2066,7 @@
 		<key>realTextureFileName</key>
 		<string>RikudoSennin.pvr.ccz</string>
 		<key>size</key>
-		<string>{4096,2048}</string>
+		<string>{4096,8192}</string>
 		<key>textureFileName</key>
 		<string>RikudoSennin.pvr.ccz</string>
 	</dict>

@@ -189,10 +189,8 @@
 			<p type="cd">10</p>
 		</data>
 		<frame>
-			<f>Hidan_Skill10_001</f>
-			<e type="setDelay">10</e>
-			<f>Hidan_Skill10_002</f>
-			<e type="setDelay">10</e>
+			<f>ZetsuSpiral_R_skill10_01</f><f>ZetsuSpiral_R_skill10_02</f><e type="setDelay">10</e>
+			<f>ZetsuSpiral_R_skill10_03</f><f>ZetsuSpiral_R_skill10_04</f><f>ZetsuSpiral_R_skill10_05</f><e type="setDelay">10</e>
 		</frame>
 	</action>
 	<action name="skill11">
@@ -204,16 +202,10 @@
 			<p type="cd">15</p>
 		</data>
 		<frame>
-			<f>Hidan_Run_01</f>
-			<e type="setShadow">10</e>
-			<f>Hidan_Run_02</f>
-			<f>Hidan_Run_03</f>
-			<e type="setShadow">10</e>
-			<f>Hidan_Run_04</f>
-			<f>Hidan_Run_05</f>
-			<e type="setShadow">10</e>
-			<f>Hidan_Run_06</f>
-		</frame>
+			<f>ZetsuSpiral_R_skill11_01</f><e type="setShadow">10</e>
+			<f>ZetsuSpiral_R_skill11_02</f><f>ZetsuSpiral_R_skill11_03</f><e type="setShadow">10</e>
+			<f>ZetsuSpiral_R_skill11_04</f><f>ZetsuSpiral_R_skill11_05</f><e type="setShadow">10</e>
+			<f>ZetsuSpiral_R_skill11_06</f></frame>
 
 	</action>
 	<action name="skill12">
@@ -225,13 +217,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Hidan_Skill12_001</f>
-			<f>Hidan_Skill12_002</f>
-			<f>Hidan_Skill12_003</f>
-			<f>Hidan_Skill12_004</f>
-			<f>Hidan_Skill12_005</f>
-			<f>Hidan_Skill12_006</f>
-			<e type="setCommand">setCounter</e>
+			<f>ZetsuSpiral_R_skill12_01</f><f>ZetsuSpiral_R_skill12_02</f><f>ZetsuSpiral_R_skill12_03</f><f>ZetsuSpiral_R_skill12_04</f><f>ZetsuSpiral_R_skill12_05</f><f>ZetsuSpiral_R_skill12_06</f><f>ZetsuSpiral_R_skill12_07</f><f>ZetsuSpiral_R_skill12_08</f><f>ZetsuSpiral_R_skill12_09</f><f>ZetsuSpiral_R_skill12_10</f><f>ZetsuSpiral_R_skill12_11</f><f>ZetsuSpiral_R_skill12_12</f><f>ZetsuSpiral_R_skill12_13</f><f>ZetsuSpiral_R_skill12_14</f><f>ZetsuSpiral_R_skill12_15</f><e type="setCommand">setCounter</e>
 		</frame>
 	</action>
 </unit>

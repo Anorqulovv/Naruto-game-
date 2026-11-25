@@ -63,7 +63,6 @@ class Lee : public Hero
 			}
 			else if (htLv == 1)
 			{
-				lockSkill4Button();
 				setNAttackValue(getNAttackValue() - 30);
 			}
 			htLv--;
@@ -88,20 +87,8 @@ class Lee : public Hero
 		if (isNotPlayer())
 			return;
 
-		if (getName() == HeroEnum::Lee)
-		{
-			// NOTE: See `Kakuzu::changeHPbar()`
-			if (_exp >= 500 && _level == 1 + 1)
-			{
-				if (htLv < 1)
-					getGameLayer()->getHudLayer()->skill4Button->setLock();
-			}
-			else if (_exp >= 1500 && _level == 3 + 1)
-			{
-				if (htLv < 3)
-					getGameLayer()->getHudLayer()->skill5Button->setLock();
-			}
-		}
+		// RotN 2.2: like every hero, skill 4 opens at level 2 and skill 5 at level 4 (the gates only
+		// make Lee stronger)
 	}
 
 	void changeAction() override
@@ -127,8 +114,6 @@ class Lee : public Hero
 		if (htLv == 1)
 		{
 			setNAttackValue(getNAttackValue() + 30);
-
-			unlockSkill4Button();
 		}
 		else if (htLv == 2)
 		{
@@ -145,7 +130,6 @@ class Lee : public Hero
 			if (isViewPlayer())
 			{
 				getGameLayer()->getHudLayer()->skill3Button->unLock();
-				getGameLayer()->getHudLayer()->skill5Button->unLock();
 			}
 		}
 		else if (htLv == 4)
@@ -405,7 +389,6 @@ class Lee : public Hero
 
 	// Callbacks
 
-	bool isEnableSkill05() override { return htLv >= 3; }
 
 private:
 	void tryLockSkillButton()

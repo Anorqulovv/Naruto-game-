@@ -138,28 +138,28 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>NarutoKCM_R_skill04_01</f><e type="setSound">Audio/NarutoKCM/n_4.mp3</e>
-			<e type="setCharge">280</e>
+			<f>NarutoKCM_R_skill04_01</f><f>NarutoKCM_R_skill04_02</f><e type="setSound">Audio/NarutoKCM/n_4.mp3</e>
+			<f>NarutoKCM_R_skill04_03</f><f>NarutoKCM_R_skill04_04</f><e type="setCharge">280</e>
 			<e type="setDelay">10</e>
-			<e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill04_05</f><e type="setShadow">10</e>
 			<e type="setAttackBox">o_hit</e>
 			<e type="setDSound">Audio/Effect/damage_o.ogg</e>
-			<e type="setShadow">10</e>
-			<e type="setMove">32</e>
-			<e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill04_06</f><f>NarutoKCM_R_skill04_07</f><f>NarutoKCM_R_skill04_08</f><f>NarutoKCM_R_skill04_09</f><e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill04_10</f><f>NarutoKCM_R_skill04_11</f><e type="setMove">32</e>
+			<f>NarutoKCM_R_skill04_12</f><e type="setShadow">10</e>
 			<e type="setSound">Audio/NarutoKCM/Hrrg.mp3</e>
 			<e type="setAttackBox">f_hit</e>
 			<e type="setDSound">Audio/Effect/damage_o2.ogg</e>
-			<f>NarutoKCM_R_skill04_02</f><e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill04_13</f><f>NarutoKCM_R_skill04_14</f><f>NarutoKCM_R_skill04_15</f><f>NarutoKCM_R_skill04_16</f><e type="setShadow">10</e>
 			<e type="setAttackBox">ac_hit</e>
-			<e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill04_17</f><f>NarutoKCM_R_skill04_18</f><f>NarutoKCM_R_skill04_19</f><e type="setShadow">10</e>
 			<e type="setDelay">10</e>
 			<e type="setJump">true</e>
-			<e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill04_20</f><f>NarutoKCM_R_skill04_21</f><e type="setShadow">10</e>
 			<e type="setDelay">20</e>
-			<e type="setShadow">10</e>
-			<f>NarutoKCM_R_skill04_03</f><e type="setShadow">10</e>
-			<e type="setSound">Audio/NarutoKCM/ESkill4.mp3</e>
+			<f>NarutoKCM_R_skill04_22</f><f>NarutoKCM_R_skill04_23</f><e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill04_24</f><f>NarutoKCM_R_skill04_25</f><f>NarutoKCM_R_skill04_26</f><e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill04_27</f><f>NarutoKCM_R_skill04_28</f><f>NarutoKCM_R_skill04_29</f><f>NarutoKCM_R_skill04_30</f><e type="setSound">Audio/NarutoKCM/ESkill4.mp3</e>
 			<e type="setMon">Tuji</e>
 			<e type="setSound">Audio/Effect/break_sound2.ogg</e>
 			<e type="setDelay">10</e>
@@ -177,10 +177,10 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>NarutoKCM_R_skill05_01</f><f>NarutoKCM_R_skill05_02</f><e type="setCommand">setInvincible</e>
-			<f>NarutoKCM_R_skill05_03</f><e type="setOugis">10</e>
-			<f>NarutoKCM_R_skill05_04</f><f>NarutoKCM_R_skill05_05</f><f>NarutoKCM_R_skill05_06</f><f>NarutoKCM_R_skill05_07</f><f>NarutoKCM_R_skill05_08</f><e type="setSound">Audio/NarutoKCM/n_5.mp3</e>
-			<f>NarutoKCM_R_skill05_09</f><f>NarutoKCM_R_skill05_10</f><f>NarutoKCM_R_skill05_11</f><f>NarutoKCM_R_skill05_12</f><f>NarutoKCM_R_skill05_13</f><f>NarutoKCM_R_skill05_14</f><f>NarutoKCM_R_skill05_15</f><e type="setBuff">18</e>
+			<f>NarutoKCM_R_skill05_01</f><f>NarutoKCM_R_skill05_02</f><f>NarutoKCM_R_skill05_03</f><e type="setCommand">setInvincible</e>
+			<f>NarutoKCM_R_skill05_04</f><f>NarutoKCM_R_skill05_05</f><f>NarutoKCM_R_skill05_06</f><e type="setOugis">10</e>
+			<f>NarutoKCM_R_skill05_07</f><f>NarutoKCM_R_skill05_08</f><f>NarutoKCM_R_skill05_09</f><f>NarutoKCM_R_skill05_10</f><f>NarutoKCM_R_skill05_11</f><f>NarutoKCM_R_skill05_12</f><f>NarutoKCM_R_skill05_13</f><f>NarutoKCM_R_skill05_14</f><f>NarutoKCM_R_skill05_15</f><f>NarutoKCM_R_skill05_16</f><e type="setSound">Audio/NarutoKCM/n_5.mp3</e>
+			<f>NarutoKCM_R_skill05_17</f><f>NarutoKCM_R_skill05_18</f><f>NarutoKCM_R_skill05_19</f><f>NarutoKCM_R_skill05_20</f><f>NarutoKCM_R_skill05_21</f><f>NarutoKCM_R_skill05_22</f><f>NarutoKCM_R_skill05_23</f><f>NarutoKCM_R_skill05_24</f><f>NarutoKCM_R_skill05_25</f><f>NarutoKCM_R_skill05_26</f><f>NarutoKCM_R_skill05_27</f><f>NarutoKCM_R_skill05_28</f><e type="setBuff">18</e>
 			<e type="setCommand">reInvincible</e>
 		</frame>
 	</action>
@@ -206,12 +206,9 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Tsunade_Skill10_01</f>
-			<e type="setDelay">10</e>
-			<f>Tsunade_Skill10_02</f>
-			<e type="setDelay">10</e>
-			<f>Tsunade_Skill10_03</f>
-			<e type="setDelay">10</e>
+			<f>NarutoKCM_R_skill10_01</f><f>NarutoKCM_R_skill10_02</f><e type="setDelay">10</e>
+			<f>NarutoKCM_R_skill10_03</f><e type="setDelay">10</e>
+			<f>NarutoKCM_R_skill10_04</f><f>NarutoKCM_R_skill10_05</f><e type="setDelay">10</e>
 		</frame>
 	</action>
 
@@ -224,16 +221,10 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Tsunade_Skill11_01</f>
-			<e type="setShadow">10</e>
-			<f>Tsunade_Skill11_02</f>
-			<f>Tsunade_Skill11_03</f>
-			<e type="setShadow">10</e>
-			<f>Tsunade_Skill11_04</f>
-			<f>Tsunade_Skill11_05</f>
-			<e type="setShadow">10</e>
-			<f>Tsunade_Skill11_06</f>
-		</frame>
+			<f>NarutoKCM_R_skill11_01</f><e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill11_02</f><f>NarutoKCM_R_skill11_03</f><e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill11_04</f><f>NarutoKCM_R_skill11_05</f><e type="setShadow">10</e>
+			<f>NarutoKCM_R_skill11_06</f></frame>
 	</action>
 	<action name="skill12">
 		<data>
@@ -244,24 +235,14 @@
 			<p type="cd">10000</p>
 		</data>
 		<frame>
-			<f>Tsunade_Skill12_01</f>
-			<f>Tsunade_Skill12_02</f>
-			<f>Tsunade_Skill12_03</f>
-			<e type="setSound">Audio/Effect/combo1.ogg</e>
+			<f>NarutoKCM_R_skill12_01</f><f>NarutoKCM_R_skill12_02</f><f>NarutoKCM_R_skill12_03</f><e type="setSound">Audio/Effect/combo1.ogg</e>
 			<e type="setAttackBox">c_hit</e>
-			<f>Tsunade_Skill12_04</f>
-			<e type="setMove">8</e>
-			<f>Tsunade_Skill12_05</f>
-			<f>Tsunade_Skill12_06</f>
-			<e type="setSound">Audio/Effect/combo2.ogg</e>
+			<f>NarutoKCM_R_skill12_04</f><e type="setMove">8</e>
+			<f>NarutoKCM_R_skill12_05</f><f>NarutoKCM_R_skill12_06</f><e type="setSound">Audio/Effect/combo2.ogg</e>
 			<e type="setAttackBox">c_hit</e>
-			<f>Tsunade_Skill12_07</f>
-			<f>Tsunade_Skill12_08</f>
-			<e type="setMove">16</e>
-			<e type="setSound">Audio/Tsunade/Tsunade_skill11.ogg</e>
-			<f>Tsunade_Skill12_09</f>
-			<f>Tsunade_Skill12_10</f>
-			<e type="setSound">Audio/Effect/combo3.ogg</e>
+			<f>NarutoKCM_R_skill12_07</f><f>NarutoKCM_R_skill12_08</f><e type="setMove">16</e>
+			<e type="setSound">Audio/NarutoKCM/Hrrg.mp3</e>
+			<f>NarutoKCM_R_skill12_09</f><f>NarutoKCM_R_skill12_10</f><e type="setSound">Audio/Effect/combo3.ogg</e>
 			<e type="setAttackBox">c_hit</e>
 		</frame>
 	</action>

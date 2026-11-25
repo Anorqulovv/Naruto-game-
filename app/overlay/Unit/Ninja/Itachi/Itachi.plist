@@ -7,7 +7,7 @@
 		<key>Itachi_AirHurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3338,2472},{46,55}}</string>
+			<string>{{0,6266},{46,55}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>Itachi_AirHurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{289,2472},{44,72}}</string>
+			<string>{{1029,6186},{44,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Itachi_Float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{436,2549},{55,46}}</string>
+			<string>{{1183,6266},{55,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>Itachi_Float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3071,2472},{44,61}}</string>
+			<string>{{3811,6186},{44,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Itachi_Float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{550,2549},{72,44}}</string>
+			<string>{{1297,6266},{72,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Itachi_Hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3904,2381},{38,75}}</string>
+			<string>{{579,6186},{38,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>Itachi_Hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{68,2472},{42,73}}</string>
+			<string>{{808,6186},{42,73}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>Itachi_Hurt_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3117,2472},{44,61}}</string>
+			<string>{{3857,6186},{44,61}}</string>
 			<key>offset</key>
 			<string>{0,-7}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Itachi_Idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2184,2381},{32,80}}</string>
+			<string>{{2950,6022},{32,80}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Itachi_Idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2218,2381},{34,80}}</string>
+			<string>{{2984,6022},{34,80}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>Itachi_Idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2254,2381},{34,80}}</string>
+			<string>{{3020,6022},{34,80}}</string>
 			<key>offset</key>
 			<string>{3,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Itachi_Idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2290,2381},{34,80}}</string>
+			<string>{{3056,6022},{34,80}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Itachi_Idle_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2326,2381},{32,80}}</string>
+			<string>{{3092,6022},{32,80}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>Itachi_Idle_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2360,2381},{34,80}}</string>
+			<string>{{3126,6022},{34,80}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>Itachi_Idle_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2396,2381},{36,80}}</string>
+			<string>{{3162,6022},{36,80}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>Itachi_KnockDown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{624,2549},{75,44}}</string>
+			<string>{{1371,6266},{75,44}}</string>
 			<key>offset</key>
 			<string>{0,-15}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Itachi_KnockDown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1000,2549},{74,38}}</string>
+			<string>{{1747,6266},{74,38}}</string>
 			<key>offset</key>
 			<string>{0,-18}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Itachi_KnockDown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1335,2549},{80,26}}</string>
+			<string>{{2082,6266},{80,26}}</string>
 			<key>offset</key>
 			<string>{0,-24}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>Itachi_KnockDown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{929,2549},{69,42}}</string>
+			<string>{{1676,6266},{69,42}}</string>
 			<key>offset</key>
 			<string>{0,-13}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Itachi_KnockDown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{393,2549},{41,48}}</string>
+			<string>{{1140,6266},{41,48}}</string>
 			<key>offset</key>
 			<string>{0,-10}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>Itachi_KnockDown_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{613,2472},{34,70}}</string>
+			<string>{{1353,6186},{34,70}}</string>
 			<key>offset</key>
 			<string>{0,2}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Itachi_NAttack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{881,2472},{53,69}}</string>
+			<string>{{1621,6186},{53,69}}</string>
 			<key>offset</key>
 			<string>{0,-4}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Itachi_NAttack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3642,2381},{44,77}}</string>
+			<string>{{317,6186},{44,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>Itachi_NAttack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3688,2381},{83,77}}</string>
+			<string>{{363,6186},{83,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Itachi_NAttack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{936,2472},{81,69}}</string>
+			<string>{{1676,6186},{81,69}}</string>
 			<key>offset</key>
 			<string>{0,-4}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>Itachi_NAttack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{425,2472},{36,71}}</string>
+			<string>{{1165,6186},{36,71}}</string>
 			<key>offset</key>
 			<string>{0,-3}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>Itachi_NAttack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2211,2472},{37,67}}</string>
+			<string>{{2951,6186},{37,67}}</string>
 			<key>offset</key>
 			<string>{0,-3}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Itachi_NAttack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1019,2472},{75,69}}</string>
+			<string>{{1759,6186},{75,69}}</string>
 			<key>offset</key>
 			<string>{0,-2}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>Itachi_NAttack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2250,2472},{75,67}}</string>
+			<string>{{2990,6186},{75,67}}</string>
 			<key>offset</key>
 			<string>{0,-3}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>Itachi_NAttack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1096,2472},{65,69}}</string>
+			<string>{{1836,6186},{65,69}}</string>
 			<key>offset</key>
 			<string>{0,-2}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>Itachi_NAttack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{112,2472},{34,73}}</string>
+			<string>{{852,6186},{34,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>Itachi_NAttack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1163,2472},{35,69}}</string>
+			<string>{{1903,6186},{35,69}}</string>
 			<key>offset</key>
 			<string>{0,-3}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>Itachi_NAttack_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1200,2472},{43,69}}</string>
+			<string>{{1940,6186},{43,69}}</string>
 			<key>offset</key>
 			<string>{0,-3}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>Itachi_NAttack_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1245,2472},{43,69}}</string>
+			<string>{{1985,6186},{43,69}}</string>
 			<key>offset</key>
 			<string>{0,-3}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>Itachi_NAttack_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2327,2472},{60,67}}</string>
+			<string>{{3067,6186},{60,67}}</string>
 			<key>offset</key>
 			<string>{0,-4}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>Itachi_NAttack_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1290,2472},{61,69}}</string>
+			<string>{{2030,6186},{61,69}}</string>
 			<key>offset</key>
 			<string>{0,-3}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>Itachi_NAttack_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3211,2472},{61,57}}</string>
+			<string>{{3951,6186},{61,57}}</string>
 			<key>offset</key>
 			<string>{0,-9}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>Itachi_NAttack_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3944,2381},{39,75}}</string>
+			<string>{{619,6186},{39,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>Itachi_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{493,2549},{55,46}}</string>
+			<string>{{1240,6266},{55,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>Itachi_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{701,2549},{75,44}}</string>
+			<string>{{1448,6266},{75,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>Itachi_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1498,2549},{80,23}}</string>
+			<string>{{2245,6266},{80,23}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>Itachi_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3386,2472},{46,55}}</string>
+			<string>{{48,6266},{46,55}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>Itachi_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{335,2472},{44,72}}</string>
+			<string>{{1075,6186},{44,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>Itachi_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{778,2549},{72,44}}</string>
+			<string>{{1525,6266},{72,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>Itachi_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3985,2381},{37,75}}</string>
+			<string>{{660,6186},{37,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>Itachi_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{381,2472},{42,72}}</string>
+			<string>{{1121,6186},{42,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>Itachi_R_hurt_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3163,2472},{46,61}}</string>
+			<string>{{3903,6186},{46,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>Itachi_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2434,2381},{40,80}}</string>
+			<string>{{3200,6022},{40,80}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>Itachi_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2476,2381},{40,80}}</string>
+			<string>{{3242,6022},{40,80}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>Itachi_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2518,2381},{40,80}}</string>
+			<string>{{3284,6022},{40,80}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>Itachi_R_idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2560,2381},{40,80}}</string>
+			<string>{{3326,6022},{40,80}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>Itachi_R_idle_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2602,2381},{40,80}}</string>
+			<string>{{3368,6022},{40,80}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>Itachi_R_idle_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2644,2381},{40,80}}</string>
+			<string>{{3410,6022},{40,80}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>Itachi_R_idle_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2686,2381},{40,80}}</string>
+			<string>{{3452,6022},{40,80}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>Itachi_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{852,2549},{75,44}}</string>
+			<string>{{1599,6266},{75,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>Itachi_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1580,2549},{80,23}}</string>
+			<string>{{2327,6266},{80,23}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -735,7 +735,7 @@
 		<key>Itachi_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1076,2549},{88,31}}</string>
+			<string>{{1823,6266},{88,31}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>Itachi_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2389,2472},{73,67}}</string>
+			<string>{{3129,6186},{73,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>Itachi_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1353,2472},{59,69}}</string>
+			<string>{{2093,6186},{59,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>Itachi_R_knockdown_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{649,2472},{66,70}}</string>
+			<string>{{1389,6186},{66,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>Itachi_R_knockdown_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{717,2472},{66,70}}</string>
+			<string>{{1457,6186},{66,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>Itachi_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3858,2381},{44,76}}</string>
+			<string>{{533,6186},{44,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>Itachi_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3773,2381},{83,77}}</string>
+			<string>{{448,6186},{83,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>Itachi_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1655,2472},{81,68}}</string>
+			<string>{{2395,6186},{81,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>Itachi_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{463,2472},{36,71}}</string>
+			<string>{{1203,6186},{36,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>Itachi_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2618,2472},{37,66}}</string>
+			<string>{{3358,6186},{37,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>Itachi_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1738,2472},{75,68}}</string>
+			<string>{{2478,6186},{75,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -878,7 +878,7 @@
 		<key>Itachi_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2464,2472},{75,67}}</string>
+			<string>{{3204,6186},{75,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -891,7 +891,7 @@
 		<key>Itachi_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1815,2472},{65,68}}</string>
+			<string>{{2555,6186},{65,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -904,7 +904,7 @@
 		<key>Itachi_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{148,2472},{34,73}}</string>
+			<string>{{888,6186},{34,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -917,7 +917,7 @@
 		<key>Itachi_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1414,2472},{35,69}}</string>
+			<string>{{2154,6186},{35,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -930,7 +930,7 @@
 		<key>Itachi_R_nattack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1882,2472},{43,68}}</string>
+			<string>{{2622,6186},{43,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -943,7 +943,7 @@
 		<key>Itachi_R_nattack_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2657,2472},{61,66}}</string>
+			<string>{{3397,6186},{61,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -956,7 +956,7 @@
 		<key>Itachi_R_nattack_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1927,2472},{62,68}}</string>
+			<string>{{2667,6186},{62,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -969,7 +969,7 @@
 		<key>Itachi_R_nattack_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3274,2472},{62,57}}</string>
+			<string>{{4014,6186},{62,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -982,7 +982,7 @@
 		<key>Itachi_R_nattack_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{4024,2381},{39,75}}</string>
+			<string>{{699,6186},{39,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -995,7 +995,7 @@
 		<key>Itachi_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3225,2381},{34,78}}</string>
+			<string>{{3991,6022},{34,78}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -1008,7 +1008,7 @@
 		<key>Itachi_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3261,2381},{30,78}}</string>
+			<string>{{4027,6022},{30,78}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1021,7 @@
 		<key>Itachi_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3293,2381},{30,78}}</string>
+			<string>{{4059,6022},{30,78}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1034,7 @@
 		<key>Itachi_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3325,2381},{34,78}}</string>
+			<string>{{0,6186},{34,78}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -1047,7 +1047,7 @@
 		<key>Itachi_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3361,2381},{30,78}}</string>
+			<string>{{36,6186},{30,78}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -1060,7 +1060,7 @@
 		<key>Itachi_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3393,2381},{37,78}}</string>
+			<string>{{68,6186},{37,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1073,7 +1073,7 @@
 		<key>Itachi_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{888,1860},{373,270}}</string>
+			<string>{{1776,5420},{373,270}}</string>
 			<key>offset</key>
 			<string>{162.5,-51}</string>
 			<key>rotated</key>
@@ -1086,7 +1086,7 @@
 		<key>Itachi_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1263,1860},{373,270}}</string>
+			<string>{{2151,5420},{373,270}}</string>
 			<key>offset</key>
 			<string>{162.5,-51}</string>
 			<key>rotated</key>
@@ -1099,7 +1099,7 @@
 		<key>Itachi_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1638,1860},{373,270}}</string>
+			<string>{{2526,5420},{373,270}}</string>
 			<key>offset</key>
 			<string>{162.5,-51}</string>
 			<key>rotated</key>
@@ -1112,7 +1112,7 @@
 		<key>Itachi_R_skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2013,1860},{373,270}}</string>
+			<string>{{2901,5420},{373,270}}</string>
 			<key>offset</key>
 			<string>{162.5,-51}</string>
 			<key>rotated</key>
@@ -1125,7 +1125,7 @@
 		<key>Itachi_R_skill02_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2388,1860},{373,270}}</string>
+			<string>{{3276,5420},{373,270}}</string>
 			<key>offset</key>
 			<string>{162.5,-51}</string>
 			<key>rotated</key>
@@ -1138,7 +1138,7 @@
 		<key>Itachi_R_skill02_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2763,1860},{373,270}}</string>
+			<string>{{3651,5420},{373,270}}</string>
 			<key>offset</key>
 			<string>{162.5,-51}</string>
 			<key>rotated</key>
@@ -1151,7 +1151,7 @@
 		<key>Itachi_R_skill02_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3138,1860},{373,270}}</string>
+			<string>{{0,5750},{373,270}}</string>
 			<key>offset</key>
 			<string>{162.5,-51}</string>
 			<key>rotated</key>
@@ -1164,7 +1164,7 @@
 		<key>Itachi_R_skill02_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3513,1860},{373,270}}</string>
+			<string>{{375,5750},{373,270}}</string>
 			<key>offset</key>
 			<string>{162.5,-51}</string>
 			<key>rotated</key>
@@ -1177,7 +1177,7 @@
 		<key>Itachi_R_skill02_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{501,2472},{36,71}}</string>
+			<string>{{1241,6186},{36,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1190,7 +1190,7 @@
 		<key>Itachi_R_skill02_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2190},{364,189}}</string>
+			<string>{{750,5750},{364,189}}</string>
 			<key>offset</key>
 			<string>{-48,-47}</string>
 			<key>rotated</key>
@@ -1203,7 +1203,7 @@
 		<key>Itachi_R_skill02_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{366,2190},{364,189}}</string>
+			<string>{{1116,5750},{364,189}}</string>
 			<key>offset</key>
 			<string>{-48,-47}</string>
 			<key>rotated</key>
@@ -1216,7 +1216,7 @@
 		<key>Itachi_R_skill02_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{732,2190},{364,189}}</string>
+			<string>{{1482,5750},{364,189}}</string>
 			<key>offset</key>
 			<string>{-48,-47}</string>
 			<key>rotated</key>
@@ -1229,7 +1229,7 @@
 		<key>Itachi_R_skill02_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1098,2190},{364,189}}</string>
+			<string>{{1848,5750},{364,189}}</string>
 			<key>offset</key>
 			<string>{-48,-47}</string>
 			<key>rotated</key>
@@ -1242,7 +1242,7 @@
 		<key>Itachi_R_skill02_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1464,2190},{364,189}}</string>
+			<string>{{2214,5750},{364,189}}</string>
 			<key>offset</key>
 			<string>{-48,-47}</string>
 			<key>rotated</key>
@@ -1255,7 +1255,7 @@
 		<key>Itachi_R_skill02_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1830,2190},{364,189}}</string>
+			<string>{{2580,5750},{364,189}}</string>
 			<key>offset</key>
 			<string>{-48,-47}</string>
 			<key>rotated</key>
@@ -1268,7 +1268,7 @@
 		<key>Itachi_R_skill02_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2196,2190},{364,189}}</string>
+			<string>{{2946,5750},{364,189}}</string>
 			<key>offset</key>
 			<string>{-48,-47}</string>
 			<key>rotated</key>
@@ -1281,7 +1281,7 @@
 		<key>Itachi_R_skill02_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2562,2190},{364,189}}</string>
+			<string>{{3312,5750},{364,189}}</string>
 			<key>offset</key>
 			<string>{-48,-47}</string>
 			<key>rotated</key>
@@ -1294,7 +1294,7 @@
 		<key>Itachi_R_skill02_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2928,2190},{364,189}}</string>
+			<string>{{3678,5750},{364,189}}</string>
 			<key>offset</key>
 			<string>{-48,-47}</string>
 			<key>rotated</key>
@@ -1307,7 +1307,7 @@
 		<key>Itachi_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3432,2381},{34,78}}</string>
+			<string>{{107,6186},{34,78}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -1320,7 +1320,7 @@
 		<key>Itachi_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3497,2190},{81,95}}</string>
+			<string>{{203,6022},{81,95}}</string>
 			<key>offset</key>
 			<string>{-2.5,-9}</string>
 			<key>rotated</key>
@@ -1333,7 +1333,7 @@
 		<key>Itachi_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3580,2190},{81,95}}</string>
+			<string>{{286,6022},{81,95}}</string>
 			<key>offset</key>
 			<string>{-2.5,-9}</string>
 			<key>rotated</key>
@@ -1346,7 +1346,7 @@
 		<key>Itachi_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3663,2190},{81,95}}</string>
+			<string>{{369,6022},{81,95}}</string>
 			<key>offset</key>
 			<string>{-2.5,-9}</string>
 			<key>rotated</key>
@@ -1359,7 +1359,7 @@
 		<key>Itachi_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3746,2190},{81,95}}</string>
+			<string>{{452,6022},{81,95}}</string>
 			<key>offset</key>
 			<string>{-2.5,-9}</string>
 			<key>rotated</key>
@@ -1372,7 +1372,7 @@
 		<key>Itachi_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3829,2190},{81,95}}</string>
+			<string>{{535,6022},{81,95}}</string>
 			<key>offset</key>
 			<string>{-2.5,-9}</string>
 			<key>rotated</key>
@@ -1385,7 +1385,7 @@
 		<key>Itachi_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{539,2472},{36,71}}</string>
+			<string>{{1279,6186},{36,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1398,7 +1398,7 @@
 		<key>Itachi_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2720,2472},{37,66}}</string>
+			<string>{{3460,6186},{37,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1411,7 +1411,7 @@
 		<key>Itachi_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1991,2472},{75,68}}</string>
+			<string>{{2731,6186},{75,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1424,7 +1424,7 @@
 		<key>Itachi_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2541,2472},{75,67}}</string>
+			<string>{{3281,6186},{75,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1437,7 +1437,7 @@
 		<key>Itachi_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2068,2472},{65,68}}</string>
+			<string>{{2808,6186},{65,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1450,7 +1450,7 @@
 		<key>Itachi_R_skill03_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{184,2472},{34,73}}</string>
+			<string>{{924,6186},{34,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1463,7 +1463,7 @@
 		<key>Itachi_R_skill03_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1451,2472},{49,69}}</string>
+			<string>{{2191,6186},{49,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1476,7 +1476,7 @@
 		<key>Itachi_R_skill03_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1502,2472},{49,69}}</string>
+			<string>{{2242,6186},{49,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1489,7 +1489,7 @@
 		<key>Itachi_R_skill03_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1553,2472},{49,69}}</string>
+			<string>{{2293,6186},{49,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1502,7 +1502,7 @@
 		<key>Itachi_R_skill03_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2759,2472},{47,64}}</string>
+			<string>{{3499,6186},{47,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1515,7 +1515,7 @@
 		<key>Itachi_R_skill03_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2808,2472},{47,64}}</string>
+			<string>{{3548,6186},{47,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1528,7 +1528,7 @@
 		<key>Itachi_R_skill03_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2857,2472},{47,64}}</string>
+			<string>{{3597,6186},{47,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1541,7 +1541,7 @@
 		<key>Itachi_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3468,2381},{34,78}}</string>
+			<string>{{143,6186},{34,78}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -1554,7 +1554,7 @@
 		<key>Itachi_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3504,2381},{30,78}}</string>
+			<string>{{179,6186},{30,78}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -1567,7 +1567,7 @@
 		<key>Itachi_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1484,1395},{294,328}}</string>
+			<string>{{2478,4987},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -1580,7 +1580,7 @@
 		<key>Itachi_R_skill04_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1780,1395},{294,328}}</string>
+			<string>{{2774,4987},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -1593,7 +1593,7 @@
 		<key>Itachi_R_skill04_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2076,1395},{294,328}}</string>
+			<string>{{3070,4987},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -1606,7 +1606,7 @@
 		<key>Itachi_R_skill04_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2372,1395},{294,328}}</string>
+			<string>{{3366,4987},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -1619,7 +1619,7 @@
 		<key>Itachi_R_skill04_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{599,1395},{293,365}}</string>
+			<string>{{1593,4987},{293,365}}</string>
 			<key>offset</key>
 			<string>{-6.5,-77}</string>
 			<key>rotated</key>
@@ -1632,7 +1632,7 @@
 		<key>Itachi_R_skill04_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{894,1395},{293,365}}</string>
+			<string>{{1888,4987},{293,365}}</string>
 			<key>offset</key>
 			<string>{-6.5,-77}</string>
 			<key>rotated</key>
@@ -1645,7 +1645,7 @@
 		<key>Itachi_R_skill04_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1189,1395},{293,365}}</string>
+			<string>{{2183,4987},{293,365}}</string>
 			<key>offset</key>
 			<string>{-6.5,-77}</string>
 			<key>rotated</key>
@@ -1658,7 +1658,7 @@
 		<key>Itachi_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{597,463}}</string>
+			<string>{{1965,2940},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1671,7 +1671,7 @@
 		<key>Itachi_R_skill04_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{599,0},{597,463}}</string>
+			<string>{{2564,2940},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1684,7 +1684,7 @@
 		<key>Itachi_R_skill04_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1198,0},{597,463}}</string>
+			<string>{{3163,2940},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1697,7 +1697,7 @@
 		<key>Itachi_R_skill04_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1797,0},{597,463}}</string>
+			<string>{{0,3592},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1710,7 +1710,7 @@
 		<key>Itachi_R_skill04_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2396,0},{597,463}}</string>
+			<string>{{599,3592},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1723,7 +1723,7 @@
 		<key>Itachi_R_skill04_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2995,0},{597,463}}</string>
+			<string>{{1198,3592},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1736,7 +1736,7 @@
 		<key>Itachi_R_skill04_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,465},{597,463}}</string>
+			<string>{{1797,3592},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1749,7 +1749,7 @@
 		<key>Itachi_R_skill04_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{599,465},{597,463}}</string>
+			<string>{{2396,3592},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1762,7 +1762,7 @@
 		<key>Itachi_R_skill04_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1198,465},{597,463}}</string>
+			<string>{{2995,3592},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1775,7 +1775,7 @@
 		<key>Itachi_R_skill04_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1797,465},{597,463}}</string>
+			<string>{{0,4057},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1788,7 +1788,7 @@
 		<key>Itachi_R_skill04_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2396,465},{597,463}}</string>
+			<string>{{599,4057},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1801,7 +1801,7 @@
 		<key>Itachi_R_skill04_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2995,465},{597,463}}</string>
+			<string>{{1198,4057},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1814,7 +1814,7 @@
 		<key>Itachi_R_skill04_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,930},{597,463}}</string>
+			<string>{{1797,4057},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1827,7 +1827,7 @@
 		<key>Itachi_R_skill04_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{599,930},{597,463}}</string>
+			<string>{{2396,4057},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1840,7 +1840,7 @@
 		<key>Itachi_R_skill04_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1198,930},{597,463}}</string>
+			<string>{{2995,4057},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1853,7 +1853,7 @@
 		<key>Itachi_R_skill04_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1797,930},{597,463}}</string>
+			<string>{{0,4522},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1866,7 +1866,7 @@
 		<key>Itachi_R_skill04_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2396,930},{597,463}}</string>
+			<string>{{599,4522},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1879,7 +1879,7 @@
 		<key>Itachi_R_skill04_27</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2995,930},{597,463}}</string>
+			<string>{{1198,4522},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1892,7 +1892,7 @@
 		<key>Itachi_R_skill04_28</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1395},{597,463}}</string>
+			<string>{{1797,4522},{597,463}}</string>
 			<key>offset</key>
 			<string>{67.5,-158}</string>
 			<key>rotated</key>
@@ -1905,7 +1905,7 @@
 		<key>Itachi_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3536,2381},{34,78}}</string>
+			<string>{{211,6186},{34,78}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -1918,7 +1918,7 @@
 		<key>Itachi_R_skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3572,2381},{30,78}}</string>
+			<string>{{247,6186},{30,78}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -1931,7 +1931,7 @@
 		<key>Itachi_R_skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2668,1395},{294,328}}</string>
+			<string>{{3662,4987},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -1944,7 +1944,7 @@
 		<key>Itachi_R_skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2964,1395},{294,328}}</string>
+			<string>{{0,5420},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -1957,7 +1957,7 @@
 		<key>Itachi_R_skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3260,1395},{294,328}}</string>
+			<string>{{296,5420},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -1970,7 +1970,7 @@
 		<key>Itachi_R_skill05_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3556,1395},{294,328}}</string>
+			<string>{{592,5420},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -1983,7 +1983,7 @@
 		<key>Itachi_R_skill05_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1860},{294,328}}</string>
+			<string>{{888,5420},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -1996,7 +1996,7 @@
 		<key>Itachi_R_skill05_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{296,1860},{294,328}}</string>
+			<string>{{1184,5420},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -2009,7 +2009,7 @@
 		<key>Itachi_R_skill05_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{592,1860},{294,328}}</string>
+			<string>{{1480,5420},{294,328}}</string>
 			<key>offset</key>
 			<string>{-7,-39}</string>
 			<key>rotated</key>
@@ -2019,10 +2019,413 @@
 			<key>sourceSize</key>
 			<string>{294,328}</string>
 		</dict>
+		<key>Itachi_R_skill05_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2888,2271},{391,650}}</string>
+			<key>offset</key>
+			<string>{-54.5,-268}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{391,650}}</string>
+			<key>sourceSize</key>
+			<string>{391,650}</string>
+		</dict>
+		<key>Itachi_R_skill05_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3281,2271},{391,650}}</string>
+			<key>offset</key>
+			<string>{-54.5,-268}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{391,650}}</string>
+			<key>sourceSize</key>
+			<string>{391,650}</string>
+		</dict>
+		<key>Itachi_R_skill05_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3674,2271},{391,650}}</string>
+			<key>offset</key>
+			<string>{-54.5,-268}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{391,650}}</string>
+			<key>sourceSize</key>
+			<string>{391,650}</string>
+		</dict>
+		<key>Itachi_R_skill05_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{974,799}}</string>
+			<key>offset</key>
+			<string>{61,-399}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{974,799}}</string>
+			<key>sourceSize</key>
+			<string>{974,799}</string>
+		</dict>
+		<key>Itachi_R_skill05_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{976,0},{974,799}}</string>
+			<key>offset</key>
+			<string>{61,-399}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{974,799}}</string>
+			<key>sourceSize</key>
+			<string>{974,799}</string>
+		</dict>
+		<key>Itachi_R_skill05_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1952,0},{974,799}}</string>
+			<key>offset</key>
+			<string>{61,-399}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{974,799}}</string>
+			<key>sourceSize</key>
+			<string>{974,799}</string>
+		</dict>
+		<key>Itachi_R_skill05_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2928,0},{974,799}}</string>
+			<key>offset</key>
+			<string>{61,-399}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{974,799}}</string>
+			<key>sourceSize</key>
+			<string>{974,799}</string>
+		</dict>
+		<key>Itachi_R_skill05_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,801},{974,799}}</string>
+			<key>offset</key>
+			<string>{61,-399}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{974,799}}</string>
+			<key>sourceSize</key>
+			<string>{974,799}</string>
+		</dict>
+		<key>Itachi_R_skill05_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{976,801},{974,799}}</string>
+			<key>offset</key>
+			<string>{61,-399}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{974,799}}</string>
+			<key>sourceSize</key>
+			<string>{974,799}</string>
+		</dict>
+		<key>Itachi_R_skill05_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1952,801},{974,799}}</string>
+			<key>offset</key>
+			<string>{61,-399}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{974,799}}</string>
+			<key>sourceSize</key>
+			<string>{974,799}</string>
+		</dict>
+		<key>Itachi_R_skill10_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,2940},{391,650}}</string>
+			<key>offset</key>
+			<string>{-54.5,-268}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{391,650}}</string>
+			<key>sourceSize</key>
+			<string>{391,650}</string>
+		</dict>
+		<key>Itachi_R_skill10_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{393,2940},{391,650}}</string>
+			<key>offset</key>
+			<string>{-54.5,-268}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{391,650}}</string>
+			<key>sourceSize</key>
+			<string>{391,650}</string>
+		</dict>
+		<key>Itachi_R_skill10_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{786,2940},{391,650}}</string>
+			<key>offset</key>
+			<string>{-54.5,-268}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{391,650}}</string>
+			<key>sourceSize</key>
+			<string>{391,650}</string>
+		</dict>
+		<key>Itachi_R_skill10_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1179,2940},{391,650}}</string>
+			<key>offset</key>
+			<string>{-54.5,-268}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{391,650}}</string>
+			<key>sourceSize</key>
+			<string>{391,650}</string>
+		</dict>
+		<key>Itachi_R_skill10_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1572,2940},{391,650}}</string>
+			<key>offset</key>
+			<string>{-54.5,-268}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{391,650}}</string>
+			<key>sourceSize</key>
+			<string>{391,650}</string>
+		</dict>
+		<key>Itachi_R_skill11_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2396,4522},{529,431}}</string>
+			<key>offset</key>
+			<string>{-92.5,-127}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{529,431}}</string>
+			<key>sourceSize</key>
+			<string>{529,431}</string>
+		</dict>
+		<key>Itachi_R_skill11_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2927,4522},{529,431}}</string>
+			<key>offset</key>
+			<string>{-92.5,-127}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{529,431}}</string>
+			<key>sourceSize</key>
+			<string>{529,431}</string>
+		</dict>
+		<key>Itachi_R_skill11_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3458,4522},{529,431}}</string>
+			<key>offset</key>
+			<string>{-92.5,-127}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{529,431}}</string>
+			<key>sourceSize</key>
+			<string>{529,431}</string>
+		</dict>
+		<key>Itachi_R_skill11_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,4987},{529,431}}</string>
+			<key>offset</key>
+			<string>{-92.5,-127}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{529,431}}</string>
+			<key>sourceSize</key>
+			<string>{529,431}</string>
+		</dict>
+		<key>Itachi_R_skill11_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{531,4987},{529,431}}</string>
+			<key>offset</key>
+			<string>{-92.5,-127}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{529,431}}</string>
+			<key>sourceSize</key>
+			<string>{529,431}</string>
+		</dict>
+		<key>Itachi_R_skill11_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1062,4987},{529,431}}</string>
+			<key>offset</key>
+			<string>{-92.5,-127}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{529,431}}</string>
+			<key>sourceSize</key>
+			<string>{529,431}</string>
+		</dict>
+		<key>Itachi_R_skill12_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2928,801},{720,667}}</string>
+			<key>offset</key>
+			<string>{69,-278}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{720,667}}</string>
+			<key>sourceSize</key>
+			<string>{720,667}</string>
+		</dict>
+		<key>Itachi_R_skill12_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1602},{720,667}}</string>
+			<key>offset</key>
+			<string>{69,-278}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{720,667}}</string>
+			<key>sourceSize</key>
+			<string>{720,667}</string>
+		</dict>
+		<key>Itachi_R_skill12_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{722,1602},{720,667}}</string>
+			<key>offset</key>
+			<string>{69,-278}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{720,667}}</string>
+			<key>sourceSize</key>
+			<string>{720,667}</string>
+		</dict>
+		<key>Itachi_R_skill12_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1444,1602},{720,667}}</string>
+			<key>offset</key>
+			<string>{69,-278}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{720,667}}</string>
+			<key>sourceSize</key>
+			<string>{720,667}</string>
+		</dict>
+		<key>Itachi_R_skill12_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2166,1602},{720,667}}</string>
+			<key>offset</key>
+			<string>{69,-278}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{720,667}}</string>
+			<key>sourceSize</key>
+			<string>{720,667}</string>
+		</dict>
+		<key>Itachi_R_skill12_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2888,1602},{720,667}}</string>
+			<key>offset</key>
+			<string>{69,-278}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{720,667}}</string>
+			<key>sourceSize</key>
+			<string>{720,667}</string>
+		</dict>
+		<key>Itachi_R_skill12_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,2271},{720,667}}</string>
+			<key>offset</key>
+			<string>{69,-278}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{720,667}}</string>
+			<key>sourceSize</key>
+			<string>{720,667}</string>
+		</dict>
+		<key>Itachi_R_skill12_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{722,2271},{720,667}}</string>
+			<key>offset</key>
+			<string>{69,-278}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{720,667}}</string>
+			<key>sourceSize</key>
+			<string>{720,667}</string>
+		</dict>
+		<key>Itachi_R_skill12_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1444,2271},{720,667}}</string>
+			<key>offset</key>
+			<string>{69,-278}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{720,667}}</string>
+			<key>sourceSize</key>
+			<string>{720,667}</string>
+		</dict>
+		<key>Itachi_R_skill12_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2166,2271},{720,667}}</string>
+			<key>offset</key>
+			<string>{69,-278}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{720,667}}</string>
+			<key>sourceSize</key>
+			<string>{720,667}</string>
+		</dict>
 		<key>Itachi_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{273,2549},{58,52}}</string>
+			<string>{{1020,6266},{58,52}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2035,7 +2438,7 @@
 		<key>Itachi_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3434,2472},{58,55}}</string>
+			<string>{{96,6266},{58,55}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2048,7 +2451,7 @@
 		<key>Itachi_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3836,2472},{61,54}}</string>
+			<string>{{498,6266},{61,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2061,7 +2464,7 @@
 		<key>Itachi_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3962,2472},{58,53}}</string>
+			<string>{{624,6266},{58,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2074,7 +2477,7 @@
 		<key>Itachi_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3494,2472},{64,55}}</string>
+			<string>{{156,6266},{64,55}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2087,7 +2490,7 @@
 		<key>Itachi_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{4022,2472},{61,53}}</string>
+			<string>{{684,6266},{61,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2100,7 +2503,7 @@
 		<key>Itachi_Skill01_004</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3604,2381},{36,78}}</string>
+			<string>{{279,6186},{36,78}}</string>
 			<key>offset</key>
 			<string>{-8,-10}</string>
 			<key>rotated</key>
@@ -2113,7 +2516,7 @@
 		<key>Itachi_Skill01_005</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2728,2381},{176,80}}</string>
+			<string>{{3494,6022},{176,80}}</string>
 			<key>offset</key>
 			<string>{62,-9}</string>
 			<key>rotated</key>
@@ -2126,7 +2529,7 @@
 		<key>Itachi_Skill01_006</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1036,2381},{176,84}}</string>
+			<string>{{1802,6022},{176,84}}</string>
 			<key>offset</key>
 			<string>{62,-7}</string>
 			<key>rotated</key>
@@ -2139,7 +2542,7 @@
 		<key>Itachi_Skill01_007</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2906,2381},{172,80}}</string>
+			<string>{{3672,6022},{172,80}}</string>
 			<key>offset</key>
 			<string>{60,-9}</string>
 			<key>rotated</key>
@@ -2152,7 +2555,7 @@
 		<key>Itachi_Skill01_008</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1214,2381},{176,84}}</string>
+			<string>{{1980,6022},{176,84}}</string>
 			<key>offset</key>
 			<string>{62,-7}</string>
 			<key>rotated</key>
@@ -2165,7 +2568,7 @@
 		<key>Itachi_Skill01_009</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1392,2381},{168,84}}</string>
+			<string>{{2158,6022},{168,84}}</string>
 			<key>offset</key>
 			<string>{58,-7}</string>
 			<key>rotated</key>
@@ -2178,7 +2581,7 @@
 		<key>Itachi_Skill01_010</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1562,2381},{176,84}}</string>
+			<string>{{2328,6022},{176,84}}</string>
 			<key>offset</key>
 			<string>{62,-7}</string>
 			<key>rotated</key>
@@ -2191,7 +2594,7 @@
 		<key>Itachi_Skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3167,2381},{56,79}}</string>
+			<string>{{3933,6022},{56,79}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2204,7 +2607,7 @@
 		<key>Itachi_Skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2472},{66,75}}</string>
+			<string>{{740,6186},{66,75}}</string>
 			<key>offset</key>
 			<string>{0,2}</string>
 			<key>rotated</key>
@@ -2217,7 +2620,7 @@
 		<key>Itachi_Skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3560,2472},{75,55}}</string>
+			<string>{{222,6266},{75,55}}</string>
 			<key>offset</key>
 			<string>{0,2}</string>
 			<key>rotated</key>
@@ -2230,7 +2633,7 @@
 		<key>Itachi_Skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2549},{73,53}}</string>
+			<string>{{747,6266},{73,53}}</string>
 			<key>offset</key>
 			<string>{0,2}</string>
 			<key>rotated</key>
@@ -2243,7 +2646,7 @@
 		<key>Itachi_Skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1604,2472},{49,69}}</string>
+			<string>{{2344,6186},{49,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2256,7 +2659,7 @@
 		<key>Itachi_Skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2906,2472},{47,64}}</string>
+			<string>{{3646,6186},{47,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2269,7 +2672,7 @@
 		<key>Itachi_Skill04_001</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3080,2381},{33,80}}</string>
+			<string>{{3846,6022},{33,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2282,7 +2685,7 @@
 		<key>Itachi_Skill04_002</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3115,2381},{50,80}}</string>
+			<string>{{3881,6022},{50,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2295,7 +2698,7 @@
 		<key>Itachi_Skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{785,2472},{34,70}}</string>
+			<string>{{1525,6186},{34,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2308,7 +2711,7 @@
 		<key>Itachi_Skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2955,2472},{52,64}}</string>
+			<string>{{3695,6186},{52,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2321,7 +2724,7 @@
 		<key>Itachi_Skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3009,2472},{60,64}}</string>
+			<string>{{3749,6186},{60,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2334,7 +2737,7 @@
 		<key>Itachi_Skill05_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3294,2190},{201,162}}</string>
+			<string>{{0,6022},{201,162}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2347,7 +2750,7 @@
 		<key>Itachi_Skill10_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3912,2190},{146,89}}</string>
+			<string>{{618,6022},{146,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2360,7 +2763,7 @@
 		<key>Itachi_Skill10_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2381},{146,89}}</string>
+			<string>{{766,6022},{146,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2373,7 +2776,7 @@
 		<key>Itachi_Skill10_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1740,2381},{146,84}}</string>
+			<string>{{2506,6022},{146,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2386,7 +2789,7 @@
 		<key>Itachi_Skill11_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{148,2381},{146,89}}</string>
+			<string>{{914,6022},{146,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2399,7 +2802,7 @@
 		<key>Itachi_Skill11_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{296,2381},{146,89}}</string>
+			<string>{{1062,6022},{146,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2412,7 +2815,7 @@
 		<key>Itachi_Skill11_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1888,2381},{146,84}}</string>
+			<string>{{2654,6022},{146,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2425,7 +2828,7 @@
 		<key>Itachi_Skill11_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{444,2381},{146,89}}</string>
+			<string>{{1210,6022},{146,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2438,7 +2841,7 @@
 		<key>Itachi_Skill11_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{592,2381},{146,89}}</string>
+			<string>{{1358,6022},{146,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2451,7 +2854,7 @@
 		<key>Itachi_Skill11_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{740,2381},{146,89}}</string>
+			<string>{{1506,6022},{146,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2464,7 +2867,7 @@
 		<key>Itachi_Skill11_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2036,2381},{146,84}}</string>
+			<string>{{2802,6022},{146,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2477,7 +2880,7 @@
 		<key>Itachi_Skill11_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{888,2381},{146,89}}</string>
+			<string>{{1654,6022},{146,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2490,7 +2893,7 @@
 		<key>Itachi_Skill12_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{75,2549},{73,53}}</string>
+			<string>{{822,6266},{73,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2503,7 +2906,7 @@
 		<key>Itachi_Skill12_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3637,2472},{71,55}}</string>
+			<string>{{299,6266},{71,55}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2516,7 +2919,7 @@
 		<key>Itachi_Skill12_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1166,2549},{79,30}}</string>
+			<string>{{1913,6266},{79,30}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -2529,7 +2932,7 @@
 		<key>Itachi_Skill12_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1417,2549},{79,26}}</string>
+			<string>{{2164,6266},{79,26}}</string>
 			<key>offset</key>
 			<string>{0,-2}</string>
 			<key>rotated</key>
@@ -2542,7 +2945,7 @@
 		<key>Itachi_Skill12_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1247,2549},{86,30}}</string>
+			<string>{{1994,6266},{86,30}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2555,7 +2958,7 @@
 		<key>Itachi_Skill12_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2135,2472},{74,68}}</string>
+			<string>{{2875,6186},{74,68}}</string>
 			<key>offset</key>
 			<string>{-1,1}</string>
 			<key>rotated</key>
@@ -2568,7 +2971,7 @@
 		<key>Itachi_Skill12_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{821,2472},{58,70}}</string>
+			<string>{{1561,6186},{58,70}}</string>
 			<key>offset</key>
 			<string>{0,1}</string>
 			<key>rotated</key>
@@ -2581,7 +2984,7 @@
 		<key>Itachi_Skill12_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{220,2472},{67,73}}</string>
+			<string>{{960,6186},{67,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2594,7 +2997,7 @@
 		<key>Itachi_Skill12_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{577,2472},{34,71}}</string>
+			<string>{{1317,6186},{34,71}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -2607,7 +3010,7 @@
 		<key>Itachi_Skill12_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1662,2549},{80,18}}</string>
+			<string>{{2409,6266},{80,18}}</string>
 			<key>offset</key>
 			<string>{-3,-6}</string>
 			<key>rotated</key>
@@ -2620,7 +3023,7 @@
 		<key>Itachi_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{333,2549},{58,52}}</string>
+			<string>{{1080,6266},{58,52}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2633,7 +3036,7 @@
 		<key>Itachi_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3710,2472},{58,55}}</string>
+			<string>{{372,6266},{58,55}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2646,7 +3049,7 @@
 		<key>Itachi_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3899,2472},{61,54}}</string>
+			<string>{{561,6266},{61,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2659,7 +3062,7 @@
 		<key>Itachi_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{150,2549},{58,53}}</string>
+			<string>{{897,6266},{58,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2672,7 +3075,7 @@
 		<key>Itachi_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3770,2472},{64,55}}</string>
+			<string>{{432,6266},{64,55}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2685,7 +3088,7 @@
 		<key>Itachi_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{210,2549},{61,53}}</string>
+			<string>{{957,6266},{61,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2703,7 +3106,7 @@
 		<key>realTextureFileName</key>
 		<string>Itachi.pvr.ccz</string>
 		<key>size</key>
-		<string>{4096,4096}</string>
+		<string>{4096,8192}</string>
 		<key>textureFileName</key>
 		<string>Itachi.pvr.ccz</string>
 	</dict>

@@ -79,8 +79,8 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/KillerBee/1.ogg</e>
-			<f>KillerBee_R_skill01_01</f><f>KillerBee_R_skill01_02</f><f>KillerBee_R_skill01_03</f><e type="setBuff">600</e>
-			<f>KillerBee_R_skill01_04</f><f>KillerBee_R_skill01_05</f><f>KillerBee_R_skill01_06</f><f>KillerBee_R_skill01_07</f><f>KillerBee_R_skill01_08</f></frame>
+			<f>KillerBee_R_skill01_01</f><f>KillerBee_R_skill01_02</f><f>KillerBee_R_skill01_03</f><f>KillerBee_R_skill01_04</f><e type="setBuff">600</e>
+			<f>KillerBee_R_skill01_05</f><f>KillerBee_R_skill01_06</f><f>KillerBee_R_skill01_07</f><f>KillerBee_R_skill01_08</f><f>KillerBee_R_skill01_09</f><f>KillerBee_R_skill01_10</f><f>KillerBee_R_skill01_11</f><f>KillerBee_R_skill01_12</f><f>KillerBee_R_skill01_13</f></frame>
 	</action>
 
 	<action name="skill02">
@@ -128,29 +128,29 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>KillerBee_R_skill04_01</f><e type="setSound">Audio/KillerBee/4.ogg</e>
-			<f>KillerBee_R_skill04_02</f><f>KillerBee_R_skill04_03</f><f>KillerBee_R_skill04_04</f><f>KillerBee_R_skill04_05</f><e type="setShadow">10</e>
+			<f>KillerBee_R_skill04_01</f><f>KillerBee_R_skill04_02</f><e type="setSound">Audio/KillerBee/4.ogg</e>
+			<f>KillerBee_R_skill04_03</f><f>KillerBee_R_skill04_04</f><f>KillerBee_R_skill04_05</f><f>KillerBee_R_skill04_06</f><f>KillerBee_R_skill04_07</f><f>KillerBee_R_skill04_08</f><f>KillerBee_R_skill04_09</f><e type="setShadow">10</e>
 			<e type="setMove">32</e>
-			<f>KillerBee_R_skill04_06</f><e type="setShadow">10</e>
+			<f>KillerBee_R_skill04_10</f><f>KillerBee_R_skill04_11</f><e type="setShadow">10</e>
 			<e type="setAttackBox">c_hit</e>
 			<e type="setSound">Audio/Effect/damage_o.ogg</e>
-			<f>KillerBee_R_skill04_07</f><e type="setAttackBox">c_hit</e>
+			<f>KillerBee_R_skill04_12</f><f>KillerBee_R_skill04_13</f><e type="setAttackBox">c_hit</e>
 			<e type="setDelay">10</e>
 			<e type="setAttackBox">c_hit</e>
-			<f>KillerBee_R_skill04_08</f><e type="setDelay">10</e>
+			<f>KillerBee_R_skill04_14</f><f>KillerBee_R_skill04_15</f><f>KillerBee_R_skill04_16</f><e type="setDelay">10</e>
 			<e type="setAttackBox">f_hit</e>
 			<e type="setSound">Audio/Effect/damage_o2.ogg</e>
 			<e type="setJump">true</e>
-			<f>KillerBee_R_skill04_09</f><e type="setShadow">10</e>
+			<f>KillerBee_R_skill04_17</f><f>KillerBee_R_skill04_18</f><e type="setShadow">10</e>
 			<e type="setDelay">10</e>
 			<e type="setAttackBox">c_hit</e>
-			<f>KillerBee_R_skill04_10</f><e type="setShadow">10</e>
+			<f>KillerBee_R_skill04_19</f><f>KillerBee_R_skill04_20</f><e type="setShadow">10</e>
 			<e type="setAttackBox">c_hit</e>
 			<e type="setDelay">10</e>
-			<f>KillerBee_R_skill04_11</f><e type="setShadow">10</e>
+			<f>KillerBee_R_skill04_21</f><f>KillerBee_R_skill04_22</f><e type="setShadow">10</e>
 			<e type="setAttackBox">c_hit</e>
-			<f>KillerBee_R_skill04_12</f><e type="setShadow">10</e>
-			<f>KillerBee_R_skill04_13</f><f>KillerBee_R_skill04_14</f><e type="setMon">Tuji</e>
+			<f>KillerBee_R_skill04_23</f><e type="setShadow">10</e>
+			<f>KillerBee_R_skill04_24</f><f>KillerBee_R_skill04_25</f><f>KillerBee_R_skill04_26</f><f>KillerBee_R_skill04_27</f><e type="setMon">Tuji</e>
 			<e type="setSound">Audio/Effect/break_sound2.ogg</e>
 			<e type="setDelay">20</e>
 		</frame>
@@ -169,73 +169,40 @@
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
 			<e type="setCommand">setInvincible</e>
-			<f>Sakura_Skill05_04</f>
-			<e type="setOugis">10</e>
-			<f>Sakura_Skill05_05</f>
-			<f>Sakura_Skill05_06</f>
-			<e type="setShadow">10</e>
-			<f>Sakura_Skill05_06</f>
-			<e type="setSound">Audio/Sakura/sakura_skill5.ogg</e>
-			<f>Sakura_Skill05_07</f>
-			<e type="setMove">32</e>
-			<f>Sakura_Skill05_08</f>
-			<f>Sakura_Skill05_09</f>
-			<e type="setSound">Audio/Effect/damage_o.ogg</e>
+			<f>KillerBee_R_skill05_01</f><e type="setOugis">10</e>
+			<f>KillerBee_R_skill05_02</f><f>KillerBee_R_skill05_03</f><e type="setShadow">10</e>
+			<f>KillerBee_R_skill05_04</f><e type="setMove">32</e>
+			<f>KillerBee_R_skill05_05</f><f>KillerBee_R_skill05_06</f><e type="setSound">Audio/Effect/damage_o.ogg</e>
 			<e type="setAttackBox">c_hit</e>
 			<e type="setDelay">10</e>
-			<f>Sakura_Skill05_10</f>
-			<e type="setAttackBox">o2_hit</e>
-			<f>Sakura_Skill05_10_1</f>
-			<e type="setDelay">20</e>
-			<f>Sakura_Skill05_11</f>
-			<e type="setMove">32</e>
-			<f>Sakura_Skill05_12</f>
-			<e type="setShadow">10</e>
+			<f>KillerBee_R_skill05_07</f><e type="setAttackBox">o2_hit</e>
+			<f>KillerBee_R_skill05_08</f><e type="setDelay">20</e>
+			<f>KillerBee_R_skill05_09</f><e type="setMove">32</e>
+			<f>KillerBee_R_skill05_10</f><e type="setShadow">10</e>
 			<e type="setSound">Audio/Effect/rush.ogg</e>
-			<f>Sakura_Skill05_13</f>
-			<e type="setShadow">10</e>
-			<f>Sakura_Skill05_14</f>
-			<e type="setShadow">10</e>
-			<f>Sakura_Skill05_15</f>
-			<e type="setSound">Audio/Sakura/sakura_skill5_1.ogg</e>
+			<f>KillerBee_R_skill05_11</f><e type="setShadow">10</e>
+			<f>KillerBee_R_skill05_12</f><e type="setShadow">10</e>
 			<e type="setAttackBox">c_hit</e>
-			<f>Sakura_Skill05_16</f>
-			<e type="setAttackBox">f_hit</e>
+			<f>KillerBee_R_skill05_13</f><e type="setAttackBox">f_hit</e>
 			<e type="setJump">true</e>
 			<e type="setDelay">10</e>
-			<f>Sakura_Skill05_17</f>
-			<e type="setSound">Audio/Sakura/sakura_skill5_2.ogg</e>
-			<e type="setAttackBox">ac_hit</e>
+			<f>KillerBee_R_skill05_14</f><e type="setAttackBox">ac_hit</e>
 			<e type="setDelay">10</e>
-			<f>Sakura_Skill05_18</f>
-			<e type="setAttackBox">ac_hit</e>
+			<f>KillerBee_R_skill05_15</f><e type="setAttackBox">ac_hit</e>
 			<e type="setDelay">10</e>
-			<f>Sakura_Skill05_19</f>
-			<e type="setAttackBox">ac_hit</e>
+			<f>KillerBee_R_skill05_16</f><e type="setAttackBox">ac_hit</e>
 			<e type="setDelay">10</e>
-			<f>Sakura_Skill05_21</f>
+			<f>KillerBee_R_skill05_17</f><e type="setDelay">10</e>
+			<f>KillerBee_R_skill05_18</f><e type="setCommand">setTransport</e>
 			<e type="setDelay">10</e>
-			<f>Sakura_Skill05_22</f>
-			<e type="setCommand">setTransport</e>
-			<e type="setDelay">10</e>
-			<f>Sakura_Skill05_23</f>
-			<e type="setDelay">10</e>
-			<f>Sakura_Skill05_24</f>
-			<e type="setSound">Audio/Sakura/sakura_skill2.ogg</e>
-			<e type="setDelay">10</e>
-			<f>Sakura_Skill05_25</f>
-			<e type="setSound">Audio/Sakura/sakura_skill5_3.ogg</e>
+			<f>KillerBee_R_skill05_19</f><e type="setDelay">10</e>
+			<f>KillerBee_R_skill05_20</f><e type="setDelay">10</e>
 			<e type="setMon">SakuraBom</e>
 			<e type="setDelay">20</e>
-			<f>Sakura_Skill05_26</f>
-			<e type="setDelay">20</e>
+			<f>KillerBee_R_skill05_21</f><e type="setDelay">20</e>
 			<e type="setCommand">reTransport</e>
-			<e type="setSound">Audio/Sakura/sakura_skill5_4.ogg</e>
-			<f>Sakura_Skill05_27</f>
-			<e type="setDelay">10</e>
-			<f>Sakura_Skill05_28</f>
-			<f>Sakura_Skill05_29</f>
-			<e type="setDelay">20</e>
+			<f>KillerBee_R_skill05_22</f><e type="setDelay">10</e>
+			<f>KillerBee_R_skill05_23</f><f>KillerBee_R_skill05_24</f><e type="setDelay">20</e>
 			<e type="setCommand">reInvincible</e>
 		</frame>
 	</action>

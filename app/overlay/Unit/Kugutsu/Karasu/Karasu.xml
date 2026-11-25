@@ -34,15 +34,15 @@
 
 	<action name="KnockDown">
 		<frame>
-			<e type="setDelay">10</e>
-			<f>Karasu_R_knockdown_01</f><e type="setDelay">60</e>
+			<f>Karasu_R_knockdown_01</f><e type="setDelay">10</e>
+			<e type="setDelay">60</e>
 			</frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<e type="setDelay">10</e>
 			<f>Karasu_R_float_01</f><e type="setDelay">10</e>
+			<e type="setDelay">10</e>
 			</frame>
 	</action>
 

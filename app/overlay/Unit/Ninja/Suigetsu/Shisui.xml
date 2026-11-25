@@ -153,84 +153,47 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>Suigetsu_Skill05_02</f>
-			<f>Suigetsu_Skill05_03</f>
-			<e type="setOugis">10</e>
-			<f>Suigetsu_Skill05_07</f>
-			<e type="setCommand">setInvincible</e>
-			<f>Suigetsu_Skill05_08</f>
-			<e type="setMove">32</e>
-			<f>Suigetsu_Skill05_10</f>
-			<e type="setSound">Audio/Suigetsu/suigetsu_skill5_4.ogg</e>
-			<f>Suigetsu_Skill05_11</f>
-			<e type="setAttackBox">o2_hit</e>
-			<f>Suigetsu_Skill05_12</f>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Suigetsu_Skill05_13</f>
-			<f>Suigetsu_Skill05_16</f>
-			<e type="setChargeB">128</e>
-			<f>Suigetsu_Skill05_17</f>
-			<e type="setShadow">10</e>
+			<f>Shisui_R_skill05_01</f><f>Shisui_R_skill05_02</f><e type="setOugis">10</e>
+			<f>Shisui_R_skill05_03</f><e type="setCommand">setInvincible</e>
+			<f>Shisui_R_skill05_04</f><f>Shisui_R_skill05_05</f><e type="setMove">32</e>
+			<f>Shisui_R_skill05_06</f><e type="setSound">Audio/Shisui/5.mp3</e>
+			<f>Shisui_R_skill05_07</f><e type="setAttackBox">o2_hit</e>
+			<f>Shisui_R_skill05_08</f><e type="setDSound">Audio/Effect/blade_damage.ogg</e>
+			<f>Shisui_R_skill05_09</f><f>Shisui_R_skill05_10</f><e type="setChargeB">128</e>
+			<f>Shisui_R_skill05_11</f><e type="setShadow">10</e>
 			<e type="setDelay">10</e>
-			<f>Suigetsu_Skill05_18</f>
-			<e type="setSound">Audio/Suigetsu/suigetsu_skill5_3.ogg</e>
+			<f>Shisui_R_skill05_12</f><e type="setSound">Audio/Shisui/4.4.mp3</e>
 			<e type="setAttackBox">o_hit</e>
 			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Suigetsu_Skill05_20</f>
-			<f>Suigetsu_Skill05_22</f>
-			<e type="setShadow">10</e>
+			<f>Shisui_R_skill05_13</f><f>Shisui_R_skill05_14</f><f>Shisui_R_skill05_15</f><e type="setShadow">10</e>
 			<e type="setChargeB">128</e>
-			<f>Suigetsu_Skill05_23</f>
-			<e type="setShadow">10</e>
-			<f>Suigetsu_Skill05_24</f>
-			<e type="setShadow">10</e>
+			<f>Shisui_R_skill05_16</f><e type="setShadow">10</e>
+			<f>Shisui_R_skill05_17</f><e type="setShadow">10</e>
 			<e type="setAttackBox">bf_hit</e>
 			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Suigetsu_Skill05_25</f>
-			<e type="setShadow">10</e>
+			<f>Shisui_R_skill05_18</f><e type="setShadow">10</e>
 			<e type="setAttackBox">bf_hit</e>
-			<f>Suigetsu_Skill05_26</f>
-			<e type="setShadow">10</e>
+			<f>Shisui_R_skill05_19</f><e type="setShadow">10</e>
 			<e type="setAttackBox">ac_hit</e>
-			<f>Suigetsu_Skill05_27</f>
-			<f>Suigetsu_Skill05_28</f>
-			<e type="setChargeB">48</e>
-			<f>Suigetsu_Skill05_30</f>
-			<e type="setShadow">10</e>
+			<f>Shisui_R_skill05_20</f><f>Shisui_R_skill05_21</f><f>Shisui_R_skill05_22</f><e type="setChargeB">48</e>
+			<f>Shisui_R_skill05_23</f><e type="setShadow">10</e>
 			<e type="setAttackBox">ac_hit</e>
 			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Suigetsu_Skill05_32</f>
-			<f>Suigetsu_Skill05_33</f>
-			<e type="setShadow">10</e>
-			<f>Suigetsu_Skill05_34</f>
-			<f>Suigetsu_Skill05_35</f>
-			<e type="setShadow">10</e>
+			<f>Shisui_R_skill05_24</f><f>Shisui_R_skill05_25</f><e type="setShadow">10</e>
+			<f>Shisui_R_skill05_26</f><f>Shisui_R_skill05_27</f><e type="setShadow">10</e>
 			<e type="setChargeB">48</e>
 			<e type="setAttackBox">ac_hit</e>
 			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Suigetsu_Skill05_37</f>
-			<f>Suigetsu_Skill05_38</f>
-			<f>Suigetsu_Skill05_50</f>
-			<e type="setJump">true</e>
-			<f>Suigetsu_Skill05_51</f>
-			<e type="setShadow">10</e>
-			<f>Suigetsu_Skill05_52</f>
-			<e type="setShadow">10</e>
-			<f>Suigetsu_Skill05_53</f>
-			<e type="setShadow">10</e>
-			<f>Suigetsu_Skill05_54</f>
-			<e type="setShadow">10</e>
-			<f>Suigetsu_Skill05_55</f>
-			<e type="setShadow">10</e>
+			<f>Shisui_R_skill05_28</f><f>Shisui_R_skill05_29</f><f>Shisui_R_skill05_30</f><f>Shisui_R_skill05_31</f><e type="setJump">true</e>
+			<f>Shisui_R_skill05_32</f><e type="setShadow">10</e>
+			<f>Shisui_R_skill05_33</f><e type="setShadow">10</e>
+			<f>Shisui_R_skill05_34</f><e type="setShadow">10</e>
+			<f>Shisui_R_skill05_35</f><e type="setShadow">10</e>
+			<f>Shisui_R_skill05_36</f><e type="setShadow">10</e>
 			<e type="setDelay">10</e>
-			<f>Suigetsu_Skill05_56</f>
-			<f>Suigetsu_Skill05_57</f>
-			<f>Suigetsu_Skill05_58</f>
-			<e type="setSound">Audio/Suigetsu/suigetsu_skill5_5.ogg</e>
+			<f>Shisui_R_skill05_37</f><f>Shisui_R_skill05_38</f><f>Shisui_R_skill05_39</f><f>Shisui_R_skill05_40</f><e type="setSound">Audio/Shisui/Bom.mp3</e>
 			<e type="setAttackBox">f_hit</e>
-			<f>Suigetsu_Skill05_59</f>
-			<f>Suigetsu_Skill05_60</f>
-			<e type="setCommand">reInvincible</e>
+			<f>Shisui_R_skill05_41</f><f>Shisui_R_skill05_42</f><e type="setCommand">reInvincible</e>
 		</frame>
 
 	</action>
@@ -256,8 +219,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Suigetsu_Skill03_06</f>
-		</frame>
+			<f>Shisui_R_skill10_01</f><f>Shisui_R_skill10_02</f><f>Shisui_R_skill10_03</f><f>Shisui_R_skill10_04</f></frame>
 	</action>
 	<action name="skill11">
 		<data>
@@ -268,12 +230,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Suigetsu_Skill03_06</f>
-			<f>Suigetsu_Skill03_05</f>
-			<f>Suigetsu_Skill03_04</f>
-			<f>Suigetsu_Skill03_05</f>
-			<f>Suigetsu_Skill03_06</f>
-		</frame>
+			<f>Shisui_R_skill11_01</f><f>Shisui_R_skill11_02</f><f>Shisui_R_skill11_03</f><f>Shisui_R_skill11_04</f><f>Shisui_R_skill11_05</f><f>Shisui_R_skill11_06</f></frame>
 	</action>
 	<action name="skill12">
 		<data>
@@ -284,20 +241,14 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Suigetsu_Skill03_08</f>
-			<e type="setAttackBox">f_hit</e>
+			<f>Shisui_R_skill12_01</f><f>Shisui_R_skill12_02</f><e type="setAttackBox">f_hit</e>
 			<e type="setActionResume">20</e>
-			<e type="setSound">Audio/Suigetsu/suigetsu_skill3_2.ogg</e>
-			<f>Suigetsu_Skill03_09</f>
-			<e type="setJump">true</e>
-			<f>Suigetsu_Skill03_10</f>
-			<e type="setDelay">10</e>
-			<f>Suigetsu_Skill03_11</f>
-			<e type="setDelay">20</e>
-			<f>Suigetsu_Skill03_12</f>
-			<e type="setDelay">10</e>
-			<f>Suigetsu_Skill03_13</f>
-		</frame>
+			<e type="setSound">Audio/Shisui/nattack.ogg</e>
+			<f>Shisui_R_skill12_03</f><f>Shisui_R_skill12_04</f><f>Shisui_R_skill12_05</f><e type="setJump">true</e>
+			<f>Shisui_R_skill12_06</f><f>Shisui_R_skill12_07</f><e type="setDelay">10</e>
+			<f>Shisui_R_skill12_08</f><f>Shisui_R_skill12_09</f><e type="setDelay">20</e>
+			<f>Shisui_R_skill12_10</f><f>Shisui_R_skill12_11</f><f>Shisui_R_skill12_12</f><e type="setDelay">10</e>
+			<f>Shisui_R_skill12_13</f><f>Shisui_R_skill12_14</f></frame>
 	</action>
 
 </unit>

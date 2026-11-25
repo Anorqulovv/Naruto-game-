@@ -155,13 +155,13 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>Madara_R_skill05_01</f><e type="setCommand">setInvincible</e>
+			<f>Madara_R_skill05_01</f><f>Madara_R_skill05_02</f><e type="setCommand">setInvincible</e>
 			<e type="setSkillEffect">Kujiyose</e>
 			<e type="setDelay">10</e>
-			<f>Madara_R_skill05_02</f><e type="setOugis">10</e>
-			<f>Madara_R_skill05_03</f><f>Madara_R_skill05_04</f><f>Madara_R_skill05_05</f><f>Madara_R_skill05_06</f><f>Madara_R_skill05_07</f><f>Madara_R_skill05_08</f><e type="setDelay">10</e>
-			<f>Madara_R_skill05_09</f><f>Madara_R_skill05_10</f><f>Madara_R_skill05_11</f><f>Madara_R_skill05_12</f><f>Madara_R_skill05_13</f><f>Madara_R_skill05_14</f><e type="setDelay">10</e>
-			<f>Madara_R_skill05_15</f><e type="setDelay">10</e>
+			<f>Madara_R_skill05_03</f><f>Madara_R_skill05_04</f><f>Madara_R_skill05_05</f><e type="setOugis">10</e>
+			<f>Madara_R_skill05_06</f><f>Madara_R_skill05_07</f><f>Madara_R_skill05_08</f><f>Madara_R_skill05_09</f><f>Madara_R_skill05_10</f><f>Madara_R_skill05_11</f><f>Madara_R_skill05_12</f><f>Madara_R_skill05_13</f><f>Madara_R_skill05_14</f><f>Madara_R_skill05_15</f><e type="setDelay">10</e>
+			<f>Madara_R_skill05_16</f><f>Madara_R_skill05_17</f><f>Madara_R_skill05_18</f><f>Madara_R_skill05_19</f><f>Madara_R_skill05_20</f><f>Madara_R_skill05_21</f><f>Madara_R_skill05_22</f><f>Madara_R_skill05_23</f><f>Madara_R_skill05_24</f><f>Madara_R_skill05_25</f><f>Madara_R_skill05_26</f><f>Madara_R_skill05_27</f><f>Madara_R_skill05_28</f><e type="setDelay">10</e>
+			<f>Madara_R_skill05_29</f><f>Madara_R_skill05_30</f><e type="setDelay">10</e>
 			<e type="setTransform">40</e>
 			<e type="setCommand">reInvincible</e>
 		</frame>

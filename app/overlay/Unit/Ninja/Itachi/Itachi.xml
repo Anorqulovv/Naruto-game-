@@ -165,9 +165,9 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>Itachi_R_skill05_01</f><f>Itachi_R_skill05_02</f><e type="setCommand">setInvincible</e>
-			<f>Itachi_R_skill05_03</f><f>Itachi_R_skill05_04</f><f>Itachi_R_skill05_05</f><f>Itachi_R_skill05_06</f><f>Itachi_R_skill05_07</f><e type="setOugis">10</e>
-			<f>Itachi_R_skill05_08</f><f>Itachi_R_skill05_09</f><e type="setSound">Audio/Itachi/itachi_skill5_1.ogg</e>
+			<f>Itachi_R_skill05_01</f><f>Itachi_R_skill05_02</f><f>Itachi_R_skill05_03</f><f>Itachi_R_skill05_04</f><e type="setCommand">setInvincible</e>
+			<f>Itachi_R_skill05_05</f><f>Itachi_R_skill05_06</f><f>Itachi_R_skill05_07</f><f>Itachi_R_skill05_08</f><f>Itachi_R_skill05_09</f><f>Itachi_R_skill05_10</f><f>Itachi_R_skill05_11</f><f>Itachi_R_skill05_12</f><f>Itachi_R_skill05_13</f><f>Itachi_R_skill05_14</f><f>Itachi_R_skill05_15</f><e type="setOugis">10</e>
+			<f>Itachi_R_skill05_16</f><f>Itachi_R_skill05_17</f><f>Itachi_R_skill05_18</f><f>Itachi_R_skill05_19</f><e type="setSound">Audio/Itachi/itachi_skill5_1.ogg</e>
 			<e type="setBuff">17</e>
 			<e type="setMon">ItachiSusano</e>
 			<e type="setCommand">reInvincible</e>
@@ -215,14 +215,10 @@
 			<p type="cd">10</p>
 		</data>
 		<frame>
-			<f>Itachi_Skill10_01</f>
-			<e type="setDelay">10</e>
-			<f>Itachi_Skill10_02</f>
-			<e type="setDelay">10</e>
-			<f>Itachi_Skill10_03</f>
-			<e type="setDelay">10</e>
-			<f>Itachi_Skill10_02</f>
-			<e type="setDelay">10</e>
+			<f>Itachi_R_skill10_01</f><e type="setDelay">10</e>
+			<f>Itachi_R_skill10_02</f><e type="setDelay">10</e>
+			<f>Itachi_R_skill10_03</f><f>Itachi_R_skill10_04</f><e type="setDelay">10</e>
+			<f>Itachi_R_skill10_05</f><e type="setDelay">10</e>
 		</frame>
 
 	</action>
@@ -237,22 +233,14 @@
 			<p type="cd">10</p>
 		</data>
 		<frame>
-			<f>Itachi_Skill11_01</f>
+			<f>Itachi_R_skill11_01</f><e type="setDelay">10</e>
+			<f>Itachi_R_skill11_02</f><e type="setDelay">10</e>
 			<e type="setDelay">10</e>
-			<f>Itachi_Skill11_02</f>
+			<f>Itachi_R_skill11_03</f><e type="setDelay">10</e>
+			<f>Itachi_R_skill11_04</f><e type="setDelay">10</e>
 			<e type="setDelay">10</e>
-			<f>Itachi_Skill11_03</f>
-			<e type="setDelay">10</e>
-			<f>Itachi_Skill11_04</f>
-			<e type="setDelay">10</e>
-			<f>Itachi_Skill11_05</f>
-			<e type="setDelay">10</e>
-			<f>Itachi_Skill11_06</f>
-			<e type="setDelay">10</e>
-			<f>Itachi_Skill11_07</f>
-			<e type="setDelay">10</e>
-			<f>Itachi_Skill11_08</f>
-			<e type="setDelay">10</e>
+			<f>Itachi_R_skill11_05</f><e type="setDelay">10</e>
+			<f>Itachi_R_skill11_06</f><e type="setDelay">10</e>
 		</frame>
 
 	</action>
@@ -270,15 +258,11 @@
 		<frame>
 			<e type="setMonAttack">1</e>
 			<e type="setSound">Audio/Itachi/itachi_skill5_2.ogg</e>
-			<f>Itachi_Skill10_01</f>
+			<f>Itachi_R_skill12_01</f><f>Itachi_R_skill12_02</f><e type="setDelay">10</e>
+			<f>Itachi_R_skill12_03</f><f>Itachi_R_skill12_04</f><f>Itachi_R_skill12_05</f><e type="setDelay">10</e>
+			<f>Itachi_R_skill12_06</f><f>Itachi_R_skill12_07</f><f>Itachi_R_skill12_08</f><e type="setAttackBox">c_hit</e>
 			<e type="setDelay">10</e>
-			<f>Itachi_Skill10_02</f>
-			<e type="setDelay">10</e>
-			<f>Itachi_Skill10_03</f>
-			<e type="setAttackBox">c_hit</e>
-			<e type="setDelay">10</e>
-			<f>Itachi_Skill10_02</f>
-			<e type="setDelay">10</e>
+			<f>Itachi_R_skill12_09</f><f>Itachi_R_skill12_10</f><e type="setDelay">10</e>
 			<e type="setAttackBox">c_hit</e>
 		</frame>
 

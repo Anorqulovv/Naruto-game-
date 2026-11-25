@@ -40,7 +40,75 @@ SKINS = {
 # RotN slots whose sprites show another character than the slot hero (the slot hero keeps V2 art)
 RESKINNED = {v[0] for v in SKINS.values()} | {'Ino', 'Kiba', 'Lee'}
 
+# V2 heroes switch to "special" animations (skill10..12) in some modes: they replace idle / walk / normal
+# attack. RotN has no frames for them, so a skin uses its own matching animation there.
+SPECIAL = {
+    'Hidan': {'skill10': 'idle', 'skill11': 'walk', 'skill12': 'nattack'},
+    'Jugo': {'skill10': 'idle', 'skill11': 'walk', 'skill12': 'nattack'},
+    'Suigetsu': {'skill10': 'idle', 'skill11': 'walk', 'skill12': 'nattack'},
+    'Sai': {'skill10': 'nattack', 'skill11': 'idle', 'skill12': 'walk'},
+    'Tobi': {'skill10': 'walk'},
+}
+
 UI_ATLASES = ['UI', 'Result', 'Report', 'Record', 'Record2', 'Select', 'Ougis', 'Ougis2']
+
+
+class RotnPool:
+    """RotN keeps part of a hero's action frames in Skills/<Slot>_Skill.plist (sometimes in another
+    hero's atlas): find a frame by name in any RotN atlas, preferring the hero's own ones."""
+    _cache = {}
+
+    def __init__(self, rotn):
+        import glob, plistlib
+        self.rotn = rotn
+        self.index = {}
+        for p in sorted(glob.glob(os.path.join(rotn, 'Element', '**', '*.plist'), recursive=True) +
+                        glob.glob(os.path.join(rotn, 'Skills', '*.plist'))):
+            try:
+                raw = open(p, 'rb').read()
+                if not raw.lstrip().startswith(b'<?xml'):
+                    raw = b'<?xml version="1.0" encoding="UTF-8"?>\n' + raw
+                names = plistlib.loads(raw).get('frames', {})
+            except Exception:
+                continue
+            for n in names:
+                self.index.setdefault(n, []).append(p)
+
+    def atlas(self, p):
+        if p not in RotnPool._cache:
+            t = texture_path(p)
+            RotnPool._cache[p] = load_frames(p, t) if t else {}
+        return RotnPool._cache[p]
+
+    def get(self, name, slot):
+        paths = self.index.get(name, [])
+        if not paths:
+            return None
+        own = [q for q in paths if os.path.basename(q) in (slot + '.plist', slot + '_Skill.plist')]
+        for q in own + [q for q in paths if q not in own]:
+            fr = self.atlas(q)
+            if name in fr:
+                return fr[name]
+        return None
+
+    def frames(self, main, names, slot):
+        """main frames + the named frames found elsewhere"""
+        out = dict(main)
+        for n in names:
+            if n not in out:
+                v = self.get(n, slot)
+                if v is not None:
+                    out[n] = v
+        return out
+
+
+_POOL = {}
+
+
+def pool(rotn):
+    if rotn not in _POOL:
+        _POOL[rotn] = RotnPool(rotn)
+    return _POOL[rotn]
 
 
 def rotn_action_list(xml_path):
@@ -84,18 +152,21 @@ def build_unit(rotn, v2_res, out_dir, skin, slot, log):
     if not r_tex:
         log.append('skin %s: no RotN texture for %s' % (skin, slot))
         return None
-    rframes = load_frames(r_plist, r_tex)
     racts = rotn_action_list(r_plist[:-6] + '.xml')
+    rframes = pool(rotn).frames(load_frames(r_plist, r_tex), [n for seq in racts.values() for t, n in seq if t == 'f'], slot)
     pvr = v2_tex.endswith('.pvr.ccz')
     tree = ET.parse(v2_plist[:-6] + '.xml')
     items, copied, sounds_used = {}, set(), []
     for action in tree.getroot().iter('action'):
         aname = (action.get('name') or '').lower()
         frame_el = action.find('frame')
-        if frame_el is None or aname not in racts:
+        if frame_el is None:
             continue
-        rseq = racts[aname]
+        rseq = racts.get(aname, [])
         rlist = [n for t, n in rseq if t == 'f' and n in rframes]
+        if not rlist and aname in SPECIAL.get(slot, {}):
+            rseq = racts.get(SPECIAL[slot][aname], [])
+            rlist = [n for t, n in rseq if t == 'f' and n in rframes]
         # only the hero's own voice lines are swapped; shared effect sounds stay
         rsounds = [copy_sound(rotn, n, skin, out_dir, copied) for t, n in rseq if t == 's' and is_voice(n)]
         rsounds = [s for s in rsounds if s]

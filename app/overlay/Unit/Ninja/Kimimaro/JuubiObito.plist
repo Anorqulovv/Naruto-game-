@@ -7,7 +7,7 @@
 		<key>JuubiObito_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3174,1044},{79,111}}</string>
+			<string>{{3703,3794},{79,111}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>JuubiObito_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1669,1176},{109,77}}</string>
+			<string>{{2219,3926},{109,77}}</string>
 			<key>offset</key>
 			<string>{-10,-24}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>JuubiObito_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1780,1176},{109,77}}</string>
+			<string>{{2330,3926},{109,77}}</string>
 			<key>offset</key>
 			<string>{-10,-24}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>JuubiObito_R_dead_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1891,1176},{109,77}}</string>
+			<string>{{2441,3926},{109,77}}</string>
 			<key>offset</key>
 			<string>{-10,-24}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>JuubiObito_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3255,1044},{79,111}}</string>
+			<string>{{3784,3794},{79,111}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>JuubiObito_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3336,1044},{79,111}}</string>
+			<string>{{3865,3794},{79,111}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>JuubiObito_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3417,1044},{79,111}}</string>
+			<string>{{3946,3794},{79,111}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>JuubiObito_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3660,1044},{77,108}}</string>
+			<string>{{162,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>JuubiObito_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2002,1176},{109,77}}</string>
+			<string>{{2552,3926},{109,77}}</string>
 			<key>offset</key>
 			<string>{-10,-24}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>JuubiObito_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2113,1176},{109,77}}</string>
+			<string>{{2663,3926},{109,77}}</string>
 			<key>offset</key>
 			<string>{-10,-24}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>JuubiObito_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2224,1176},{109,77}}</string>
+			<string>{{2774,3926},{109,77}}</string>
 			<key>offset</key>
 			<string>{-10,-24}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>JuubiObito_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3498,1044},{79,111}}</string>
+			<string>{{0,3926},{79,111}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>JuubiObito_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3579,1044},{79,111}}</string>
+			<string>{{81,3926},{79,111}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>JuubiObito_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3739,1044},{101,108}}</string>
+			<string>{{241,3926},{101,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>JuubiObito_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3842,1044},{101,108}}</string>
+			<string>{{344,3926},{101,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>JuubiObito_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3945,1044},{101,108}}</string>
+			<string>{{447,3926},{101,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>JuubiObito_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1176},{101,108}}</string>
+			<string>{{550,3926},{101,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>JuubiObito_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{103,1176},{101,108}}</string>
+			<string>{{653,3926},{101,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>JuubiObito_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{206,1176},{101,108}}</string>
+			<string>{{756,3926},{101,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>JuubiObito_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{309,1176},{101,108}}</string>
+			<string>{{859,3926},{101,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>JuubiObito_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{412,1176},{101,108}}</string>
+			<string>{{962,3926},{101,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>JuubiObito_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{515,1176},{101,108}}</string>
+			<string>{{1065,3926},{101,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>JuubiObito_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{618,1176},{101,108}}</string>
+			<string>{{1168,3926},{101,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>JuubiObito_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1128,706},{451,160}}</string>
+			<string>{{1692,3456},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>JuubiObito_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1581,706},{451,160}}</string>
+			<string>{{2145,3456},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>JuubiObito_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2034,706},{451,160}}</string>
+			<string>{{2598,3456},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>JuubiObito_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2487,706},{451,160}}</string>
+			<string>{{3051,3456},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>JuubiObito_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2940,706},{451,160}}</string>
+			<string>{{3504,3456},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>JuubiObito_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3393,706},{451,160}}</string>
+			<string>{{0,3632},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>JuubiObito_R_skill01_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,882},{451,160}}</string>
+			<string>{{453,3632},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>JuubiObito_R_skill01_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{453,882},{451,160}}</string>
+			<string>{{906,3632},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>JuubiObito_R_skill01_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{906,882},{451,160}}</string>
+			<string>{{1359,3632},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>JuubiObito_R_skill01_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1359,882},{451,160}}</string>
+			<string>{{1812,3632},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>JuubiObito_R_skill01_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1812,882},{451,160}}</string>
+			<string>{{2265,3632},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>JuubiObito_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3352,353},{280,174}}</string>
+			<string>{{0,3456},{280,174}}</string>
 			<key>offset</key>
 			<string>{69.5,-5}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>JuubiObito_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3634,353},{280,174}}</string>
+			<string>{{282,3456},{280,174}}</string>
 			<key>offset</key>
 			<string>{69.5,-5}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>JuubiObito_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,706},{280,174}}</string>
+			<string>{{564,3456},{280,174}}</string>
 			<key>offset</key>
 			<string>{69.5,-5}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>JuubiObito_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{282,706},{280,174}}</string>
+			<string>{{846,3456},{280,174}}</string>
 			<key>offset</key>
 			<string>{69.5,-5}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>JuubiObito_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{564,706},{280,174}}</string>
+			<string>{{1128,3456},{280,174}}</string>
 			<key>offset</key>
 			<string>{69.5,-5}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>JuubiObito_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{846,706},{280,174}}</string>
+			<string>{{1410,3456},{280,174}}</string>
 			<key>offset</key>
 			<string>{69.5,-5}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>JuubiObito_R_skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2265,882},{451,160}}</string>
+			<string>{{2718,3632},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>JuubiObito_R_skill02_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2718,882},{451,160}}</string>
+			<string>{{3171,3632},{451,160}}</string>
 			<key>offset</key>
 			<string>{188,-16}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>JuubiObito_R_skill02_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3171,882},{527,130}}</string>
+			<string>{{0,3794},{527,130}}</string>
 			<key>offset</key>
 			<string>{226,-4}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>JuubiObito_R_skill02_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1044},{527,130}}</string>
+			<string>{{529,3794},{527,130}}</string>
 			<key>offset</key>
 			<string>{226,-4}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>JuubiObito_R_skill02_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{529,1044},{527,130}}</string>
+			<string>{{1058,3794},{527,130}}</string>
 			<key>offset</key>
 			<string>{226,-4}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>JuubiObito_R_skill02_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1058,1044},{527,130}}</string>
+			<string>{{1587,3794},{527,130}}</string>
 			<key>offset</key>
 			<string>{226,-4}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>JuubiObito_R_skill02_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1587,1044},{527,130}}</string>
+			<string>{{2116,3794},{527,130}}</string>
 			<key>offset</key>
 			<string>{226,-4}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>JuubiObito_R_skill02_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2116,1044},{527,130}}</string>
+			<string>{{2645,3794},{527,130}}</string>
 			<key>offset</key>
 			<string>{226,-4}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>JuubiObito_R_skill02_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2645,1044},{527,130}}</string>
+			<string>{{3174,3794},{527,130}}</string>
 			<key>offset</key>
 			<string>{226,-4}</string>
 			<key>rotated</key>
@@ -641,10 +641,88 @@
 			<key>sourceSize</key>
 			<string>{527,130}</string>
 		</dict>
+		<key>JuubiObito_R_skill03_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2095,3103},{308,229}}</string>
+			<key>offset</key>
+			<string>{-15.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{308,229}}</string>
+			<key>sourceSize</key>
+			<string>{308,229}</string>
+		</dict>
+		<key>JuubiObito_R_skill03_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2405,3103},{308,229}}</string>
+			<key>offset</key>
+			<string>{-15.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{308,229}}</string>
+			<key>sourceSize</key>
+			<string>{308,229}</string>
+		</dict>
+		<key>JuubiObito_R_skill03_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2715,3103},{308,229}}</string>
+			<key>offset</key>
+			<string>{-15.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{308,229}}</string>
+			<key>sourceSize</key>
+			<string>{308,229}</string>
+		</dict>
+		<key>JuubiObito_R_skill03_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3025,3103},{308,229}}</string>
+			<key>offset</key>
+			<string>{-15.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{308,229}}</string>
+			<key>sourceSize</key>
+			<string>{308,229}</string>
+		</dict>
+		<key>JuubiObito_R_skill03_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3335,3103},{308,229}}</string>
+			<key>offset</key>
+			<string>{-15.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{308,229}}</string>
+			<key>sourceSize</key>
+			<string>{308,229}</string>
+		</dict>
+		<key>JuubiObito_R_skill03_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3645,3103},{308,229}}</string>
+			<key>offset</key>
+			<string>{-15.5,-15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{308,229}}</string>
+			<key>sourceSize</key>
+			<string>{308,229}</string>
+		</dict>
 		<key>JuubiObito_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{417,351}}</string>
+			<string>{{2562,2200},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -657,7 +735,7 @@
 		<key>JuubiObito_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{419,0},{417,351}}</string>
+			<string>{{2981,2200},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -670,7 +748,7 @@
 		<key>JuubiObito_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{838,0},{417,351}}</string>
+			<string>{{3400,2200},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -683,7 +761,7 @@
 		<key>JuubiObito_R_skill04_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1257,0},{417,351}}</string>
+			<string>{{0,2750},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -696,7 +774,7 @@
 		<key>JuubiObito_R_skill04_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1676,0},{417,351}}</string>
+			<string>{{419,2750},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -709,7 +787,7 @@
 		<key>JuubiObito_R_skill04_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2095,0},{417,351}}</string>
+			<string>{{838,2750},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -722,7 +800,7 @@
 		<key>JuubiObito_R_skill04_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2514,0},{417,351}}</string>
+			<string>{{1257,2750},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -735,7 +813,7 @@
 		<key>JuubiObito_R_skill04_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2933,0},{417,351}}</string>
+			<string>{{1676,2750},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -748,7 +826,7 @@
 		<key>JuubiObito_R_skill04_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3352,0},{417,351}}</string>
+			<string>{{2095,2750},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -761,7 +839,7 @@
 		<key>JuubiObito_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,353},{417,351}}</string>
+			<string>{{2514,2750},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -774,7 +852,7 @@
 		<key>JuubiObito_R_skill04_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{419,353},{417,351}}</string>
+			<string>{{2933,2750},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -787,7 +865,7 @@
 		<key>JuubiObito_R_skill04_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{838,353},{417,351}}</string>
+			<string>{{3352,2750},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -800,7 +878,7 @@
 		<key>JuubiObito_R_skill04_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1257,353},{417,351}}</string>
+			<string>{{0,3103},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -813,7 +891,7 @@
 		<key>JuubiObito_R_skill04_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1676,353},{417,351}}</string>
+			<string>{{419,3103},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -826,7 +904,7 @@
 		<key>JuubiObito_R_skill04_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2095,353},{417,351}}</string>
+			<string>{{838,3103},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -839,7 +917,7 @@
 		<key>JuubiObito_R_skill04_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2514,353},{417,351}}</string>
+			<string>{{1257,3103},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -852,7 +930,7 @@
 		<key>JuubiObito_R_skill04_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2933,353},{417,351}}</string>
+			<string>{{1676,3103},{417,351}}</string>
 			<key>offset</key>
 			<string>{168,-123}</string>
 			<key>rotated</key>
@@ -862,10 +940,257 @@
 			<key>sourceSize</key>
 			<string>{417,351}</string>
 		</dict>
+		<key>JuubiObito_R_skill05_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{854,0},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1708,0},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2562,0},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,550},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{854,550},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1708,550},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2562,550},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1100},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{854,1100},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1708,1100},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2562,1100},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1650},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{854,1650},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1708,1650},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2562,1650},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,2200},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{854,2200},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
+		<key>JuubiObito_R_skill05_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1708,2200},{852,548}}</string>
+			<key>offset</key>
+			<string>{-25.5,-60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{852,548}}</string>
+			<key>sourceSize</key>
+			<string>{852,548}</string>
+		</dict>
 		<key>JuubiObito_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{721,1176},{77,108}}</string>
+			<string>{{1271,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -878,7 +1203,7 @@
 		<key>JuubiObito_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{800,1176},{77,108}}</string>
+			<string>{{1350,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -891,7 +1216,7 @@
 		<key>JuubiObito_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{879,1176},{77,108}}</string>
+			<string>{{1429,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -904,7 +1229,7 @@
 		<key>JuubiObito_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{958,1176},{77,108}}</string>
+			<string>{{1508,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -917,7 +1242,7 @@
 		<key>JuubiObito_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1037,1176},{77,108}}</string>
+			<string>{{1587,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -930,7 +1255,7 @@
 		<key>JuubiObito_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1116,1176},{77,108}}</string>
+			<string>{{1666,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -943,7 +1268,7 @@
 		<key>JuubiObito_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1195,1176},{77,108}}</string>
+			<string>{{1745,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -956,7 +1281,7 @@
 		<key>JuubiObito_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1274,1176},{77,108}}</string>
+			<string>{{1824,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -969,7 +1294,7 @@
 		<key>JuubiObito_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1353,1176},{77,108}}</string>
+			<string>{{1903,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -982,7 +1307,7 @@
 		<key>JuubiObito_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1432,1176},{77,108}}</string>
+			<string>{{1982,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -995,7 +1320,7 @@
 		<key>JuubiObito_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1511,1176},{77,108}}</string>
+			<string>{{2061,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -1008,7 +1333,7 @@
 		<key>JuubiObito_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1590,1176},{77,108}}</string>
+			<string>{{2140,3926},{77,108}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -1026,7 +1351,7 @@
 		<key>realTextureFileName</key>
 		<string>JuubiObito.png</string>
 		<key>size</key>
-		<string>{4096,2048}</string>
+		<string>{4096,4096}</string>
 		<key>textureFileName</key>
 		<string>JuubiObito.png</string>
 	</dict>

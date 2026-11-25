@@ -7,7 +7,7 @@
 		<key>Kisame_AirHurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{682,1115},{63,92}}</string>
+			<string>{{807,839},{63,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>Kisame_AirHurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1898,988},{47,93}}</string>
+			<string>{{3937,706},{47,93}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Kisame_Float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1470,1464},{92,63}}</string>
+			<string>{{1989,1020},{92,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>Kisame_Float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1929,1532},{91,45}}</string>
+			<string>{{509,1090},{91,45}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Kisame_Float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1564,1464},{92,63}}</string>
+			<string>{{2083,1020},{92,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Kisame_Hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1947,988},{48,93}}</string>
+			<string>{{3986,706},{48,93}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>Kisame_Hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{140,1385},{61,73}}</string>
+			<string>{{2740,934},{61,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>Kisame_Idle_001</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1997,988},{39,93}}</string>
+			<string>{{4036,706},{39,93}}</string>
 			<key>offset</key>
 			<string>{-2,-1}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Kisame_Idle_002</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1115},{39,93}}</string>
+			<string>{{0,839},{39,93}}</string>
 			<key>offset</key>
 			<string>{-2,-1}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Kisame_Idle_003</key>
 		<dict>
 			<key>frame</key>
-			<string>{{41,1115},{39,93}}</string>
+			<string>{{41,839},{39,93}}</string>
 			<key>offset</key>
 			<string>{-1,-1}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>Kisame_Idle_004</key>
 		<dict>
 			<key>frame</key>
-			<string>{{82,1115},{39,93}}</string>
+			<string>{{82,839},{39,93}}</string>
 			<key>offset</key>
 			<string>{-2,-1}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Kisame_KnockDown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1846,1464},{103,60}}</string>
+			<string>{{2365,1020},{103,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Kisame_KnockDown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1662,1532},{87,49}}</string>
+			<string>{{242,1090},{87,49}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>Kisame_KnockDown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{409,1594},{96,25}}</string>
+			<string>{{1011,1090},{96,25}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>Kisame_KnockDown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1502,1532},{78,51}}</string>
+			<string>{{82,1090},{78,51}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>Kisame_NAttack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1458,988},{46,94}}</string>
+			<string>{{3412,706},{46,94}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Kisame_NAttack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1506,988},{72,94}}</string>
+			<string>{{3460,706},{72,94}}</string>
 			<key>offset</key>
 			<string>{11,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Kisame_NAttack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1580,988},{56,94}}</string>
+			<string>{{3534,706},{56,94}}</string>
 			<key>offset</key>
 			<string>{3,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>Kisame_NAttack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{123,1115},{46,93}}</string>
+			<string>{{123,839},{46,93}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Kisame_NAttack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1312,988},{49,97}}</string>
+			<string>{{3215,706},{49,97}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>Kisame_NAttack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{478,988},{106,102}}</string>
+			<string>{{2317,706},{106,102}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Kisame_NAttack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{266,1385},{97,72}}</string>
+			<string>{{2866,934},{97,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Kisame_NAttack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1169,1385},{88,68}}</string>
+			<string>{{3769,934},{88,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>Kisame_NAttack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1464},{140,66}}</string>
+			<string>{{519,1020},{140,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Kisame_NAttack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{962,1385},{67,69}}</string>
+			<string>{{3562,934},{67,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>Kisame_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{747,1115},{63,92}}</string>
+			<string>{{872,839},{63,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>Kisame_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1751,1532},{87,49}}</string>
+			<string>{{331,1090},{87,49}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Kisame_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{507,1594},{96,25}}</string>
+			<string>{{1109,1090},{96,25}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>Kisame_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1658,1464},{92,63}}</string>
+			<string>{{2177,1020},{92,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>Kisame_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1594},{91,45}}</string>
+			<string>{{602,1090},{91,45}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>Kisame_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1752,1464},{92,63}}</string>
+			<string>{{2271,1020},{92,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>Kisame_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{171,1115},{48,93}}</string>
+			<string>{{171,839},{48,93}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>Kisame_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{203,1385},{61,73}}</string>
+			<string>{{2803,934},{61,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>Kisame_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{221,1115},{39,93}}</string>
+			<string>{{221,839},{39,93}}</string>
 			<key>offset</key>
 			<string>{-2,-1}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>Kisame_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{262,1115},{39,93}}</string>
+			<string>{{262,839},{39,93}}</string>
 			<key>offset</key>
 			<string>{-2,-1}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>Kisame_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{303,1115},{39,93}}</string>
+			<string>{{303,839},{39,93}}</string>
 			<key>offset</key>
 			<string>{-1,-1}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>Kisame_R_idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{344,1115},{39,93}}</string>
+			<string>{{344,839},{39,93}}</string>
 			<key>offset</key>
 			<string>{-2,-1}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>Kisame_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1840,1532},{87,49}}</string>
+			<string>{{420,1090},{87,49}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>Kisame_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{605,1594},{96,25}}</string>
+			<string>{{1207,1090},{96,25}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>Kisame_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1582,1532},{78,51}}</string>
+			<string>{{162,1090},{78,51}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>Kisame_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1638,988},{46,94}}</string>
+			<string>{{3592,706},{46,94}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>Kisame_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1686,988},{72,94}}</string>
+			<string>{{3640,706},{72,94}}</string>
 			<key>offset</key>
 			<string>{11,0}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>Kisame_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1760,988},{56,94}}</string>
+			<string>{{3714,706},{56,94}}</string>
 			<key>offset</key>
 			<string>{3,0}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>Kisame_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{385,1115},{46,93}}</string>
+			<string>{{385,839},{46,93}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>Kisame_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1363,988},{49,97}}</string>
+			<string>{{3266,706},{49,97}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>Kisame_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{586,988},{106,102}}</string>
+			<string>{{2425,706},{106,102}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>Kisame_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{365,1385},{97,72}}</string>
+			<string>{{2965,934},{97,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>Kisame_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1259,1385},{88,68}}</string>
+			<string>{{3859,934},{88,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>Kisame_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{142,1464},{140,66}}</string>
+			<string>{{661,1020},{140,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>Kisame_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1031,1385},{67,69}}</string>
+			<string>{{3631,934},{67,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>Kisame_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{763,988},{62,100}}</string>
+			<string>{{2602,706},{62,100}}</string>
 			<key>offset</key>
 			<string>{-11,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>Kisame_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1349,1385},{88,68}}</string>
+			<string>{{3949,934},{88,68}}</string>
 			<key>offset</key>
 			<string>{-14,0}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>Kisame_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1439,1385},{108,68}}</string>
+			<string>{{0,1020},{108,68}}</string>
 			<key>offset</key>
 			<string>{-14,0}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>Kisame_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1549,1385},{127,68}}</string>
+			<string>{{110,1020},{127,68}}</string>
 			<key>offset</key>
 			<string>{-14,0}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>Kisame_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1536,0},{480,173}}</string>
+			<string>{{0,225},{480,173}}</string>
 			<key>offset</key>
 			<string>{164.5,-60}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>Kisame_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{997,0},{537,178}}</string>
+			<string>{{2304,0},{537,178}}</string>
 			<key>offset</key>
 			<string>{166.5,-31}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>Kisame_R_skill01_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1100,1385},{67,69}}</string>
+			<string>{{3700,934},{67,69}}</string>
 			<key>offset</key>
 			<string>{5.5,0}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>Kisame_R_skill01_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{827,988},{62,100}}</string>
+			<string>{{2666,706},{62,100}}</string>
 			<key>offset</key>
 			<string>{-11,0}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>Kisame_R_skill01_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1024,988},{44,99}}</string>
+			<string>{{2927,706},{44,99}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>Kisame_R_skill01_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1070,988},{44,99}}</string>
+			<string>{{2973,706},{44,99}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>Kisame_R_skill01_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1116,988},{44,99}}</string>
+			<string>{{3019,706},{44,99}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>Kisame_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{891,988},{62,100}}</string>
+			<string>{{2730,706},{62,100}}</string>
 			<key>offset</key>
 			<string>{-11,0}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>Kisame_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{812,1115},{62,89}}</string>
+			<string>{{937,839},{62,89}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>Kisame_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{305,988},{83,116}}</string>
+			<string>{{1913,706},{83,116}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>Kisame_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1635,382},{139,149}}</string>
+			<string>{{2943,400},{139,149}}</string>
 			<key>offset</key>
 			<string>{40.5,0}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>Kisame_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1101,1300},{106,79}}</string>
+			<string>{{1664,934},{106,79}}</string>
 			<key>offset</key>
 			<string>{23.5,0}</string>
 			<key>rotated</key>
@@ -878,7 +878,7 @@
 		<key>Kisame_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{869,1300},{141,80}}</string>
+			<string>{{1432,934},{141,80}}</string>
 			<key>offset</key>
 			<string>{22,0}</string>
 			<key>rotated</key>
@@ -891,7 +891,7 @@
 		<key>Kisame_R_skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1012,1300},{87,80}}</string>
+			<string>{{1575,934},{87,80}}</string>
 			<key>offset</key>
 			<string>{-11.5,0}</string>
 			<key>rotated</key>
@@ -904,7 +904,7 @@
 		<key>Kisame_R_skill02_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{955,988},{67,100}}</string>
+			<string>{{2794,706},{67,100}}</string>
 			<key>offset</key>
 			<string>{-4.5,0}</string>
 			<key>rotated</key>
@@ -917,7 +917,7 @@
 		<key>Kisame_R_skill02_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{876,1115},{62,88}}</string>
+			<string>{{1001,839},{62,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -930,7 +930,7 @@
 		<key>Kisame_R_skill02_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{940,1115},{62,88}}</string>
+			<string>{{1065,839},{62,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -943,7 +943,7 @@
 		<key>Kisame_R_skill02_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1560,1300},{68,78}}</string>
+			<string>{{2123,934},{68,78}}</string>
 			<key>offset</key>
 			<string>{0,5}</string>
 			<key>rotated</key>
@@ -956,7 +956,7 @@
 		<key>Kisame_R_skill02_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{709,1210},{64,86}}</string>
+			<string>{{2823,839},{64,86}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -969,7 +969,7 @@
 		<key>Kisame_R_skill02_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1630,1300},{68,78}}</string>
+			<string>{{2193,934},{68,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -982,7 +982,7 @@
 		<key>Kisame_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1818,988},{38,94}}</string>
+			<string>{{3772,706},{38,94}}</string>
 			<key>offset</key>
 			<string>{-1,-4}</string>
 			<key>rotated</key>
@@ -995,7 +995,7 @@
 		<key>Kisame_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1004,1115},{74,88}}</string>
+			<string>{{1129,839},{74,88}}</string>
 			<key>offset</key>
 			<string>{11,-7}</string>
 			<key>rotated</key>
@@ -1008,7 +1008,7 @@
 		<key>Kisame_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1080,1115},{106,88}}</string>
+			<string>{{1205,839},{106,88}}</string>
 			<key>offset</key>
 			<string>{36,-7}</string>
 			<key>rotated</key>
@@ -1021,7 +1021,7 @@
 		<key>Kisame_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1188,1115},{106,88}}</string>
+			<string>{{1313,839},{106,88}}</string>
 			<key>offset</key>
 			<string>{36,-7}</string>
 			<key>rotated</key>
@@ -1034,7 +1034,7 @@
 		<key>Kisame_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1296,1115},{104,88}}</string>
+			<string>{{1421,839},{104,88}}</string>
 			<key>offset</key>
 			<string>{36,-7}</string>
 			<key>rotated</key>
@@ -1047,7 +1047,7 @@
 		<key>Kisame_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{775,1210},{81,86}}</string>
+			<string>{{2889,839},{81,86}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1060,7 +1060,7 @@
 		<key>Kisame_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1708,1210},{117,83}}</string>
+			<string>{{206,934},{117,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1073,7 +1073,7 @@
 		<key>Kisame_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,225},{194,155}}</string>
+			<string>{{3209,225},{194,155}}</string>
 			<key>offset</key>
 			<string>{0,-2}</string>
 			<key>rotated</key>
@@ -1086,7 +1086,7 @@
 		<key>Kisame_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1776,382},{160,149}}</string>
+			<string>{{3084,400},{160,149}}</string>
 			<key>offset</key>
 			<string>{12,-5}</string>
 			<key>rotated</key>
@@ -1099,7 +1099,7 @@
 		<key>Kisame_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{464,1385},{164,71}}</string>
+			<string>{{3064,934},{164,71}}</string>
 			<key>offset</key>
 			<string>{15,-44}</string>
 			<key>rotated</key>
@@ -1112,7 +1112,7 @@
 		<key>Kisame_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1209,1300},{115,79}}</string>
+			<string>{{1772,934},{115,79}}</string>
 			<key>offset</key>
 			<string>{30,-22}</string>
 			<key>rotated</key>
@@ -1125,7 +1125,7 @@
 		<key>Kisame_R_skill03_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{119,1300},{151,81}}</string>
+			<string>{{682,934},{151,81}}</string>
 			<key>offset</key>
 			<string>{29,-20}</string>
 			<key>rotated</key>
@@ -1138,7 +1138,7 @@
 		<key>Kisame_R_skill03_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{272,1300},{95,81}}</string>
+			<string>{{835,934},{95,81}}</string>
 			<key>offset</key>
 			<string>{-6,-20}</string>
 			<key>rotated</key>
@@ -1151,7 +1151,7 @@
 		<key>Kisame_R_skill03_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{433,1115},{38,93}}</string>
+			<string>{{433,839},{38,93}}</string>
 			<key>offset</key>
 			<string>{-3.5,0}</string>
 			<key>rotated</key>
@@ -1164,7 +1164,7 @@
 		<key>Kisame_R_skill03_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1414,988},{42,97}}</string>
+			<string>{{3317,706},{42,97}}</string>
 			<key>offset</key>
 			<string>{-5.5,0}</string>
 			<key>rotated</key>
@@ -1177,7 +1177,7 @@
 		<key>Kisame_R_skill03_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{572,1210},{74,87}}</string>
+			<string>{{2686,839},{74,87}}</string>
 			<key>offset</key>
 			<string>{8.5,0}</string>
 			<key>rotated</key>
@@ -1190,7 +1190,7 @@
 		<key>Kisame_R_skill03_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{648,1210},{59,87}}</string>
+			<string>{{2762,839},{59,87}}</string>
 			<key>offset</key>
 			<string>{8,0}</string>
 			<key>rotated</key>
@@ -1203,7 +1203,7 @@
 		<key>Kisame_R_skill03_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1402,1115},{98,88}}</string>
+			<string>{{1527,839},{98,88}}</string>
 			<key>offset</key>
 			<string>{30.5,0}</string>
 			<key>rotated</key>
@@ -1216,7 +1216,7 @@
 		<key>Kisame_R_skill03_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1502,1115},{76,88}}</string>
+			<string>{{1627,839},{76,88}}</string>
 			<key>offset</key>
 			<string>{19.5,0}</string>
 			<key>rotated</key>
@@ -1229,7 +1229,7 @@
 		<key>Kisame_R_skill03_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{473,1115},{47,93}}</string>
+			<string>{{473,839},{47,93}}</string>
 			<key>offset</key>
 			<string>{3,0}</string>
 			<key>rotated</key>
@@ -1242,7 +1242,7 @@
 		<key>Kisame_R_skill03_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1580,1115},{115,88}}</string>
+			<string>{{1705,839},{115,88}}</string>
 			<key>offset</key>
 			<string>{29,0}</string>
 			<key>rotated</key>
@@ -1255,7 +1255,7 @@
 		<key>Kisame_R_skill03_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,535},{167,149}}</string>
+			<string>{{3246,400},{167,149}}</string>
 			<key>offset</key>
 			<string>{61,-17}</string>
 			<key>rotated</key>
@@ -1268,7 +1268,7 @@
 		<key>Kisame_R_skill03_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{169,535},{222,149}}</string>
+			<string>{{3415,400},{222,149}}</string>
 			<key>offset</key>
 			<string>{88.5,-18}</string>
 			<key>rotated</key>
@@ -1281,7 +1281,7 @@
 		<key>Kisame_R_skill03_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{393,535},{227,149}}</string>
+			<string>{{3639,400},{227,149}}</string>
 			<key>offset</key>
 			<string>{91,-18}</string>
 			<key>rotated</key>
@@ -1294,7 +1294,7 @@
 		<key>Kisame_R_skill03_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{622,535},{219,149}}</string>
+			<string>{{3868,400},{219,149}}</string>
 			<key>offset</key>
 			<string>{87,-18}</string>
 			<key>rotated</key>
@@ -1307,7 +1307,7 @@
 		<key>Kisame_R_skill03_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{843,535},{219,149}}</string>
+			<string>{{0,555},{219,149}}</string>
 			<key>offset</key>
 			<string>{87,-18}</string>
 			<key>rotated</key>
@@ -1320,7 +1320,7 @@
 		<key>Kisame_R_skill03_27</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1064,535},{219,149}}</string>
+			<string>{{221,555},{219,149}}</string>
 			<key>offset</key>
 			<string>{87,-18}</string>
 			<key>rotated</key>
@@ -1333,7 +1333,7 @@
 		<key>Kisame_R_skill03_28</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1285,535},{219,149}}</string>
+			<string>{{442,555},{219,149}}</string>
 			<key>offset</key>
 			<string>{87,-18}</string>
 			<key>rotated</key>
@@ -1346,7 +1346,7 @@
 		<key>Kisame_R_skill03_29</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1506,535},{219,149}}</string>
+			<string>{{663,555},{219,149}}</string>
 			<key>offset</key>
 			<string>{87,-18}</string>
 			<key>rotated</key>
@@ -1359,7 +1359,7 @@
 		<key>Kisame_R_skill03_30</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1727,535},{219,149}}</string>
+			<string>{{884,555},{219,149}}</string>
 			<key>offset</key>
 			<string>{87,-18}</string>
 			<key>rotated</key>
@@ -1372,7 +1372,7 @@
 		<key>Kisame_R_skill03_31</key>
 		<dict>
 			<key>frame</key>
-			<string>{{324,837},{219,146}}</string>
+			<string>{{3391,555},{219,146}}</string>
 			<key>offset</key>
 			<string>{87,-15}</string>
 			<key>rotated</key>
@@ -1385,7 +1385,7 @@
 		<key>Kisame_R_skill03_32</key>
 		<dict>
 			<key>frame</key>
-			<string>{{739,0},{256,198}}</string>
+			<string>{{1229,0},{256,198}}</string>
 			<key>offset</key>
 			<string>{99.5,-42}</string>
 			<key>rotated</key>
@@ -1398,7 +1398,7 @@
 		<key>Kisame_R_skill03_33</key>
 		<dict>
 			<key>frame</key>
-			<string>{{498,0},{239,210}}</string>
+			<string>{{988,0},{239,210}}</string>
 			<key>offset</key>
 			<string>{97,-34}</string>
 			<key>rotated</key>
@@ -1411,7 +1411,7 @@
 		<key>Kisame_R_skill03_34</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1385},{74,77}}</string>
+			<string>{{2537,934},{74,77}}</string>
 			<key>offset</key>
 			<string>{14.5,0}</string>
 			<key>rotated</key>
@@ -1424,7 +1424,7 @@
 		<key>Kisame_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{522,1115},{38,93}}</string>
+			<string>{{522,839},{38,93}}</string>
 			<key>offset</key>
 			<string>{-3.5,0}</string>
 			<key>rotated</key>
@@ -1437,7 +1437,7 @@
 		<key>Kisame_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{562,1115},{38,93}}</string>
+			<string>{{562,839},{38,93}}</string>
 			<key>offset</key>
 			<string>{-3.5,0}</string>
 			<key>rotated</key>
@@ -1450,7 +1450,7 @@
 		<key>Kisame_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1700,1300},{65,78}}</string>
+			<string>{{2263,934},{65,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1463,7 +1463,7 @@
 		<key>Kisame_R_skill04_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{93,1594},{78,42}}</string>
+			<string>{{695,1090},{78,42}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1476,7 +1476,7 @@
 		<key>Kisame_R_skill04_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{253,1594},{76,26}}</string>
+			<string>{{855,1090},{76,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1489,7 +1489,7 @@
 		<key>Kisame_R_skill04_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{703,1594},{82,11}}</string>
+			<string>{{1305,1090},{82,11}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1502,7 +1502,7 @@
 		<key>Kisame_R_skill04_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{664,1532},{82,55}}</string>
+			<string>{{3220,1020},{82,55}}</string>
 			<key>offset</key>
 			<string>{0,-8}</string>
 			<key>rotated</key>
@@ -1515,7 +1515,7 @@
 		<key>Kisame_R_skill04_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1084,1532},{82,54}}</string>
+			<string>{{3722,1020},{82,54}}</string>
 			<key>offset</key>
 			<string>{0,-7}</string>
 			<key>rotated</key>
@@ -1528,7 +1528,7 @@
 		<key>Kisame_R_skill04_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{748,1532},{82,55}}</string>
+			<string>{{3304,1020},{82,55}}</string>
 			<key>offset</key>
 			<string>{0,-8}</string>
 			<key>rotated</key>
@@ -1541,7 +1541,7 @@
 		<key>Kisame_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1168,1532},{82,54}}</string>
+			<string>{{3806,1020},{82,54}}</string>
 			<key>offset</key>
 			<string>{0,-7}</string>
 			<key>rotated</key>
@@ -1554,7 +1554,7 @@
 		<key>Kisame_R_skill04_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{832,1532},{82,55}}</string>
+			<string>{{3388,1020},{82,55}}</string>
 			<key>offset</key>
 			<string>{0,-8}</string>
 			<key>rotated</key>
@@ -1567,7 +1567,7 @@
 		<key>Kisame_R_skill04_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{916,1532},{82,55}}</string>
+			<string>{{3472,1020},{82,55}}</string>
 			<key>offset</key>
 			<string>{0,-8}</string>
 			<key>rotated</key>
@@ -1580,7 +1580,7 @@
 		<key>Kisame_R_skill04_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1252,1532},{82,54}}</string>
+			<string>{{3890,1020},{82,54}}</string>
 			<key>offset</key>
 			<string>{0,-7}</string>
 			<key>rotated</key>
@@ -1593,7 +1593,7 @@
 		<key>Kisame_R_skill04_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1000,1532},{82,55}}</string>
+			<string>{{3556,1020},{82,55}}</string>
 			<key>offset</key>
 			<string>{0,-8}</string>
 			<key>rotated</key>
@@ -1606,7 +1606,7 @@
 		<key>Kisame_R_skill04_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1336,1532},{82,54}}</string>
+			<string>{{3974,1020},{82,54}}</string>
 			<key>offset</key>
 			<string>{0,-7}</string>
 			<key>rotated</key>
@@ -1619,7 +1619,7 @@
 		<key>Kisame_R_skill04_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{787,1594},{82,11}}</string>
+			<string>{{1389,1090},{82,11}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1632,7 +1632,7 @@
 		<key>Kisame_R_skill04_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{331,1594},{76,26}}</string>
+			<string>{{933,1090},{76,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1645,7 +1645,7 @@
 		<key>Kisame_R_skill04_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{173,1594},{78,42}}</string>
+			<string>{{775,1090},{78,42}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1658,7 +1658,7 @@
 		<key>Kisame_R_skill04_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1767,1300},{65,78}}</string>
+			<string>{{2330,934},{65,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1671,7 +1671,7 @@
 		<key>Kisame_R_skill04_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{602,1115},{38,93}}</string>
+			<string>{{602,839},{38,93}}</string>
 			<key>offset</key>
 			<string>{-3.5,0}</string>
 			<key>rotated</key>
@@ -1684,7 +1684,7 @@
 		<key>Kisame_R_skill04_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{642,1115},{38,93}}</string>
+			<string>{{642,839},{38,93}}</string>
 			<key>offset</key>
 			<string>{-3.5,0}</string>
 			<key>rotated</key>
@@ -1694,10 +1694,400 @@
 			<key>sourceSize</key>
 			<string>{38,93}</string>
 		</dict>
+		<key>Kisame_R_skill04_22</key>
+		<dict>
+			<key>frame</key>
+			<string>{{682,839},{38,93}}</string>
+			<key>offset</key>
+			<string>{-3.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{38,93}}</string>
+			<key>sourceSize</key>
+			<string>{38,93}</string>
+		</dict>
+		<key>Kisame_R_skill04_23</key>
+		<dict>
+			<key>frame</key>
+			<string>{{722,839},{43,93}}</string>
+			<key>offset</key>
+			<string>{-2,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{43,93}}</string>
+			<key>sourceSize</key>
+			<string>{43,93}</string>
+		</dict>
+		<key>Kisame_R_skill04_24</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3812,706},{42,94}}</string>
+			<key>offset</key>
+			<string>{-2.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{42,94}}</string>
+			<key>sourceSize</key>
+			<string>{42,94}</string>
+		</dict>
+		<key>Kisame_R_skill04_25</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3856,706},{39,94}}</string>
+			<key>offset</key>
+			<string>{-4,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{39,94}}</string>
+			<key>sourceSize</key>
+			<string>{39,94}</string>
+		</dict>
+		<key>Kisame_R_skill04_26</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2613,934},{61,77}}</string>
+			<key>offset</key>
+			<string>{3.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{61,77}}</string>
+			<key>sourceSize</key>
+			<string>{61,77}</string>
+		</dict>
+		<key>Kisame_R_skill04_27</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3640,1020},{80,55}}</string>
+			<key>offset</key>
+			<string>{11.5,-4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{80,55}}</string>
+			<key>sourceSize</key>
+			<string>{80,55}</string>
+		</dict>
+		<key>Kisame_R_skill04_28</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2972,839},{346,86}}</string>
+			<key>offset</key>
+			<string>{136.5,-19}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{346,86}}</string>
+			<key>sourceSize</key>
+			<string>{346,86}</string>
+		</dict>
+		<key>Kisame_R_skill04_29</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1487,0},{373,192}}</string>
+			<key>offset</key>
+			<string>{150,-31}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{373,192}}</string>
+			<key>sourceSize</key>
+			<string>{373,192}</string>
+		</dict>
+		<key>Kisame_R_skill04_30</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2843,0},{399,176}}</string>
+			<key>offset</key>
+			<string>{159,-26}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{399,176}}</string>
+			<key>sourceSize</key>
+			<string>{399,176}</string>
+		</dict>
+		<key>Kisame_R_skill04_31</key>
+		<dict>
+			<key>frame</key>
+			<string>{{482,225},{407,173}}</string>
+			<key>offset</key>
+			<string>{161,-18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{407,173}}</string>
+			<key>sourceSize</key>
+			<string>{407,173}</string>
+		</dict>
+		<key>Kisame_R_skill04_32</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1862,0},{440,185}}</string>
+			<key>offset</key>
+			<string>{177.5,-28}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{440,185}}</string>
+			<key>sourceSize</key>
+			<string>{440,185}</string>
+		</dict>
+		<key>Kisame_R_skill04_33</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3244,0},{428,175}}</string>
+			<key>offset</key>
+			<string>{164.5,-22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{428,175}}</string>
+			<key>sourceSize</key>
+			<string>{428,175}</string>
+		</dict>
+		<key>Kisame_R_skill04_34</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2850,225},{357,163}}</string>
+			<key>offset</key>
+			<string>{142,-16}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{357,163}}</string>
+			<key>sourceSize</key>
+			<string>{357,163}</string>
+		</dict>
+		<key>Kisame_R_skill04_35</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3693,555},{357,138}}</string>
+			<key>offset</key>
+			<string>{138,-14}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{357,138}}</string>
+			<key>sourceSize</key>
+			<string>{357,138}</string>
+		</dict>
+		<key>Kisame_R_skill04_36</key>
+		<dict>
+			<key>frame</key>
+			<string>{{976,706},{325,126}}</string>
+			<key>offset</key>
+			<string>{126,-29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,126}}</string>
+			<key>sourceSize</key>
+			<string>{325,126}</string>
+		</dict>
 		<key>Kisame_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1208,988},{50,98}}</string>
+			<string>{{767,839},{38,93}}</string>
+			<key>offset</key>
+			<string>{-3.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{38,93}}</string>
+			<key>sourceSize</key>
+			<string>{38,93}</string>
+		</dict>
+		<key>Kisame_R_skill05_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1998,706},{47,109}}</string>
+			<key>offset</key>
+			<string>{-0.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{47,109}}</string>
+			<key>sourceSize</key>
+			<string>{47,109}</string>
+		</dict>
+		<key>Kisame_R_skill05_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,706},{59,131}}</string>
+			<key>offset</key>
+			<string>{-3.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{59,131}}</string>
+			<key>sourceSize</key>
+			<string>{59,131}</string>
+		</dict>
+		<key>Kisame_R_skill05_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2243,706},{72,105}}</string>
+			<key>offset</key>
+			<string>{-7,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{72,105}}</string>
+			<key>sourceSize</key>
+			<string>{72,105}</string>
+		</dict>
+		<key>Kisame_R_skill05_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2047,706},{106,109}}</string>
+			<key>offset</key>
+			<string>{20.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{106,109}}</string>
+			<key>sourceSize</key>
+			<string>{106,109}</string>
+		</dict>
+		<key>Kisame_R_skill05_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3612,555},{79,143}}</string>
+			<key>offset</key>
+			<string>{14,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{79,143}}</string>
+			<key>sourceSize</key>
+			<string>{79,143}</string>
+		</dict>
+		<key>Kisame_R_skill05_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2863,706},{62,100}}</string>
+			<key>offset</key>
+			<string>{-11,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{62,100}}</string>
+			<key>sourceSize</key>
+			<string>{62,100}</string>
+		</dict>
+		<key>Kisame_R_skill05_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3361,706},{49,97}}</string>
+			<key>offset</key>
+			<string>{-6.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{49,97}}</string>
+			<key>sourceSize</key>
+			<string>{49,97}</string>
+		</dict>
+		<key>Kisame_R_skill05_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3320,839},{81,86}}</string>
+			<key>offset</key>
+			<string>{-21,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{81,86}}</string>
+			<key>sourceSize</key>
+			<string>{81,86}</string>
+		</dict>
+		<key>Kisame_R_skill05_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{325,934},{117,83}}</string>
+			<key>offset</key>
+			<string>{-30.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{117,83}}</string>
+			<key>sourceSize</key>
+			<string>{117,83}</string>
+		</dict>
+		<key>Kisame_R_skill05_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{498,0},{488,215}}</string>
+			<key>offset</key>
+			<string>{82,-84}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{488,215}}</string>
+			<key>sourceSize</key>
+			<string>{488,215}</string>
+		</dict>
+		<key>Kisame_R_skill05_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{891,225},{488,173}}</string>
+			<key>offset</key>
+			<string>{82,-84}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{488,173}}</string>
+			<key>sourceSize</key>
+			<string>{488,173}</string>
+		</dict>
+		<key>Kisame_R_skill05_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1871,225},{488,171}}</string>
+			<key>offset</key>
+			<string>{82,-82}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{488,171}}</string>
+			<key>sourceSize</key>
+			<string>{488,171}</string>
+		</dict>
+		<key>Kisame_R_skill05_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2361,225},{487,171}}</string>
+			<key>offset</key>
+			<string>{81.5,-84}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{487,171}}</string>
+			<key>sourceSize</key>
+			<string>{487,171}</string>
+		</dict>
+		<key>Kisame_R_skill05_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1381,225},{488,173}}</string>
+			<key>offset</key>
+			<string>{82,-84}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{488,173}}</string>
+			<key>sourceSize</key>
+			<string>{488,173}</string>
+		</dict>
+		<key>Kisame_R_skill05_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3111,706},{50,98}}</string>
 			<key>offset</key>
 			<string>{-9,-11}</string>
 			<key>rotated</key>
@@ -1707,10 +2097,10 @@
 			<key>sourceSize</key>
 			<string>{90,120}</string>
 		</dict>
-		<key>Kisame_R_skill05_02</key>
+		<key>Kisame_R_skill05_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{390,988},{42,106}}</string>
+			<string>{{2155,706},{42,106}}</string>
 			<key>offset</key>
 			<string>{1,-7}</string>
 			<key>rotated</key>
@@ -1720,10 +2110,10 @@
 			<key>sourceSize</key>
 			<string>{90,120}</string>
 		</dict>
-		<key>Kisame_R_skill05_03</key>
+		<key>Kisame_R_skill05_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1951,1464},{84,60}}</string>
+			<string>{{2470,1020},{84,60}}</string>
 			<key>offset</key>
 			<string>{-1,-24}</string>
 			<key>rotated</key>
@@ -1733,10 +2123,10 @@
 			<key>sourceSize</key>
 			<string>{90,120}</string>
 		</dict>
-		<key>Kisame_R_skill05_04</key>
+		<key>Kisame_R_skill05_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1399,1210},{101,84}}</string>
+			<string>{{3944,839},{101,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1745,219 +2135,11 @@
 			<string>{{0,0},{101,84}}</string>
 			<key>sourceSize</key>
 			<string>{101,84}</string>
-		</dict>
-		<key>Kisame_R_skill05_05</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1090,1210},{101,85}}</string>
-			<key>offset</key>
-			<string>{-7,-27}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{111,54},{101,85}}</string>
-			<key>sourceSize</key>
-			<string>{337,139}</string>
-		</dict>
-		<key>Kisame_R_skill05_06</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,686},{325,149}}</string>
-			<key>offset</key>
-			<string>{-15,-7}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,149}}</string>
-			<key>sourceSize</key>
-			<string>{325,149}</string>
-		</dict>
-		<key>Kisame_R_skill05_07</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1569,225},{325,151}}</string>
-			<key>offset</key>
-			<string>{-15,-6}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,151}}</string>
-			<key>sourceSize</key>
-			<string>{325,151}</string>
-		</dict>
-		<key>Kisame_R_skill05_08</key>
-		<dict>
-			<key>frame</key>
-			<string>{{588,225},{325,153}}</string>
-			<key>offset</key>
-			<string>{-15,-5}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,153}}</string>
-			<key>sourceSize</key>
-			<string>{325,153}</string>
-		</dict>
-		<key>Kisame_R_skill05_09</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,382},{325,151}}</string>
-			<key>offset</key>
-			<string>{-15,-6}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,151}}</string>
-			<key>sourceSize</key>
-			<string>{325,151}</string>
-		</dict>
-		<key>Kisame_R_skill05_10</key>
-		<dict>
-			<key>frame</key>
-			<string>{{327,686},{325,149}}</string>
-			<key>offset</key>
-			<string>{-15,-7}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,149}}</string>
-			<key>sourceSize</key>
-			<string>{325,149}</string>
-		</dict>
-		<key>Kisame_R_skill05_11</key>
-		<dict>
-			<key>frame</key>
-			<string>{{654,686},{325,149}}</string>
-			<key>offset</key>
-			<string>{-15,-7}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,149}}</string>
-			<key>sourceSize</key>
-			<string>{325,149}</string>
-		</dict>
-		<key>Kisame_R_skill05_12</key>
-		<dict>
-			<key>frame</key>
-			<string>{{327,382},{325,151}}</string>
-			<key>offset</key>
-			<string>{-15,-6}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,151}}</string>
-			<key>sourceSize</key>
-			<string>{325,151}</string>
-		</dict>
-		<key>Kisame_R_skill05_13</key>
-		<dict>
-			<key>frame</key>
-			<string>{{915,225},{325,153}}</string>
-			<key>offset</key>
-			<string>{-15,-5}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,153}}</string>
-			<key>sourceSize</key>
-			<string>{325,153}</string>
-		</dict>
-		<key>Kisame_R_skill05_14</key>
-		<dict>
-			<key>frame</key>
-			<string>{{654,382},{325,151}}</string>
-			<key>offset</key>
-			<string>{-15,-6}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,151}}</string>
-			<key>sourceSize</key>
-			<string>{325,151}</string>
-		</dict>
-		<key>Kisame_R_skill05_15</key>
-		<dict>
-			<key>frame</key>
-			<string>{{981,686},{325,149}}</string>
-			<key>offset</key>
-			<string>{-15,-7}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,149}}</string>
-			<key>sourceSize</key>
-			<string>{325,149}</string>
-		</dict>
-		<key>Kisame_R_skill05_16</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1308,686},{325,149}}</string>
-			<key>offset</key>
-			<string>{-15,-7}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,149}}</string>
-			<key>sourceSize</key>
-			<string>{325,149}</string>
-		</dict>
-		<key>Kisame_R_skill05_17</key>
-		<dict>
-			<key>frame</key>
-			<string>{{981,382},{325,151}}</string>
-			<key>offset</key>
-			<string>{-15,-6}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,151}}</string>
-			<key>sourceSize</key>
-			<string>{325,151}</string>
-		</dict>
-		<key>Kisame_R_skill05_18</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1242,225},{325,153}}</string>
-			<key>offset</key>
-			<string>{-15,-5}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,153}}</string>
-			<key>sourceSize</key>
-			<string>{325,153}</string>
-		</dict>
-		<key>Kisame_R_skill05_19</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1308,382},{325,151}}</string>
-			<key>offset</key>
-			<string>{-15,-6}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,151}}</string>
-			<key>sourceSize</key>
-			<string>{325,151}</string>
 		</dict>
 		<key>Kisame_R_skill05_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1635,686},{325,149}}</string>
-			<key>offset</key>
-			<string>{-15,-7}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{325,149}}</string>
-			<key>sourceSize</key>
-			<string>{325,149}</string>
-		</dict>
-		<key>Kisame_R_skill05_21</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1193,1210},{101,85}}</string>
+			<string>{{3635,839},{101,85}}</string>
 			<key>offset</key>
 			<string>{-7,-27}</string>
 			<key>rotated</key>
@@ -1967,10 +2149,218 @@
 			<key>sourceSize</key>
 			<string>{337,139}</string>
 		</dict>
+		<key>Kisame_R_skill05_21</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1105,555},{325,149}}</string>
+			<key>offset</key>
+			<string>{-15,-7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,149}}</string>
+			<key>sourceSize</key>
+			<string>{325,149}</string>
+		</dict>
 		<key>Kisame_R_skill05_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1502,1210},{101,84}}</string>
+			<string>{{981,400},{325,151}}</string>
+			<key>offset</key>
+			<string>{-15,-6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,151}}</string>
+			<key>sourceSize</key>
+			<string>{325,151}</string>
+		</dict>
+		<key>Kisame_R_skill05_23</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,400},{325,153}}</string>
+			<key>offset</key>
+			<string>{-15,-5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,153}}</string>
+			<key>sourceSize</key>
+			<string>{325,153}</string>
+		</dict>
+		<key>Kisame_R_skill05_24</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1308,400},{325,151}}</string>
+			<key>offset</key>
+			<string>{-15,-6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,151}}</string>
+			<key>sourceSize</key>
+			<string>{325,151}</string>
+		</dict>
+		<key>Kisame_R_skill05_25</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1432,555},{325,149}}</string>
+			<key>offset</key>
+			<string>{-15,-7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,149}}</string>
+			<key>sourceSize</key>
+			<string>{325,149}</string>
+		</dict>
+		<key>Kisame_R_skill05_26</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1759,555},{325,149}}</string>
+			<key>offset</key>
+			<string>{-15,-7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,149}}</string>
+			<key>sourceSize</key>
+			<string>{325,149}</string>
+		</dict>
+		<key>Kisame_R_skill05_27</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1635,400},{325,151}}</string>
+			<key>offset</key>
+			<string>{-15,-6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,151}}</string>
+			<key>sourceSize</key>
+			<string>{325,151}</string>
+		</dict>
+		<key>Kisame_R_skill05_28</key>
+		<dict>
+			<key>frame</key>
+			<string>{{327,400},{325,153}}</string>
+			<key>offset</key>
+			<string>{-15,-5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,153}}</string>
+			<key>sourceSize</key>
+			<string>{325,153}</string>
+		</dict>
+		<key>Kisame_R_skill05_29</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1962,400},{325,151}}</string>
+			<key>offset</key>
+			<string>{-15,-6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,151}}</string>
+			<key>sourceSize</key>
+			<string>{325,151}</string>
+		</dict>
+		<key>Kisame_R_skill05_30</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2086,555},{325,149}}</string>
+			<key>offset</key>
+			<string>{-15,-7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,149}}</string>
+			<key>sourceSize</key>
+			<string>{325,149}</string>
+		</dict>
+		<key>Kisame_R_skill05_31</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2413,555},{325,149}}</string>
+			<key>offset</key>
+			<string>{-15,-7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,149}}</string>
+			<key>sourceSize</key>
+			<string>{325,149}</string>
+		</dict>
+		<key>Kisame_R_skill05_32</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2289,400},{325,151}}</string>
+			<key>offset</key>
+			<string>{-15,-6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,151}}</string>
+			<key>sourceSize</key>
+			<string>{325,151}</string>
+		</dict>
+		<key>Kisame_R_skill05_33</key>
+		<dict>
+			<key>frame</key>
+			<string>{{654,400},{325,153}}</string>
+			<key>offset</key>
+			<string>{-15,-5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,153}}</string>
+			<key>sourceSize</key>
+			<string>{325,153}</string>
+		</dict>
+		<key>Kisame_R_skill05_34</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2616,400},{325,151}}</string>
+			<key>offset</key>
+			<string>{-15,-6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,151}}</string>
+			<key>sourceSize</key>
+			<string>{325,151}</string>
+		</dict>
+		<key>Kisame_R_skill05_35</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2740,555},{325,149}}</string>
+			<key>offset</key>
+			<string>{-15,-7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{325,149}}</string>
+			<key>sourceSize</key>
+			<string>{325,149}</string>
+		</dict>
+		<key>Kisame_R_skill05_36</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3738,839},{101,85}}</string>
+			<key>offset</key>
+			<string>{-7,-27}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{111,54},{101,85}}</string>
+			<key>sourceSize</key>
+			<string>{337,139}</string>
+		</dict>
+		<key>Kisame_R_skill05_37</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,934},{101,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1980,10 +2370,10 @@
 			<key>sourceSize</key>
 			<string>{101,84}</string>
 		</dict>
-		<key>Kisame_R_skill05_23</key>
+		<key>Kisame_R_skill05_38</key>
 		<dict>
 			<key>frame</key>
-			<string>{{284,1464},{82,66}}</string>
+			<string>{{803,1020},{82,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1993,10 +2383,10 @@
 			<key>sourceSize</key>
 			<string>{82,66}</string>
 		</dict>
-		<key>Kisame_R_skill05_24</key>
+		<key>Kisame_R_skill05_39</key>
 		<dict>
 			<key>frame</key>
-			<string>{{368,1464},{82,66}}</string>
+			<string>{{887,1020},{82,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2009,7 +2399,7 @@
 		<key>Kisame_R_skill10_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{858,1210},{81,86}}</string>
+			<string>{{3403,839},{81,86}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2022,7 +2412,7 @@
 		<key>Kisame_R_skill10_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1827,1210},{117,83}}</string>
+			<string>{{444,934},{117,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2035,7 +2425,7 @@
 		<key>Kisame_R_skill10_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{196,225},{194,155}}</string>
+			<string>{{3405,225},{194,155}}</string>
 			<key>offset</key>
 			<string>{0,-2}</string>
 			<key>rotated</key>
@@ -2048,7 +2438,7 @@
 		<key>Kisame_R_skill10_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,837},{160,149}}</string>
+			<string>{{3067,555},{160,149}}</string>
 			<key>offset</key>
 			<string>{12,-5}</string>
 			<key>rotated</key>
@@ -2061,7 +2451,7 @@
 		<key>Kisame_R_skill10_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{630,1385},{164,71}}</string>
+			<string>{{3230,934},{164,71}}</string>
 			<key>offset</key>
 			<string>{15,-44}</string>
 			<key>rotated</key>
@@ -2074,7 +2464,7 @@
 		<key>Kisame_R_skill10_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1326,1300},{115,79}}</string>
+			<string>{{1889,934},{115,79}}</string>
 			<key>offset</key>
 			<string>{30,-22}</string>
 			<key>rotated</key>
@@ -2087,7 +2477,7 @@
 		<key>Kisame_R_skill10_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{369,1300},{151,81}}</string>
+			<string>{{932,934},{151,81}}</string>
 			<key>offset</key>
 			<string>{29,-20}</string>
 			<key>rotated</key>
@@ -2100,7 +2490,7 @@
 		<key>Kisame_R_skill10_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{522,1300},{95,81}}</string>
+			<string>{{1085,934},{95,81}}</string>
 			<key>offset</key>
 			<string>{-6,-20}</string>
 			<key>rotated</key>
@@ -2113,7 +2503,7 @@
 		<key>Kisame_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{452,1464},{81,66}}</string>
+			<string>{{971,1020},{81,66}}</string>
 			<key>offset</key>
 			<string>{-1,-6}</string>
 			<key>rotated</key>
@@ -2126,7 +2516,7 @@
 		<key>Kisame_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1532},{85,60}}</string>
+			<string>{{2556,1020},{85,60}}</string>
 			<key>offset</key>
 			<string>{2,-6}</string>
 			<key>rotated</key>
@@ -2139,7 +2529,7 @@
 		<key>Kisame_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1190,1464},{81,64}}</string>
+			<string>{{1709,1020},{81,64}}</string>
 			<key>offset</key>
 			<string>{0,-8}</string>
 			<key>rotated</key>
@@ -2152,7 +2542,7 @@
 		<key>Kisame_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1678,1385},{81,68}}</string>
+			<string>{{239,1020},{81,68}}</string>
 			<key>offset</key>
 			<string>{5,-6}</string>
 			<key>rotated</key>
@@ -2165,7 +2555,7 @@
 		<key>Kisame_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{87,1532},{83,60}}</string>
+			<string>{{2643,1020},{83,60}}</string>
 			<key>offset</key>
 			<string>{4,-4}</string>
 			<key>rotated</key>
@@ -2178,7 +2568,7 @@
 		<key>Kisame_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{535,1464},{83,66}}</string>
+			<string>{{1054,1020},{83,66}}</string>
 			<key>offset</key>
 			<string>{0,-7}</string>
 			<key>rotated</key>
@@ -2191,7 +2581,7 @@
 		<key>Kisame_Skill01_001</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1162,988},{44,99}}</string>
+			<string>{{3065,706},{44,99}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -2204,7 +2594,7 @@
 		<key>Kisame_Skill02_004</key>
 		<dict>
 			<key>frame</key>
-			<string>{{76,1385},{62,77}}</string>
+			<string>{{2676,934},{62,77}}</string>
 			<key>offset</key>
 			<string>{6,-10}</string>
 			<key>rotated</key>
@@ -2217,7 +2607,7 @@
 		<key>Kisame_Skill02_005</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1420,1532},{80,53}}</string>
+			<string>{{0,1090},{80,53}}</string>
 			<key>offset</key>
 			<string>{5,-23}</string>
 			<key>rotated</key>
@@ -2230,7 +2620,7 @@
 		<key>Kisame_Skill03_001</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1858,988},{38,94}}</string>
+			<string>{{3897,706},{38,94}}</string>
 			<key>offset</key>
 			<string>{-1,-4}</string>
 			<key>rotated</key>
@@ -2243,7 +2633,7 @@
 		<key>Kisame_Skill03_002</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1697,1115},{74,88}}</string>
+			<string>{{1822,839},{74,88}}</string>
 			<key>offset</key>
 			<string>{11,-7}</string>
 			<key>rotated</key>
@@ -2256,7 +2646,7 @@
 		<key>Kisame_Skill03_003</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1773,1115},{106,88}}</string>
+			<string>{{1898,839},{106,88}}</string>
 			<key>offset</key>
 			<string>{36,-7}</string>
 			<key>rotated</key>
@@ -2269,7 +2659,7 @@
 		<key>Kisame_Skill03_004</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1881,1115},{106,88}}</string>
+			<string>{{2006,839},{106,88}}</string>
 			<key>offset</key>
 			<string>{36,-7}</string>
 			<key>rotated</key>
@@ -2282,7 +2672,7 @@
 		<key>Kisame_Skill03_005</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1210},{104,88}}</string>
+			<string>{{2114,839},{104,88}}</string>
 			<key>offset</key>
 			<string>{36,-7}</string>
 			<key>rotated</key>
@@ -2295,7 +2685,7 @@
 		<key>Kisame_Skill04_001</key>
 		<dict>
 			<key>frame</key>
-			<string>{{106,1210},{62,88}}</string>
+			<string>{{2220,839},{62,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2308,7 +2698,7 @@
 		<key>Kisame_Skill04_002</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1834,1300},{68,78}}</string>
+			<string>{{2397,934},{68,78}}</string>
 			<key>offset</key>
 			<string>{0,5}</string>
 			<key>rotated</key>
@@ -2321,7 +2711,7 @@
 		<key>Kisame_Skill04_003</key>
 		<dict>
 			<key>frame</key>
-			<string>{{941,1210},{64,86}}</string>
+			<string>{{3486,839},{64,86}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2334,7 +2724,7 @@
 		<key>Kisame_Skill04_004</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1904,1300},{68,78}}</string>
+			<string>{{2467,934},{68,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2347,7 +2737,7 @@
 		<key>Kisame_Skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{434,988},{42,106}}</string>
+			<string>{{2199,706},{42,106}}</string>
 			<key>offset</key>
 			<string>{1,-7}</string>
 			<key>rotated</key>
@@ -2360,7 +2750,7 @@
 		<key>Kisame_Skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1260,988},{50,98}}</string>
+			<string>{{3163,706},{50,98}}</string>
 			<key>offset</key>
 			<string>{-9,-11}</string>
 			<key>rotated</key>
@@ -2373,7 +2763,7 @@
 		<key>Kisame_Skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{172,1532},{84,60}}</string>
+			<string>{{2728,1020},{84,60}}</string>
 			<key>offset</key>
 			<string>{-1,-24}</string>
 			<key>rotated</key>
@@ -2386,7 +2776,7 @@
 		<key>Kisame_Skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1605,1210},{101,84}}</string>
+			<string>{{103,934},{101,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2399,7 +2789,7 @@
 		<key>Kisame_Skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1296,1210},{101,85}}</string>
+			<string>{{3841,839},{101,85}}</string>
 			<key>offset</key>
 			<string>{-7,-27}</string>
 			<key>rotated</key>
@@ -2412,7 +2802,7 @@
 		<key>Kisame_Skill05_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1460,837},{303,125}}</string>
+			<string>{{1303,706},{303,125}}</string>
 			<key>offset</key>
 			<string>{-15,-7}</string>
 			<key>rotated</key>
@@ -2425,7 +2815,7 @@
 		<key>Kisame_Skill05_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{850,837},{303,127}}</string>
+			<string>{{366,706},{303,127}}</string>
 			<key>offset</key>
 			<string>{-15,-6}</string>
 			<key>rotated</key>
@@ -2438,7 +2828,7 @@
 		<key>Kisame_Skill05_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{545,837},{303,129}}</string>
+			<string>{{61,706},{303,129}}</string>
 			<key>offset</key>
 			<string>{-15,-5}</string>
 			<key>rotated</key>
@@ -2451,7 +2841,7 @@
 		<key>Kisame_Skill05_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1155,837},{303,127}}</string>
+			<string>{{671,706},{303,127}}</string>
 			<key>offset</key>
 			<string>{-15,-6}</string>
 			<key>rotated</key>
@@ -2464,7 +2854,7 @@
 		<key>Kisame_Skill05_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,988},{303,125}}</string>
+			<string>{{1608,706},{303,125}}</string>
 			<key>offset</key>
 			<string>{-15,-7}</string>
 			<key>rotated</key>
@@ -2477,7 +2867,7 @@
 		<key>Kisame_Skill05_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{620,1464},{82,66}}</string>
+			<string>{{1139,1020},{82,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2490,7 +2880,7 @@
 		<key>Kisame_Skill05_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{704,1464},{82,66}}</string>
+			<string>{{1223,1020},{82,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2503,7 +2893,7 @@
 		<key>Kisame_Skill10_001</key>
 		<dict>
 			<key>frame</key>
-			<string>{{170,1210},{98,88}}</string>
+			<string>{{2284,839},{98,88}}</string>
 			<key>offset</key>
 			<string>{33,-3}</string>
 			<key>rotated</key>
@@ -2516,7 +2906,7 @@
 		<key>Kisame_Skill10_002</key>
 		<dict>
 			<key>frame</key>
-			<string>{{270,1210},{98,88}}</string>
+			<string>{{2384,839},{98,88}}</string>
 			<key>offset</key>
 			<string>{33,-3}</string>
 			<key>rotated</key>
@@ -2529,7 +2919,7 @@
 		<key>Kisame_Skill10_003</key>
 		<dict>
 			<key>frame</key>
-			<string>{{370,1210},{100,88}}</string>
+			<string>{{2484,839},{100,88}}</string>
 			<key>offset</key>
 			<string>{32,-3}</string>
 			<key>rotated</key>
@@ -2542,7 +2932,7 @@
 		<key>Kisame_Skill10_004</key>
 		<dict>
 			<key>frame</key>
-			<string>{{472,1210},{98,88}}</string>
+			<string>{{2586,839},{98,88}}</string>
 			<key>offset</key>
 			<string>{33,-3}</string>
 			<key>rotated</key>
@@ -2555,7 +2945,7 @@
 		<key>Kisame_Skill11_001</key>
 		<dict>
 			<key>frame</key>
-			<string>{{788,1464},{116,66}}</string>
+			<string>{{1307,1020},{116,66}}</string>
 			<key>offset</key>
 			<string>{-35,-6}</string>
 			<key>rotated</key>
@@ -2568,7 +2958,7 @@
 		<key>Kisame_Skill11_002</key>
 		<dict>
 			<key>frame</key>
-			<string>{{258,1532},{116,60}}</string>
+			<string>{{2814,1020},{116,60}}</string>
 			<key>offset</key>
 			<string>{-30,-6}</string>
 			<key>rotated</key>
@@ -2581,7 +2971,7 @@
 		<key>Kisame_Skill11_003</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1273,1464},{112,64}}</string>
+			<string>{{1792,1020},{112,64}}</string>
 			<key>offset</key>
 			<string>{-32,-8}</string>
 			<key>rotated</key>
@@ -2594,7 +2984,7 @@
 		<key>Kisame_Skill11_004</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1761,1385},{112,68}}</string>
+			<string>{{322,1020},{112,68}}</string>
 			<key>offset</key>
 			<string>{-27,-6}</string>
 			<key>rotated</key>
@@ -2607,7 +2997,7 @@
 		<key>Kisame_Skill11_005</key>
 		<dict>
 			<key>frame</key>
-			<string>{{376,1532},{114,60}}</string>
+			<string>{{2932,1020},{114,60}}</string>
 			<key>offset</key>
 			<string>{-28,-4}</string>
 			<key>rotated</key>
@@ -2620,7 +3010,7 @@
 		<key>Kisame_Skill11_006</key>
 		<dict>
 			<key>frame</key>
-			<string>{{906,1464},{114,66}}</string>
+			<string>{{1425,1020},{114,66}}</string>
 			<key>offset</key>
 			<string>{-32,-7}</string>
 			<key>rotated</key>
@@ -2633,7 +3023,7 @@
 		<key>Kisame_Skill12_001</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1007,1210},{81,86}}</string>
+			<string>{{3552,839},{81,86}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2646,7 +3036,7 @@
 		<key>Kisame_Skill12_002</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1300},{117,83}}</string>
+			<string>{{563,934},{117,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2659,7 +3049,7 @@
 		<key>Kisame_Skill12_003</key>
 		<dict>
 			<key>frame</key>
-			<string>{{392,225},{194,155}}</string>
+			<string>{{3601,225},{194,155}}</string>
 			<key>offset</key>
 			<string>{0,-2}</string>
 			<key>rotated</key>
@@ -2672,7 +3062,7 @@
 		<key>Kisame_Skill12_004</key>
 		<dict>
 			<key>frame</key>
-			<string>{{162,837},{160,149}}</string>
+			<string>{{3229,555},{160,149}}</string>
 			<key>offset</key>
 			<string>{12,-5}</string>
 			<key>rotated</key>
@@ -2685,7 +3075,7 @@
 		<key>Kisame_Skill12_005</key>
 		<dict>
 			<key>frame</key>
-			<string>{{796,1385},{164,71}}</string>
+			<string>{{3396,934},{164,71}}</string>
 			<key>offset</key>
 			<string>{15,-44}</string>
 			<key>rotated</key>
@@ -2698,7 +3088,7 @@
 		<key>Kisame_Skill12_006</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1443,1300},{115,79}}</string>
+			<string>{{2006,934},{115,79}}</string>
 			<key>offset</key>
 			<string>{30,-22}</string>
 			<key>rotated</key>
@@ -2711,7 +3101,7 @@
 		<key>Kisame_Skill12_007</key>
 		<dict>
 			<key>frame</key>
-			<string>{{619,1300},{151,81}}</string>
+			<string>{{1182,934},{151,81}}</string>
 			<key>offset</key>
 			<string>{29,-20}</string>
 			<key>rotated</key>
@@ -2724,7 +3114,7 @@
 		<key>Kisame_Skill12_008</key>
 		<dict>
 			<key>frame</key>
-			<string>{{772,1300},{95,81}}</string>
+			<string>{{1335,934},{95,81}}</string>
 			<key>offset</key>
 			<string>{-6,-20}</string>
 			<key>rotated</key>
@@ -2737,7 +3127,7 @@
 		<key>Kisame_Skill12_009</key>
 		<dict>
 			<key>frame</key>
-			<string>{{694,988},{67,101}}</string>
+			<string>{{2533,706},{67,101}}</string>
 			<key>offset</key>
 			<string>{-3,-11}</string>
 			<key>rotated</key>
@@ -2750,7 +3140,7 @@
 		<key>Kisame_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1022,1464},{81,66}}</string>
+			<string>{{1541,1020},{81,66}}</string>
 			<key>offset</key>
 			<string>{-1,-6}</string>
 			<key>rotated</key>
@@ -2763,7 +3153,7 @@
 		<key>Kisame_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{492,1532},{85,60}}</string>
+			<string>{{3048,1020},{85,60}}</string>
 			<key>offset</key>
 			<string>{2,-6}</string>
 			<key>rotated</key>
@@ -2776,7 +3166,7 @@
 		<key>Kisame_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1387,1464},{81,64}}</string>
+			<string>{{1906,1020},{81,64}}</string>
 			<key>offset</key>
 			<string>{0,-8}</string>
 			<key>rotated</key>
@@ -2789,7 +3179,7 @@
 		<key>Kisame_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1875,1385},{81,68}}</string>
+			<string>{{436,1020},{81,68}}</string>
 			<key>offset</key>
 			<string>{5,-6}</string>
 			<key>rotated</key>
@@ -2802,7 +3192,7 @@
 		<key>Kisame_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{579,1532},{83,60}}</string>
+			<string>{{3135,1020},{83,60}}</string>
 			<key>offset</key>
 			<string>{4,-4}</string>
 			<key>rotated</key>
@@ -2815,7 +3205,7 @@
 		<key>Kisame_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1105,1464},{83,66}}</string>
+			<string>{{1624,1020},{83,66}}</string>
 			<key>offset</key>
 			<string>{0,-7}</string>
 			<key>rotated</key>
@@ -2833,7 +3223,7 @@
 		<key>realTextureFileName</key>
 		<string>Kisame.pvr.ccz</string>
 		<key>size</key>
-		<string>{2048,2048}</string>
+		<string>{4096,2048}</string>
 		<key>textureFileName</key>
 		<string>Kisame.pvr.ccz</string>
 	</dict>

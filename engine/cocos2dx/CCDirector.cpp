@@ -85,6 +85,7 @@ unsigned int g_uNumberOfDraws = 0;
 extern bool ns_mp_step_gate() __attribute__((weak));
 extern void ns_mp_after_step() __attribute__((weak));
 extern bool ns_mp_fixed_dt() __attribute__((weak));
+extern bool ns_mp_catch_up() __attribute__((weak));
 
 NS_CC_BEGIN
 // XXX it should be a Director ivar. Move it there once support for multiple directors is added
@@ -263,6 +264,19 @@ void CCDirector::drawScene(void)
         m_pScheduler->update(m_fDeltaTime);
         if (::ns_mp_after_step)
             ::ns_mp_after_step();
+        // a Wi-Fi player back from the background catches up with the others
+        struct timeval t0, t1;
+        ::gettimeofday(&t0, nullptr);
+        for (int i = 0; i < 240 && !m_pNextScene && ::ns_mp_catch_up && ::ns_mp_catch_up(); i++)
+        {
+            ::gettimeofday(&t1, nullptr);
+            if ((t1.tv_sec - t0.tv_sec) * 1000000 + (t1.tv_usec - t0.tv_usec) > 25000)
+                break; // the rest in the next screen frames
+            if (!::ns_mp_step_gate())
+                break;
+            m_pScheduler->update(m_fDeltaTime);
+            ::ns_mp_after_step();
+        }
     }
 
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);

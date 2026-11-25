@@ -7,7 +7,7 @@
 		<key>Deidara_AirHurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{457,1083},{41,64}}</string>
+			<string>{{1235,1133},{41,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>Deidara_AirHurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,929},{35,81}}</string>
+			<string>{{804,976},{35,81}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Deidara_Float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1261,1083},{64,41}}</string>
+			<string>{{0,1202},{64,41}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>Deidara_Float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{500,1083},{56,64}}</string>
+			<string>{{1278,1133},{56,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Deidara_Float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1019,1083},{64,56}}</string>
+			<string>{{1797,1133},{64,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Deidara_FlyMove_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{390,817},{128,105}}</string>
+			<string>{{1185,861},{128,105}}</string>
 			<key>offset</key>
 			<string>{0,11}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>Deidara_FlyMove_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{520,817},{128,105}}</string>
+			<string>{{1315,861},{128,105}}</string>
 			<key>offset</key>
 			<string>{0,-3}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>Deidara_FlyMove_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{130,817},{128,106}}</string>
+			<string>{{925,861},{128,106}}</string>
 			<key>offset</key>
 			<string>{0,5}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Deidara_FlyMove_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1634,346},{128,124}}</string>
+			<string>{{391,692},{128,124}}</string>
 			<key>offset</key>
 			<string>{0,5}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Deidara_FlyMove_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1918,692},{128,110}}</string>
+			<string>{{665,861},{128,110}}</string>
 			<key>offset</key>
 			<string>{0,12}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>Deidara_FlyMove_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1894,346},{128,123}}</string>
+			<string>{{651,692},{128,123}}</string>
 			<key>offset</key>
 			<string>{0,4}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Deidara_Fly_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{130,692},{108,121}}</string>
+			<string>{{911,692},{108,121}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Deidara_Fly_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{570,692},{108,119}}</string>
+			<string>{{1351,692},{108,119}}</string>
 			<key>offset</key>
 			<string>{6,-10}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>Deidara_Fly_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1589,692},{107,111}}</string>
+			<string>{{336,861},{107,111}}</string>
 			<key>offset</key>
 			<string>{0,-6}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>Deidara_Fly_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1414,346},{108,128}}</string>
+			<string>{{171,692},{108,128}}</string>
 			<key>offset</key>
 			<string>{0,-4}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>Deidara_Fly_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{350,692},{108,120}}</string>
+			<string>{{1131,692},{108,120}}</string>
 			<key>offset</key>
 			<string>{0,11}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Deidara_Fly_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1369,692},{108,112}}</string>
+			<string>{{116,861},{108,112}}</string>
 			<key>offset</key>
 			<string>{0,12}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Deidara_Hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{647,929},{52,75}}</string>
+			<string>{{1451,976},{52,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>Deidara_Hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{701,929},{40,75}}</string>
+			<string>{{1505,976},{40,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Deidara_Idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{485,929},{52,79}}</string>
+			<string>{{1289,976},{52,79}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>Deidara_Idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{539,929},{52,78}}</string>
+			<string>{{1343,976},{52,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Deidara_Idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{225,929},{52,80}}</string>
+			<string>{{1029,976},{52,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Deidara_Idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{593,929},{52,77}}</string>
+			<string>{{1397,976},{52,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>Deidara_KnockDown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1403,1083},{81,35}}</string>
+			<string>{{142,1202},{81,35}}</string>
 			<key>offset</key>
 			<string>{0,-12}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Deidara_KnockDown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1652,1083},{80,23}}</string>
+			<string>{{391,1202},{80,23}}</string>
 			<key>offset</key>
 			<string>{0,-18}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>Deidara_KnockDown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1127,1083},{65,49}}</string>
+			<string>{{1905,1133},{65,49}}</string>
 			<key>offset</key>
 			<string>{0,-5}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>Deidara_KnockDown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{849,1083},{49,57}}</string>
+			<string>{{1627,1133},{49,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Deidara_KnockDown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{900,1083},{32,57}}</string>
+			<string>{{1678,1133},{32,57}}</string>
 			<key>offset</key>
 			<string>{0,1}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>Deidara_NAttack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1362,929},{56,69}}</string>
+			<string>{{161,1061},{56,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>Deidara_NAttack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1057,1012},{47,67}}</string>
+			<string>{{1828,1061},{47,67}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>Deidara_NAttack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1420,929},{79,69}}</string>
+			<string>{{219,1061},{79,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>Deidara_NAttack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1501,929},{75,69}}</string>
+			<string>{{300,1061},{75,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>Deidara_NAttack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1106,1012},{47,67}}</string>
+			<string>{{1877,1061},{47,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>Deidara_NAttack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1155,1012},{75,67}}</string>
+			<string>{{1926,1061},{75,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>Deidara_NAttack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1232,1012},{72,67}}</string>
+			<string>{{0,1133},{72,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>Deidara_NAttack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1578,929},{55,69}}</string>
+			<string>{{377,1061},{55,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>Deidara_NAttack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1635,929},{47,69}}</string>
+			<string>{{434,1061},{47,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>Deidara_NAttack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1684,929},{73,69}}</string>
+			<string>{{483,1061},{73,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>Deidara_NAttack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1759,929},{72,69}}</string>
+			<string>{{558,1061},{72,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>Deidara_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{37,929},{35,81}}</string>
+			<string>{{841,976},{35,81}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>Deidara_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1486,1083},{81,35}}</string>
+			<string>{{225,1202},{81,35}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>Deidara_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1734,1083},{80,23}}</string>
+			<string>{{473,1202},{80,23}}</string>
 			<key>offset</key>
 			<string>{0,-18}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>Deidara_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1327,1083},{74,40}}</string>
+			<string>{{66,1202},{74,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>Deidara_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{797,929},{40,74}}</string>
+			<string>{{1601,976},{40,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>Deidara_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{74,929},{35,81}}</string>
+			<string>{{878,976},{35,81}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>Deidara_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1051,929},{50,70}}</string>
+			<string>{{1855,976},{50,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>Deidara_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{743,929},{52,75}}</string>
+			<string>{{1547,976},{52,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>Deidara_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{603,1083},{43,63}}</string>
+			<string>{{1381,1133},{43,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>Deidara_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{648,1083},{43,63}}</string>
+			<string>{{1426,1133},{43,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>Deidara_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{558,1083},{43,64}}</string>
+			<string>{{1336,1133},{43,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>Deidara_R_idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{693,1083},{43,63}}</string>
+			<string>{{1471,1133},{43,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>Deidara_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1569,1083},{81,35}}</string>
+			<string>{{308,1202},{81,35}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>Deidara_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1816,1083},{80,23}}</string>
+			<string>{{555,1202},{80,23}}</string>
 			<key>offset</key>
 			<string>{0,-18}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>Deidara_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1194,1083},{65,49}}</string>
+			<string>{{1972,1133},{65,49}}</string>
 			<key>offset</key>
 			<string>{0,-5}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>Deidara_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{934,1083},{49,57}}</string>
+			<string>{{1712,1133},{49,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>Deidara_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{985,1083},{32,57}}</string>
+			<string>{{1763,1133},{32,57}}</string>
 			<key>offset</key>
 			<string>{0,1}</string>
 			<key>rotated</key>
@@ -735,7 +735,7 @@
 		<key>Deidara_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1833,929},{56,69}}</string>
+			<string>{{632,1061},{56,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>Deidara_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1306,1012},{47,67}}</string>
+			<string>{{74,1133},{47,67}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>Deidara_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1891,929},{79,69}}</string>
+			<string>{{690,1061},{79,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>Deidara_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1012},{75,69}}</string>
+			<string>{{771,1061},{75,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>Deidara_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1355,1012},{47,67}}</string>
+			<string>{{123,1133},{47,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>Deidara_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1404,1012},{75,67}}</string>
+			<string>{{172,1133},{75,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>Deidara_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1481,1012},{72,67}}</string>
+			<string>{{249,1133},{72,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>Deidara_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{77,1012},{55,69}}</string>
+			<string>{{848,1061},{55,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>Deidara_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{134,1012},{47,69}}</string>
+			<string>{{905,1061},{47,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>Deidara_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{183,1012},{73,69}}</string>
+			<string>{{954,1061},{73,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>Deidara_R_nattack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{258,1012},{72,69}}</string>
+			<string>{{1029,1061},{72,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -878,7 +878,7 @@
 		<key>Deidara_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1470,817},{38,82}}</string>
+			<string>{{256,976},{38,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -891,7 +891,7 @@
 		<key>Deidara_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1510,817},{38,82}}</string>
+			<string>{{296,976},{38,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -904,7 +904,7 @@
 		<key>Deidara_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1550,817},{38,82}}</string>
+			<string>{{336,976},{38,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -917,7 +917,7 @@
 		<key>Deidara_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1590,817},{38,82}}</string>
+			<string>{{376,976},{38,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -930,7 +930,7 @@
 		<key>Deidara_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1630,817},{38,82}}</string>
+			<string>{{416,976},{38,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -943,7 +943,7 @@
 		<key>Deidara_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{485,1012},{70,68}}</string>
+			<string>{{1256,1061},{70,68}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -956,7 +956,7 @@
 		<key>Deidara_R_skill01_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{557,1012},{70,68}}</string>
+			<string>{{1328,1061},{70,68}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -969,7 +969,7 @@
 		<key>Deidara_R_skill01_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{629,1012},{70,68}}</string>
+			<string>{{1400,1061},{70,68}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -982,7 +982,7 @@
 		<key>Deidara_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1670,817},{39,82}}</string>
+			<string>{{456,976},{39,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -995,7 +995,7 @@
 		<key>Deidara_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1711,817},{39,82}}</string>
+			<string>{{497,976},{39,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1008,7 +1008,7 @@
 		<key>Deidara_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1752,817},{39,82}}</string>
+			<string>{{538,976},{39,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1021,7 @@
 		<key>Deidara_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{279,929},{55,80}}</string>
+			<string>{{1083,976},{55,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1034,7 @@
 		<key>Deidara_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{336,929},{55,80}}</string>
+			<string>{{1140,976},{55,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1096,10 +1096,62 @@
 			<key>sourceSize</key>
 			<string>{169,167}</string>
 		</dict>
+		<key>Deidara_R_skill03_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1414,346},{169,167}}</string>
+			<key>offset</key>
+			<string>{57,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{169,167}}</string>
+			<key>sourceSize</key>
+			<string>{169,167}</string>
+		</dict>
+		<key>Deidara_R_skill03_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1585,346},{169,167}}</string>
+			<key>offset</key>
+			<string>{57,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{169,167}}</string>
+			<key>sourceSize</key>
+			<string>{169,167}</string>
+		</dict>
+		<key>Deidara_R_skill03_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1756,346},{169,167}}</string>
+			<key>offset</key>
+			<string>{57,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{169,167}}</string>
+			<key>sourceSize</key>
+			<string>{169,167}</string>
+		</dict>
+		<key>Deidara_R_skill03_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,692},{169,167}}</string>
+			<key>offset</key>
+			<string>{57,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{169,167}}</string>
+			<key>sourceSize</key>
+			<string>{169,167}</string>
+		</dict>
 		<key>Deidara_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1103,929},{47,70}}</string>
+			<string>{{1907,976},{47,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1112,7 +1164,7 @@
 		<key>Deidara_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1152,929},{47,70}}</string>
+			<string>{{1956,976},{47,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1125,7 +1177,7 @@
 		<key>Deidara_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1201,929},{47,70}}</string>
+			<string>{{0,1061},{47,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1138,7 +1190,7 @@
 		<key>Deidara_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1116,817},{47,83}}</string>
+			<string>{{1911,861},{47,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1151,7 +1203,7 @@
 		<key>Deidara_R_skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1165,817},{47,83}}</string>
+			<string>{{1960,861},{47,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1164,7 +1216,7 @@
 		<key>Deidara_R_skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1214,817},{47,83}}</string>
+			<string>{{0,976},{47,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1177,7 +1229,7 @@
 		<key>Deidara_R_skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1263,817},{47,83}}</string>
+			<string>{{49,976},{47,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1190,7 +1242,7 @@
 		<key>Deidara_R_skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1312,817},{47,83}}</string>
+			<string>{{98,976},{47,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1203,7 +1255,7 @@
 		<key>Deidara_R_skill05_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1361,817},{47,83}}</string>
+			<string>{{147,976},{47,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1255,7 +1307,7 @@
 		<key>Deidara_R_skill10_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1793,817},{38,82}}</string>
+			<string>{{579,976},{38,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1268,7 +1320,7 @@
 		<key>Deidara_R_skill11_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{240,692},{108,121}}</string>
+			<string>{{1021,692},{108,121}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -1281,7 +1333,7 @@
 		<key>Deidara_R_skill11_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{680,692},{108,119}}</string>
+			<string>{{1461,692},{108,119}}</string>
 			<key>offset</key>
 			<string>{6,-10}</string>
 			<key>rotated</key>
@@ -1294,7 +1346,7 @@
 		<key>Deidara_R_skill11_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1698,692},{107,111}}</string>
+			<string>{{445,861},{107,111}}</string>
 			<key>offset</key>
 			<string>{0,-6}</string>
 			<key>rotated</key>
@@ -1307,7 +1359,7 @@
 		<key>Deidara_R_skill11_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1524,346},{108,128}}</string>
+			<string>{{281,692},{108,128}}</string>
 			<key>offset</key>
 			<string>{0,-4}</string>
 			<key>rotated</key>
@@ -1320,7 +1372,7 @@
 		<key>Deidara_R_skill11_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{460,692},{108,120}}</string>
+			<string>{{1241,692},{108,120}}</string>
 			<key>offset</key>
 			<string>{0,11}</string>
 			<key>rotated</key>
@@ -1333,7 +1385,7 @@
 		<key>Deidara_R_skill11_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1479,692},{108,112}}</string>
+			<string>{{226,861},{108,112}}</string>
 			<key>offset</key>
 			<string>{0,12}</string>
 			<key>rotated</key>
@@ -1346,7 +1398,7 @@
 		<key>Deidara_R_skill12_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{650,817},{128,105}}</string>
+			<string>{{1445,861},{128,105}}</string>
 			<key>offset</key>
 			<string>{0,11}</string>
 			<key>rotated</key>
@@ -1359,7 +1411,7 @@
 		<key>Deidara_R_skill12_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{780,817},{128,105}}</string>
+			<string>{{1575,861},{128,105}}</string>
 			<key>offset</key>
 			<string>{0,-3}</string>
 			<key>rotated</key>
@@ -1372,7 +1424,7 @@
 		<key>Deidara_R_skill12_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{260,817},{128,106}}</string>
+			<string>{{1055,861},{128,106}}</string>
 			<key>offset</key>
 			<string>{0,5}</string>
 			<key>rotated</key>
@@ -1385,7 +1437,7 @@
 		<key>Deidara_R_skill12_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1764,346},{128,124}}</string>
+			<string>{{521,692},{128,124}}</string>
 			<key>offset</key>
 			<string>{0,5}</string>
 			<key>rotated</key>
@@ -1398,7 +1450,7 @@
 		<key>Deidara_R_skill12_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,817},{128,110}}</string>
+			<string>{{795,861},{128,110}}</string>
 			<key>offset</key>
 			<string>{0,12}</string>
 			<key>rotated</key>
@@ -1411,7 +1463,7 @@
 		<key>Deidara_R_skill12_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,692},{128,123}}</string>
+			<string>{{781,692},{128,123}}</string>
 			<key>offset</key>
 			<string>{0,4}</string>
 			<key>rotated</key>
@@ -1424,7 +1476,7 @@
 		<key>Deidara_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1878,1012},{62,66}}</string>
+			<string>{{646,1133},{62,66}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -1437,7 +1489,7 @@
 		<key>Deidara_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1942,1012},{66,66}}</string>
+			<string>{{710,1133},{66,66}}</string>
 			<key>offset</key>
 			<string>{0,1}</string>
 			<key>rotated</key>
@@ -1450,7 +1502,7 @@
 		<key>Deidara_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{701,1012},{49,68}}</string>
+			<string>{{1472,1061},{49,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1463,7 +1515,7 @@
 		<key>Deidara_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1083},{62,66}}</string>
+			<string>{{778,1133},{62,66}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -1476,7 +1528,7 @@
 		<key>Deidara_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{64,1083},{66,66}}</string>
+			<string>{{842,1133},{66,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1489,7 +1541,7 @@
 		<key>Deidara_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{752,1012},{49,68}}</string>
+			<string>{{1523,1061},{49,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1502,7 +1554,7 @@
 		<key>Deidara_Skill01_001</key>
 		<dict>
 			<key>frame</key>
-			<string>{{332,1012},{42,69}}</string>
+			<string>{{1103,1061},{42,69}}</string>
 			<key>offset</key>
 			<string>{-1,-8}</string>
 			<key>rotated</key>
@@ -1515,7 +1567,7 @@
 		<key>Deidara_Skill01_002</key>
 		<dict>
 			<key>frame</key>
-			<string>{{946,929},{46,71}}</string>
+			<string>{{1750,976},{46,71}}</string>
 			<key>offset</key>
 			<string>{1,-7}</string>
 			<key>rotated</key>
@@ -1528,7 +1580,7 @@
 		<key>Deidara_Skill01_003</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1410,817},{58,83}}</string>
+			<string>{{196,976},{58,83}}</string>
 			<key>offset</key>
 			<string>{4,-1}</string>
 			<key>rotated</key>
@@ -1541,7 +1593,7 @@
 		<key>Deidara_Skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1833,817},{38,82}}</string>
+			<string>{{619,976},{38,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1554,7 +1606,7 @@
 		<key>Deidara_Skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1873,817},{34,82}}</string>
+			<string>{{659,976},{34,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1567,7 +1619,7 @@
 		<key>Deidara_Skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1909,817},{38,82}}</string>
+			<string>{{695,976},{38,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1580,7 +1632,7 @@
 		<key>Deidara_Skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1949,817},{35,82}}</string>
+			<string>{{735,976},{35,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1593,7 +1645,7 @@
 		<key>Deidara_Skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{111,929},{52,81}}</string>
+			<string>{{915,976},{52,81}}</string>
 			<key>offset</key>
 			<string>{11,0}</string>
 			<key>rotated</key>
@@ -1606,7 +1658,7 @@
 		<key>Deidara_Skill02_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{165,929},{58,81}}</string>
+			<string>{{969,976},{58,81}}</string>
 			<key>offset</key>
 			<string>{13,0}</string>
 			<key>rotated</key>
@@ -1619,7 +1671,7 @@
 		<key>Deidara_Skill03_00</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1555,1012},{44,67}}</string>
+			<string>{{323,1133},{44,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1632,7 +1684,7 @@
 		<key>Deidara_Skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{803,1012},{42,68}}</string>
+			<string>{{1574,1061},{42,68}}</string>
 			<key>offset</key>
 			<string>{0,-7}</string>
 			<key>rotated</key>
@@ -1645,7 +1697,7 @@
 		<key>Deidara_Skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1986,817},{30,82}}</string>
+			<string>{{772,976},{30,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1658,7 +1710,7 @@
 		<key>Deidara_Skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{393,929},{41,80}}</string>
+			<string>{{1197,976},{41,80}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -1671,7 +1723,7 @@
 		<key>Deidara_Skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{436,929},{47,80}}</string>
+			<string>{{1240,976},{47,80}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -1684,7 +1736,7 @@
 		<key>Deidara_Skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{910,817},{93,90}}</string>
+			<string>{{1705,861},{93,90}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1697,7 +1749,7 @@
 		<key>Deidara_Skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{790,692},{101,119}}</string>
+			<string>{{1571,692},{101,119}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1710,7 +1762,7 @@
 		<key>Deidara_Skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1126,692},{125,114}}</string>
+			<string>{{1907,692},{125,114}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -1723,7 +1775,7 @@
 		<key>Deidara_Skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1005,692},{119,115}}</string>
+			<string>{{1786,692},{119,115}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1736,7 +1788,7 @@
 		<key>Deidara_Skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1253,692},{114,113}}</string>
+			<string>{{0,861},{114,113}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1749,7 +1801,7 @@
 		<key>Deidara_Skill03_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{893,692},{110,117}}</string>
+			<string>{{1674,692},{110,117}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1762,7 +1814,7 @@
 		<key>Deidara_Skill03_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1807,692},{109,111}}</string>
+			<string>{{554,861},{109,111}}</string>
 			<key>offset</key>
 			<string>{-2,2}</string>
 			<key>rotated</key>
@@ -1775,7 +1827,7 @@
 		<key>Deidara_Skill03_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1005,817},{109,89}}</string>
+			<string>{{1800,861},{109,89}}</string>
 			<key>offset</key>
 			<string>{0,12}</string>
 			<key>rotated</key>
@@ -1788,7 +1840,7 @@
 		<key>Deidara_Skill03_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{738,1083},{109,61}}</string>
+			<string>{{1516,1133},{109,61}}</string>
 			<key>offset</key>
 			<string>{0,25}</string>
 			<key>rotated</key>
@@ -1801,7 +1853,7 @@
 		<key>Deidara_Skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1085,1083},{40,55}}</string>
+			<string>{{1863,1133},{40,55}}</string>
 			<key>offset</key>
 			<string>{0,-15}</string>
 			<key>rotated</key>
@@ -1814,7 +1866,7 @@
 		<key>Deidara_Skill05_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{893,929},{51,72}}</string>
+			<string>{{1697,976},{51,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1827,7 +1879,7 @@
 		<key>Deidara_Skill05_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1250,929},{60,70}}</string>
+			<string>{{49,1061},{60,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1840,7 +1892,7 @@
 		<key>Deidara_Skill05_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{376,1012},{48,69}}</string>
+			<string>{{1147,1061},{48,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1853,7 +1905,7 @@
 		<key>Deidara_Skill05_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{847,1012},{49,68}}</string>
+			<string>{{1618,1061},{49,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1866,7 +1918,7 @@
 		<key>Deidara_Skill05_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1312,929},{48,70}}</string>
+			<string>{{111,1061},{48,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1879,7 +1931,7 @@
 		<key>Deidara_Skill05_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{898,1012},{55,68}}</string>
+			<string>{{1669,1061},{55,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1892,7 +1944,7 @@
 		<key>Deidara_Skill05_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{839,929},{52,73}}</string>
+			<string>{{1643,976},{52,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1905,7 +1957,7 @@
 		<key>Deidara_Skill05_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1601,1012},{55,67}}</string>
+			<string>{{369,1133},{55,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1918,7 +1970,7 @@
 		<key>Deidara_Skill05_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1658,1012},{55,67}}</string>
+			<string>{{426,1133},{55,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1931,7 +1983,7 @@
 		<key>Deidara_Skill05_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1715,1012},{55,67}}</string>
+			<string>{{483,1133},{55,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1944,7 +1996,7 @@
 		<key>Deidara_Skill05_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1772,1012},{55,67}}</string>
+			<string>{{540,1133},{55,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1957,7 +2009,7 @@
 		<key>Deidara_Skill05_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{994,929},{55,71}}</string>
+			<string>{{1798,976},{55,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1970,7 +2022,7 @@
 		<key>Deidara_Skill10_001</key>
 		<dict>
 			<key>frame</key>
-			<string>{{426,1012},{57,69}}</string>
+			<string>{{1197,1061},{57,69}}</string>
 			<key>offset</key>
 			<string>{16,-4}</string>
 			<key>rotated</key>
@@ -1983,7 +2035,7 @@
 		<key>Deidara_Skill10_002</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1829,1012},{47,67}}</string>
+			<string>{{597,1133},{47,67}}</string>
 			<key>offset</key>
 			<string>{22,-5}</string>
 			<key>rotated</key>
@@ -1996,7 +2048,7 @@
 		<key>Deidara_Skill10_003</key>
 		<dict>
 			<key>frame</key>
-			<string>{{396,1083},{59,65}}</string>
+			<string>{{1174,1133},{59,65}}</string>
 			<key>offset</key>
 			<string>{28,-5}</string>
 			<key>rotated</key>
@@ -2009,7 +2061,7 @@
 		<key>Deidara_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{132,1083},{62,66}}</string>
+			<string>{{910,1133},{62,66}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -2022,7 +2074,7 @@
 		<key>Deidara_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{196,1083},{66,66}}</string>
+			<string>{{974,1133},{66,66}}</string>
 			<key>offset</key>
 			<string>{0,1}</string>
 			<key>rotated</key>
@@ -2035,7 +2087,7 @@
 		<key>Deidara_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{955,1012},{49,68}}</string>
+			<string>{{1726,1061},{49,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2048,7 +2100,7 @@
 		<key>Deidara_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{264,1083},{62,66}}</string>
+			<string>{{1042,1133},{62,66}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -2061,7 +2113,7 @@
 		<key>Deidara_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{328,1083},{66,66}}</string>
+			<string>{{1106,1133},{66,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2074,7 +2126,7 @@
 		<key>Deidara_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1006,1012},{49,68}}</string>
+			<string>{{1777,1061},{49,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>

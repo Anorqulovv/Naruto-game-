@@ -38,6 +38,7 @@ class Kakuzu : public Hero
 		}
 		else if (_exp >= 1500 && _level == 3 + 1)
 		{
+			// skill 5 is Kakuzu's revive: it starts by itself when he dies with hearts left
 			getGameLayer()->getHudLayer()->skill5Button->setLock();
 		}
 	}

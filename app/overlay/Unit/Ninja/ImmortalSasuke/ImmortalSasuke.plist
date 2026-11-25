@@ -7,7 +7,7 @@
 		<key>ImmortalSasuke_AirHurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1328,3601},{50,60}}</string>
+			<string>{{3650,5376},{50,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>ImmortalSasuke_AirHurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{982,3510},{28,76}}</string>
+			<string>{{3314,5272},{28,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>ImmortalSasuke_Float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2607,3601},{60,50}}</string>
+			<string>{{833,5453},{60,50}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>ImmortalSasuke_Float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1286,3510},{40,75}}</string>
+			<string>{{3618,5272},{40,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>ImmortalSasuke_Float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2953,3601},{67,47}}</string>
+			<string>{{1179,5453},{67,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>ImmortalSasuke_Hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3216,3510},{49,72}}</string>
+			<string>{{1471,5376},{49,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>ImmortalSasuke_Hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3267,3510},{45,72}}</string>
+			<string>{{1522,5376},{45,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>ImmortalSasuke_Idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1328,3510},{42,75}}</string>
+			<string>{{3660,5272},{42,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>ImmortalSasuke_Idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1372,3510},{42,75}}</string>
+			<string>{{3704,5272},{42,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>ImmortalSasuke_Idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1416,3510},{42,75}}</string>
+			<string>{{3748,5272},{42,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>ImmortalSasuke_Idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1460,3510},{42,75}}</string>
+			<string>{{3792,5272},{42,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>ImmortalSasuke_KnockDown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2731,3601},{72,49}}</string>
+			<string>{{957,5453},{72,49}}</string>
 			<key>offset</key>
 			<string>{0,-2}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>ImmortalSasuke_KnockDown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3170,3601},{75,41}}</string>
+			<string>{{1396,5453},{75,41}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>ImmortalSasuke_KnockDown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3634,3601},{77,22}}</string>
+			<string>{{1860,5453},{77,22}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>ImmortalSasuke_KnockDown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3022,3601},{38,47}}</string>
+			<string>{{1248,5453},{38,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>ImmortalSasuke_KnockDown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3401,3601},{79,39}}</string>
+			<string>{{1627,5453},{79,39}}</string>
 			<key>offset</key>
 			<string>{0,5}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>ImmortalSasuke_KnockDown_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{762,3601},{74,64}}</string>
+			<string>{{3084,5376},{74,64}}</string>
 			<key>offset</key>
 			<string>{0,1}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>ImmortalSasuke_KnockDown_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3830,3510},{62,70}}</string>
+			<string>{{2085,5376},{62,70}}</string>
 			<key>offset</key>
 			<string>{0,1}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>ImmortalSasuke_KnockDown_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{217,3601},{51,66}}</string>
+			<string>{{2539,5376},{51,66}}</string>
 			<key>offset</key>
 			<string>{0,1}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>ImmortalSasuke_NAttack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3894,3510},{47,70}}</string>
+			<string>{{2149,5376},{47,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>ImmortalSasuke_NAttack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{914,3601},{81,62}}</string>
+			<string>{{3236,5376},{81,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>ImmortalSasuke_NAttack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{997,3601},{80,62}}</string>
+			<string>{{3319,5376},{80,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>ImmortalSasuke_NAttack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2851,3510},{52,74}}</string>
+			<string>{{1106,5376},{52,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>ImmortalSasuke_NAttack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3314,3510},{42,72}}</string>
+			<string>{{1569,5376},{42,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>ImmortalSasuke_NAttack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1774,3601},{71,54}}</string>
+			<string>{{0,5453},{71,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>ImmortalSasuke_NAttack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1226,3601},{100,61}}</string>
+			<string>{{3548,5376},{100,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>ImmortalSasuke_NAttack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2101,3601},{134,53}}</string>
+			<string>{{327,5453},{134,53}}</string>
 			<key>offset</key>
 			<string>{33,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>ImmortalSasuke_NAttack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2237,3601},{124,53}}</string>
+			<string>{{463,5453},{124,53}}</string>
 			<key>offset</key>
 			<string>{26,0}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>ImmortalSasuke_NAttack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3358,3510},{68,72}}</string>
+			<string>{{1613,5376},{68,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>ImmortalSasuke_NAttack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3563,3510},{95,71}}</string>
+			<string>{{1818,5376},{95,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>ImmortalSasuke_NAttack_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1504,3510},{62,75}}</string>
+			<string>{{3836,5272},{62,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>ImmortalSasuke_NAttack_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3735,3252},{100,112}}</string>
+			<string>{{2075,5122},{100,112}}</string>
 			<key>offset</key>
 			<string>{23,0}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>ImmortalSasuke_NAttack_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2416,3402},{62,100}}</string>
+			<string>{{774,5272},{62,100}}</string>
 			<key>offset</key>
 			<string>{-1,-6}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>ImmortalSasuke_NAttack_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2480,3402},{52,100}}</string>
+			<string>{{838,5272},{52,100}}</string>
 			<key>offset</key>
 			<string>{-6,-6}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>ImmortalSasuke_NAttack_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3428,3510},{42,72}}</string>
+			<string>{{1683,5376},{42,72}}</string>
 			<key>offset</key>
 			<string>{-9,-20}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>ImmortalSasuke_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2669,3601},{60,50}}</string>
+			<string>{{895,5453},{60,50}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>ImmortalSasuke_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2805,3601},{72,48}}</string>
+			<string>{{1031,5453},{72,48}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>ImmortalSasuke_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3247,3601},{75,40}}</string>
+			<string>{{1473,5453},{75,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>ImmortalSasuke_R_dead_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3713,3601},{76,22}}</string>
+			<string>{{1939,5453},{76,22}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>ImmortalSasuke_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1568,3510},{40,75}}</string>
+			<string>{{3900,5272},{40,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>ImmortalSasuke_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3563,3601},{69,37}}</string>
+			<string>{{1789,5453},{69,37}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>ImmortalSasuke_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3062,3601},{67,47}}</string>
+			<string>{{1288,5453},{67,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>ImmortalSasuke_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3660,3510},{49,71}}</string>
+			<string>{{1915,5376},{49,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>ImmortalSasuke_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3472,3510},{45,72}}</string>
+			<string>{{1727,5376},{45,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>ImmortalSasuke_R_hurt_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,3601},{51,69}}</string>
+			<string>{{2322,5376},{51,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>ImmortalSasuke_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1610,3510},{43,75}}</string>
+			<string>{{3942,5272},{43,75}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>ImmortalSasuke_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1655,3510},{43,75}}</string>
+			<string>{{3987,5272},{43,75}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>ImmortalSasuke_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1700,3510},{43,75}}</string>
+			<string>{{4032,5272},{43,75}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>ImmortalSasuke_R_idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1745,3510},{43,75}}</string>
+			<string>{{0,5376},{43,75}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>ImmortalSasuke_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2879,3601},{72,48}}</string>
+			<string>{{1105,5453},{72,48}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>ImmortalSasuke_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3324,3601},{75,40}}</string>
+			<string>{{1550,5453},{75,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>ImmortalSasuke_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3791,3601},{76,22}}</string>
+			<string>{{2017,5453},{76,22}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>ImmortalSasuke_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3131,3601},{37,46}}</string>
+			<string>{{1357,5453},{37,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>ImmortalSasuke_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3482,3601},{79,38}}</string>
+			<string>{{1708,5453},{79,38}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>ImmortalSasuke_R_knockdown_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{838,3601},{74,63}}</string>
+			<string>{{3160,5376},{74,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>ImmortalSasuke_R_knockdown_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{53,3601},{62,69}}</string>
+			<string>{{2375,5376},{62,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -735,7 +735,7 @@
 		<key>ImmortalSasuke_R_knockdown_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{662,3601},{51,65}}</string>
+			<string>{{2984,5376},{51,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>ImmortalSasuke_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{132,3402},{149,102}}</string>
+			<string>{{2523,5122},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>ImmortalSasuke_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{283,3402},{149,102}}</string>
+			<string>{{2674,5122},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>ImmortalSasuke_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{434,3402},{149,102}}</string>
+			<string>{{2825,5122},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>ImmortalSasuke_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{585,3402},{149,102}}</string>
+			<string>{{2976,5122},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>ImmortalSasuke_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{736,3402},{149,102}}</string>
+			<string>{{3127,5122},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>ImmortalSasuke_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{887,3402},{149,102}}</string>
+			<string>{{3278,5122},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>ImmortalSasuke_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1038,3402},{149,102}}</string>
+			<string>{{3429,5122},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>ImmortalSasuke_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1189,3402},{149,102}}</string>
+			<string>{{3580,5122},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>ImmortalSasuke_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1340,3402},{149,102}}</string>
+			<string>{{3731,5122},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>ImmortalSasuke_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1491,3402},{149,102}}</string>
+			<string>{{3882,5122},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -878,7 +878,7 @@
 		<key>ImmortalSasuke_R_nattack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1642,3402},{149,102}}</string>
+			<string>{{0,5272},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -891,7 +891,7 @@
 		<key>ImmortalSasuke_R_nattack_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1793,3402},{149,102}}</string>
+			<string>{{151,5272},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -904,7 +904,7 @@
 		<key>ImmortalSasuke_R_nattack_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1944,3402},{149,102}}</string>
+			<string>{{302,5272},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -917,7 +917,7 @@
 		<key>ImmortalSasuke_R_nattack_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2095,3402},{149,102}}</string>
+			<string>{{453,5272},{149,102}}</string>
 			<key>offset</key>
 			<string>{22.5,-13}</string>
 			<key>rotated</key>
@@ -930,7 +930,7 @@
 		<key>ImmortalSasuke_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1325,3038},{129,148}}</string>
+			<string>{{3388,4647},{129,148}}</string>
 			<key>offset</key>
 			<string>{-2.5,-39}</string>
 			<key>rotated</key>
@@ -943,7 +943,7 @@
 		<key>ImmortalSasuke_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1456,3038},{129,148}}</string>
+			<string>{{3519,4647},{129,148}}</string>
 			<key>offset</key>
 			<string>{-2.5,-39}</string>
 			<key>rotated</key>
@@ -956,7 +956,7 @@
 		<key>ImmortalSasuke_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1587,3038},{129,148}}</string>
+			<string>{{3650,4647},{129,148}}</string>
 			<key>offset</key>
 			<string>{-2.5,-39}</string>
 			<key>rotated</key>
@@ -969,7 +969,7 @@
 		<key>ImmortalSasuke_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1718,3038},{129,148}}</string>
+			<string>{{3781,4647},{129,148}}</string>
 			<key>offset</key>
 			<string>{-2.5,-39}</string>
 			<key>rotated</key>
@@ -982,7 +982,7 @@
 		<key>ImmortalSasuke_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3837,3252},{105,108}}</string>
+			<string>{{2177,5122},{105,108}}</string>
 			<key>offset</key>
 			<string>{2.5,-15}</string>
 			<key>rotated</key>
@@ -995,7 +995,7 @@
 		<key>ImmortalSasuke_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3944,3252},{105,108}}</string>
+			<string>{{2284,5122},{105,108}}</string>
 			<key>offset</key>
 			<string>{2.5,-15}</string>
 			<key>rotated</key>
@@ -1008,7 +1008,7 @@
 		<key>ImmortalSasuke_R_skill01_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3487,2713},{237,212}}</string>
+			<string>{{1585,4647},{237,212}}</string>
 			<key>offset</key>
 			<string>{18,-51}</string>
 			<key>rotated</key>
@@ -1021,7 +1021,7 @@
 		<key>ImmortalSasuke_R_skill01_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3726,2713},{237,212}}</string>
+			<string>{{1824,4647},{237,212}}</string>
 			<key>offset</key>
 			<string>{18,-51}</string>
 			<key>rotated</key>
@@ -1034,7 +1034,7 @@
 		<key>ImmortalSasuke_R_skill01_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,3038},{237,212}}</string>
+			<string>{{2063,4647},{237,212}}</string>
 			<key>offset</key>
 			<string>{18,-51}</string>
 			<key>rotated</key>
@@ -1047,7 +1047,7 @@
 		<key>ImmortalSasuke_R_skill01_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{239,3038},{237,212}}</string>
+			<string>{{2302,4647},{237,212}}</string>
 			<key>offset</key>
 			<string>{18,-51}</string>
 			<key>rotated</key>
@@ -1060,7 +1060,7 @@
 		<key>ImmortalSasuke_R_skill01_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{478,3038},{237,212}}</string>
+			<string>{{2541,4647},{237,212}}</string>
 			<key>offset</key>
 			<string>{18,-51}</string>
 			<key>rotated</key>
@@ -1073,7 +1073,7 @@
 		<key>ImmortalSasuke_R_skill01_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{717,3038},{237,212}}</string>
+			<string>{{2780,4647},{237,212}}</string>
 			<key>offset</key>
 			<string>{18,-51}</string>
 			<key>rotated</key>
@@ -1086,7 +1086,7 @@
 		<key>ImmortalSasuke_R_skill01_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{956,3038},{237,212}}</string>
+			<string>{{3019,4647},{237,212}}</string>
 			<key>offset</key>
 			<string>{18,-51}</string>
 			<key>rotated</key>
@@ -1099,7 +1099,7 @@
 		<key>ImmortalSasuke_R_skill01_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{270,3601},{48,66}}</string>
+			<string>{{2592,5376},{48,66}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1112,7 +1112,7 @@
 		<key>ImmortalSasuke_R_skill01_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3549,2282},{315,323}}</string>
+			<string>{{1869,4315},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1125,7 +1125,7 @@
 		<key>ImmortalSasuke_R_skill01_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2713},{315,323}}</string>
+			<string>{{2186,4315},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1138,7 +1138,7 @@
 		<key>ImmortalSasuke_R_skill01_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{317,2713},{315,323}}</string>
+			<string>{{2503,4315},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1151,7 +1151,7 @@
 		<key>ImmortalSasuke_R_skill01_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{634,2713},{315,323}}</string>
+			<string>{{2820,4315},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1164,7 +1164,7 @@
 		<key>ImmortalSasuke_R_skill01_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{951,2713},{315,323}}</string>
+			<string>{{3137,4315},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1177,7 +1177,7 @@
 		<key>ImmortalSasuke_R_skill01_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1268,2713},{315,323}}</string>
+			<string>{{3454,4315},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1190,7 +1190,7 @@
 		<key>ImmortalSasuke_R_skill01_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1585,2713},{315,323}}</string>
+			<string>{{3771,4315},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1203,7 +1203,7 @@
 		<key>ImmortalSasuke_R_skill01_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1902,2713},{315,323}}</string>
+			<string>{{0,4647},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1216,7 +1216,7 @@
 		<key>ImmortalSasuke_R_skill01_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2219,2713},{315,323}}</string>
+			<string>{{317,4647},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1229,7 +1229,7 @@
 		<key>ImmortalSasuke_R_skill01_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2536,2713},{315,323}}</string>
+			<string>{{634,4647},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1242,7 +1242,7 @@
 		<key>ImmortalSasuke_R_skill01_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2853,2713},{315,323}}</string>
+			<string>{{951,4647},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1255,7 +1255,7 @@
 		<key>ImmortalSasuke_R_skill01_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3170,2713},{315,323}}</string>
+			<string>{{1268,4647},{315,323}}</string>
 			<key>offset</key>
 			<string>{5.5,-10}</string>
 			<key>rotated</key>
@@ -1268,7 +1268,7 @@
 		<key>ImmortalSasuke_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{645,3510},{58,77}}</string>
+			<string>{{2977,5272},{58,77}}</string>
 			<key>offset</key>
 			<string>{2.5,0}</string>
 			<key>rotated</key>
@@ -1281,7 +1281,7 @@
 		<key>ImmortalSasuke_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{705,3510},{58,77}}</string>
+			<string>{{3037,5272},{58,77}}</string>
 			<key>offset</key>
 			<string>{2.5,0}</string>
 			<key>rotated</key>
@@ -1294,7 +1294,7 @@
 		<key>ImmortalSasuke_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{765,3510},{58,77}}</string>
+			<string>{{3097,5272},{58,77}}</string>
 			<key>offset</key>
 			<string>{2.5,0}</string>
 			<key>rotated</key>
@@ -1307,7 +1307,7 @@
 		<key>ImmortalSasuke_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{825,3510},{58,77}}</string>
+			<string>{{3157,5272},{58,77}}</string>
 			<key>offset</key>
 			<string>{2.5,0}</string>
 			<key>rotated</key>
@@ -1320,7 +1320,7 @@
 		<key>ImmortalSasuke_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1849,3038},{413,148}}</string>
+			<string>{{0,4972},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1333,7 +1333,7 @@
 		<key>ImmortalSasuke_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2264,3038},{413,148}}</string>
+			<string>{{415,4972},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1346,7 +1346,7 @@
 		<key>ImmortalSasuke_R_skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2679,3038},{413,148}}</string>
+			<string>{{830,4972},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1359,7 +1359,7 @@
 		<key>ImmortalSasuke_R_skill02_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3094,3038},{413,148}}</string>
+			<string>{{1245,4972},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1372,7 +1372,7 @@
 		<key>ImmortalSasuke_R_skill02_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3509,3038},{413,148}}</string>
+			<string>{{1660,4972},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1385,7 +1385,7 @@
 		<key>ImmortalSasuke_R_skill02_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,3252},{413,148}}</string>
+			<string>{{2075,4972},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1398,7 +1398,7 @@
 		<key>ImmortalSasuke_R_skill02_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{415,3252},{413,148}}</string>
+			<string>{{2490,4972},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1411,7 +1411,7 @@
 		<key>ImmortalSasuke_R_skill02_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{830,3252},{413,148}}</string>
+			<string>{{2905,4972},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1424,7 +1424,7 @@
 		<key>ImmortalSasuke_R_skill02_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1245,3252},{413,148}}</string>
+			<string>{{3320,4972},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1437,7 +1437,7 @@
 		<key>ImmortalSasuke_R_skill02_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1660,3252},{413,148}}</string>
+			<string>{{0,5122},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1450,7 +1450,7 @@
 		<key>ImmortalSasuke_R_skill02_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2075,3252},{413,148}}</string>
+			<string>{{415,5122},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1463,7 +1463,7 @@
 		<key>ImmortalSasuke_R_skill02_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2490,3252},{413,148}}</string>
+			<string>{{830,5122},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1476,7 +1476,7 @@
 		<key>ImmortalSasuke_R_skill02_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2905,3252},{413,148}}</string>
+			<string>{{1245,5122},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1489,7 +1489,7 @@
 		<key>ImmortalSasuke_R_skill02_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3320,3252},{413,148}}</string>
+			<string>{{1660,5122},{413,148}}</string>
 			<key>offset</key>
 			<string>{179,-44}</string>
 			<key>rotated</key>
@@ -1502,7 +1502,7 @@
 		<key>ImmortalSasuke_R_skill02_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{885,3510},{58,77}}</string>
+			<string>{{3217,5272},{58,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1515,7 +1515,7 @@
 		<key>ImmortalSasuke_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1790,3510},{62,75}}</string>
+			<string>{{45,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1528,7 +1528,7 @@
 		<key>ImmortalSasuke_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1854,3510},{62,75}}</string>
+			<string>{{109,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1541,7 +1541,7 @@
 		<key>ImmortalSasuke_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1918,3510},{62,75}}</string>
+			<string>{{173,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1554,7 +1554,7 @@
 		<key>ImmortalSasuke_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1982,3510},{62,75}}</string>
+			<string>{{237,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1567,7 +1567,7 @@
 		<key>ImmortalSasuke_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2046,3510},{62,75}}</string>
+			<string>{{301,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1580,7 +1580,7 @@
 		<key>ImmortalSasuke_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2110,3510},{62,75}}</string>
+			<string>{{365,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1593,7 +1593,7 @@
 		<key>ImmortalSasuke_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2174,3510},{62,75}}</string>
+			<string>{{429,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1606,7 +1606,7 @@
 		<key>ImmortalSasuke_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2238,3510},{62,75}}</string>
+			<string>{{493,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1619,7 +1619,7 @@
 		<key>ImmortalSasuke_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2302,3510},{62,75}}</string>
+			<string>{{557,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1632,7 +1632,7 @@
 		<key>ImmortalSasuke_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2366,3510},{62,75}}</string>
+			<string>{{621,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1645,7 +1645,7 @@
 		<key>ImmortalSasuke_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2430,3510},{62,75}}</string>
+			<string>{{685,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1658,7 +1658,7 @@
 		<key>ImmortalSasuke_R_skill03_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2494,3510},{62,75}}</string>
+			<string>{{749,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1671,7 +1671,7 @@
 		<key>ImmortalSasuke_R_skill03_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2558,3510},{62,75}}</string>
+			<string>{{813,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1684,7 +1684,7 @@
 		<key>ImmortalSasuke_R_skill03_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2622,3510},{62,75}}</string>
+			<string>{{877,5376},{62,75}}</string>
 			<key>offset</key>
 			<string>{6,0}</string>
 			<key>rotated</key>
@@ -1697,7 +1697,7 @@
 		<key>ImmortalSasuke_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{606,1411},{571,429}}</string>
+			<string>{{2424,3013},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1710,7 +1710,7 @@
 		<key>ImmortalSasuke_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1179,1411},{571,429}}</string>
+			<string>{{2997,3013},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1723,7 +1723,7 @@
 		<key>ImmortalSasuke_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1752,1411},{571,429}}</string>
+			<string>{{0,3453},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1736,7 +1736,7 @@
 		<key>ImmortalSasuke_R_skill04_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2325,1411},{571,429}}</string>
+			<string>{{573,3453},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1749,7 +1749,7 @@
 		<key>ImmortalSasuke_R_skill04_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2898,1411},{571,429}}</string>
+			<string>{{1146,3453},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1762,7 +1762,7 @@
 		<key>ImmortalSasuke_R_skill04_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3471,1411},{571,429}}</string>
+			<string>{{1719,3453},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1775,7 +1775,7 @@
 		<key>ImmortalSasuke_R_skill04_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1851},{571,429}}</string>
+			<string>{{2292,3453},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1788,7 +1788,7 @@
 		<key>ImmortalSasuke_R_skill04_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{573,1851},{571,429}}</string>
+			<string>{{2865,3453},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1801,7 +1801,7 @@
 		<key>ImmortalSasuke_R_skill04_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1146,1851},{571,429}}</string>
+			<string>{{3438,3453},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1814,7 +1814,7 @@
 		<key>ImmortalSasuke_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1719,1851},{571,429}}</string>
+			<string>{{0,3884},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1827,7 +1827,7 @@
 		<key>ImmortalSasuke_R_skill04_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2292,1851},{571,429}}</string>
+			<string>{{573,3884},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1840,7 +1840,7 @@
 		<key>ImmortalSasuke_R_skill04_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2865,1851},{571,429}}</string>
+			<string>{{1146,3884},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1853,7 +1853,7 @@
 		<key>ImmortalSasuke_R_skill04_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3438,1851},{571,429}}</string>
+			<string>{{1719,3884},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1866,7 +1866,7 @@
 		<key>ImmortalSasuke_R_skill04_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2282},{571,429}}</string>
+			<string>{{2292,3884},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1879,7 +1879,7 @@
 		<key>ImmortalSasuke_R_skill04_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{573,2282},{571,429}}</string>
+			<string>{{2865,3884},{571,429}}</string>
 			<key>offset</key>
 			<string>{-1.5,-75}</string>
 			<key>rotated</key>
@@ -1892,7 +1892,7 @@
 		<key>ImmortalSasuke_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{117,3601},{48,67}}</string>
+			<string>{{2439,5376},{48,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1905,7 +1905,7 @@
 		<key>ImmortalSasuke_R_skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{167,3601},{48,67}}</string>
+			<string>{{2489,5376},{48,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1918,7 +1918,7 @@
 		<key>ImmortalSasuke_R_skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1146,2282},{265,330}}</string>
+			<string>{{3438,3884},{265,330}}</string>
 			<key>offset</key>
 			<string>{-1,-32}</string>
 			<key>rotated</key>
@@ -1931,7 +1931,7 @@
 		<key>ImmortalSasuke_R_skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1413,2282},{265,330}}</string>
+			<string>{{3705,3884},{265,330}}</string>
 			<key>offset</key>
 			<string>{-1,-32}</string>
 			<key>rotated</key>
@@ -1944,7 +1944,7 @@
 		<key>ImmortalSasuke_R_skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1680,2282},{265,330}}</string>
+			<string>{{0,4315},{265,330}}</string>
 			<key>offset</key>
 			<string>{-1,-32}</string>
 			<key>rotated</key>
@@ -1957,7 +1957,7 @@
 		<key>ImmortalSasuke_R_skill05_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1947,2282},{265,330}}</string>
+			<string>{{267,4315},{265,330}}</string>
 			<key>offset</key>
 			<string>{-1,-32}</string>
 			<key>rotated</key>
@@ -1970,7 +1970,7 @@
 		<key>ImmortalSasuke_R_skill05_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2214,2282},{265,330}}</string>
+			<string>{{534,4315},{265,330}}</string>
 			<key>offset</key>
 			<string>{-1,-32}</string>
 			<key>rotated</key>
@@ -1983,7 +1983,7 @@
 		<key>ImmortalSasuke_R_skill05_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2481,2282},{265,330}}</string>
+			<string>{{801,4315},{265,330}}</string>
 			<key>offset</key>
 			<string>{-1,-32}</string>
 			<key>rotated</key>
@@ -1996,7 +1996,7 @@
 		<key>ImmortalSasuke_R_skill05_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2748,2282},{265,330}}</string>
+			<string>{{1068,4315},{265,330}}</string>
 			<key>offset</key>
 			<string>{-1,-32}</string>
 			<key>rotated</key>
@@ -2009,7 +2009,7 @@
 		<key>ImmortalSasuke_R_skill05_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3015,2282},{265,330}}</string>
+			<string>{{1335,4315},{265,330}}</string>
 			<key>offset</key>
 			<string>{-1,-32}</string>
 			<key>rotated</key>
@@ -2022,7 +2022,7 @@
 		<key>ImmortalSasuke_R_skill05_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3282,2282},{265,330}}</string>
+			<string>{{1602,4315},{265,330}}</string>
 			<key>offset</key>
 			<string>{-1,-32}</string>
 			<key>rotated</key>
@@ -2035,7 +2035,7 @@
 		<key>ImmortalSasuke_R_skill05_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,531},{604,438}}</string>
+			<string>{{1776,2124},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2048,7 +2048,7 @@
 		<key>ImmortalSasuke_R_skill05_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{606,531},{604,438}}</string>
+			<string>{{2382,2124},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2061,7 +2061,7 @@
 		<key>ImmortalSasuke_R_skill05_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1212,531},{604,438}}</string>
+			<string>{{2988,2124},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2074,7 +2074,7 @@
 		<key>ImmortalSasuke_R_skill05_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1818,531},{604,438}}</string>
+			<string>{{0,2573},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2087,7 +2087,7 @@
 		<key>ImmortalSasuke_R_skill05_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2424,531},{604,438}}</string>
+			<string>{{606,2573},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2100,7 +2100,7 @@
 		<key>ImmortalSasuke_R_skill05_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3030,531},{604,438}}</string>
+			<string>{{1212,2573},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2113,7 +2113,7 @@
 		<key>ImmortalSasuke_R_skill05_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,971},{604,438}}</string>
+			<string>{{1818,2573},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2126,7 +2126,7 @@
 		<key>ImmortalSasuke_R_skill05_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{606,971},{604,438}}</string>
+			<string>{{2424,2573},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2139,7 +2139,7 @@
 		<key>ImmortalSasuke_R_skill05_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1212,971},{604,438}}</string>
+			<string>{{3030,2573},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2152,7 +2152,7 @@
 		<key>ImmortalSasuke_R_skill05_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1818,971},{604,438}}</string>
+			<string>{{0,3013},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2165,7 +2165,7 @@
 		<key>ImmortalSasuke_R_skill05_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2424,971},{604,438}}</string>
+			<string>{{606,3013},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2178,7 +2178,7 @@
 		<key>ImmortalSasuke_R_skill05_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3030,971},{604,438}}</string>
+			<string>{{1212,3013},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2191,7 +2191,7 @@
 		<key>ImmortalSasuke_R_skill05_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1411},{604,438}}</string>
+			<string>{{1818,3013},{604,438}}</string>
 			<key>offset</key>
 			<string>{64.5,-132}</string>
 			<key>rotated</key>
@@ -2204,7 +2204,7 @@
 		<key>ImmortalSasuke_R_skill05_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2163,0},{294,447}}</string>
+			<string>{{3605,1593},{294,447}}</string>
 			<key>offset</key>
 			<string>{-5.5,-149}</string>
 			<key>rotated</key>
@@ -2217,7 +2217,7 @@
 		<key>ImmortalSasuke_R_skill05_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2459,0},{294,447}}</string>
+			<string>{{0,2124},{294,447}}</string>
 			<key>offset</key>
 			<string>{-5.5,-149}</string>
 			<key>rotated</key>
@@ -2230,7 +2230,7 @@
 		<key>ImmortalSasuke_R_skill05_27</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2755,0},{294,447}}</string>
+			<string>{{296,2124},{294,447}}</string>
 			<key>offset</key>
 			<string>{-5.5,-149}</string>
 			<key>rotated</key>
@@ -2243,7 +2243,7 @@
 		<key>ImmortalSasuke_R_skill05_28</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3051,0},{294,447}}</string>
+			<string>{{592,2124},{294,447}}</string>
 			<key>offset</key>
 			<string>{-5.5,-149}</string>
 			<key>rotated</key>
@@ -2256,7 +2256,7 @@
 		<key>ImmortalSasuke_R_skill05_29</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3347,0},{294,447}}</string>
+			<string>{{888,2124},{294,447}}</string>
 			<key>offset</key>
 			<string>{-5.5,-149}</string>
 			<key>rotated</key>
@@ -2269,7 +2269,7 @@
 		<key>ImmortalSasuke_R_skill05_30</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3643,0},{294,447}}</string>
+			<string>{{1184,2124},{294,447}}</string>
 			<key>offset</key>
 			<string>{-5.5,-149}</string>
 			<key>rotated</key>
@@ -2282,20 +2282,20 @@
 		<key>ImmortalSasuke_R_skill05_31</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{719,529}}</string>
+			<string>{{1480,2124},{294,447}}</string>
 			<key>offset</key>
-			<string>{82,-189}</string>
+			<string>{-5.5,-149}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{719,529}}</string>
+			<string>{{0,0},{294,447}}</string>
 			<key>sourceSize</key>
-			<string>{719,529}</string>
+			<string>{294,447}</string>
 		</dict>
 		<key>ImmortalSasuke_R_skill05_32</key>
 		<dict>
 			<key>frame</key>
-			<string>{{721,0},{719,529}}</string>
+			<string>{{0,0},{719,529}}</string>
 			<key>offset</key>
 			<string>{82,-189}</string>
 			<key>rotated</key>
@@ -2308,7 +2308,241 @@
 		<key>ImmortalSasuke_R_skill05_33</key>
 		<dict>
 			<key>frame</key>
+			<string>{{721,0},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_34</key>
+		<dict>
+			<key>frame</key>
 			<string>{{1442,0},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_35</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2163,0},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_36</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2884,0},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_37</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,531},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_38</key>
+		<dict>
+			<key>frame</key>
+			<string>{{721,531},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_39</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1442,531},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_40</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2163,531},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_41</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2884,531},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_42</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1062},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_43</key>
+		<dict>
+			<key>frame</key>
+			<string>{{721,1062},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_44</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1442,1062},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_45</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2163,1062},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_46</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2884,1062},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_47</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1593},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_48</key>
+		<dict>
+			<key>frame</key>
+			<string>{{721,1593},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_49</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1442,1593},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_50</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2163,1593},{719,529}}</string>
+			<key>offset</key>
+			<string>{82,-189}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{719,529}}</string>
+			<key>sourceSize</key>
+			<string>{719,529}</string>
+		</dict>
+		<key>ImmortalSasuke_R_skill05_51</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2884,1593},{719,529}}</string>
 			<key>offset</key>
 			<string>{82,-189}</string>
 			<key>rotated</key>
@@ -2321,7 +2555,7 @@
 		<key>ImmortalSasuke_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1504,3601},{66,56}}</string>
+			<string>{{3826,5376},{66,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2334,7 +2568,7 @@
 		<key>ImmortalSasuke_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1847,3601},{62,54}}</string>
+			<string>{{73,5453},{62,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2347,7 +2581,7 @@
 		<key>ImmortalSasuke_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2363,3601},{59,53}}</string>
+			<string>{{589,5453},{59,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2360,7 +2594,7 @@
 		<key>ImmortalSasuke_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1572,3601},{65,56}}</string>
+			<string>{{3894,5376},{65,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2373,7 +2607,7 @@
 		<key>ImmortalSasuke_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1911,3601},{61,54}}</string>
+			<string>{{137,5453},{61,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2386,7 +2620,7 @@
 		<key>ImmortalSasuke_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2424,3601},{59,53}}</string>
+			<string>{{650,5453},{59,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2399,7 +2633,7 @@
 		<key>ImmortalSasuke_Skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3711,3510},{62,71}}</string>
+			<string>{{1966,5376},{62,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2412,7 +2646,7 @@
 		<key>ImmortalSasuke_Skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1430,3601},{72,59}}</string>
+			<string>{{3752,5376},{72,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2425,7 +2659,7 @@
 		<key>ImmortalSasuke_Skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{320,3601},{96,66}}</string>
+			<string>{{2642,5376},{96,66}}</string>
 			<key>offset</key>
 			<string>{-7,-9}</string>
 			<key>rotated</key>
@@ -2438,7 +2672,7 @@
 		<key>ImmortalSasuke_Skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{418,3601},{74,66}}</string>
+			<string>{{2740,5376},{74,66}}</string>
 			<key>offset</key>
 			<string>{6,-9}</string>
 			<key>rotated</key>
@@ -2451,7 +2685,7 @@
 		<key>ImmortalSasuke_Skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{494,3601},{84,66}}</string>
+			<string>{{2816,5376},{84,66}}</string>
 			<key>offset</key>
 			<string>{11,-9}</string>
 			<key>rotated</key>
@@ -2464,7 +2698,7 @@
 		<key>ImmortalSasuke_Skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{580,3601},{80,66}}</string>
+			<string>{{2902,5376},{80,66}}</string>
 			<key>offset</key>
 			<string>{9,-9}</string>
 			<key>rotated</key>
@@ -2477,7 +2711,7 @@
 		<key>ImmortalSasuke_Skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2686,3510},{64,75}}</string>
+			<string>{{941,5376},{64,75}}</string>
 			<key>offset</key>
 			<string>{-11,0}</string>
 			<key>rotated</key>
@@ -2490,7 +2724,7 @@
 		<key>ImmortalSasuke_Skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2752,3510},{60,75}}</string>
+			<string>{{1007,5376},{60,75}}</string>
 			<key>offset</key>
 			<string>{-10,0}</string>
 			<key>rotated</key>
@@ -2503,7 +2737,7 @@
 		<key>ImmortalSasuke_Skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1012,3510},{57,76}}</string>
+			<string>{{3344,5272},{57,76}}</string>
 			<key>offset</key>
 			<string>{0,-2}</string>
 			<key>rotated</key>
@@ -2516,7 +2750,7 @@
 		<key>ImmortalSasuke_Skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2246,3402},{168,101}}</string>
+			<string>{{604,5272},{168,101}}</string>
 			<key>offset</key>
 			<string>{62,0}</string>
 			<key>rotated</key>
@@ -2529,7 +2763,7 @@
 		<key>ImmortalSasuke_Skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2918,3402},{166,91}}</string>
+			<string>{{1276,5272},{166,91}}</string>
 			<key>offset</key>
 			<string>{61,0}</string>
 			<key>rotated</key>
@@ -2542,7 +2776,7 @@
 		<key>ImmortalSasuke_Skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2684,3402},{164,95}}</string>
+			<string>{{1042,5272},{164,95}}</string>
 			<key>offset</key>
 			<string>{60,0}</string>
 			<key>rotated</key>
@@ -2555,7 +2789,7 @@
 		<key>ImmortalSasuke_Skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{451,3510},{154,81}}</string>
+			<string>{{2783,5272},{154,81}}</string>
 			<key>offset</key>
 			<string>{54,0}</string>
 			<key>rotated</key>
@@ -2568,7 +2802,7 @@
 		<key>ImmortalSasuke_Skill02_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3775,3510},{53,71}}</string>
+			<string>{{2030,5376},{53,71}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2581,7 +2815,7 @@
 		<key>ImmortalSasuke_Skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{607,3510},{36,78}}</string>
+			<string>{{2939,5272},{36,78}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2594,7 +2828,7 @@
 		<key>ImmortalSasuke_Skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2905,3510},{39,74}}</string>
+			<string>{{1160,5376},{39,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2607,7 +2841,7 @@
 		<key>ImmortalSasuke_Skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2814,3510},{35,75}}</string>
+			<string>{{1069,5376},{35,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2620,7 +2854,7 @@
 		<key>ImmortalSasuke_Skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{945,3510},{35,77}}</string>
+			<string>{{3277,5272},{35,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2633,7 +2867,7 @@
 		<key>ImmortalSasuke_Skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3943,3510},{47,70}}</string>
+			<string>{{2198,5376},{47,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2646,7 +2880,7 @@
 		<key>ImmortalSasuke_Skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3519,3510},{42,72}}</string>
+			<string>{{1774,5376},{42,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2659,7 +2893,7 @@
 		<key>ImmortalSasuke_Skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2946,3510},{46,74}}</string>
+			<string>{{1201,5376},{46,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2672,7 +2906,7 @@
 		<key>ImmortalSasuke_Skill04_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2994,3510},{52,74}}</string>
+			<string>{{1249,5376},{52,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2685,7 +2919,7 @@
 		<key>ImmortalSasuke_Skill04_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3048,3510},{54,74}}</string>
+			<string>{{1303,5376},{54,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2698,7 +2932,7 @@
 		<key>ImmortalSasuke_Skill04_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{715,3601},{45,65}}</string>
+			<string>{{3037,5376},{45,65}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2711,7 +2945,7 @@
 		<key>ImmortalSasuke_Skill04_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1380,3601},{48,60}}</string>
+			<string>{{3702,5376},{48,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2724,7 +2958,7 @@
 		<key>ImmortalSasuke_Skill04_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3992,3510},{73,70}}</string>
+			<string>{{2247,5376},{73,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2737,7 +2971,7 @@
 		<key>ImmortalSasuke_Skill04_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1079,3601},{85,62}}</string>
+			<string>{{3401,5376},{85,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2750,7 +2984,7 @@
 		<key>ImmortalSasuke_Skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1166,3601},{58,62}}</string>
+			<string>{{3488,5376},{58,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2763,7 +2997,7 @@
 		<key>ImmortalSasuke_Skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1071,3510},{36,76}}</string>
+			<string>{{3403,5272},{36,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2776,7 +3010,7 @@
 		<key>ImmortalSasuke_Skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1109,3510},{36,76}}</string>
+			<string>{{3441,5272},{36,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2789,7 +3023,7 @@
 		<key>ImmortalSasuke_Skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1147,3510},{39,76}}</string>
+			<string>{{3479,5272},{39,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2802,7 +3036,7 @@
 		<key>ImmortalSasuke_Skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1188,3510},{39,76}}</string>
+			<string>{{3520,5272},{39,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2815,7 +3049,7 @@
 		<key>ImmortalSasuke_Skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3104,3510},{53,74}}</string>
+			<string>{{1359,5376},{53,74}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -2828,7 +3062,7 @@
 		<key>ImmortalSasuke_Skill05_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3159,3510},{55,74}}</string>
+			<string>{{1414,5376},{55,74}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
@@ -2841,7 +3075,7 @@
 		<key>ImmortalSasuke_Skill05_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1229,3510},{55,76}}</string>
+			<string>{{3561,5272},{55,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2854,7 +3088,7 @@
 		<key>ImmortalSasuke_Skill10_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2850,3402},{66,94}}</string>
+			<string>{{1208,5272},{66,94}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -2867,7 +3101,7 @@
 		<key>ImmortalSasuke_Skill10_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1195,3038},{128,162}}</string>
+			<string>{{3258,4647},{128,162}}</string>
 			<key>offset</key>
 			<string>{-13,0}</string>
 			<key>rotated</key>
@@ -2880,7 +3114,7 @@
 		<key>ImmortalSasuke_Skill10_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,3402},{130,106}}</string>
+			<string>{{2391,5122},{130,106}}</string>
 			<key>offset</key>
 			<string>{18,0}</string>
 			<key>rotated</key>
@@ -2893,7 +3127,7 @@
 		<key>ImmortalSasuke_Skill10_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2534,3402},{148,98}}</string>
+			<string>{{892,5272},{148,98}}</string>
 			<key>offset</key>
 			<string>{26,0}</string>
 			<key>rotated</key>
@@ -2906,7 +3140,7 @@
 		<key>ImmortalSasuke_Skill11_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3086,3402},{145,89}}</string>
+			<string>{{1444,5272},{145,89}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -2919,7 +3153,7 @@
 		<key>ImmortalSasuke_Skill11_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3233,3402},{147,89}}</string>
+			<string>{{1591,5272},{147,89}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -2932,7 +3166,7 @@
 		<key>ImmortalSasuke_Skill11_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{149,3510},{149,84}}</string>
+			<string>{{2481,5272},{149,84}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -2945,7 +3179,7 @@
 		<key>ImmortalSasuke_Skill12_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3382,3402},{145,89}}</string>
+			<string>{{1740,5272},{145,89}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -2958,7 +3192,7 @@
 		<key>ImmortalSasuke_Skill12_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3529,3402},{147,89}}</string>
+			<string>{{1887,5272},{147,89}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -2971,7 +3205,7 @@
 		<key>ImmortalSasuke_Skill12_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{300,3510},{149,84}}</string>
+			<string>{{2632,5272},{149,84}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
@@ -2984,7 +3218,7 @@
 		<key>ImmortalSasuke_Skill12_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3678,3402},{147,89}}</string>
+			<string>{{2036,5272},{147,89}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -2997,7 +3231,7 @@
 		<key>ImmortalSasuke_Skill12_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3827,3402},{145,89}}</string>
+			<string>{{2185,5272},{145,89}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -3010,7 +3244,7 @@
 		<key>ImmortalSasuke_Skill12_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,3510},{147,89}}</string>
+			<string>{{2332,5272},{147,89}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -3023,7 +3257,7 @@
 		<key>ImmortalSasuke_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1639,3601},{66,56}}</string>
+			<string>{{3961,5376},{66,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3036,7 +3270,7 @@
 		<key>ImmortalSasuke_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1974,3601},{62,54}}</string>
+			<string>{{200,5453},{62,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3049,7 +3283,7 @@
 		<key>ImmortalSasuke_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2485,3601},{59,53}}</string>
+			<string>{{711,5453},{59,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3062,7 +3296,7 @@
 		<key>ImmortalSasuke_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1707,3601},{65,56}}</string>
+			<string>{{4029,5376},{65,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3075,7 +3309,7 @@
 		<key>ImmortalSasuke_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2038,3601},{61,54}}</string>
+			<string>{{264,5453},{61,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3088,7 +3322,7 @@
 		<key>ImmortalSasuke_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2546,3601},{59,53}}</string>
+			<string>{{772,5453},{59,53}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3106,7 +3340,7 @@
 		<key>realTextureFileName</key>
 		<string>ImmortalSasuke.pvr.ccz</string>
 		<key>size</key>
-		<string>{4096,4096}</string>
+		<string>{4096,8192}</string>
 		<key>textureFileName</key>
 		<string>ImmortalSasuke.pvr.ccz</string>
 	</dict>

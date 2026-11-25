@@ -116,7 +116,7 @@
 			<p type="combatPoint">2260</p>
 		</data>
 		<frame>
-			<f>Deidara_R_skill03_01</f><f>Deidara_R_skill03_02</f><f>Deidara_R_skill03_03</f><f>Deidara_R_skill03_04</f><e type="setDelay">20</e>
+			<f>Deidara_R_skill03_01</f><f>Deidara_R_skill03_02</f><f>Deidara_R_skill03_03</f><f>Deidara_R_skill03_04</f><f>Deidara_R_skill03_05</f><f>Deidara_R_skill03_06</f><f>Deidara_R_skill03_07</f><f>Deidara_R_skill03_08</f><e type="setDelay">20</e>
 			<e type="setMon">FakeDeidara</e>
 			<e type="setBuff">3</e>
 		</frame>

@@ -123,9 +123,9 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Sasuke/sasuke_skill3.ogg</e>
-			<f>Sasuke_R_skill03_01</f><f>Sasuke_R_skill03_02</f><e type="setSkillEffect">sharingan2</e>
-			<f>Sasuke_R_skill03_03</f><e type="setSound">Audio/Effect/srg2.ogg</e>
-			<f>Sasuke_R_skill03_04</f><f>Sasuke_R_skill03_05</f><e type="setDelay">20</e>
+			<f>Sasuke_R_skill03_01</f><f>Sasuke_R_skill03_02</f><f>Sasuke_R_skill03_03</f><f>Sasuke_R_skill03_04</f><f>Sasuke_R_skill03_05</f><f>Sasuke_R_skill03_06</f><f>Sasuke_R_skill03_07</f><e type="setSkillEffect">sharingan2</e>
+			<f>Sasuke_R_skill03_08</f><f>Sasuke_R_skill03_09</f><f>Sasuke_R_skill03_10</f><f>Sasuke_R_skill03_11</f><e type="setSound">Audio/Effect/srg2.ogg</e>
+			<f>Sasuke_R_skill03_12</f><f>Sasuke_R_skill03_13</f><f>Sasuke_R_skill03_14</f><f>Sasuke_R_skill03_15</f><f>Sasuke_R_skill03_16</f><f>Sasuke_R_skill03_17</f><f>Sasuke_R_skill03_18</f><e type="setDelay">20</e>
 			<e type="setBuff">17</e>
 		</frame>
 	</action>
@@ -160,10 +160,10 @@
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
 			<e type="setCommand">setInvincible</e>
-			<e type="setDelay">10</e>
+			<f>Sasuke_R_skill05_01</f><e type="setDelay">10</e>
 			<e type="setOugis">10</e>
 			<e type="setDelay">10</e>
-			<f>Sasuke_R_skill05_01</f><e type="setDelay">10</e>
+			<e type="setDelay">10</e>
 			<e type="setDelay">10</e>
 			<e type="setDelay">10</e>
 			<e type="setBuff">18</e>

@@ -17,6 +17,13 @@ ANDROID_JAR="$(ls -d "$SDK"/platforms/android-* | sort -V | tail -1)/android.jar
 OUT="$HERE/build"; NOUT="$HERE/build-native"
 APK_NAME="RiseOfTheNinja-2.2-arm64.apk"
 
+# Hero code lives in header-only .hpp files that several .cpp files include; ndk-build may keep stale
+# copies of them, so any changed header recompiles all game code (about 20 s).
+CLS="$APPDIR/../../Classes"; SO="$NOUT/libs/arm64-v8a/libcocos2dcpp.so"
+if [ -f "$SO" ] && [ -n "$(find "$CLS" \( -name '*.h' -o -name '*.hpp' \) -newer "$SO" | head -1)" ]; then
+  find "$CLS" -name '*.cpp' -exec touch {} +
+fi
+
 "$NDK/ndk-build" -j10 NDK_PROJECT_PATH="$APPDIR" APP_BUILD_SCRIPT="$APPDIR/jni/Android.mk" \
   NDK_APPLICATION_MK="$APPDIR/jni/Application.mk" APP_ABI=arm64-v8a APP_PLATFORM=android-24 \
   NDK_OUT="$NOUT/obj" NDK_LIBS_OUT="$NOUT/libs" \

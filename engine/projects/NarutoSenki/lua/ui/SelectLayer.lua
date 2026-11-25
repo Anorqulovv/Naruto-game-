@@ -203,6 +203,24 @@ function SelectLayer:init()
     menu:setPosition(width - 52, 26)
     self:addChild(menu, 5)
 
+    -- RotN 2.2: undo the last pick (own hero or a computer ally) and choose again
+    local cancel_btn = ui.newTTFLabelMenuItem({
+        text = 'BEKOR QILISH',
+        size = 12,
+        color = ccc3(255, 236, 200),
+        align = ui.TEXT_ALIGN_CENTER,
+        dimensions = CCSizeMake(100, 26),
+    })
+    -- (ui.newTTFLabelMenuItem binds its listener to node events, not to taps)
+    cancel_btn:registerScriptTapHandler(function() self:cancelSelect() end)
+    local cancelBg = CCLayerColor:create(ccc4(0, 0, 0, 150), 100, 26)
+    cancelBg:setPosition(width - 180, 13)
+    self:addChild(cancelBg, 4)
+    local cancelMenu = ui.newMenu({cancel_btn})
+    cancelMenu:setPosition(width - 130, 26)
+    self:addChild(cancelMenu, 5)
+    lockStack = {}
+
     local skill_btn = ui.newImageMenuItem({
         image = '#rotn_skill_btn.png',
         listener = handler(self, SelectLayer.onSkillMenuButtonClick)
@@ -369,6 +387,7 @@ function SelectLayer:setSelected(btn)
         if btn._clickTime >= 2 then
             self:setSelectHero(btn._charName)
             self._playerSelect = self.selectHero
+            self:pushLock(btn, 'player')
 
             if not self.enableCustomSelect then
                 self._selectImg:removeFromParent()
@@ -399,6 +418,7 @@ function SelectLayer:setSelected(btn)
         if btn._clickTime >= 2 then
             self._com1Select = self.selectHero
             self:setCom1Select(self._com1Select)
+            self:pushLock(btn, 'com1')
 
             self._comLabel1:stopAllActions()
             self._comLabel1:setOpacity(255)
@@ -417,6 +437,7 @@ function SelectLayer:setSelected(btn)
         if btn._clickTime >= 2 then
             self._com2Select = self.selectHero
             self:setCom2Select(self._com2Select)
+            self:pushLock(btn, 'com2')
 
             self._comLabel2:stopAllActions()
             self._comLabel2:setOpacity(255)
@@ -430,6 +451,7 @@ function SelectLayer:setSelected(btn)
         if btn._clickTime >= 2 then
             self._com3Select = self.selectHero
             self:setCom3Select(self._com3Select)
+            self:pushLock(btn, 'com3')
 
             self._comLabel3:stopAllActions()
             self._comLabel3:setOpacity(255)
@@ -440,6 +462,76 @@ function SelectLayer:setSelected(btn)
             self._selectImg = nil
         end
     end
+end
+
+-- picks made on the select screen, newest last (undone by "BEKOR QILISH")
+lockStack = {}
+
+function SelectLayer:pushLock(btn, kind)
+    lockStack[#lockStack + 1] = {btn = btn, kind = kind}
+end
+
+function SelectLayer:cancelSelect()
+    local top = table.remove(lockStack)
+    if not top then return end
+    audio.playSound('Audio/Menu/cancel.ogg')
+    local btn = top.btn
+    if btn._black then
+        btn._black:removeFromParent()
+        btn._black = nil
+    end
+    btn._isAviable = true
+    for _, b in pairs(self.selectButtons) do b._clickTime = 0 end
+
+    local function waiting(label, selector)
+        if selector then
+            selector:setDisplayFrame(display.newSpriteFrame('unknow_select.png'))
+        end
+        if label then
+            label:stopAllActions()
+            label:setOpacity(255)
+            label:setDisplayFrame(display.newSpriteFrame('com_label.png'))
+        end
+    end
+    if top.kind == 'player' then
+        self._playerSelect = nil
+        self:setSelectHero(nil)
+        waiting(self._comLabel1, nil)
+    elseif top.kind == 'com1' then
+        self._com1Select = nil
+        self:setCom1Select(nil)
+        waiting(self._comLabel1, self._comSelector1)
+        waiting(self._comLabel2, nil)
+    elseif top.kind == 'com2' then
+        self._com2Select = nil
+        self:setCom2Select(nil)
+        waiting(self._comLabel2, self._comSelector2)
+        waiting(self._comLabel3, nil)
+    elseif top.kind == 'com3' then
+        self._com3Select = nil
+        self:setCom3Select(nil)
+        waiting(self._comLabel3, self._comSelector3)
+    end
+    -- the label of the slot that is being chosen now blinks again
+    local next = (top.kind == 'player' and self._comLabel1 and nil) or
+                 (top.kind == 'com1' and self._comLabel1) or
+                 (top.kind == 'com2' and self._comLabel2) or
+                 (top.kind == 'com3' and self._comLabel3)
+    if next then
+        local fd = CCFadeOut:create(1.0)
+        next:runAction(CCRepeatForever:create(transition.sequence({fd, fd:reverse()})))
+    end
+
+    if not self._selectImg then
+        local selectImg = display.newSprite('#1p.png', btn:getPositionX() - 2, btn:getPositionY() - 2)
+        selectImg:setAnchorPoint(0, 0)
+        selectImg:setScaleX((29 * self.cardScale + 4) / selectImg:getContentSize().width)
+        selectImg:setScaleY((66 * self.cardScale + 4) / selectImg:getContentSize().height)
+        self:addChild(selectImg, 500)
+        selectImg:runAction(CCRepeatForever:create(CCBlink:create(0.6, 1)))
+        self._selectImg = selectImg
+    end
+    self.selectHero = btn._charName
 end
 
 function SelectLayer:noComSelect()

@@ -7,7 +7,7 @@
 		<key>Sasori_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1130,1603},{41,54}}</string>
+			<string>{{1160,1695},{41,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>Sasori_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1173,1603},{41,54}}</string>
+			<string>{{1203,1695},{41,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Sasori_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1302,1603},{65,51}}</string>
+			<string>{{1385,1695},{65,51}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>Sasori_R_dead_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1601,1603},{73,23}}</string>
+			<string>{{1684,1695},{73,23}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Sasori_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1603},{40,67}}</string>
+			<string>{{1582,1621},{40,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Sasori_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1216,1603},{41,54}}</string>
+			<string>{{1246,1695},{41,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>Sasori_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1369,1603},{65,51}}</string>
+			<string>{{1452,1695},{65,51}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>Sasori_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{180,1603},{50,64}}</string>
+			<string>{{104,1695},{50,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Sasori_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{654,1302},{42,74}}</string>
+			<string>{{247,1396},{42,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Sasori_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{268,1302},{39,76}}</string>
+			<string>{{1371,1302},{39,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>Sasori_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{558,1302},{39,75}}</string>
+			<string>{{1661,1302},{39,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Sasori_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{698,1302},{39,74}}</string>
+			<string>{{291,1396},{39,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Sasori_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1259,1603},{41,54}}</string>
+			<string>{{1289,1695},{41,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>Sasori_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1436,1603},{65,51}}</string>
+			<string>{{1519,1695},{65,51}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>Sasori_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1676,1603},{73,23}}</string>
+			<string>{{1759,1695},{73,23}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>Sasori_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1547,1603},{52,45}}</string>
+			<string>{{1630,1695},{52,45}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Sasori_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1503,1603},{42,51}}</string>
+			<string>{{1586,1695},{42,51}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Sasori_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{42,1603},{44,67}}</string>
+			<string>{{1624,1621},{44,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>Sasori_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{232,1603},{61,62}}</string>
+			<string>{{262,1695},{61,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Sasori_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{295,1603},{53,62}}</string>
+			<string>{{325,1695},{53,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>Sasori_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{309,1302},{42,76}}</string>
+			<string>{{1412,1302},{42,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Sasori_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{599,1302},{53,75}}</string>
+			<string>{{1702,1302},{53,75}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Sasori_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{739,1302},{85,74}}</string>
+			<string>{{332,1396},{85,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>Sasori_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{826,1302},{76,74}}</string>
+			<string>{{419,1396},{76,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Sasori_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{904,1302},{53,73}}</string>
+			<string>{{497,1396},{53,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>Sasori_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1864,1529},{94,68}}</string>
+			<string>{{1401,1621},{94,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>Sasori_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1960,1529},{83,68}}</string>
+			<string>{{1497,1621},{83,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Sasori_R_nattack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{959,1302},{50,73}}</string>
+			<string>{{552,1396},{50,73}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -368,10 +368,75 @@
 			<key>sourceSize</key>
 			<string>{50,73}</string>
 		</dict>
+		<key>Sasori_R_skill01_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{645,1302},{34,78}}</string>
+			<key>offset</key>
+			<string>{-1.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{34,78}}</string>
+			<key>sourceSize</key>
+			<string>{34,78}</string>
+		</dict>
+		<key>Sasori_R_skill01_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{681,1302},{34,78}}</string>
+			<key>offset</key>
+			<string>{-1.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{34,78}}</string>
+			<key>sourceSize</key>
+			<string>{34,78}</string>
+		</dict>
+		<key>Sasori_R_skill01_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{717,1302},{39,78}}</string>
+			<key>offset</key>
+			<string>{5.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{39,78}}</string>
+			<key>sourceSize</key>
+			<string>{39,78}</string>
+		</dict>
+		<key>Sasori_R_skill01_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{758,1302},{42,78}}</string>
+			<key>offset</key>
+			<string>{4,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{42,78}}</string>
+			<key>sourceSize</key>
+			<string>{42,78}</string>
+		</dict>
+		<key>Sasori_R_skill01_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{802,1302},{39,78}}</string>
+			<key>offset</key>
+			<string>{5.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{39,78}}</string>
+			<key>sourceSize</key>
+			<string>{39,78}</string>
+		</dict>
 		<key>Sasori_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{353,1302},{36,76}}</string>
+			<string>{{1456,1302},{36,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -384,7 +449,7 @@
 		<key>Sasori_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{88,1603},{44,67}}</string>
+			<string>{{1670,1621},{44,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -524,10 +589,270 @@
 			<key>sourceSize</key>
 			<string>{255,130}</string>
 		</dict>
+		<key>Sasori_R_skill03_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1332,1695},{51,52}}</string>
+			<key>offset</key>
+			<string>{-3.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{51,52}}</string>
+			<key>sourceSize</key>
+			<string>{51,52}</string>
+		</dict>
+		<key>Sasori_R_skill03_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1757,1302},{49,75}}</string>
+			<key>offset</key>
+			<string>{-3.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{49,75}}</string>
+			<key>sourceSize</key>
+			<string>{49,75}</string>
+		</dict>
+		<key>Sasori_R_skill03_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1549,1167},{56,112}}</string>
+			<key>offset</key>
+			<string>{0.5,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{56,112}}</string>
+			<key>sourceSize</key>
+			<string>{56,112}</string>
+		</dict>
+		<key>Sasori_R_skill03_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1653,1167},{55,104}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{55,104}}</string>
+			<key>sourceSize</key>
+			<string>{55,104}</string>
+		</dict>
+		<key>Sasori_R_skill03_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1607,1167},{44,105}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{44,105}}</string>
+			<key>sourceSize</key>
+			<string>{44,105}</string>
+		</dict>
+		<key>Sasori_R_skill03_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1811,1621},{48,66}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{48,66}}</string>
+			<key>sourceSize</key>
+			<string>{48,66}</string>
+		</dict>
+		<key>Sasori_R_skill03_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1861,1621},{50,66}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{50,66}}</string>
+			<key>sourceSize</key>
+			<string>{50,66}</string>
+		</dict>
+		<key>Sasori_R_skill03_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1962,1621},{52,65}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{52,65}}</string>
+			<key>sourceSize</key>
+			<string>{52,65}</string>
+		</dict>
+		<key>Sasori_R_skill03_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{156,1695},{51,64}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{51,64}}</string>
+			<key>sourceSize</key>
+			<string>{51,64}</string>
+		</dict>
+		<key>Sasori_R_skill03_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1695},{50,65}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{50,65}}</string>
+			<key>sourceSize</key>
+			<string>{50,65}</string>
+		</dict>
+		<key>Sasori_R_skill03_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145,1302},{247,84}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{247,84}}</string>
+			<key>sourceSize</key>
+			<string>{247,84}</string>
+		</dict>
+		<key>Sasori_R_skill03_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{394,1302},{249,82}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{249,82}}</string>
+			<key>sourceSize</key>
+			<string>{249,82}</string>
+		</dict>
+		<key>Sasori_R_skill03_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{209,1695},{51,64}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{51,64}}</string>
+			<key>sourceSize</key>
+			<string>{51,64}</string>
+		</dict>
+		<key>Sasori_R_skill03_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{52,1695},{50,65}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{50,65}}</string>
+			<key>sourceSize</key>
+			<string>{50,65}</string>
+		</dict>
+		<key>Sasori_R_skill03_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1396},{245,75}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{245,75}}</string>
+			<key>sourceSize</key>
+			<string>{245,75}</string>
+		</dict>
+		<key>Sasori_R_skill03_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{843,1302},{258,77}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{258,77}}</string>
+			<key>sourceSize</key>
+			<string>{258,77}</string>
+		</dict>
+		<key>Sasori_R_skill03_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1716,1621},{47,67}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{47,67}}</string>
+			<key>sourceSize</key>
+			<string>{47,67}</string>
+		</dict>
+		<key>Sasori_R_skill03_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1303,1621},{47,69}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{47,69}}</string>
+			<key>sourceSize</key>
+			<string>{47,69}</string>
+		</dict>
+		<key>Sasori_R_skill03_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1352,1621},{47,69}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{47,69}}</string>
+			<key>sourceSize</key>
+			<string>{47,69}</string>
+		</dict>
+		<key>Sasori_R_skill03_20</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1913,1621},{47,66}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{47,66}}</string>
+			<key>sourceSize</key>
+			<string>{47,66}</string>
+		</dict>
 		<key>Sasori_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{391,1302},{39,76}}</string>
+			<string>{{1494,1302},{39,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -540,7 +865,7 @@
 		<key>Sasori_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1549,1167},{143,92}}</string>
+			<string>{{1710,1167},{143,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -644,7 +969,7 @@
 		<key>Sasori_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1694,1167},{143,92}}</string>
+			<string>{{1855,1167},{143,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -735,7 +1060,7 @@
 		<key>Sasori_R_skill04_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1839,1167},{143,92}}</string>
+			<string>{{0,1302},{143,92}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -748,7 +1073,7 @@
 		<key>Sasori_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{432,1302},{40,76}}</string>
+			<string>{{1535,1302},{40,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -761,7 +1086,7 @@
 		<key>Sasori_R_skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{134,1603},{44,67}}</string>
+			<string>{{1765,1621},{44,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -774,7 +1099,7 @@
 		<key>Sasori_R_skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1302},{65,77}}</string>
+			<string>{{1103,1302},{65,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -787,7 +1112,7 @@
 		<key>Sasori_R_skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{67,1302},{58,77}}</string>
+			<string>{{1170,1302},{58,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -800,7 +1125,7 @@
 		<key>Sasori_R_skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{127,1302},{45,77}}</string>
+			<string>{{1230,1302},{45,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -813,7 +1138,7 @@
 		<key>Sasori_R_skill05_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{174,1302},{45,77}}</string>
+			<string>{{1277,1302},{45,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -826,7 +1151,7 @@
 		<key>Sasori_R_skill05_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1011,1302},{58,72}}</string>
+			<string>{{604,1396},{58,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -839,7 +1164,7 @@
 		<key>Sasori_R_skill05_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1071,1302},{58,72}}</string>
+			<string>{{664,1396},{58,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -852,7 +1177,7 @@
 		<key>Sasori_R_skill05_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1131,1302},{59,72}}</string>
+			<string>{{724,1396},{59,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -865,7 +1190,7 @@
 		<key>Sasori_R_skill05_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1192,1302},{561,72}}</string>
+			<string>{{785,1396},{561,72}}</string>
 			<key>offset</key>
 			<string>{251,0}</string>
 			<key>rotated</key>
@@ -878,7 +1203,7 @@
 		<key>Sasori_R_skill05_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1381},{561,72}}</string>
+			<string>{{1348,1396},{561,72}}</string>
 			<key>offset</key>
 			<string>{251,0}</string>
 			<key>rotated</key>
@@ -891,7 +1216,7 @@
 		<key>Sasori_R_skill05_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{563,1381},{559,72}}</string>
+			<string>{{0,1473},{559,72}}</string>
 			<key>offset</key>
 			<string>{250.5,0}</string>
 			<key>rotated</key>
@@ -904,7 +1229,7 @@
 		<key>Sasori_R_skill05_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1124,1381},{559,72}}</string>
+			<string>{{561,1473},{559,72}}</string>
 			<key>offset</key>
 			<string>{250.5,0}</string>
 			<key>rotated</key>
@@ -917,7 +1242,7 @@
 		<key>Sasori_R_skill05_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1455},{559,72}}</string>
+			<string>{{1122,1473},{559,72}}</string>
 			<key>offset</key>
 			<string>{250.5,0}</string>
 			<key>rotated</key>
@@ -930,7 +1255,7 @@
 		<key>Sasori_R_skill05_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{561,1455},{59,72}}</string>
+			<string>{{1683,1473},{59,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -943,7 +1268,7 @@
 		<key>Sasori_R_skill05_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{622,1455},{561,72}}</string>
+			<string>{{0,1547},{561,72}}</string>
 			<key>offset</key>
 			<string>{251,0}</string>
 			<key>rotated</key>
@@ -956,7 +1281,7 @@
 		<key>Sasori_R_skill05_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1185,1455},{561,72}}</string>
+			<string>{{563,1547},{561,72}}</string>
 			<key>offset</key>
 			<string>{251,0}</string>
 			<key>rotated</key>
@@ -969,7 +1294,7 @@
 		<key>Sasori_R_skill05_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1529},{559,72}}</string>
+			<string>{{1126,1547},{559,72}}</string>
 			<key>offset</key>
 			<string>{250.5,0}</string>
 			<key>rotated</key>
@@ -982,7 +1307,7 @@
 		<key>Sasori_R_skill05_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{561,1529},{559,72}}</string>
+			<string>{{0,1621},{559,72}}</string>
 			<key>offset</key>
 			<string>{250.5,0}</string>
 			<key>rotated</key>
@@ -995,7 +1320,7 @@
 		<key>Sasori_R_skill05_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1122,1529},{559,72}}</string>
+			<string>{{561,1621},{559,72}}</string>
 			<key>offset</key>
 			<string>{250.5,0}</string>
 			<key>rotated</key>
@@ -1008,7 +1333,7 @@
 		<key>Sasori_R_skill05_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1683,1529},{59,72}}</string>
+			<string>{{1122,1621},{59,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1346,7 @@
 		<key>Sasori_R_skill05_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1744,1529},{58,72}}</string>
+			<string>{{1183,1621},{58,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1359,7 @@
 		<key>Sasori_R_skill05_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1804,1529},{58,72}}</string>
+			<string>{{1243,1621},{58,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1047,7 +1372,7 @@
 		<key>Sasori_R_skill05_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{221,1302},{45,77}}</string>
+			<string>{{1324,1302},{45,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1060,7 +1385,7 @@
 		<key>Sasori_R_skill05_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{474,1302},{40,76}}</string>
+			<string>{{1577,1302},{40,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1073,7 +1398,7 @@
 		<key>Sasori_R_skill05_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{516,1302},{40,76}}</string>
+			<string>{{1619,1302},{40,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1086,7 +1411,7 @@
 		<key>Sasori_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{578,1603},{65,56}}</string>
+			<string>{{608,1695},{65,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1099,7 +1424,7 @@
 		<key>Sasori_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{645,1603},{69,56}}</string>
+			<string>{{675,1695},{69,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1112,7 +1437,7 @@
 		<key>Sasori_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{350,1603},{55,59}}</string>
+			<string>{{380,1695},{55,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1125,7 +1450,7 @@
 		<key>Sasori_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{716,1603},{65,56}}</string>
+			<string>{{746,1695},{65,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1138,7 +1463,7 @@
 		<key>Sasori_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{783,1603},{69,56}}</string>
+			<string>{{813,1695},{69,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1151,7 +1476,7 @@
 		<key>Sasori_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{407,1603},{55,59}}</string>
+			<string>{{437,1695},{55,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1164,7 +1489,7 @@
 		<key>Sasori_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{854,1603},{65,56}}</string>
+			<string>{{884,1695},{65,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1177,7 +1502,7 @@
 		<key>Sasori_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{921,1603},{69,56}}</string>
+			<string>{{951,1695},{69,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1190,7 +1515,7 @@
 		<key>Sasori_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{464,1603},{55,59}}</string>
+			<string>{{494,1695},{55,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1203,7 +1528,7 @@
 		<key>Sasori_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{992,1603},{65,56}}</string>
+			<string>{{1022,1695},{65,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1216,7 +1541,7 @@
 		<key>Sasori_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1059,1603},{69,56}}</string>
+			<string>{{1089,1695},{69,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1229,7 +1554,7 @@
 		<key>Sasori_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{521,1603},{55,59}}</string>
+			<string>{{551,1695},{55,59}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>

@@ -112,37 +112,24 @@
 			<p type="cd">25</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Kimimaro/Kimimaro_skill3.ogg</e>
-			<f>Kimimaro_Skill03_01</f>
-			<e type="setAttackBox">c_hit</e>
+			<e type="setSound">Audio/JuubiObito/k_skill3.ogg</e>
+			<f>JuubiObito_R_skill03_01</f><e type="setAttackBox">c_hit</e>
 			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
 			<e type="setMove">32</e>
-			<f>Kimimaro_Skill03_02</f>
-			<f>Kimimaro_Skill03_03</f>
 			<e type="setAttackBox">l_hit</e>
 			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
-			<f>Kimimaro_Skill03_04</f>
-			<e type="setMove">16</e>
-			<f>Kimimaro_Skill03_05</f>
+			<f>JuubiObito_R_skill03_02</f><e type="setMove">16</e>
 			<e type="setAttackBox">c_hit</e>
 			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
-			<f>Kimimaro_Skill03_06</f>
-			<f>Kimimaro_Skill03_07</f>
-			<e type="setAttackBox">l_hit</e>
+			<f>JuubiObito_R_skill03_03</f><e type="setAttackBox">l_hit</e>
 			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
 			<e type="setMove">16</e>
-			<f>Kimimaro_Skill03_08</f>
-			<f>Kimimaro_Skill03_09</f>
-			<e type="setAttackBox">c_hit</e>
+			<f>JuubiObito_R_skill03_04</f><e type="setAttackBox">c_hit</e>
 			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
-			<f>Kimimaro_Skill03_10</f>
-			<e type="setMove">16</e>
-			<f>Kimimaro_Skill03_11</f>
+			<f>JuubiObito_R_skill03_05</f><e type="setMove">16</e>
 			<e type="setAttackBox">l_hit</e>
 			<e type="setSound">Audio/Effect/blade_damage2.ogg</e>
-			<f>Kimimaro_Skill03_12</f>
-			<f>Kimimaro_Skill03_13</f>
-		</frame>
+			<f>JuubiObito_R_skill03_06</f></frame>
 	</action>
 
 	<action name="skill04">
@@ -177,31 +164,14 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>Kimimaro_Skill05_001</f>
-			<e type="setCommand">setInvincible</e>
+			<f>JuubiObito_R_skill05_01</f><e type="setCommand">setInvincible</e>
 			<e type="setOugis">10</e>
-			<f>Kimimaro_Skill05_002</f>
-			<f>Kimimaro_Skill05_01</f>
-			<f>Kimimaro_Skill05_02</f>
-			<f>Kimimaro_Skill05_03</f>
-			<e type="setSound">Audio/Kimimaro/Kimimaro_skill5.ogg</e>
-			<f>Kimimaro_Skill05_04</f>
-			<f>Kimimaro_Skill05_05</f>
-			<f>Kimimaro_Skill05_06</f>
-			<e type="setAttackBox">c_hit</e>
-			<f>Kimimaro_Skill05_07</f>
-			<e type="setAttackBox">c_hit</e>
-			<f>Kimimaro_Skill05_08</f>
-			<e type="setAttackBox">c_hit</e>
-			<f>Kimimaro_Skill05_09</f>
-			<e type="setAttackBox">c_hit</e>
-			<f>Kimimaro_Skill05_04</f>
-			<f>Kimimaro_Skill05_03</f>
-			<f>Kimimaro_Skill05_02</f>
-			<f>Kimimaro_Skill05_01</f>
-			<f>Kimimaro_Skill05_10</f>
-			
-			<e type="setCommand">reInvincible</e>
+			<f>JuubiObito_R_skill05_02</f><f>JuubiObito_R_skill05_03</f><f>JuubiObito_R_skill05_04</f><f>JuubiObito_R_skill05_05</f><f>JuubiObito_R_skill05_06</f><e type="setSound">Audio/JuubiObito/k_skill5_1.ogg</e>
+			<f>JuubiObito_R_skill05_07</f><f>JuubiObito_R_skill05_08</f><f>JuubiObito_R_skill05_09</f><f>JuubiObito_R_skill05_10</f><e type="setAttackBox">c_hit</e>
+			<f>JuubiObito_R_skill05_11</f><e type="setAttackBox">c_hit</e>
+			<f>JuubiObito_R_skill05_12</f><e type="setAttackBox">c_hit</e>
+			<f>JuubiObito_R_skill05_13</f><e type="setAttackBox">c_hit</e>
+			<f>JuubiObito_R_skill05_14</f><f>JuubiObito_R_skill05_15</f><f>JuubiObito_R_skill05_16</f><f>JuubiObito_R_skill05_17</f><f>JuubiObito_R_skill05_18</f><f>JuubiObito_R_skill05_19</f><e type="setCommand">reInvincible</e>
 		</frame>
 	</action>
 

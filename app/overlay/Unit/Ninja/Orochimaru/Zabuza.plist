@@ -852,6 +852,19 @@
 		<key>Zabuza_R_skill04_05</key>
 		<dict>
 			<key>frame</key>
+			<string>{{799,1594},{1,1}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1,1}}</string>
+			<key>sourceSize</key>
+			<string>{1,1}</string>
+		</dict>
+		<key>Zabuza_R_skill04_06</key>
+		<dict>
+			<key>frame</key>
 			<string>{{0,1378},{192,128}}</string>
 			<key>offset</key>
 			<string>{0,-20}</string>
@@ -862,7 +875,7 @@
 			<key>sourceSize</key>
 			<string>{192,128}</string>
 		</dict>
-		<key>Zabuza_R_skill04_06</key>
+		<key>Zabuza_R_skill04_07</key>
 		<dict>
 			<key>frame</key>
 			<string>{{194,1378},{320,127}}</string>
@@ -875,7 +888,7 @@
 			<key>sourceSize</key>
 			<string>{320,127}</string>
 		</dict>
-		<key>Zabuza_R_skill04_07</key>
+		<key>Zabuza_R_skill04_08</key>
 		<dict>
 			<key>frame</key>
 			<string>{{516,1378},{462,126}}</string>
@@ -888,7 +901,7 @@
 			<key>sourceSize</key>
 			<string>{462,126}</string>
 		</dict>
-		<key>Zabuza_R_skill04_08</key>
+		<key>Zabuza_R_skill04_09</key>
 		<dict>
 			<key>frame</key>
 			<string>{{3073,1378},{532,93}}</string>
@@ -901,7 +914,7 @@
 			<key>sourceSize</key>
 			<string>{532,93}</string>
 		</dict>
-		<key>Zabuza_R_skill04_09</key>
+		<key>Zabuza_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
 			<string>{{2288,1378},{557,99}}</string>
@@ -914,7 +927,7 @@
 			<key>sourceSize</key>
 			<string>{557,99}</string>
 		</dict>
-		<key>Zabuza_R_skill04_10</key>
+		<key>Zabuza_R_skill04_11</key>
 		<dict>
 			<key>frame</key>
 			<string>{{716,1594},{81,11}}</string>
@@ -927,7 +940,7 @@
 			<key>sourceSize</key>
 			<string>{81,11}</string>
 		</dict>
-		<key>Zabuza_R_skill04_11</key>
+		<key>Zabuza_R_skill04_12</key>
 		<dict>
 			<key>frame</key>
 			<string>{{638,1594},{76,27}}</string>
@@ -940,7 +953,7 @@
 			<key>sourceSize</key>
 			<string>{76,27}</string>
 		</dict>
-		<key>Zabuza_R_skill04_12</key>
+		<key>Zabuza_R_skill04_13</key>
 		<dict>
 			<key>frame</key>
 			<string>{{404,1594},{78,43}}</string>
@@ -953,7 +966,7 @@
 			<key>sourceSize</key>
 			<string>{78,43}</string>
 		</dict>
-		<key>Zabuza_R_skill04_13</key>
+		<key>Zabuza_R_skill04_14</key>
 		<dict>
 			<key>frame</key>
 			<string>{{883,1508},{65,78}}</string>
@@ -966,7 +979,7 @@
 			<key>sourceSize</key>
 			<string>{65,78}</string>
 		</dict>
-		<key>Zabuza_R_skill04_14</key>
+		<key>Zabuza_R_skill04_15</key>
 		<dict>
 			<key>frame</key>
 			<string>{{2476,1508},{50,67}}</string>
@@ -979,7 +992,7 @@
 			<key>sourceSize</key>
 			<string>{50,67}</string>
 		</dict>
-		<key>Zabuza_R_skill04_15</key>
+		<key>Zabuza_R_skill04_16</key>
 		<dict>
 			<key>frame</key>
 			<string>{{2528,1508},{50,67}}</string>
@@ -1320,6 +1333,19 @@
 		<key>Zabuza_R_skill05_26</key>
 		<dict>
 			<key>frame</key>
+			<string>{{802,1594},{1,1}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1,1}}</string>
+			<key>sourceSize</key>
+			<string>{1,1}</string>
+		</dict>
+		<key>Zabuza_R_skill05_27</key>
+		<dict>
+			<key>frame</key>
 			<string>{{0,0},{800,600}}</string>
 			<key>offset</key>
 			<string>{0,-250}</string>
@@ -1330,7 +1356,7 @@
 			<key>sourceSize</key>
 			<string>{800,600}</string>
 		</dict>
-		<key>Zabuza_R_skill05_27</key>
+		<key>Zabuza_R_skill05_28</key>
 		<dict>
 			<key>frame</key>
 			<string>{{802,0},{222,600}}</string>
@@ -1343,7 +1369,7 @@
 			<key>sourceSize</key>
 			<string>{800,600}</string>
 		</dict>
-		<key>Zabuza_R_skill05_28</key>
+		<key>Zabuza_R_skill05_29</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1026,0},{798,600}}</string>
@@ -1356,7 +1382,7 @@
 			<key>sourceSize</key>
 			<string>{800,600}</string>
 		</dict>
-		<key>Zabuza_R_skill05_29</key>
+		<key>Zabuza_R_skill05_30</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1826,0},{800,600}}</string>
@@ -1369,7 +1395,7 @@
 			<key>sourceSize</key>
 			<string>{800,600}</string>
 		</dict>
-		<key>Zabuza_R_skill05_30</key>
+		<key>Zabuza_R_skill05_31</key>
 		<dict>
 			<key>frame</key>
 			<string>{{2628,0},{224,600}}</string>
@@ -1382,7 +1408,7 @@
 			<key>sourceSize</key>
 			<string>{800,600}</string>
 		</dict>
-		<key>Zabuza_R_skill05_31</key>
+		<key>Zabuza_R_skill05_32</key>
 		<dict>
 			<key>frame</key>
 			<string>{{2854,0},{800,600}}</string>
@@ -1395,7 +1421,7 @@
 			<key>sourceSize</key>
 			<string>{800,600}</string>
 		</dict>
-		<key>Zabuza_R_skill05_32</key>
+		<key>Zabuza_R_skill05_33</key>
 		<dict>
 			<key>frame</key>
 			<string>{{0,602},{558,600}}</string>
@@ -1408,7 +1434,7 @@
 			<key>sourceSize</key>
 			<string>{800,600}</string>
 		</dict>
-		<key>Zabuza_R_skill05_33</key>
+		<key>Zabuza_R_skill05_34</key>
 		<dict>
 			<key>frame</key>
 			<string>{{3607,1378},{71,92}}</string>
@@ -1421,7 +1447,7 @@
 			<key>sourceSize</key>
 			<string>{71,92}</string>
 		</dict>
-		<key>Zabuza_R_skill05_34</key>
+		<key>Zabuza_R_skill05_35</key>
 		<dict>
 			<key>frame</key>
 			<string>{{3680,1378},{67,92}}</string>
@@ -1434,7 +1460,7 @@
 			<key>sourceSize</key>
 			<string>{67,92}</string>
 		</dict>
-		<key>Zabuza_R_skill05_35</key>
+		<key>Zabuza_R_skill05_36</key>
 		<dict>
 			<key>frame</key>
 			<string>{{3749,1378},{63,91}}</string>
@@ -1447,7 +1473,7 @@
 			<key>sourceSize</key>
 			<string>{63,91}</string>
 		</dict>
-		<key>Zabuza_R_skill05_36</key>
+		<key>Zabuza_R_skill05_37</key>
 		<dict>
 			<key>frame</key>
 			<string>{{677,1508},{52,80}}</string>
@@ -1460,7 +1486,7 @@
 			<key>sourceSize</key>
 			<string>{52,80}</string>
 		</dict>
-		<key>Zabuza_R_skill05_37</key>
+		<key>Zabuza_R_skill05_38</key>
 		<dict>
 			<key>frame</key>
 			<string>{{950,1508},{60,77}}</string>
@@ -1473,7 +1499,7 @@
 			<key>sourceSize</key>
 			<string>{60,77}</string>
 		</dict>
-		<key>Zabuza_R_skill05_38</key>
+		<key>Zabuza_R_skill05_39</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1012,1508},{56,77}}</string>
@@ -1486,7 +1512,7 @@
 			<key>sourceSize</key>
 			<string>{56,77}</string>
 		</dict>
-		<key>Zabuza_R_skill05_39</key>
+		<key>Zabuza_R_skill05_40</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1070,1508},{53,77}}</string>

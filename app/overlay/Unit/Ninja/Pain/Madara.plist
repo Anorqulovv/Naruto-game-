@@ -7,7 +7,7 @@
 		<key>Madara_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2937,2659},{58,85}}</string>
+			<string>{{620,5054},{58,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>Madara_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1418,2811},{83,58}}</string>
+			<string>{{3163,5054},{83,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Madara_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1730,2811},{93,46}}</string>
+			<string>{{3475,5054},{93,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>Madara_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2997,2659},{58,85}}</string>
+			<string>{{680,5054},{58,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Madara_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3057,2659},{58,85}}</string>
+			<string>{{740,5054},{58,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Madara_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1644,2811},{84,50}}</string>
+			<string>{{3389,5054},{84,50}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>Madara_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3117,2659},{59,85}}</string>
+			<string>{{800,5054},{59,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>Madara_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3178,2659},{59,85}}</string>
+			<string>{{861,5054},{59,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Madara_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2385,2659},{50,88}}</string>
+			<string>{{68,5054},{50,88}}</string>
 			<key>offset</key>
 			<string>{-2.5,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Madara_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2437,2659},{50,88}}</string>
+			<string>{{120,5054},{50,88}}</string>
 			<key>offset</key>
 			<string>{-2.5,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>Madara_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2489,2659},{50,88}}</string>
+			<string>{{172,5054},{50,88}}</string>
 			<key>offset</key>
 			<string>{-2.5,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Madara_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1503,2811},{83,58}}</string>
+			<string>{{3248,5054},{83,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Madara_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1825,2811},{93,46}}</string>
+			<string>{{3570,5054},{93,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>Madara_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1588,2811},{54,55}}</string>
+			<string>{{3333,5054},{54,55}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>Madara_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1339,2811},{77,60}}</string>
+			<string>{{3084,5054},{77,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>Madara_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1920,2659},{55,89}}</string>
+			<string>{{3639,4895},{55,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Madara_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3993,2659},{67,79}}</string>
+			<string>{{1676,5054},{67,79}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Madara_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2811},{67,79}}</string>
+			<string>{{1745,5054},{67,79}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>Madara_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{69,2811},{67,79}}</string>
+			<string>{{1814,5054},{67,79}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Madara_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2541,2659},{86,88}}</string>
+			<string>{{224,5054},{86,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>Madara_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2629,2659},{86,88}}</string>
+			<string>{{312,5054},{86,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Madara_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2717,2659},{86,88}}</string>
+			<string>{{400,5054},{86,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Madara_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2805,2659},{64,88}}</string>
+			<string>{{488,5054},{64,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>Madara_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2871,2659},{64,88}}</string>
+			<string>{{554,5054},{64,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Madara_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{138,2811},{62,78}}</string>
+			<string>{{1883,5054},{62,78}}</string>
 			<key>offset</key>
 			<string>{3,0}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>Madara_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1785,2260},{443,157}}</string>
+			<string>{{3632,4436},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>Madara_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2230,2260},{443,157}}</string>
+			<string>{{0,4736},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Madara_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2675,2260},{443,157}}</string>
+			<string>{{445,4736},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>Madara_R_skill01_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3120,2260},{443,157}}</string>
+			<string>{{890,4736},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>Madara_R_skill01_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3565,2260},{443,157}}</string>
+			<string>{{1335,4736},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>Madara_R_skill01_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2500},{443,157}}</string>
+			<string>{{1780,4736},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>Madara_R_skill01_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{445,2500},{443,157}}</string>
+			<string>{{2225,4736},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>Madara_R_skill01_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{890,2500},{443,157}}</string>
+			<string>{{2670,4736},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>Madara_R_skill01_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1335,2500},{443,157}}</string>
+			<string>{{3115,4736},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>Madara_R_skill01_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1780,2500},{443,157}}</string>
+			<string>{{3560,4736},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>Madara_R_skill01_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2225,2500},{443,157}}</string>
+			<string>{{0,4895},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>Madara_R_skill01_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2670,2500},{443,157}}</string>
+			<string>{{445,4895},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>Madara_R_skill01_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3115,2500},{443,157}}</string>
+			<string>{{890,4895},{443,157}}</string>
 			<key>offset</key>
 			<string>{193.5,-34}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>Madara_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3239,2659},{57,84}}</string>
+			<string>{{922,5054},{57,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>Madara_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3298,2659},{57,84}}</string>
+			<string>{{981,5054},{57,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>Madara_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3357,2659},{57,84}}</string>
+			<string>{{1040,5054},{57,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>Madara_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3416,2659},{57,84}}</string>
+			<string>{{1099,5054},{57,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>Madara_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1977,2659},{66,89}}</string>
+			<string>{{3696,4895},{66,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>Madara_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2045,2659},{66,89}}</string>
+			<string>{{3764,4895},{66,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>Madara_R_skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1126,2811},{69,72}}</string>
+			<string>{{2871,5054},{69,72}}</string>
 			<key>offset</key>
 			<string>{0,-4}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>Madara_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3475,2659},{57,84}}</string>
+			<string>{{1158,5054},{57,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>Madara_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3534,2659},{57,84}}</string>
+			<string>{{1217,5054},{57,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>Madara_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3593,2659},{57,84}}</string>
+			<string>{{1276,5054},{57,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>Madara_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3652,2659},{57,84}}</string>
+			<string>{{1335,5054},{57,84}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>Madara_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2113,2659},{66,89}}</string>
+			<string>{{3832,4895},{66,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>Madara_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2181,2659},{66,89}}</string>
+			<string>{{3900,4895},{66,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>Madara_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1197,2811},{69,72}}</string>
+			<string>{{2942,5054},{69,72}}</string>
 			<key>offset</key>
 			<string>{0,-4}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>Madara_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{626,1470},{381,317}}</string>
+			<string>{{1878,3627},{381,317}}</string>
 			<key>offset</key>
 			<string>{94,-49}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>Madara_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1009,1470},{381,317}}</string>
+			<string>{{2261,3627},{381,317}}</string>
 			<key>offset</key>
 			<string>{94,-49}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>Madara_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1392,1470},{381,317}}</string>
+			<string>{{2644,3627},{381,317}}</string>
 			<key>offset</key>
 			<string>{94,-49}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>Madara_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1775,1470},{381,317}}</string>
+			<string>{{3027,3627},{381,317}}</string>
 			<key>offset</key>
 			<string>{94,-49}</string>
 			<key>rotated</key>
@@ -735,7 +735,7 @@
 		<key>Madara_R_skill03_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2158,1470},{381,317}}</string>
+			<string>{{3410,3627},{381,317}}</string>
 			<key>offset</key>
 			<string>{94,-49}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>Madara_R_skill03_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2541,1470},{381,317}}</string>
+			<string>{{0,4117},{381,317}}</string>
 			<key>offset</key>
 			<string>{94,-49}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>Madara_R_skill03_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3711,2659},{92,83}}</string>
+			<string>{{1394,5054},{92,83}}</string>
 			<key>offset</key>
 			<string>{1.5,0}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>Madara_R_skill03_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3805,2659},{92,83}}</string>
+			<string>{{1488,5054},{92,83}}</string>
 			<key>offset</key>
 			<string>{1.5,0}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>Madara_R_skill03_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3899,2659},{92,83}}</string>
+			<string>{{1582,5054},{92,83}}</string>
 			<key>offset</key>
 			<string>{1.5,0}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>Madara_R_skill03_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3560,2500},{382,150}}</string>
+			<string>{{1335,4895},{382,150}}</string>
 			<key>offset</key>
 			<string>{3.5,-6}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>Madara_R_skill03_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2659},{382,150}}</string>
+			<string>{{1719,4895},{382,150}}</string>
 			<key>offset</key>
 			<string>{3.5,-6}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>Madara_R_skill03_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{384,2659},{382,150}}</string>
+			<string>{{2103,4895},{382,150}}</string>
 			<key>offset</key>
 			<string>{3.5,-6}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>Madara_R_skill03_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{768,2659},{382,150}}</string>
+			<string>{{2487,4895},{382,150}}</string>
 			<key>offset</key>
 			<string>{3.5,-6}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>Madara_R_skill03_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1152,2659},{382,150}}</string>
+			<string>{{2871,4895},{382,150}}</string>
 			<key>offset</key>
 			<string>{3.5,-6}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>Madara_R_skill03_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1536,2659},{382,150}}</string>
+			<string>{{3255,4895},{382,150}}</string>
 			<key>offset</key>
 			<string>{3.5,-6}</string>
 			<key>rotated</key>
@@ -878,7 +878,7 @@
 		<key>Madara_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{624,488}}</string>
+			<string>{{1276,2085},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -891,7 +891,7 @@
 		<key>Madara_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{626,0},{624,488}}</string>
+			<string>{{1902,2085},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -904,7 +904,7 @@
 		<key>Madara_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1252,0},{624,488}}</string>
+			<string>{{2528,2085},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -917,7 +917,7 @@
 		<key>Madara_R_skill04_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1878,0},{624,488}}</string>
+			<string>{{3154,2085},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -930,7 +930,7 @@
 		<key>Madara_R_skill04_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2504,0},{624,488}}</string>
+			<string>{{0,2647},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -943,7 +943,7 @@
 		<key>Madara_R_skill04_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3130,0},{624,488}}</string>
+			<string>{{626,2647},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -956,7 +956,7 @@
 		<key>Madara_R_skill04_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,490},{624,488}}</string>
+			<string>{{1252,2647},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -969,7 +969,7 @@
 		<key>Madara_R_skill04_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{626,490},{624,488}}</string>
+			<string>{{1878,2647},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -982,7 +982,7 @@
 		<key>Madara_R_skill04_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1252,490},{624,488}}</string>
+			<string>{{2504,2647},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -995,7 +995,7 @@
 		<key>Madara_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1878,490},{624,488}}</string>
+			<string>{{3130,2647},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -1008,7 +1008,7 @@
 		<key>Madara_R_skill04_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2504,490},{624,488}}</string>
+			<string>{{0,3137},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -1021,7 +1021,7 @@
 		<key>Madara_R_skill04_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3130,490},{624,488}}</string>
+			<string>{{626,3137},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -1034,7 +1034,7 @@
 		<key>Madara_R_skill04_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,980},{624,488}}</string>
+			<string>{{1252,3137},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -1047,7 +1047,7 @@
 		<key>Madara_R_skill04_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{626,980},{624,488}}</string>
+			<string>{{1878,3137},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -1060,7 +1060,7 @@
 		<key>Madara_R_skill04_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1252,980},{624,488}}</string>
+			<string>{{2504,3137},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -1073,7 +1073,7 @@
 		<key>Madara_R_skill04_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1878,980},{624,488}}</string>
+			<string>{{3130,3137},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -1086,7 +1086,7 @@
 		<key>Madara_R_skill04_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2504,980},{624,488}}</string>
+			<string>{{0,3627},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -1099,7 +1099,7 @@
 		<key>Madara_R_skill04_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3130,980},{624,488}}</string>
+			<string>{{626,3627},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -1112,7 +1112,7 @@
 		<key>Madara_R_skill04_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1470},{624,488}}</string>
+			<string>{{1252,3627},{624,488}}</string>
 			<key>offset</key>
 			<string>{101.5,-155}</string>
 			<key>rotated</key>
@@ -1125,20 +1125,202 @@
 		<key>Madara_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2249,2659},{66,89}}</string>
+			<string>{{1834,1390},{636,560}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{-18.5,-256}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{66,89}}</string>
+			<string>{{0,0},{636,560}}</string>
 			<key>sourceSize</key>
-			<string>{66,89}</string>
+			<string>{363,560}</string>
 		</dict>
 		<key>Madara_R_skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2317,2659},{66,89}}</string>
+			<string>{{2472,1390},{636,560}}</string>
+			<key>offset</key>
+			<string>{-18.5,-256}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{636,560}}</string>
+			<key>sourceSize</key>
+			<string>{363,560}</string>
+		</dict>
+		<key>Madara_R_skill05_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3110,1390},{636,560}}</string>
+			<key>offset</key>
+			<string>{-18.5,-256}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{636,560}}</string>
+			<key>sourceSize</key>
+			<string>{363,560}</string>
+		</dict>
+		<key>Madara_R_skill05_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,2085},{636,560}}</string>
+			<key>offset</key>
+			<string>{-18.5,-256}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{636,560}}</string>
+			<key>sourceSize</key>
+			<string>{363,560}</string>
+		</dict>
+		<key>Madara_R_skill05_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{638,2085},{636,560}}</string>
+			<key>offset</key>
+			<string>{-18.5,-256}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{636,560}}</string>
+			<key>sourceSize</key>
+			<string>{363,560}</string>
+		</dict>
+		<key>Madara_R_skill05_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>offset</key>
+			<string>{188,-254}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>sourceSize</key>
+			<string>{915,693}</string>
+		</dict>
+		<key>Madara_R_skill05_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{917,0},{915,693}}</string>
+			<key>offset</key>
+			<string>{188,-254}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>sourceSize</key>
+			<string>{915,693}</string>
+		</dict>
+		<key>Madara_R_skill05_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1834,0},{915,693}}</string>
+			<key>offset</key>
+			<string>{188,-254}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>sourceSize</key>
+			<string>{915,693}</string>
+		</dict>
+		<key>Madara_R_skill05_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2751,0},{915,693}}</string>
+			<key>offset</key>
+			<string>{188,-254}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>sourceSize</key>
+			<string>{915,693}</string>
+		</dict>
+		<key>Madara_R_skill05_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,695},{915,693}}</string>
+			<key>offset</key>
+			<string>{188,-254}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>sourceSize</key>
+			<string>{915,693}</string>
+		</dict>
+		<key>Madara_R_skill05_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{917,695},{915,693}}</string>
+			<key>offset</key>
+			<string>{188,-254}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>sourceSize</key>
+			<string>{915,693}</string>
+		</dict>
+		<key>Madara_R_skill05_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1834,695},{915,693}}</string>
+			<key>offset</key>
+			<string>{188,-254}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>sourceSize</key>
+			<string>{915,693}</string>
+		</dict>
+		<key>Madara_R_skill05_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2751,695},{915,693}}</string>
+			<key>offset</key>
+			<string>{188,-254}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>sourceSize</key>
+			<string>{915,693}</string>
+		</dict>
+		<key>Madara_R_skill05_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1390},{915,693}}</string>
+			<key>offset</key>
+			<string>{188,-254}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>sourceSize</key>
+			<string>{915,693}</string>
+		</dict>
+		<key>Madara_R_skill05_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{917,1390},{915,693}}</string>
+			<key>offset</key>
+			<string>{188,-254}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{915,693}}</string>
+			<key>sourceSize</key>
+			<string>{915,693}</string>
+		</dict>
+		<key>Madara_R_skill05_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3968,4895},{66,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1148,10 +1330,23 @@
 			<key>sourceSize</key>
 			<string>{66,89}</string>
 		</dict>
-		<key>Madara_R_skill05_03</key>
+		<key>Madara_R_skill05_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1268,2811},{69,72}}</string>
+			<string>{{0,5054},{66,89}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{66,89}}</string>
+			<key>sourceSize</key>
+			<string>{66,89}</string>
+		</dict>
+		<key>Madara_R_skill05_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3013,5054},{69,72}}</string>
 			<key>offset</key>
 			<string>{0,-4}</string>
 			<key>rotated</key>
@@ -1161,10 +1356,10 @@
 			<key>sourceSize</key>
 			<string>{69,72}</string>
 		</dict>
-		<key>Madara_R_skill05_04</key>
+		<key>Madara_R_skill05_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3725,1960},{355,238}}</string>
+			<string>{{1490,4436},{355,238}}</string>
 			<key>offset</key>
 			<string>{-90,0}</string>
 			<key>rotated</key>
@@ -1174,10 +1369,10 @@
 			<key>sourceSize</key>
 			<string>{355,238}</string>
 		</dict>
-		<key>Madara_R_skill05_05</key>
+		<key>Madara_R_skill05_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2260},{355,238}}</string>
+			<string>{{1847,4436},{355,238}}</string>
 			<key>offset</key>
 			<string>{-90,0}</string>
 			<key>rotated</key>
@@ -1187,10 +1382,10 @@
 			<key>sourceSize</key>
 			<string>{355,238}</string>
 		</dict>
-		<key>Madara_R_skill05_06</key>
+		<key>Madara_R_skill05_21</key>
 		<dict>
 			<key>frame</key>
-			<string>{{357,2260},{355,238}}</string>
+			<string>{{2204,4436},{355,238}}</string>
 			<key>offset</key>
 			<string>{-90,0}</string>
 			<key>rotated</key>
@@ -1200,10 +1395,10 @@
 			<key>sourceSize</key>
 			<string>{355,238}</string>
 		</dict>
-		<key>Madara_R_skill05_07</key>
+		<key>Madara_R_skill05_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{714,2260},{355,238}}</string>
+			<string>{{2561,4436},{355,238}}</string>
 			<key>offset</key>
 			<string>{-90,0}</string>
 			<key>rotated</key>
@@ -1213,10 +1408,10 @@
 			<key>sourceSize</key>
 			<string>{355,238}</string>
 		</dict>
-		<key>Madara_R_skill05_08</key>
+		<key>Madara_R_skill05_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1071,2260},{355,238}}</string>
+			<string>{{2918,4436},{355,238}}</string>
 			<key>offset</key>
 			<string>{-90,0}</string>
 			<key>rotated</key>
@@ -1226,10 +1421,10 @@
 			<key>sourceSize</key>
 			<string>{355,238}</string>
 		</dict>
-		<key>Madara_R_skill05_09</key>
+		<key>Madara_R_skill05_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1428,2260},{355,238}}</string>
+			<string>{{3275,4436},{355,238}}</string>
 			<key>offset</key>
 			<string>{-90,0}</string>
 			<key>rotated</key>
@@ -1239,10 +1434,10 @@
 			<key>sourceSize</key>
 			<string>{355,238}</string>
 		</dict>
-		<key>Madara_R_skill05_10</key>
+		<key>Madara_R_skill05_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2924,1470},{743,298}}</string>
+			<string>{{383,4117},{743,298}}</string>
 			<key>offset</key>
 			<string>{104,-60}</string>
 			<key>rotated</key>
@@ -1252,10 +1447,10 @@
 			<key>sourceSize</key>
 			<string>{743,298}</string>
 		</dict>
-		<key>Madara_R_skill05_11</key>
+		<key>Madara_R_skill05_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1960},{743,298}}</string>
+			<string>{{1128,4117},{743,298}}</string>
 			<key>offset</key>
 			<string>{104,-60}</string>
 			<key>rotated</key>
@@ -1265,10 +1460,10 @@
 			<key>sourceSize</key>
 			<string>{743,298}</string>
 		</dict>
-		<key>Madara_R_skill05_12</key>
+		<key>Madara_R_skill05_27</key>
 		<dict>
 			<key>frame</key>
-			<string>{{745,1960},{743,298}}</string>
+			<string>{{1873,4117},{743,298}}</string>
 			<key>offset</key>
 			<string>{104,-60}</string>
 			<key>rotated</key>
@@ -1278,10 +1473,10 @@
 			<key>sourceSize</key>
 			<string>{743,298}</string>
 		</dict>
-		<key>Madara_R_skill05_13</key>
+		<key>Madara_R_skill05_28</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1490,1960},{743,298}}</string>
+			<string>{{2618,4117},{743,298}}</string>
 			<key>offset</key>
 			<string>{104,-60}</string>
 			<key>rotated</key>
@@ -1291,10 +1486,10 @@
 			<key>sourceSize</key>
 			<string>{743,298}</string>
 		</dict>
-		<key>Madara_R_skill05_14</key>
+		<key>Madara_R_skill05_29</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2235,1960},{743,298}}</string>
+			<string>{{0,4436},{743,298}}</string>
 			<key>offset</key>
 			<string>{104,-60}</string>
 			<key>rotated</key>
@@ -1304,10 +1499,10 @@
 			<key>sourceSize</key>
 			<string>{743,298}</string>
 		</dict>
-		<key>Madara_R_skill05_15</key>
+		<key>Madara_R_skill05_30</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2980,1960},{743,298}}</string>
+			<string>{{745,4436},{743,298}}</string>
 			<key>offset</key>
 			<string>{104,-60}</string>
 			<key>rotated</key>
@@ -1320,7 +1515,7 @@
 		<key>Madara_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{202,2811},{75,77}}</string>
+			<string>{{1947,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -1333,7 +1528,7 @@
 		<key>Madara_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{279,2811},{75,77}}</string>
+			<string>{{2024,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1346,7 +1541,7 @@
 		<key>Madara_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{356,2811},{75,77}}</string>
+			<string>{{2101,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -1359,7 +1554,7 @@
 		<key>Madara_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{433,2811},{75,77}}</string>
+			<string>{{2178,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -1372,7 +1567,7 @@
 		<key>Madara_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{510,2811},{75,77}}</string>
+			<string>{{2255,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1385,7 +1580,7 @@
 		<key>Madara_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{587,2811},{75,77}}</string>
+			<string>{{2332,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -1398,7 +1593,7 @@
 		<key>Madara_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{664,2811},{75,77}}</string>
+			<string>{{2409,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -1411,7 +1606,7 @@
 		<key>Madara_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{741,2811},{75,77}}</string>
+			<string>{{2486,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1424,7 +1619,7 @@
 		<key>Madara_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{818,2811},{75,77}}</string>
+			<string>{{2563,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -1437,7 +1632,7 @@
 		<key>Madara_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{895,2811},{75,77}}</string>
+			<string>{{2640,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -1450,7 +1645,7 @@
 		<key>Madara_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{972,2811},{75,77}}</string>
+			<string>{{2717,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1463,7 +1658,7 @@
 		<key>Madara_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1049,2811},{75,77}}</string>
+			<string>{{2794,5054},{75,77}}</string>
 			<key>offset</key>
 			<string>{2,0}</string>
 			<key>rotated</key>
@@ -1481,7 +1676,7 @@
 		<key>realTextureFileName</key>
 		<string>Madara.png</string>
 		<key>size</key>
-		<string>{4096,4096}</string>
+		<string>{4096,8192}</string>
 		<key>textureFileName</key>
 		<string>Madara.png</string>
 	</dict>

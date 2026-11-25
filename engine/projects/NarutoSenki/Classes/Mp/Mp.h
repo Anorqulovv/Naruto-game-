@@ -51,6 +51,7 @@ namespace mp
 	// engine hooks (CCDirector / CCTime)
 	bool stepGate();
 	void afterStep();
+	bool catchUp(); // a client behind the host may run extra frames now
 	bool virtualTime(cocos2d::cc_timeval *tv);
 	void appPaused(bool paused);
 

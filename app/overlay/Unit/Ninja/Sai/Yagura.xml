@@ -149,14 +149,14 @@
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
 			<e type="setCommand">setInvincible</e>
-			<f>Yagura_R_skill05_01</f><e type="setOugis">10</e>
+			<f>Yagura_R_skill05_01</f><f>Yagura_R_skill05_02</f><f>Yagura_R_skill05_03</f><f>Yagura_R_skill05_04</f><f>Yagura_R_skill05_05</f><f>Yagura_R_skill05_06</f><e type="setOugis">10</e>
 			<e type="setDelay">10</e>
-			<e type="setMove">16</e>
+			<f>Yagura_R_skill05_07</f><f>Yagura_R_skill05_08</f><f>Yagura_R_skill05_09</f><f>Yagura_R_skill05_10</f><f>Yagura_R_skill05_11</f><f>Yagura_R_skill05_12</f><e type="setMove">16</e>
 			<e type="setDelay">10</e>
-			<f>Yagura_R_skill05_02</f><e type="setAttackBox">o2_hit</e>
+			<f>Yagura_R_skill05_13</f><f>Yagura_R_skill05_14</f><f>Yagura_R_skill05_15</f><f>Yagura_R_skill05_16</f><f>Yagura_R_skill05_17</f><f>Yagura_R_skill05_18</f><e type="setAttackBox">o2_hit</e>
 			<e type="setDSound">Audio/Effect/damage_o.ogg</e>
 			<e type="setDelay">20</e>
-			<f>Yagura_R_skill05_03</f><f>Yagura_R_skill05_04</f><f>Yagura_R_skill05_05</f><e type="setMon">InkDragon</e>
+			<f>Yagura_R_skill05_19</f><f>Yagura_R_skill05_20</f><f>Yagura_R_skill05_21</f><f>Yagura_R_skill05_22</f><f>Yagura_R_skill05_23</f><f>Yagura_R_skill05_24</f><f>Yagura_R_skill05_25</f><f>Yagura_R_skill05_26</f><f>Yagura_R_skill05_27</f><f>Yagura_R_skill05_28</f><f>Yagura_R_skill05_29</f><f>Yagura_R_skill05_30</f><f>Yagura_R_skill05_31</f><f>Yagura_R_skill05_32</f><f>Yagura_R_skill05_33</f><f>Yagura_R_skill05_34</f><f>Yagura_R_skill05_35</f><f>Yagura_R_skill05_36</f><f>Yagura_R_skill05_37</f><f>Yagura_R_skill05_38</f><f>Yagura_R_skill05_39</f><f>Yagura_R_skill05_40</f><f>Yagura_R_skill05_41</f><f>Yagura_R_skill05_42</f><f>Yagura_R_skill05_43</f><f>Yagura_R_skill05_44</f><f>Yagura_R_skill05_45</f><f>Yagura_R_skill05_46</f><f>Yagura_R_skill05_47</f><f>Yagura_R_skill05_48</f><f>Yagura_R_skill05_49</f><e type="setMon">InkDragon</e>
 			<e type="setCommand">reInvincible</e>
 		</frame>
 	</action>
@@ -181,11 +181,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Sai_Skill10_01</f>
-			<f>Sai_Skill10_02</f>
-			<f>Sai_Skill10_03</f>
-			<f>Sai_Skill10_04</f>
-			<e type="setMon">Snake</e>
+			<f>Yagura_R_skill10_01</f><f>Yagura_R_skill10_02</f><f>Yagura_R_skill10_03</f><f>Yagura_R_skill10_04</f><f>Yagura_R_skill10_05</f><f>Yagura_R_skill10_06</f><f>Yagura_R_skill10_07</f><f>Yagura_R_skill10_08</f><f>Yagura_R_skill10_09</f><f>Yagura_R_skill10_10</f><f>Yagura_R_skill10_11</f><f>Yagura_R_skill10_12</f><f>Yagura_R_skill10_13</f><f>Yagura_R_skill10_14</f><f>Yagura_R_skill10_15</f><f>Yagura_R_skill10_16</f><f>Yagura_R_skill10_17</f><f>Yagura_R_skill10_18</f><f>Yagura_R_skill10_19</f><e type="setMon">Snake</e>
 		</frame>
 	</action>
 
@@ -199,13 +195,7 @@
 		</data>
 		<frame>
 
-			<f>Sai_Skill11_01</f>
-			<f>Sai_Skill11_02</f>
-			<f>Sai_Skill11_03</f>
-			<f>Sai_Skill11_04</f>
-			<f>Sai_Skill11_05</f>
-			<f>Sai_Skill11_06</f>
-		</frame>
+			<f>Yagura_R_skill11_01</f><f>Yagura_R_skill11_02</f><f>Yagura_R_skill11_03</f><f>Yagura_R_skill11_04</f></frame>
 	</action>
 
 	<action name="skill12">
@@ -217,13 +207,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Sai_Skill12_01</f>
-			<f>Sai_Skill12_02</f>
-			<f>Sai_Skill12_03</f>
-			<f>Sai_Skill12_04</f>
-			<f>Sai_Skill12_05</f>
-			<f>Sai_Skill12_06</f>
-			<e type="setMon">Mouse</e>
+			<f>Yagura_R_skill12_01</f><f>Yagura_R_skill12_02</f><f>Yagura_R_skill12_03</f><f>Yagura_R_skill12_04</f><f>Yagura_R_skill12_05</f><f>Yagura_R_skill12_06</f><e type="setMon">Mouse</e>
 		</frame>
 	</action>
 </unit>

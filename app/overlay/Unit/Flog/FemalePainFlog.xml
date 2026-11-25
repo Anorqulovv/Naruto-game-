@@ -40,8 +40,8 @@
 
 	<action name="Float">
 		<frame>
-			<e type="setDelay">10</e>
-			<f>FemalePainFlog_R_float_01</f><e type="setDelay">30</e>
+			<f>FemalePainFlog_R_float_01</f><e type="setDelay">10</e>
+			<e type="setDelay">30</e>
 		</frame>
 	</action>
 

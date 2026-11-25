@@ -82,12 +82,12 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Mei/Karin_skill1.ogg</e>
-			<f>Mei_R_skill01_01</f><e type="setChargeB">196</e>
-			<e type="setAttackBox">c_hit</e>
+			<f>Mei_R_skill01_01</f><f>Mei_R_skill01_02</f><e type="setChargeB">196</e>
+			<f>Mei_R_skill01_03</f><f>Mei_R_skill01_04</f><f>Mei_R_skill01_05</f><e type="setAttackBox">c_hit</e>
 			<e type="setDSound">Audio/Effect/damage_i.ogg</e>
-			<f>Mei_R_skill01_02</f><e type="setAttackBox">c_hit</e>
+			<f>Mei_R_skill01_06</f><f>Mei_R_skill01_07</f><f>Mei_R_skill01_08</f><f>Mei_R_skill01_09</f><f>Mei_R_skill01_10</f><e type="setAttackBox">c_hit</e>
 			<e type="setDSound">Audio/Effect/damage_i.ogg</e>
-			<f>Mei_R_skill01_03</f></frame>
+			<f>Mei_R_skill01_11</f><f>Mei_R_skill01_12</f></frame>
 	</action>
 
 	<action name="skill02">
@@ -100,11 +100,11 @@
 			<p type="combatPoint">1520</p>
 		</data>
 		<frame>
-			<f>Mei_R_skill02_01</f><f>Mei_R_skill02_02</f><e type="setSound">Audio/Mei/Karin_skill2.ogg</e>
-			<f>Mei_R_skill02_03</f><f>Mei_R_skill02_04</f><e type="setSound">Audio/Effect/thunder_effect.ogg</e>
+			<f>Mei_R_skill02_01</f><f>Mei_R_skill02_02</f><f>Mei_R_skill02_03</f><f>Mei_R_skill02_04</f><e type="setSound">Audio/Mei/Karin_skill2.ogg</e>
+			<f>Mei_R_skill02_05</f><f>Mei_R_skill02_06</f><f>Mei_R_skill02_07</f><f>Mei_R_skill02_08</f><f>Mei_R_skill02_09</f><f>Mei_R_skill02_10</f><f>Mei_R_skill02_11</f><f>Mei_R_skill02_12</f><e type="setSound">Audio/Effect/thunder_effect.ogg</e>
 			<e type="setAttackBox">c_hit</e>
-			<f>Mei_R_skill02_05</f><f>Mei_R_skill02_06</f><f>Mei_R_skill02_07</f><f>Mei_R_skill02_08</f><e type="setAttackBox">c_hit</e>
-			<f>Mei_R_skill02_09</f></frame>
+			<f>Mei_R_skill02_13</f><f>Mei_R_skill02_14</f><f>Mei_R_skill02_15</f><f>Mei_R_skill02_16</f><f>Mei_R_skill02_17</f><f>Mei_R_skill02_18</f><f>Mei_R_skill02_19</f><f>Mei_R_skill02_20</f><f>Mei_R_skill02_21</f><e type="setAttackBox">c_hit</e>
+			<f>Mei_R_skill02_22</f><f>Mei_R_skill02_23</f><f>Mei_R_skill02_24</f><f>Mei_R_skill02_25</f></frame>
 	</action>
 
 	<action name="skill03">
@@ -118,18 +118,18 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Mei/Karin_skill3.ogg</e>
-			<f>Mei_R_skill03_01</f><e type="setDelay">10</e>
+			<f>Mei_R_skill03_01</f><f>Mei_R_skill03_02</f><e type="setDelay">10</e>
 			<e type="setCharge">280</e>
-			<f>Mei_R_skill03_02</f><f>Mei_R_skill03_03</f><f>Mei_R_skill03_04</f><e type="setAttackBox">o_hit</e>
+			<f>Mei_R_skill03_03</f><f>Mei_R_skill03_04</f><f>Mei_R_skill03_05</f><f>Mei_R_skill03_06</f><e type="setAttackBox">o_hit</e>
 			<e type="setSound">Audio/Effect/damage_o.ogg</e>
-			<f>Mei_R_skill03_05</f><f>Mei_R_skill03_06</f><e type="setCharge">280</e>
-			<f>Mei_R_skill03_07</f><f>Mei_R_skill03_08</f><e type="setAttackBox">c_hit</e>
+			<f>Mei_R_skill03_07</f><f>Mei_R_skill03_08</f><f>Mei_R_skill03_09</f><f>Mei_R_skill03_10</f><f>Mei_R_skill03_11</f><e type="setCharge">280</e>
+			<f>Mei_R_skill03_12</f><f>Mei_R_skill03_13</f><e type="setAttackBox">c_hit</e>
 			<e type="setDSound">Audio/Effect/damage_i.ogg</e>
-			<f>Mei_R_skill03_09</f><f>Mei_R_skill03_10</f><e type="setAttackBox">c_hit</e>
-			<f>Mei_R_skill03_11</f><e type="setMove">8</e>
-			<f>Mei_R_skill03_12</f><e type="setAttackBox">c_hit</e>
+			<f>Mei_R_skill03_14</f><f>Mei_R_skill03_15</f><f>Mei_R_skill03_16</f><f>Mei_R_skill03_17</f><e type="setAttackBox">c_hit</e>
+			<f>Mei_R_skill03_18</f><f>Mei_R_skill03_19</f><f>Mei_R_skill03_20</f><e type="setMove">8</e>
+			<f>Mei_R_skill03_21</f><f>Mei_R_skill03_22</f><e type="setAttackBox">c_hit</e>
 			<e type="setDSound">Audio/Effect/damage_i.ogg</e>
-			<f>Mei_R_skill03_13</f><f>Mei_R_skill03_14</f><f>Mei_R_skill03_15</f></frame>
+			<f>Mei_R_skill03_23</f><f>Mei_R_skill03_24</f><f>Mei_R_skill03_25</f><f>Mei_R_skill03_26</f></frame>
 	</action>
 
 	<action name="skill04">

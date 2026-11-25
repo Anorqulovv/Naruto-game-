@@ -145,8 +145,8 @@
 		</data>
 		<frame>
 			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<e type="setSound">Audio/Effect/poof.ogg</e>
-			<f>Naruto_R_skill04_01</f><e type="setShadow">10</e>
+			<f>Naruto_R_skill04_01</f><e type="setSound">Audio/Effect/poof.ogg</e>
+			<e type="setShadow">10</e>
 			<e type="setShadow">10</e>
 			<f>Naruto_R_skill04_02</f><e type="setShadow">10</e>
 			<e type="setSound">Audio/Effect/poof.ogg</e>

@@ -7,7 +7,7 @@
 		<key>Onoki_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1272,968},{43,47}}</string>
+			<string>{{616,1780},{43,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>Onoki_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{70,1030},{49,41}}</string>
+			<string>{{1458,1780},{49,41}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Onoki_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{710,1030},{63,32}}</string>
+			<string>{{328,1831},{63,32}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>Onoki_R_dead_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{961,1030},{60,24}}</string>
+			<string>{{579,1831},{60,24}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Onoki_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{121,1030},{49,41}}</string>
+			<string>{{1509,1780},{49,41}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Onoki_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{775,1030},{63,32}}</string>
+			<string>{{393,1831},{63,32}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>Onoki_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1929,968},{43,46}}</string>
+			<string>{{1273,1780},{43,46}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>Onoki_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{376,968},{34,58}}</string>
+			<string>{{1640,1711},{34,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Onoki_R_hurt_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{412,968},{34,58}}</string>
+			<string>{{1676,1711},{34,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Onoki_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1458,894},{38,60}}</string>
+			<string>{{674,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>Onoki_R_idle_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1498,894},{38,60}}</string>
+			<string>{{714,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Onoki_R_idle_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1538,894},{38,60}}</string>
+			<string>{{754,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Onoki_R_idle_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1578,894},{38,60}}</string>
+			<string>{{794,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>Onoki_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{172,1030},{49,41}}</string>
+			<string>{{1560,1780},{49,41}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>Onoki_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{840,1030},{63,32}}</string>
+			<string>{{458,1831},{63,32}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>Onoki_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1023,1030},{60,24}}</string>
+			<string>{{641,1831},{60,24}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Onoki_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{905,1030},{54,29}}</string>
+			<string>{{523,1831},{54,29}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Onoki_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{223,1030},{37,41}}</string>
+			<string>{{1611,1780},{37,41}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>Onoki_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1164,968},{52,48}}</string>
+			<string>{{508,1780},{52,48}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Onoki_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1218,968},{52,48}}</string>
+			<string>{{562,1780},{52,48}}</string>
 			<key>offset</key>
 			<string>{7,0}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>Onoki_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1317,968},{46,47}}</string>
+			<string>{{661,1780},{46,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Onoki_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{720,894},{62,69}}</string>
+			<string>{{1886,1626},{62,69}}</string>
 			<key>offset</key>
 			<string>{9,-11}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Onoki_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{600,521},{148,123}}</string>
+			<string>{{1706,1201},{148,123}}</string>
 			<key>offset</key>
 			<string>{31,-34}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>Onoki_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1180,797},{150,82}}</string>
+			<string>{{328,1626},{150,82}}</string>
 			<key>offset</key>
 			<string>{27,-36}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Onoki_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1560,797},{100,81}}</string>
+			<string>{{708,1626},{100,81}}</string>
 			<key>offset</key>
 			<string>{27,-35}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>Onoki_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1618,894},{44,60}}</string>
+			<string>{{834,1711},{44,60}}</string>
 			<key>offset</key>
 			<string>{8,0}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>Onoki_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{922,894},{136,66}}</string>
+			<string>{{138,1711},{136,66}}</string>
 			<key>offset</key>
 			<string>{54,-4}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Onoki_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{784,894},{136,67}}</string>
+			<string>{{0,1711},{136,67}}</string>
 			<key>offset</key>
 			<string>{54,-4}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>Onoki_R_nattack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{708,797},{142,83}}</string>
+			<string>{{1820,1521},{142,83}}</string>
 			<key>offset</key>
 			<string>{57,-4}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>Onoki_R_nattack_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{852,797},{142,83}}</string>
+			<string>{{0,1626},{142,83}}</string>
 			<key>offset</key>
 			<string>{57,-4}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>Onoki_R_nattack_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1060,894},{136,64}}</string>
+			<string>{{276,1711},{136,64}}</string>
 			<key>offset</key>
 			<string>{54,-4}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>Onoki_R_nattack_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1198,894},{136,64}}</string>
+			<string>{{414,1711},{136,64}}</string>
 			<key>offset</key>
 			<string>{54,-4}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>Onoki_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1664,894},{30,60}}</string>
+			<string>{{880,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>Onoki_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1696,894},{30,60}}</string>
+			<string>{{912,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>Onoki_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1728,894},{30,60}}</string>
+			<string>{{944,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>Onoki_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1760,894},{30,60}}</string>
+			<string>{{976,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>Onoki_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1336,894},{120,64}}</string>
+			<string>{{552,1711},{120,64}}</string>
 			<key>offset</key>
 			<string>{44,-9}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>Onoki_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{328,797},{154,88}}</string>
+			<string>{{1440,1521},{154,88}}</string>
 			<key>offset</key>
 			<string>{61,-10}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>Onoki_R_skill01_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,692},{172,103}}</string>
+			<string>{{1096,1410},{172,103}}</string>
 			<key>offset</key>
 			<string>{70,-10}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>Onoki_R_skill01_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1592,521},{172,104}}</string>
+			<string>{{662,1410},{172,104}}</string>
 			<key>offset</key>
 			<string>{70,-9}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>Onoki_R_skill01_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{750,521},{178,115}}</string>
+			<string>{{1856,1201},{178,115}}</string>
 			<key>offset</key>
 			<string>{73,-7}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>Onoki_R_skill01_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1110,692},{186,102}}</string>
+			<string>{{312,1521},{186,102}}</string>
 			<key>offset</key>
 			<string>{77,-8}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>Onoki_R_skill01_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{148,797},{178,92}}</string>
+			<string>{{1260,1521},{178,92}}</string>
 			<key>offset</key>
 			<string>{73,-8}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>Onoki_R_skill01_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{996,797},{182,83}}</string>
+			<string>{{144,1626},{182,83}}</string>
 			<key>offset</key>
 			<string>{75,-12}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>Onoki_R_skill01_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1662,797},{178,77}}</string>
+			<string>{{810,1626},{178,77}}</string>
 			<key>offset</key>
 			<string>{73,-12}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>Onoki_R_skill01_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1842,797},{174,72}}</string>
+			<string>{{990,1626},{174,72}}</string>
 			<key>offset</key>
 			<string>{71,-9}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>Onoki_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1792,894},{30,60}}</string>
+			<string>{{1008,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>Onoki_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1824,894},{30,60}}</string>
+			<string>{{1040,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>Onoki_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1856,894},{30,60}}</string>
+			<string>{{1072,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>Onoki_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1888,894},{30,60}}</string>
+			<string>{{1104,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>Onoki_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{262,1030},{118,40}}</string>
+			<string>{{1650,1780},{118,40}}</string>
 			<key>offset</key>
 			<string>{43,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>Onoki_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{656,968},{204,49}}</string>
+			<string>{{0,1780},{204,49}}</string>
 			<key>offset</key>
 			<string>{86,0}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>Onoki_R_skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,894},{290,72}}</string>
+			<string>{{1166,1626},{290,72}}</string>
 			<key>offset</key>
 			<string>{129,0}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>Onoki_R_skill02_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1298,692},{300,101}}</string>
+			<string>{{500,1521},{300,101}}</string>
 			<key>offset</key>
 			<string>{134,0}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>Onoki_R_skill02_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{174,692},{312,103}}</string>
+			<string>{{1270,1410},{312,103}}</string>
 			<key>offset</key>
 			<string>{140,0}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>Onoki_R_skill02_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{488,692},{308,103}}</string>
+			<string>{{1584,1410},{308,103}}</string>
 			<key>offset</key>
 			<string>{138,0}</string>
 			<key>rotated</key>
@@ -735,7 +735,7 @@
 		<key>Onoki_R_skill02_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{798,692},{310,103}}</string>
+			<string>{{0,1521},{310,103}}</string>
 			<key>offset</key>
 			<string>{139,0}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>Onoki_R_skill02_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1600,692},{308,101}}</string>
+			<string>{{802,1521},{308,101}}</string>
 			<key>offset</key>
 			<string>{138,0}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>Onoki_R_skill02_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{292,894},{312,72}}</string>
+			<string>{{1458,1626},{312,72}}</string>
 			<key>offset</key>
 			<string>{140,0}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>Onoki_R_skill02_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{862,968},{300,49}}</string>
+			<string>{{206,1780},{300,49}}</string>
 			<key>offset</key>
 			<string>{134,0}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>Onoki_R_skill02_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{382,1030},{290,40}}</string>
+			<string>{{0,1831},{290,40}}</string>
 			<key>offset</key>
 			<string>{129,0}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>Onoki_R_skill02_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{674,1030},{34,40}}</string>
+			<string>{{292,1831},{34,40}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>Onoki_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1920,894},{30,60}}</string>
+			<string>{{1136,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>Onoki_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1952,894},{30,60}}</string>
+			<string>{{1168,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>Onoki_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{920,292},{160,207}}</string>
+			<string>{{1788,965},{160,207}}</string>
 			<key>offset</key>
 			<string>{56,0}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>Onoki_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1082,292},{162,207}}</string>
+			<string>{{0,1201},{162,207}}</string>
 			<key>offset</key>
 			<string>{55,0}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>Onoki_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{756,292},{162,208}}</string>
+			<string>{{1624,965},{162,208}}</string>
 			<key>offset</key>
 			<string>{55,0}</string>
 			<key>rotated</key>
@@ -878,7 +878,7 @@
 		<key>Onoki_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,292},{166,227}}</string>
+			<string>{{868,965},{166,227}}</string>
 			<key>offset</key>
 			<string>{53,0}</string>
 			<key>rotated</key>
@@ -891,7 +891,7 @@
 		<key>Onoki_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1648,0},{166,230}}</string>
+			<string>{{526,965},{166,230}}</string>
 			<key>offset</key>
 			<string>{52,0}</string>
 			<key>rotated</key>
@@ -904,7 +904,7 @@
 		<key>Onoki_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1816,0},{172,230}}</string>
+			<string>{{694,965},{172,230}}</string>
 			<key>offset</key>
 			<string>{59,0}</string>
 			<key>rotated</key>
@@ -917,7 +917,7 @@
 		<key>Onoki_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1084,0},{272,235}}</string>
+			<string>{{1512,688},{272,235}}</string>
 			<key>offset</key>
 			<string>{109,-6}</string>
 			<key>rotated</key>
@@ -930,7 +930,7 @@
 		<key>Onoki_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1358,0},{288,234}}</string>
+			<string>{{0,965},{288,234}}</string>
 			<key>offset</key>
 			<string>{118,-7}</string>
 			<key>rotated</key>
@@ -943,7 +943,7 @@
 		<key>Onoki_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{462,292},{292,212}}</string>
+			<string>{{1330,965},{292,212}}</string>
 			<key>offset</key>
 			<string>{121,-6}</string>
 			<key>rotated</key>
@@ -956,7 +956,7 @@
 		<key>Onoki_R_skill03_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{168,292},{292,213}}</string>
+			<string>{{1036,965},{292,213}}</string>
 			<key>offset</key>
 			<string>{122,-7}</string>
 			<key>rotated</key>
@@ -969,7 +969,7 @@
 		<key>Onoki_R_skill03_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1246,292},{280,192}}</string>
+			<string>{{368,1201},{280,192}}</string>
 			<key>offset</key>
 			<string>{124,-6}</string>
 			<key>rotated</key>
@@ -982,7 +982,7 @@
 		<key>Onoki_R_skill03_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1528,292},{280,190}}</string>
+			<string>{{650,1201},{280,190}}</string>
 			<key>offset</key>
 			<string>{126,-5}</string>
 			<key>rotated</key>
@@ -995,7 +995,7 @@
 		<key>Onoki_R_skill03_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,521},{282,169}}</string>
+			<string>{{1106,1201},{282,169}}</string>
 			<key>offset</key>
 			<string>{127,-3}</string>
 			<key>rotated</key>
@@ -1008,7 +1008,7 @@
 		<key>Onoki_R_skill04_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1984,894},{30,60}}</string>
+			<string>{{1200,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1021,7 @@
 		<key>Onoki_R_skill04_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2016,894},{30,60}}</string>
+			<string>{{1232,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1034,7 @@
 		<key>Onoki_R_skill04_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,968},{30,60}}</string>
+			<string>{{1264,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -1047,7 +1047,7 @@
 		<key>Onoki_R_skill04_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{448,968},{98,55}}</string>
+			<string>{{1712,1711},{98,55}}</string>
 			<key>offset</key>
 			<string>{35,0}</string>
 			<key>rotated</key>
@@ -1060,7 +1060,7 @@
 		<key>Onoki_R_skill04_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{548,968},{106,55}}</string>
+			<string>{{1812,1711},{106,55}}</string>
 			<key>offset</key>
 			<string>{39,0}</string>
 			<key>rotated</key>
@@ -1073,7 +1073,7 @@
 		<key>Onoki_R_skill04_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{606,894},{112,70}}</string>
+			<string>{{1772,1626},{112,70}}</string>
 			<key>offset</key>
 			<string>{42,0}</string>
 			<key>rotated</key>
@@ -1086,7 +1086,7 @@
 		<key>Onoki_R_skill04_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,797},{146,95}}</string>
+			<string>{{1112,1521},{146,95}}</string>
 			<key>offset</key>
 			<string>{59,0}</string>
 			<key>rotated</key>
@@ -1099,7 +1099,7 @@
 		<key>Onoki_R_skill04_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{930,521},{146,109}}</string>
+			<string>{{0,1410},{146,109}}</string>
 			<key>offset</key>
 			<string>{59,-4}</string>
 			<key>rotated</key>
@@ -1112,7 +1112,7 @@
 		<key>Onoki_R_skill04_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{284,521},{118,130}}</string>
+			<string>{{1390,1201},{118,130}}</string>
 			<key>offset</key>
 			<string>{45,-4}</string>
 			<key>rotated</key>
@@ -1125,7 +1125,7 @@
 		<key>Onoki_R_skill04_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1078,521},{178,109}}</string>
+			<string>{{148,1410},{178,109}}</string>
 			<key>offset</key>
 			<string>{74,-4}</string>
 			<key>rotated</key>
@@ -1138,7 +1138,7 @@
 		<key>Onoki_R_skill04_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{858,0},{224,239}}</string>
+			<string>{{1286,688},{224,239}}</string>
 			<key>offset</key>
 			<string>{98,-4}</string>
 			<key>rotated</key>
@@ -1151,7 +1151,7 @@
 		<key>Onoki_R_skill04_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{642,0},{214,267}}</string>
+			<string>{{1070,688},{214,267}}</string>
 			<key>offset</key>
 			<string>{93,-4}</string>
 			<key>rotated</key>
@@ -1164,7 +1164,7 @@
 		<key>Onoki_R_skill04_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{424,0},{216,269}}</string>
+			<string>{{852,688},{216,269}}</string>
 			<key>offset</key>
 			<string>{94,-4}</string>
 			<key>rotated</key>
@@ -1177,7 +1177,7 @@
 		<key>Onoki_R_skill04_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{208,0},{214,283}}</string>
+			<string>{{568,344},{214,283}}</string>
 			<key>offset</key>
 			<string>{93,-4}</string>
 			<key>rotated</key>
@@ -1190,7 +1190,7 @@
 		<key>Onoki_R_skill04_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{206,290}}</string>
+			<string>{{360,344},{206,290}}</string>
 			<key>offset</key>
 			<string>{89,-4}</string>
 			<key>rotated</key>
@@ -1203,7 +1203,7 @@
 		<key>Onoki_R_skill04_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1258,521},{182,109}}</string>
+			<string>{{328,1410},{182,109}}</string>
 			<key>offset</key>
 			<string>{77,-4}</string>
 			<key>rotated</key>
@@ -1216,7 +1216,7 @@
 		<key>Onoki_R_skill04_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1442,521},{148,109}}</string>
+			<string>{{512,1410},{148,109}}</string>
 			<key>offset</key>
 			<string>{60,-4}</string>
 			<key>rotated</key>
@@ -1229,7 +1229,7 @@
 		<key>Onoki_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{32,968},{30,60}}</string>
+			<string>{{1296,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -1242,7 +1242,7 @@
 		<key>Onoki_R_skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{64,968},{30,60}}</string>
+			<string>{{1328,1711},{30,60}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
@@ -1255,7 +1255,7 @@
 		<key>Onoki_R_skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1974,968},{68,44}}</string>
+			<string>{{1318,1780},{68,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1268,7 +1268,7 @@
 		<key>Onoki_R_skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1030},{68,44}}</string>
+			<string>{{1388,1780},{68,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1281,7 +1281,215 @@
 		<key>Onoki_R_skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{96,968},{38,60}}</string>
+			<string>{{932,1201},{172,179}}</string>
+			<key>offset</key>
+			<string>{59,61}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{172,179}}</string>
+			<key>sourceSize</key>
+			<string>{172,179}</string>
+		</dict>
+		<key>Onoki_R_skill05_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{164,1201},{202,206}}</string>
+			<key>offset</key>
+			<string>{74,34}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{202,206}}</string>
+			<key>sourceSize</key>
+			<string>{202,206}</string>
+		</dict>
+		<key>Onoki_R_skill05_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{290,965},{234,233}}</string>
+			<key>offset</key>
+			<string>{90,7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{234,233}}</string>
+			<key>sourceSize</key>
+			<string>{234,233}</string>
+		</dict>
+		<key>Onoki_R_skill05_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{284,688},{282,274}}</string>
+			<key>offset</key>
+			<string>{114,-34}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{282,274}}</string>
+			<key>sourceSize</key>
+			<string>{282,274}</string>
+		</dict>
+		<key>Onoki_R_skill05_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{568,688},{282,274}}</string>
+			<key>offset</key>
+			<string>{114,-34}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{282,274}}</string>
+			<key>sourceSize</key>
+			<string>{282,274}</string>
+		</dict>
+		<key>Onoki_R_skill05_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,688},{282,275}}</string>
+			<key>offset</key>
+			<string>{114,-35}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{282,275}}</string>
+			<key>sourceSize</key>
+			<string>{282,275}</string>
+		</dict>
+		<key>Onoki_R_skill05_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1648,344},{282,278}}</string>
+			<key>offset</key>
+			<string>{114,-38}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{282,278}}</string>
+			<key>sourceSize</key>
+			<string>{282,278}</string>
+		</dict>
+		<key>Onoki_R_skill05_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{358,342}}</string>
+			<key>offset</key>
+			<string>{128,-96}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{358,342}}</string>
+			<key>sourceSize</key>
+			<string>{358,342}</string>
+		</dict>
+		<key>Onoki_R_skill05_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{360,0},{358,342}}</string>
+			<key>offset</key>
+			<string>{128,-96}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{358,342}}</string>
+			<key>sourceSize</key>
+			<string>{358,342}</string>
+		</dict>
+		<key>Onoki_R_skill05_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{720,0},{358,342}}</string>
+			<key>offset</key>
+			<string>{128,-96}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{358,342}}</string>
+			<key>sourceSize</key>
+			<string>{358,342}</string>
+		</dict>
+		<key>Onoki_R_skill05_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1080,0},{358,342}}</string>
+			<key>offset</key>
+			<string>{128,-96}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{358,342}}</string>
+			<key>sourceSize</key>
+			<string>{358,342}</string>
+		</dict>
+		<key>Onoki_R_skill05_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1440,0},{358,342}}</string>
+			<key>offset</key>
+			<string>{128,-96}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{358,342}}</string>
+			<key>sourceSize</key>
+			<string>{358,342}</string>
+		</dict>
+		<key>Onoki_R_skill05_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,344},{358,342}}</string>
+			<key>offset</key>
+			<string>{128,-96}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{358,342}}</string>
+			<key>sourceSize</key>
+			<string>{358,342}</string>
+		</dict>
+		<key>Onoki_R_skill05_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{784,344},{286,281}}</string>
+			<key>offset</key>
+			<string>{116,-41}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{286,281}}</string>
+			<key>sourceSize</key>
+			<string>{286,281}</string>
+		</dict>
+		<key>Onoki_R_skill05_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1072,344},{286,281}}</string>
+			<key>offset</key>
+			<string>{116,-41}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{286,281}}</string>
+			<key>sourceSize</key>
+			<string>{286,281}</string>
+		</dict>
+		<key>Onoki_R_skill05_20</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1360,344},{286,280}}</string>
+			<key>offset</key>
+			<string>{116,-40}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{286,280}}</string>
+			<key>sourceSize</key>
+			<string>{286,280}</string>
+		</dict>
+		<key>Onoki_R_skill05_21</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1360,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,120}</string>
 			<key>rotated</key>
@@ -1291,10 +1499,10 @@
 			<key>sourceSize</key>
 			<string>{38,60}</string>
 		</dict>
-		<key>Onoki_R_skill05_06</key>
+		<key>Onoki_R_skill05_22</key>
 		<dict>
 			<key>frame</key>
-			<string>{{136,968},{38,60}}</string>
+			<string>{{1400,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,100}</string>
 			<key>rotated</key>
@@ -1304,10 +1512,10 @@
 			<key>sourceSize</key>
 			<string>{38,60}</string>
 		</dict>
-		<key>Onoki_R_skill05_07</key>
+		<key>Onoki_R_skill05_23</key>
 		<dict>
 			<key>frame</key>
-			<string>{{176,968},{38,60}}</string>
+			<string>{{1440,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,80}</string>
 			<key>rotated</key>
@@ -1317,10 +1525,10 @@
 			<key>sourceSize</key>
 			<string>{38,60}</string>
 		</dict>
-		<key>Onoki_R_skill05_08</key>
+		<key>Onoki_R_skill05_24</key>
 		<dict>
 			<key>frame</key>
-			<string>{{216,968},{38,60}}</string>
+			<string>{{1480,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,60}</string>
 			<key>rotated</key>
@@ -1330,10 +1538,10 @@
 			<key>sourceSize</key>
 			<string>{38,60}</string>
 		</dict>
-		<key>Onoki_R_skill05_09</key>
+		<key>Onoki_R_skill05_25</key>
 		<dict>
 			<key>frame</key>
-			<string>{{256,968},{38,60}}</string>
+			<string>{{1520,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,40}</string>
 			<key>rotated</key>
@@ -1343,10 +1551,10 @@
 			<key>sourceSize</key>
 			<string>{38,60}</string>
 		</dict>
-		<key>Onoki_R_skill05_10</key>
+		<key>Onoki_R_skill05_26</key>
 		<dict>
 			<key>frame</key>
-			<string>{{296,968},{38,60}}</string>
+			<string>{{1560,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,20}</string>
 			<key>rotated</key>
@@ -1356,10 +1564,10 @@
 			<key>sourceSize</key>
 			<string>{38,60}</string>
 		</dict>
-		<key>Onoki_R_skill05_11</key>
+		<key>Onoki_R_skill05_27</key>
 		<dict>
 			<key>frame</key>
-			<string>{{336,968},{38,60}}</string>
+			<string>{{1600,1711},{38,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1372,7 +1580,7 @@
 		<key>Onoki_R_skill10_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{404,521},{88,128}}</string>
+			<string>{{1510,1201},{88,128}}</string>
 			<key>offset</key>
 			<string>{-13,3}</string>
 			<key>rotated</key>
@@ -1385,7 +1593,7 @@
 		<key>Onoki_R_skill10_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1766,521},{128,104}}</string>
+			<string>{{836,1410},{128,104}}</string>
 			<key>offset</key>
 			<string>{-6,-9}</string>
 			<key>rotated</key>
@@ -1398,7 +1606,7 @@
 		<key>Onoki_R_skill10_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{484,797},{110,86}}</string>
+			<string>{{1596,1521},{110,86}}</string>
 			<key>offset</key>
 			<string>{3,-26}</string>
 			<key>rotated</key>
@@ -1411,7 +1619,7 @@
 		<key>Onoki_R_skill10_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1332,797},{112,82}}</string>
+			<string>{{480,1626},{112,82}}</string>
 			<key>offset</key>
 			<string>{4,-18}</string>
 			<key>rotated</key>
@@ -1424,7 +1632,7 @@
 		<key>Onoki_R_skill11_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{494,521},{104,128}}</string>
+			<string>{{1600,1201},{104,128}}</string>
 			<key>offset</key>
 			<string>{-6,3}</string>
 			<key>rotated</key>
@@ -1437,7 +1645,7 @@
 		<key>Onoki_R_skill11_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1896,521},{128,104}}</string>
+			<string>{{966,1410},{128,104}}</string>
 			<key>offset</key>
 			<string>{-6,-9}</string>
 			<key>rotated</key>
@@ -1450,7 +1658,7 @@
 		<key>Onoki_R_skill11_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{596,797},{110,86}}</string>
+			<string>{{1708,1521},{110,86}}</string>
 			<key>offset</key>
 			<string>{3,-26}</string>
 			<key>rotated</key>
@@ -1463,7 +1671,7 @@
 		<key>Onoki_R_skill11_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1446,797},{112,82}}</string>
+			<string>{{594,1626},{112,82}}</string>
 			<key>offset</key>
 			<string>{4,-18}</string>
 			<key>rotated</key>
@@ -1476,7 +1684,7 @@
 		<key>Onoki_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1365,968},{45,47}}</string>
+			<string>{{709,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1489,7 +1697,7 @@
 		<key>Onoki_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1412,968},{45,47}}</string>
+			<string>{{756,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1502,7 +1710,7 @@
 		<key>Onoki_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1459,968},{45,47}}</string>
+			<string>{{803,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1515,7 +1723,7 @@
 		<key>Onoki_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1506,968},{45,47}}</string>
+			<string>{{850,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1528,7 +1736,7 @@
 		<key>Onoki_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1553,968},{45,47}}</string>
+			<string>{{897,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1541,7 +1749,7 @@
 		<key>Onoki_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1600,968},{45,47}}</string>
+			<string>{{944,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1554,7 +1762,7 @@
 		<key>Onoki_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1647,968},{45,47}}</string>
+			<string>{{991,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1567,7 +1775,7 @@
 		<key>Onoki_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1694,968},{45,47}}</string>
+			<string>{{1038,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1580,7 +1788,7 @@
 		<key>Onoki_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1741,968},{45,47}}</string>
+			<string>{{1085,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1593,7 +1801,7 @@
 		<key>Onoki_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1788,968},{45,47}}</string>
+			<string>{{1132,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1606,7 +1814,7 @@
 		<key>Onoki_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1835,968},{45,47}}</string>
+			<string>{{1179,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1619,7 +1827,7 @@
 		<key>Onoki_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1882,968},{45,47}}</string>
+			<string>{{1226,1780},{45,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>

@@ -7,7 +7,7 @@
 		<key>Izuna_R_airhurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3097,3550},{45,67}}</string>
+			<string>{{211,8414},{45,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>Izuna_R_dead_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{180,3808},{87,42}}</string>
+			<string>{{1349,8414},{87,42}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Izuna_R_dead_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{443,3808},{87,32}}</string>
+			<string>{{1612,8414},{87,32}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>Izuna_R_float_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3144,3550},{45,67}}</string>
+			<string>{{258,8414},{45,67}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Izuna_R_float_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{111,3808},{67,45}}</string>
+			<string>{{1280,8414},{67,45}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Izuna_R_float_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{358,3808},{83,41}}</string>
+			<string>{{1527,8414},{83,41}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>Izuna_R_hurt_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2886,3550},{45,83}}</string>
+			<string>{{0,8414},{45,83}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -98,7 +98,7 @@
 		<key>Izuna_R_hurt_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2989,3550},{49,69}}</string>
+			<string>{{103,8414},{49,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Izuna_R_idle_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2850,3550},{34,84}}</string>
+			<string>{{4056,8112},{34,84}}</string>
 			<key>offset</key>
 			<string>{-2,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Izuna_R_knockdown_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{269,3808},{87,42}}</string>
+			<string>{{1438,8414},{87,42}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>Izuna_R_knockdown_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{532,3808},{87,32}}</string>
+			<string>{{1701,8414},{87,32}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Izuna_R_knockdown_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3447,3550},{70,62}}</string>
+			<string>{{561,8414},{70,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Izuna_R_knockdown_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{43,3808},{66,54}}</string>
+			<string>{{1212,8414},{66,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>Izuna_R_knockdown_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2804,3550},{44,94}}</string>
+			<string>{{4010,8112},{44,94}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -189,7 +189,7 @@
 		<key>Izuna_R_knockdown_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3040,3550},{55,69}}</string>
+			<string>{{154,8414},{55,69}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>Izuna_R_knockdown_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2933,3550},{54,81}}</string>
+			<string>{{47,8414},{54,81}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Izuna_R_knockdown_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,3808},{41,58}}</string>
+			<string>{{1169,8414},{41,58}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Izuna_R_nattack_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{516,3550},{174,123}}</string>
+			<string>{{1722,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>Izuna_R_nattack_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{692,3550},{174,123}}</string>
+			<string>{{1898,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Izuna_R_nattack_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{868,3550},{174,123}}</string>
+			<string>{{2074,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -267,7 +267,7 @@
 		<key>Izuna_R_nattack_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1044,3550},{174,123}}</string>
+			<string>{{2250,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Izuna_R_nattack_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1220,3550},{174,123}}</string>
+			<string>{{2426,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Izuna_R_nattack_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1396,3550},{174,123}}</string>
+			<string>{{2602,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>Izuna_R_nattack_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1572,3550},{174,123}}</string>
+			<string>{{2778,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Izuna_R_nattack_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1748,3550},{174,123}}</string>
+			<string>{{2954,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>Izuna_R_nattack_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1924,3550},{174,123}}</string>
+			<string>{{3130,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -345,7 +345,7 @@
 		<key>Izuna_R_nattack_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2100,3550},{174,123}}</string>
+			<string>{{3306,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Izuna_R_nattack_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2276,3550},{174,123}}</string>
+			<string>{{3482,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>Izuna_R_nattack_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2452,3550},{174,123}}</string>
+			<string>{{3658,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>Izuna_R_nattack_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2628,3550},{174,123}}</string>
+			<string>{{3834,8112},{174,123}}</string>
 			<key>offset</key>
 			<string>{25,-2}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>Izuna_R_skill01_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3016,1244},{639,419}}</string>
+			<string>{{689,6386},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>Izuna_R_skill01_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1866},{639,419}}</string>
+			<string>{{1330,6386},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -423,7 +423,7 @@
 		<key>Izuna_R_skill01_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{641,1866},{639,419}}</string>
+			<string>{{1971,6386},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>Izuna_R_skill01_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1282,1866},{639,419}}</string>
+			<string>{{2612,6386},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>Izuna_R_skill01_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1923,1866},{639,419}}</string>
+			<string>{{3253,6386},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>Izuna_R_skill01_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2564,1866},{639,419}}</string>
+			<string>{{0,6849},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>Izuna_R_skill01_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3205,1866},{639,419}}</string>
+			<string>{{641,6849},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>Izuna_R_skill01_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2287},{639,419}}</string>
+			<string>{{1282,6849},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -501,7 +501,7 @@
 		<key>Izuna_R_skill01_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{641,2287},{639,419}}</string>
+			<string>{{1923,6849},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>Izuna_R_skill01_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1282,2287},{639,419}}</string>
+			<string>{{2564,6849},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>Izuna_R_skill01_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1923,2287},{639,419}}</string>
+			<string>{{3205,6849},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>Izuna_R_skill01_12</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2564,2287},{639,419}}</string>
+			<string>{{0,7270},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>Izuna_R_skill01_13</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3205,2287},{639,419}}</string>
+			<string>{{641,7270},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>Izuna_R_skill01_14</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,2708},{639,419}}</string>
+			<string>{{1282,7270},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -579,7 +579,7 @@
 		<key>Izuna_R_skill01_15</key>
 		<dict>
 			<key>frame</key>
-			<string>{{641,2708},{639,419}}</string>
+			<string>{{1923,7270},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>Izuna_R_skill01_16</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1282,2708},{639,419}}</string>
+			<string>{{2564,7270},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>Izuna_R_skill01_17</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1923,2708},{639,419}}</string>
+			<string>{{3205,7270},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>Izuna_R_skill01_18</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2564,2708},{639,419}}</string>
+			<string>{{0,7691},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>Izuna_R_skill01_19</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3205,2708},{639,419}}</string>
+			<string>{{641,7691},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>Izuna_R_skill01_20</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,3129},{639,419}}</string>
+			<string>{{1282,7691},{639,419}}</string>
 			<key>offset</key>
 			<string>{185.5,-143}</string>
 			<key>rotated</key>
@@ -657,7 +657,7 @@
 		<key>Izuna_R_skill02_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{641,3129},{400,300}}</string>
+			<string>{{1923,7691},{400,300}}</string>
 			<key>offset</key>
 			<string>{81,-69}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>Izuna_R_skill02_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1043,3129},{400,300}}</string>
+			<string>{{2325,7691},{400,300}}</string>
 			<key>offset</key>
 			<string>{81,-69}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>Izuna_R_skill02_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1445,3129},{400,300}}</string>
+			<string>{{2727,7691},{400,300}}</string>
 			<key>offset</key>
 			<string>{81,-69}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>Izuna_R_skill02_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1847,3129},{400,300}}</string>
+			<string>{{3129,7691},{400,300}}</string>
 			<key>offset</key>
 			<string>{81,-69}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>Izuna_R_skill02_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2249,3129},{400,300}}</string>
+			<string>{{3531,7691},{400,300}}</string>
 			<key>offset</key>
 			<string>{81,-69}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>Izuna_R_skill02_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2651,3129},{400,300}}</string>
+			<string>{{0,8112},{400,300}}</string>
 			<key>offset</key>
 			<string>{81,-69}</string>
 			<key>rotated</key>
@@ -735,7 +735,7 @@
 		<key>Izuna_R_skill02_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3053,3129},{400,300}}</string>
+			<string>{{402,8112},{400,300}}</string>
 			<key>offset</key>
 			<string>{81,-69}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>Izuna_R_skill02_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3455,3129},{400,300}}</string>
+			<string>{{804,8112},{400,300}}</string>
 			<key>offset</key>
 			<string>{81,-69}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>Izuna_R_skill03_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{752,620}}</string>
+			<string>{{0,2668},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>Izuna_R_skill03_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{754,0},{752,620}}</string>
+			<string>{{754,2668},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>Izuna_R_skill03_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1508,0},{752,620}}</string>
+			<string>{{1508,2668},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>Izuna_R_skill03_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2262,0},{752,620}}</string>
+			<string>{{2262,2668},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -813,7 +813,7 @@
 		<key>Izuna_R_skill03_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3016,0},{752,620}}</string>
+			<string>{{3016,2668},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>Izuna_R_skill03_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,622},{752,620}}</string>
+			<string>{{0,3290},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>Izuna_R_skill03_07</key>
 		<dict>
 			<key>frame</key>
-			<string>{{754,622},{752,620}}</string>
+			<string>{{754,3290},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>Izuna_R_skill03_08</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1508,622},{752,620}}</string>
+			<string>{{1508,3290},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>Izuna_R_skill03_09</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2262,622},{752,620}}</string>
+			<string>{{2262,3290},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -878,7 +878,7 @@
 		<key>Izuna_R_skill03_10</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3016,622},{752,620}}</string>
+			<string>{{3016,3290},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -891,7 +891,7 @@
 		<key>Izuna_R_skill03_11</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1244},{752,620}}</string>
+			<string>{{0,3912},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -901,10 +901,296 @@
 			<key>sourceSize</key>
 			<string>{752,620}</string>
 		</dict>
+		<key>Izuna_R_skill04_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3016,3912},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,4534},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-96}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{689,4534},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1378,4534},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2067,4534},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-96}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2756,4534},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_07</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,4997},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_08</key>
+		<dict>
+			<key>frame</key>
+			<string>{{689,4997},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_09</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1378,4997},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_10</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2067,4997},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_11</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2756,4997},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_12</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,5460},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_13</key>
+		<dict>
+			<key>frame</key>
+			<string>{{689,5460},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_14</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1378,5460},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_15</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2067,5460},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_16</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2756,5460},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_17</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,5923},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_18</key>
+		<dict>
+			<key>frame</key>
+			<string>{{689,5923},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_19</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1378,5923},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_20</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2067,5923},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_21</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2756,5923},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
+		<key>Izuna_R_skill04_22</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,6386},{687,461}}</string>
+			<key>offset</key>
+			<string>{195.5,-95}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{687,461}}</string>
+			<key>sourceSize</key>
+			<string>{687,461}</string>
+		</dict>
 		<key>Izuna_R_skill05_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{754,1244},{752,620}}</string>
+			<string>{{754,3912},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -917,7 +1203,7 @@
 		<key>Izuna_R_skill05_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1508,1244},{752,620}}</string>
+			<string>{{1508,3912},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -930,7 +1216,7 @@
 		<key>Izuna_R_skill05_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2262,1244},{752,620}}</string>
+			<string>{{2262,3912},{752,620}}</string>
 			<key>offset</key>
 			<string>{6,-110}</string>
 			<key>rotated</key>
@@ -943,7 +1229,7 @@
 		<key>Izuna_R_skill05_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,3550},{256,256}}</string>
+			<string>{{1206,8112},{256,256}}</string>
 			<key>offset</key>
 			<string>{-8,-57}</string>
 			<key>rotated</key>
@@ -956,7 +1242,7 @@
 		<key>Izuna_R_skill05_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{258,3550},{256,256}}</string>
+			<string>{{1464,8112},{256,256}}</string>
 			<key>offset</key>
 			<string>{-8,-57}</string>
 			<key>rotated</key>
@@ -966,10 +1252,270 @@
 			<key>sourceSize</key>
 			<string>{256,256}</string>
 		</dict>
+		<key>Izuna_R_skill09_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill09_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{764,0},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill09_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1528,0},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill09_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2292,0},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill10_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3056,0},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill10_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,667},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill10_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{764,667},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill10_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1528,667},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill10_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2292,667},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill11_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3056,667},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill11_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1334},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill11_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{764,1334},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill11_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1528,1334},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill11_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2292,1334},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill11_06</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3056,1334},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill12_01</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,2001},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill12_02</key>
+		<dict>
+			<key>frame</key>
+			<string>{{764,2001},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill12_03</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1528,2001},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill12_04</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2292,2001},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
+		<key>Izuna_R_skill12_05</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3056,2001},{762,665}}</string>
+			<key>offset</key>
+			<string>{32,-227}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{762,665}}</string>
+			<key>sourceSize</key>
+			<string>{762,665}</string>
+		</dict>
 		<key>Izuna_R_walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3191,3550},{62,64}}</string>
+			<string>{{305,8414},{62,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -982,7 +1528,7 @@
 		<key>Izuna_R_walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3519,3550},{68,62}}</string>
+			<string>{{633,8414},{68,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -995,7 +1541,7 @@
 		<key>Izuna_R_walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3803,3550},{61,60}}</string>
+			<string>{{917,8414},{61,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1008,7 +1554,7 @@
 		<key>Izuna_R_walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3255,3550},{62,64}}</string>
+			<string>{{369,8414},{62,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1567,7 @@
 		<key>Izuna_R_walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3589,3550},{70,62}}</string>
+			<string>{{703,8414},{70,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1580,7 @@
 		<key>Izuna_R_walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3866,3550},{61,60}}</string>
+			<string>{{980,8414},{61,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1047,7 +1593,7 @@
 		<key>Izuna_Walk_01</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3319,3550},{62,64}}</string>
+			<string>{{433,8414},{62,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1060,7 +1606,7 @@
 		<key>Izuna_Walk_02</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3661,3550},{68,62}}</string>
+			<string>{{775,8414},{68,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1073,7 +1619,7 @@
 		<key>Izuna_Walk_03</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3929,3550},{61,60}}</string>
+			<string>{{1043,8414},{61,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1086,7 +1632,7 @@
 		<key>Izuna_Walk_04</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3383,3550},{62,64}}</string>
+			<string>{{497,8414},{62,64}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1099,7 +1645,7 @@
 		<key>Izuna_Walk_05</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3731,3550},{70,62}}</string>
+			<string>{{845,8414},{70,62}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1112,7 +1658,7 @@
 		<key>Izuna_Walk_06</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3992,3550},{61,60}}</string>
+			<string>{{1106,8414},{61,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1130,7 +1676,7 @@
 		<key>realTextureFileName</key>
 		<string>Izuna.pvr.ccz</string>
 		<key>size</key>
-		<string>{4096,4096}</string>
+		<string>{4096,16384}</string>
 		<key>textureFileName</key>
 		<string>Izuna.pvr.ccz</string>
 	</dict>

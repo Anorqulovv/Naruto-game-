@@ -41,7 +41,10 @@ def texture_path(plist_path):
     return None
 
 def load_frames(plist_path, tex_path=None):
-    d = plistlib.load(open(plist_path, 'rb'))
+    raw = open(plist_path, 'rb').read()
+    if not raw.lstrip().startswith(b'<?xml'):  # some V2 atlases have no xml header
+        raw = b'<?xml version="1.0" encoding="UTF-8"?>\n' + raw
+    d = plistlib.loads(raw)
     tex = load_texture(tex_path or texture_path(plist_path))
     res = {}
     for name, f in d['frames'].items():

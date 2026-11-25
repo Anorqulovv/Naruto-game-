@@ -127,6 +127,7 @@ function SelectButton:spriteToGrey()
     black:setAnchorPoint(CCPoint(0.5, 0.5))
     black:setPosition(CCPoint(17, 32))
     self:addChild(black)
+    self._black = black
 end
 
 function SelectButton:isSupportedCharacter()
