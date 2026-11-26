@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<unit>
+
+	<action name="Idle">
+		<data>
+			<p type="attackType">Nagato</p>
+			<p type="attackValue">6000</p>
+			<p type="attackRangeX">24</p>
+			<p type="attackRangeY">81</p>
+			<p type="cd">224</p>
+		</data>
+		<frame>
+			<f>RikudoMadara_R_idle_01</f></frame>
+	</action>
+
+	<action name="Walk">
+		<frame>
+			<f>RikudoMadara_R_walk_01</f><e type="setMove">3</e><f>RikudoMadara_R_walk_02</f><e type="setMove">3</e><f>RikudoMadara_R_walk_03</f><e type="setMove">3</e><f>RikudoMadara_R_walk_04</f><e type="setMove">3</e><f>RikudoMadara_R_walk_05</f><e type="setMove">3</e><f>RikudoMadara_R_walk_06</f><e type="setMove">3</e></frame>
+	</action>
+
+	<action name="Hurt">
+		<frame>
+			<e type="setMove">32</e><f>RikudoMadara_R_hurt_01</f><e type="setSound">Audio/RikudoMadara/m_hurt.ogg</e><f>RikudoMadara_R_hurt_02</f></frame>
+	</action>
+
+	<action name="AirHurt">
+		<frame>
+			<f>RikudoMadara_R_airhurt_01</f></frame>
+	</action>
+
+	<action name="KnockDown">
+		<frame>
+			<f>RikudoMadara_R_knockdown_01</f><e type="setSkillEffect">Bagua</e><e type="setSound">Audio/RikudoMadara/walk.ogg</e><e type="setDelay">10</e><f>RikudoMadara_R_knockdown_02</f><e type="setDelay">60</e><f>RikudoMadara_R_knockdown_03</f></frame>
+	</action>
+
+	<action name="Float">
+		<frame>
+			<f>RikudoMadara_R_float_01</f><e type="setDelay">10</e><f>RikudoMadara_R_float_02</f><e type="setDelay">10</e><f>RikudoMadara_R_float_03</f></frame>
+	</action>
+
+	<action name="Dead">
+		<frame>
+			<e type="setSkillEffect">Hiraishin2</e><f>RikudoMadara_R_dead_01</f><f>RikudoMadara_R_dead_02</f><e type="setSound">Audio/RikudoMadara/m_dead.ogg</e></frame>
+	</action>
+
+	<action name="nAttack">
+		<data>
+			<p type="attackType">nAttack</p>
+			<p type="attackValue">100</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">16</p>
+			<p type="cd">0</p>
+		</data>
+		<frame>
+			<f>RikudoMadara_R_nattack_01</f><e type="setDelay">3</e><f>RikudoMadara_R_nattack_02</f><e type="setDelay">2</e><f>RikudoMadara_R_nattack_03</f><e type="setSound">Audio/Effect/combo1.ogg</e><e type="setAttackBox">n_hit</e><f>RikudoMadara_R_nattack_04</f><e type="setDelay">5</e><e type="setMove">10</e><f>RikudoMadara_R_nattack_05</f><e type="setSound">Audio/RikudoMadara/m_combo.ogg</e><f>RikudoMadara_R_nattack_06</f><e type="setSound">Audio/Effect/kong.ogg</e><e type="setAttackBox">n_hit</e><f>RikudoMadara_R_nattack_07</f><e type="setDelay">5</e></frame>
+	</action>
+
+	<action name="skill01">
+		<data>
+			<p type="attackType">sBuff</p>
+			<p type="attackValue">0</p>
+			<p type="attackRangeX">0</p>
+			<p type="attackRangeY">15</p>
+			<p type="cd">25</p>
+		</data>
+		<frame>
+			<f>RikudoMadara_R_skill01_01</f><e type="setSound">Audio/RikudoMadara/1.ogg</e><e type="setDelay">50</e><f>RikudoMadara_R_skill01_02</f><e type="setSound">Audio/RikudoMadara/1.1.ogg</e><e type="setAttackBox">f_hit</e><e type="setSound">Audio/RikudoMadara/m_light.ogg</e><f>RikudoMadara_R_skill01_03</f><e type="setAttackBox">c_hit</e><f>RikudoMadara_R_skill01_04</f><e type="setAttackBox">c_hit</e><f>RikudoMadara_R_skill01_05</f><e type="setAttackBox">c_hit</e><f>RikudoMadara_R_skill01_06</f><e type="setAttackBox">c_hit</e><e type="setCommand">setRevive</e>
+			</frame>
+	</action>
+
+	<action name="skill02">
+		<data>
+			<p type="attackType">abAttack</p>
+			<p type="attackValue">1000</p>
+			<p type="attackRangeX">192</p>
+			<p type="attackRangeY">64</p>
+			<p type="cd">15</p>
+		</data>
+		<frame>
+			<e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><e type="setSound">Audio/RikudoMadara/2.1.ogg</e><f>RikudoMadara_R_skill02_01</f><e type="setDelay">5</e><f>RikudoMadara_R_skill02_02</f><e type="setAttackBox">c_hit</e><e type="setSound">Audio/Effect/blade_damage2.ogg</e><e type="setDelay">2</e><f>RikudoMadara_R_skill02_03</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill02_04</f><e type="setAttackBox">o2_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill02_05</f><f>RikudoMadara_R_skill02_06</f><f>RikudoMadara_R_skill02_07</f><f>RikudoMadara_R_skill02_08</f><f>RikudoMadara_R_skill02_09</f><f>RikudoMadara_R_skill02_10</f><e type="setSound">Audio/Effect/bom.ogg</e><e type="setAttackBox">f_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill02_11</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill02_12</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill02_13</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill02_14</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e></frame>
+	</action>
+
+	<action name="skill03">
+		<data>
+			<p type="attackType">aAttack</p>
+			<p type="attackValue">660</p>
+			<p type="attackRangeX">160</p>
+			<p type="attackRangeY">64</p>
+			<p type="cd">25</p>
+		</data>
+		<frame>
+			<f>RikudoMadara_R_skill03_01</f><e type="setSound">Audio/RikudoMadara/3.ogg</e><f>RikudoMadara_R_skill03_02</f><e type="setAttackBox">f_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_03</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_04</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_05</f><e type="setAttackBox">f_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_06</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_07</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_08</f><e type="setAttackBox">f_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_09</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_10</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_11</f><e type="setAttackBox">f_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_12</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_13</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_14</f><e type="setAttackBox">f_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_15</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e><f>RikudoMadara_R_skill03_16</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><e type="setDelay">1</e></frame>
+	</action>
+
+	<action name="skill04">
+		<data>
+			<p type="attackType">oAttack</p>
+			<p type="attackValue">250</p>
+			<p type="attackRangeX">48</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">1</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e><f>RikudoMadara_R_skill04_01</f><e type="setSound">Audio/RikudoMadara/m_skill4.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">1</e><f>RikudoMadara_R_skill04_02</f><e type="setAttackBox">c_hit</e><e type="setDelay">1</e><f>RikudoMadara_R_skill04_03</f><e type="setAttackBox">c_hit</e><e type="setDelay">1</e><f>RikudoMadara_R_skill04_04</f><e type="setAttackBox">c_hit</e><e type="setDelay">1</e><f>RikudoMadara_R_skill04_05</f><e type="setAttackBox">c_hit</e><e type="setDelay">1</e><f>RikudoMadara_R_skill04_06</f><e type="setAttackBox">b_hit</e><e type="setDelay">1</e><f>RikudoMadara_R_skill04_07</f><e type="setDelay">2</e><f>RikudoMadara_R_skill04_08</f><e type="setDelay">2</e><f>RikudoMadara_R_skill04_09</f><e type="setDelay">2</e><f>RikudoMadara_R_skill04_10</f><e type="setSound">Audio/Effect/bom.ogg</e><e type="setAttackBox">f2_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill04_11</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill04_12</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill04_13</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill04_14</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill04_15</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill04_16</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>RikudoMadara_R_skill04_17</f><e type="setAttackBox">c_hit</e><e type="setDelay">30</e></frame>
+	</action>
+
+	<action name="skill05">
+		<data>
+			<p type="attackType">oAttack</p>
+			<p type="attackValue">250</p>
+			<p type="attackRangeX">48</p>
+			<p type="attackRangeY">48</p>
+			<p type="cd">1</p>
+		</data>
+		<frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e><f>RikudoMadara_R_skill05_01</f><e type="setCommand">setInvincible</e><e type="setOugis">10</e><f>RikudoMadara_R_skill05_02</f><f>RikudoMadara_R_skill05_03</f><e type="setSound">Audio/RikudoMadara/5.ogg</e><e type="setDelay">3</e><f>RikudoMadara_R_skill05_04</f><e type="setDelay">2</e><f>RikudoMadara_R_skill05_05</f><e type="setDelay">1</e><f>RikudoMadara_R_skill05_06</f><e type="setAttackBox">o2_hit</e><e type="setDelay">200</e><f>RikudoMadara_R_skill05_07</f><e type="setSound">Audio/RikudoMadara/5.1.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">10</e><f>RikudoMadara_R_skill05_08</f><e type="setAttackBox">c_hit</e><e type="setDelay">10</e><f>RikudoMadara_R_skill05_09</f><e type="setAttackBox">c_hit</e><e type="setDelay">10</e><e type="setCommand">reInvincible</e></frame>
+	</action>
+	<action name="skill06">
+		<frame />
+	</action>
+	<action name="skill07">
+		<frame />
+	</action>
+	<action name="skill08">
+		<frame />
+	</action>
+	<action name="skill09">
+		<frame />
+	</action>
+	<action name="skill10">
+
+	</action>
+
+
+</unit>

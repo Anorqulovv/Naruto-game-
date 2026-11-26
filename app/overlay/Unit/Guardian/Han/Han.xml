@@ -15,17 +15,12 @@
 
 	<action name="Walk">
 		<frame>
-			<f>Han_R_walk_01</f><e type="setShadow">10</e>
-			<f>Han_R_walk_02</f><f>Han_R_walk_03</f><e type="setShadow">10</e>
-			<f>Han_R_walk_04</f><f>Han_R_walk_05</f><e type="setShadow">10</e>
-			<f>Han_R_walk_06</f></frame>
+			<f>Han_R_walk_01</f><e type="setShadow">10</e><f>Han_R_walk_02</f><f>Han_R_walk_03</f><e type="setShadow">10</e><f>Han_R_walk_04</f><f>Han_R_walk_05</f><e type="setShadow">10</e><f>Han_R_walk_06</f></frame>
 	</action>
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
-			<f>Han_R_hurt_01</f><f>Han_R_hurt_02</f><e type="setSound">Audio/Han/Han_hurt.ogg</e>
-		</frame>
+			<e type="setMove">32</e><f>Han_R_hurt_01</f><f>Han_R_hurt_02</f><e type="setSound">Audio/Han/Han_hurt.ogg</e></frame>
 	</action>
 
 	<action name="AirHurt">
@@ -35,16 +30,12 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>Han_R_knockdown_01</f><e type="setDelay">10</e>
-			<f>Han_R_knockdown_02</f><f>Han_R_knockdown_03</f><e type="setDelay">60</e>
-		</frame>
+			<f>Han_R_knockdown_01</f><e type="setDelay">10</e><f>Han_R_knockdown_02</f><f>Han_R_knockdown_03</f><e type="setDelay">60</e></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>Han_R_float_01</f><e type="setDelay">10</e>
-			<f>Han_R_float_02</f><e type="setDelay">10</e>
-			<f>Han_R_float_03</f></frame>
+			<f>Han_R_float_01</f><e type="setDelay">10</e><f>Han_R_float_02</f><e type="setDelay">10</e><f>Han_R_float_03</f></frame>
 	</action>
 
 	<action name="Dead">
@@ -61,12 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Han_R_nattack_01</f><e type="setSound">Audio/Han/Han_combo.ogg</e>
-			<f>Han_R_nattack_02</f><e type="setDelay">10</e>
-			<f>Han_R_nattack_03</f><f>Han_R_nattack_04</f><e type="setSound">Audio/Effect/combo1.ogg</e>
-			<e type="setAttackBox">l_hit</e>
-			<e type="setDelay">10</e>
-		</frame>
+			<f>Han_R_nattack_01</f><e type="setSound">Audio/Han/Han_combo.ogg</e><f>Han_R_nattack_02</f><e type="setDelay">10</e><f>Han_R_nattack_03</f><f>Han_R_nattack_04</f><e type="setSound">Audio/Effect/combo1.ogg</e><e type="setAttackBox">l_hit</e><e type="setDelay">10</e></frame>
 	</action>
 
 	<action name="skill01">
@@ -78,17 +64,7 @@
 			<p type="cd">1</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<e type="setCommand">setInvincible</e>
-			<f>Han_R_skill01_01</f><e type="setOugis">10</e>
-			<f>Han_R_skill01_02</f><f>Han_R_skill01_03</f><f>Han_R_skill01_04</f><f>Han_R_skill01_05</f><f>Han_R_skill01_06</f><f>Han_R_skill01_07</f><e type="setDelay">10</e>
-			<f>Han_R_skill01_08</f><e type="setDelay">10</e>
-			<e type="setBuff">17</e>
-			<e type="setCommand">addHP</e>
-			<e type="setCommand">reInvincible</e>
-			<f>Han_R_skill01_09</f><e type="setDelay">10</e>
-
-		</frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e><e type="setCommand">setInvincible</e><f>Han_R_skill01_01</f><e type="setOugis">10</e><f>Han_R_skill01_02</f><f>Han_R_skill01_03</f><f>Han_R_skill01_04</f><f>Han_R_skill01_05</f><f>Han_R_skill01_06</f><f>Han_R_skill01_07</f><e type="setDelay">10</e><f>Han_R_skill01_08</f><e type="setDelay">10</e><e type="setBuff">17</e><e type="setCommand">addHP</e><f>Han_R_skill01_09</f><e type="setDelay">10</e><e type="setCommand">reInvincible</e></frame>
 	</action>
 	<action name="skill02">
 		<data>
@@ -99,11 +75,7 @@
 			<p type="cd">10</p>
 		</data>
 		<frame>
-			<f>Han_R_skill02_01</f><e type="setSound">Audio/Han/Han_combo2.ogg</e>
-			<e type="setJump">true</e>
-			<f>Han_R_skill02_02</f><e type="setAttackBox">f_hit</e>
-			<f>Han_R_skill02_03</f><f>Han_R_skill02_04</f><f>Han_R_skill02_05</f><f>Han_R_skill02_06</f><f>Han_R_skill02_07</f><e type="setDelay">20</e>
-		</frame>
+			<f>Han_R_skill02_01</f><f>Han_R_skill02_02</f><f>Han_R_skill02_03</f><e type="setSound">Audio/Effect/weishoupao.ogg</e><f>Han_R_skill02_04</f><e type="setAttackBox">b_hit</e><f>Han_R_skill02_05</f><f>Han_R_skill02_06</f><f>Han_R_skill02_07</f></frame>
 	</action>
 	<action name="skill03">
 		<data>
@@ -167,12 +139,7 @@
 			<p type="cd">15</p>
 		</data>
 		<frame>
-			<f>Han_R_skill11_01</f><e type="setSound">Audio/Han/Han_combo2.ogg</e>
-			<e type="setDelay">20</e>
-			<f>Han_R_skill11_02</f><e type="setMove">8</e>
-			<f>Han_R_skill11_03</f><e type="setAttackBox">l_hit</e>
-			<f>Han_R_skill11_04</f><e type="setDelay">20</e>
-		</frame>
+			<f>Han_R_skill11_01</f><e type="setSound">Audio/Han/Han_combo2.ogg</e><e type="setDelay">20</e><f>Han_R_skill11_02</f><e type="setMove">8</e><f>Han_R_skill11_03</f><e type="setAttackBox">l_hit</e><f>Han_R_skill11_04</f><e type="setDelay">20</e></frame>
 
 	</action>
 	<action name="skill12">

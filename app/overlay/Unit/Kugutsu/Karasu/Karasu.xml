@@ -10,10 +10,7 @@
 			<p type="cd">320</p>
 		</data>
 		<frame>
-			<f>Karasu_R_idle_01</f><e type="setDelay">10</e>
-			<f>Karasu_R_idle_02</f><f>Karasu_R_idle_03</f><e type="setDelay">10</e>
-			<f>Karasu_R_idle_04</f><e type="setDelay">10</e>
-		</frame>
+			<f>Karasu_R_idle_01</f><f>Karasu_R_idle_02</f><f>Karasu_R_idle_03</f><f>Karasu_R_idle_04</f></frame>
 	</action>
 
 	<action name="Walk">
@@ -23,7 +20,6 @@
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
 			<f>Karasu_R_hurt_01</f></frame>
 	</action>
 
@@ -34,22 +30,17 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>Karasu_R_knockdown_01</f><e type="setDelay">10</e>
-			<e type="setDelay">60</e>
-			</frame>
+			<f>Karasu_R_knockdown_01</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>Karasu_R_float_01</f><e type="setDelay">10</e>
-			<e type="setDelay">10</e>
-			</frame>
+			<f>Karasu_R_float_01</f></frame>
 	</action>
 
 	<action name="Dead">
 		<frame>
-			<f>Karasu_R_dead_01</f><e type="resumeSkill">1</e>
-		</frame>
+			<f>Karasu_R_dead_01</f><e type="setSkillEffect">smk</e><e type="setSound">Audio/Effect/poof.ogg</e><e type="resumeSkill">1</e></frame>
 	</action>
 
 	<action name="nAttack">
@@ -61,13 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Karasu_R_nattack_01</f><f>Karasu_R_nattack_02</f><f>Karasu_R_nattack_03</f><e type="setAttackBox">n_hit</e>
-			<e type="setDelay">40</e>
-			<f>Karasu_R_nattack_04</f><f>Karasu_R_nattack_05</f><e type="setAttackBox">n_hit</e>
-			<e type="setDelay">40</e>
-			<f>Karasu_R_nattack_06</f><f>Karasu_R_nattack_07</f><f>Karasu_R_nattack_08</f><e type="setAttackBox">n_hit</e>
-			<e type="setDelay">40</e>
-		</frame>
+			<f>Karasu_R_nattack_01</f><e type="setDelay">10</e><f>Karasu_R_nattack_02</f><e type="setAttackBox">c_hit</e><f>Karasu_R_nattack_03</f><e type="setAttackBox">c_hit</e><f>Karasu_R_nattack_04</f><e type="setDelay">10</e><f>Karasu_R_nattack_05</f><f>Karasu_R_nattack_06</f><f>Karasu_R_nattack_07</f><e type="setAttackBox">c_hit</e><f>Karasu_R_nattack_08</f><e type="setDelay">20</e></frame>
 	</action>
 
 	<action name="skill01">

@@ -550,7 +550,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>RikudoNaruto_small.png</key>
+		<key>RikudoMadara_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1088,208},{32,26}}</string>
@@ -563,7 +563,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>RikudoSennin_small.png</key>
+		<key>RikudoNaruto_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1122,208},{32,26}}</string>
@@ -576,7 +576,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>RockLee_small.png</key>
+		<key>RikudoSennin_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1156,208},{32,26}}</string>
@@ -589,7 +589,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>SageJiraiya_small.png</key>
+		<key>RockLee_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1190,208},{32,26}}</string>
@@ -602,7 +602,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>SageNaruto_small.png</key>
+		<key>SageJiraiya_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1224,208},{32,26}}</string>
@@ -615,7 +615,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Sai_small.png</key>
+		<key>SageNaruto_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1258,208},{32,26}}</string>
@@ -628,7 +628,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Sakura_small.png</key>
+		<key>Sai_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1292,208},{32,26}}</string>
@@ -641,7 +641,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Sasori_small.png</key>
+		<key>Sakura_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1326,208},{32,26}}</string>
@@ -654,7 +654,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Sasuke_small.png</key>
+		<key>Sasori_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1360,208},{32,26}}</string>
@@ -667,7 +667,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Shikamaru_small.png</key>
+		<key>Sasuke_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1394,208},{32,26}}</string>
@@ -680,7 +680,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Shino_small.png</key>
+		<key>Shikamaru_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1428,208},{32,26}}</string>
@@ -693,7 +693,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Shisui_small.png</key>
+		<key>Shino_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1462,208},{32,26}}</string>
@@ -706,7 +706,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Suigetsu_small.png</key>
+		<key>Shisui_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1496,208},{32,26}}</string>
@@ -719,7 +719,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Temari_small.png</key>
+		<key>Suigetsu_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1530,208},{32,26}}</string>
@@ -732,7 +732,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Tenten_small.png</key>
+		<key>Temari_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1564,208},{32,26}}</string>
@@ -745,7 +745,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Tobi_small.png</key>
+		<key>Tenten_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1598,208},{32,26}}</string>
@@ -758,7 +758,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Tobirama_small.png</key>
+		<key>Tobi_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1632,208},{32,26}}</string>
@@ -771,7 +771,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Tsunade_small.png</key>
+		<key>Tobirama_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1666,208},{32,26}}</string>
@@ -784,7 +784,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Yagura_small.png</key>
+		<key>Tsunade_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1700,208},{32,26}}</string>
@@ -797,7 +797,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>Zabuza_small.png</key>
+		<key>Yagura_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1734,208},{32,26}}</string>
@@ -810,7 +810,7 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
-		<key>ZetsuSpiral_small.png</key>
+		<key>Zabuza_small.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{1768,208},{32,26}}</string>
@@ -823,10 +823,23 @@
 			<key>sourceSize</key>
 			<string>{32,26}</string>
 		</dict>
+		<key>ZetsuSpiral_small.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1802,208},{32,26}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{32,26}}</string>
+			<key>sourceSize</key>
+			<string>{32,26}</string>
+		</dict>
 		<key>adExtra.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{299,236},{33,10}}</string>
+			<string>{{358,236},{33,10}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -917,7 +930,7 @@
 		<key>error_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1802,208},{32,26}}</string>
+			<string>{{1836,208},{32,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -956,7 +969,7 @@
 		<key>preload_off.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1959,208},{57,18}}</string>
+			<string>{{0,236},{57,18}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -969,7 +982,7 @@
 		<key>preload_on.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,236},{57,18}}</string>
+			<string>{{59,236},{57,18}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1034,7 @@
 		<key>result_Defeat.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1836,208},{82,26}}</string>
+			<string>{{1870,208},{82,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1125,7 +1138,7 @@
 		<key>small_a.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{262,236},{17,11}}</string>
+			<string>{{321,236},{17,11}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1138,7 +1151,7 @@
 		<key>small_b.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{334,236},{17,10}}</string>
+			<string>{{393,236},{17,10}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1151,7 +1164,7 @@
 		<key>small_c.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{281,236},{16,11}}</string>
+			<string>{{340,236},{16,11}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1164,7 +1177,7 @@
 		<key>small_s.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{353,236},{16,10}}</string>
+			<string>{{412,236},{16,10}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1177,7 +1190,7 @@
 		<key>small_ss.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{371,236},{23,10}}</string>
+			<string>{{430,236},{23,10}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1190,7 +1203,7 @@
 		<key>small_sss.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{396,236},{29,10}}</string>
+			<string>{{455,236},{29,10}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1203,7 +1216,7 @@
 		<key>surrender_tips.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{59,236},{201,18}}</string>
+			<string>{{118,236},{201,18}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1229,7 +1242,7 @@
 		<key>upload_btn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1920,208},{37,26}}</string>
+			<string>{{1954,208},{37,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>

@@ -20,9 +20,7 @@
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
-			<f>ObitoMask_R_hurt_01</f><f>ObitoMask_R_hurt_02</f><e type="setSound">Audio/ObitoMask/tenten_hurt.ogg</e>
-		</frame>
+			<e type="setMove">32</e><f>ObitoMask_R_hurt_01</f><f>ObitoMask_R_hurt_02</f><e type="setSound">Audio/ObitoMask/tenten_hurt.ogg</e></frame>
 	</action>
 
 	<action name="AirHurt">
@@ -32,22 +30,17 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>ObitoMask_R_knockdown_01</f><e type="setDelay">10</e>
-			<f>ObitoMask_R_knockdown_02</f><e type="setDelay">60</e>
-			<f>ObitoMask_R_knockdown_03</f><f>ObitoMask_R_knockdown_04</f><f>ObitoMask_R_knockdown_05</f><f>ObitoMask_R_knockdown_06</f></frame>
+			<f>ObitoMask_R_knockdown_01</f><e type="setSkillEffect">Bagua</e><e type="setSound">Audio/ObitoMask/walk.ogg</e><e type="setDelay">10</e><f>ObitoMask_R_knockdown_02</f><e type="setDelay">60</e><f>ObitoMask_R_knockdown_03</f><f>ObitoMask_R_knockdown_04</f><f>ObitoMask_R_knockdown_05</f><f>ObitoMask_R_knockdown_06</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>ObitoMask_R_float_01</f><e type="setDelay">10</e>
-			<f>ObitoMask_R_float_02</f><e type="setDelay">10</e>
-			<f>ObitoMask_R_float_03</f></frame>
+			<f>ObitoMask_R_float_01</f><e type="setDelay">10</e><f>ObitoMask_R_float_02</f><e type="setDelay">10</e><f>ObitoMask_R_float_03</f></frame>
 	</action>
 
 	<action name="Dead">
 		<frame>
-			<f>ObitoMask_R_dead_01</f><f>ObitoMask_R_dead_02</f><e type="setSound">Audio/ObitoMask/tenten_dead.ogg</e>
-		</frame>
+			<e type="setSkillEffect">Hiraishin2</e><f>ObitoMask_R_dead_01</f><f>ObitoMask_R_dead_02</f><e type="setSound">Audio/ObitoMask/tenten_dead.ogg</e></frame>
 	</action>
 
 	<action name="nAttack">
@@ -59,17 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>ObitoMask_R_nattack_01</f><f>ObitoMask_R_nattack_02</f><e type="setSound">Audio/Effect/combo1.ogg</e>
-			<f>ObitoMask_R_nattack_03</f><e type="setAttackBox">n_hit</e>
-			<f>ObitoMask_R_nattack_04</f><f>ObitoMask_R_nattack_05</f><e type="setMove">8</e>
-			<f>ObitoMask_R_nattack_06</f><e type="setDelay">10</e>
-			<e type="setSound">Audio/Effect/combo2.ogg</e>
-			<e type="setAttackBox">n_hit</e>
-			<f>ObitoMask_R_nattack_07</f><e type="setSound">Audio/ObitoMask/tenten_combo.ogg</e>
-			<f>ObitoMask_R_nattack_08</f><f>ObitoMask_R_nattack_09</f><e type="setSound">Audio/Effect/kong.ogg</e>
-			<e type="setAttackBox">bl_hit</e>
-			<e type="setMove">16</e>
-			<f>ObitoMask_R_nattack_10</f><f>ObitoMask_R_nattack_11</f><f>ObitoMask_R_nattack_12</f><f>ObitoMask_R_nattack_13</f></frame>
+			<f>ObitoMask_R_nattack_01</f><f>ObitoMask_R_nattack_02</f><f>ObitoMask_R_nattack_03</f><e type="setAttackBox">n_hit</e><e type="setSound">Audio/Effect/combo1.ogg</e><f>ObitoMask_R_nattack_04</f><f>ObitoMask_R_nattack_05</f><e type="setMove">10</e><e type="setDelay">2</e><f>ObitoMask_R_nattack_06</f><f>ObitoMask_R_nattack_07</f><f>ObitoMask_R_nattack_08</f><e type="setAttackBox">n_hit</e><e type="setSound">Audio/Effect/combo2.ogg</e><f>ObitoMask_R_nattack_09</f><e type="setDelay">3</e><f>ObitoMask_R_nattack_10</f><f>ObitoMask_R_nattack_11</f><e type="setMove">10</e><f>ObitoMask_R_nattack_12</f><e type="setAttackBox">l_hit</e><e type="setSound">Audio/ObitoMask/tenten_combo.ogg</e><f>ObitoMask_R_nattack_13</f></frame>
 	</action>
 
 	<action name="skill01">
@@ -82,10 +65,7 @@
 			<p type="combatPoint">1260</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/ObitoMask/1.ogg</e>
-			<f>ObitoMask_R_skill01_01</f><f>ObitoMask_R_skill01_02</f><f>ObitoMask_R_skill01_03</f><f>ObitoMask_R_skill01_04</f><f>ObitoMask_R_skill01_05</f><f>ObitoMask_R_skill01_06</f><f>ObitoMask_R_skill01_07</f><e type="setMon">Mine</e>
-			<e type="setDelay">10</e>
-			<f>ObitoMask_R_skill01_08</f><f>ObitoMask_R_skill01_09</f><f>ObitoMask_R_skill01_10</f><f>ObitoMask_R_skill01_11</f></frame>
+			<f>ObitoMask_R_skill01_01</f><e type="setSound">Audio/Effect/ougis.ogg</e><e type="setDelay">2</e><e type="setSound">Audio/ObitoMask/1.ogg</e><f>ObitoMask_R_skill01_02</f><e type="setDelay">10</e><f>ObitoMask_R_skill01_03</f><e type="setDelay">2</e><f>ObitoMask_R_skill01_04</f><e type="setDelay">2</e><f>ObitoMask_R_skill01_05</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill01_06</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill01_07</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill01_08</f><e type="setAttackBox">f_hit</e><f>ObitoMask_R_skill01_09</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill01_10</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill01_11</f><e type="setAttackBox">ac_hit</e></frame>
 	</action>
 
 	<action name="skill02">
@@ -117,10 +97,7 @@
 			<p type="combatPoint">5600</p>
 		</data>
 		<frame>
-			<f>ObitoMask_R_skill03_01</f><f>ObitoMask_R_skill03_02</f><f>ObitoMask_R_skill03_03</f><f>ObitoMask_R_skill03_04</f><e type="setSound">Audio/ObitoMask/3.ogg</e>
-			<f>ObitoMask_R_skill03_05</f><f>ObitoMask_R_skill03_06</f><f>ObitoMask_R_skill03_07</f><e type="setDelay">10</e>
-			<f>ObitoMask_R_skill03_08</f><f>ObitoMask_R_skill03_09</f><f>ObitoMask_R_skill03_10</f><f>ObitoMask_R_skill03_11</f><e type="setDelay">10</e>
-			<e type="setBuff">17</e>
+			<f>ObitoMask_R_skill03_01</f><e type="setDelay">2</e><f>ObitoMask_R_skill03_02</f><e type="setDelay">1</e><f>ObitoMask_R_skill03_03</f><e type="setDelay">2</e><e type="setSound">Audio/ObitoMask/3.ogg</e><f>ObitoMask_R_skill03_04</f><e type="setAttackBox">f_hit</e><e type="setDelay">2</e><e type="setSound">Audio/Effect/bom.ogg</e><f>ObitoMask_R_skill03_05</f><e type="setAttackBox">ac_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill03_06</f><e type="setAttackBox">ac_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill03_07</f><e type="setAttackBox">ac_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill03_08</f><e type="setAttackBox">a_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill03_09</f><e type="setAttackBox">a_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill03_10</f><e type="setDelay">2</e><f>ObitoMask_R_skill03_11</f><e type="setDelay">2</e><e type="setBuff">17</e>
 		</frame>
 	</action>
 
@@ -134,35 +111,7 @@
 			<p type="combatPoint">3200</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<e type="setSound">Audio/ObitoMask/4.1.ogg</e>
-			<f>ObitoMask_R_skill04_01</f><f>ObitoMask_R_skill04_02</f><e type="setShadow">10</e>
-			<f>ObitoMask_R_skill04_03</f><f>ObitoMask_R_skill04_04</f><f>ObitoMask_R_skill04_05</f><e type="setChargeB">96</e>
-			<f>ObitoMask_R_skill04_06</f><f>ObitoMask_R_skill04_07</f><e type="setShadow">10</e>
-			<e type="setAttackBox">o_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>ObitoMask_R_skill04_08</f><f>ObitoMask_R_skill04_09</f><e type="setChargeB">96</e>
-			<f>ObitoMask_R_skill04_10</f><f>ObitoMask_R_skill04_11</f><e type="setShadow">10</e>
-			<e type="setAttackBox">o_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>ObitoMask_R_skill04_12</f><f>ObitoMask_R_skill04_13</f><f>ObitoMask_R_skill04_14</f><e type="setChargeB">96</e>
-			<f>ObitoMask_R_skill04_15</f><f>ObitoMask_R_skill04_16</f><e type="setShadow">10</e>
-			<e type="setAttackBox">c_hit</e>
-			<f>ObitoMask_R_skill04_17</f><f>ObitoMask_R_skill04_18</f><f>ObitoMask_R_skill04_19</f><f>ObitoMask_R_skill04_20</f><f>ObitoMask_R_skill04_21</f><e type="setShadow">10</e>
-			<e type="setAttackBox">bf_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>ObitoMask_R_skill04_22</f><f>ObitoMask_R_skill04_23</f><f>ObitoMask_R_skill04_24</f><f>ObitoMask_R_skill04_25</f><e type="setShadow">10</e>
-			<e type="setJump">true</e>
-			<f>ObitoMask_R_skill04_26</f><f>ObitoMask_R_skill04_27</f><e type="setAttackBox">ac_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>ObitoMask_R_skill04_28</f><f>ObitoMask_R_skill04_29</f><f>ObitoMask_R_skill04_30</f><e type="setShadow">10</e>
-			<f>ObitoMask_R_skill04_31</f><f>ObitoMask_R_skill04_32</f><e type="setAttackBox">c_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>ObitoMask_R_skill04_33</f><f>ObitoMask_R_skill04_34</f><e type="setShadow">10</e>
-			<f>ObitoMask_R_skill04_35</f><f>ObitoMask_R_skill04_36</f><f>ObitoMask_R_skill04_37</f><f>ObitoMask_R_skill04_38</f><f>ObitoMask_R_skill04_39</f><e type="setAttackBox">c_hit</e>
-			<f>ObitoMask_R_skill04_40</f><f>ObitoMask_R_skill04_41</f><f>ObitoMask_R_skill04_42</f><f>ObitoMask_R_skill04_43</f><e type="setDSound">Audio/Effect/damage_o2.ogg</e>
-			<f>ObitoMask_R_skill04_44</f><f>ObitoMask_R_skill04_45</f><f>ObitoMask_R_skill04_46</f><e type="setAttackBox">b_hit</e>
-			<f>ObitoMask_R_skill04_47</f><f>ObitoMask_R_skill04_48</f></frame>
+			<e type="setSound">Audio/Effect/pup.ogg</e><f>ObitoMask_R_skill04_01</f><e type="setSound">Audio/ObitoMask/4.1.ogg</e><e type="setDelay">1</e><f>ObitoMask_R_skill04_02</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_03</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_04</f><e type="setDelay">1</e><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><e type="setSound">Audio/Effect/pup.ogg</e><f>ObitoMask_R_skill04_05</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_06</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_07</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_08</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_09</f><e type="setDelay">10</e><f>ObitoMask_R_skill04_10</f><e type="setChargeB">300</e><e type="setAttackBox">o_hit</e><e type="setSound">Audio/Effect/blade_damage.ogg</e><f>ObitoMask_R_skill04_11</f><e type="setFlipped">10</e><f>ObitoMask_R_skill04_12</f><e type="setDelay">10</e><f>ObitoMask_R_skill04_13</f><e type="setChargeB">300</e><e type="setAttackBox">o_hit</e><e type="setSound">Audio/Effect/blade_damage.ogg</e><f>ObitoMask_R_skill04_14</f><e type="setFlipped">10</e><f>ObitoMask_R_skill04_15</f><e type="setDelay">10</e><f>ObitoMask_R_skill04_16</f><e type="setChargeB">300</e><e type="setAttackBox">o2_hit</e><e type="setSound">Audio/Effect/blade_damage.ogg</e><f>ObitoMask_R_skill04_17</f><e type="setFlipped">10</e><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>ObitoMask_R_skill04_18</f><f>ObitoMask_R_skill04_19</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_20</f><e type="setAttackBox">c_hit</e><e type="setSound">Audio/Effect/damage_o.ogg</e><f>ObitoMask_R_skill04_21</f><e type="setDelay">3</e><f>ObitoMask_R_skill04_22</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_23</f><e type="setSound">Audio/Effect/damage_o2.ogg</e><e type="setAttackBox">f_hit</e><e type="setDelay">3</e><f>ObitoMask_R_skill04_24</f><e type="setDelay">5</e><f>ObitoMask_R_skill04_25</f><f>ObitoMask_R_skill04_26</f><f>ObitoMask_R_skill04_27</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_28</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_29</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_30</f><e type="setDelay">1</e><f>ObitoMask_R_skill04_31</f><e type="setDelay">2</e><f>ObitoMask_R_skill04_32</f><e type="setDelay">2</e><f>ObitoMask_R_skill04_33</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_34</f><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_35</f><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_36</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_37</f><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_38</f><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_39</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_40</f><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_41</f><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_42</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_43</f><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_44</f><e type="setAttackBox">b_hit</e><e type="setDelay">2</e><f>ObitoMask_R_skill04_45</f><e type="setDelay">2</e><f>ObitoMask_R_skill04_46</f><e type="setDelay">2</e><f>ObitoMask_R_skill04_47</f><e type="setDelay">2</e><f>ObitoMask_R_skill04_48</f><e type="setDelay">2</e></frame>
 	</action>
 
 	<action name="skill05">
@@ -175,25 +124,8 @@
 			<p type="combatPoint">8760</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>ObitoMask_R_skill05_01</f><f>ObitoMask_R_skill05_02</f><e type="setCommand">setInvincible</e>
-			<f>ObitoMask_R_skill05_03</f><f>ObitoMask_R_skill05_04</f><f>ObitoMask_R_skill05_05</f><f>ObitoMask_R_skill05_06</f><f>ObitoMask_R_skill05_07</f><f>ObitoMask_R_skill05_08</f><f>ObitoMask_R_skill05_09</f><f>ObitoMask_R_skill05_10</f><f>ObitoMask_R_skill05_11</f><f>ObitoMask_R_skill05_12</f><f>ObitoMask_R_skill05_13</f><f>ObitoMask_R_skill05_14</f><f>ObitoMask_R_skill05_15</f><e type="setOugis">10</e>
-			<f>ObitoMask_R_skill05_16</f><f>ObitoMask_R_skill05_17</f><f>ObitoMask_R_skill05_18</f><f>ObitoMask_R_skill05_19</f><f>ObitoMask_R_skill05_20</f><f>ObitoMask_R_skill05_21</f><f>ObitoMask_R_skill05_22</f><e type="setAttackBox">ab_hit</e>
-			<f>ObitoMask_R_skill05_23</f><f>ObitoMask_R_skill05_24</f><f>ObitoMask_R_skill05_25</f><f>ObitoMask_R_skill05_26</f><f>ObitoMask_R_skill05_27</f><e type="setAttackBox">o2_hit</e>
-			<f>ObitoMask_R_skill05_28</f><f>ObitoMask_R_skill05_29</f><e type="setDelay">10</e>
-			<e type="setJump">true</e>
-			<e type="setSound">Audio/ObitoMask/5.ogg</e>
-			<f>ObitoMask_R_skill05_30</f><f>ObitoMask_R_skill05_31</f><e type="setShadow">10</e>
-			<e type="setDelay">10</e>
-			<f>ObitoMask_R_skill05_32</f><f>ObitoMask_R_skill05_33</f><e type="setShadow">10</e>
-			<f>ObitoMask_R_skill05_34</f><f>ObitoMask_R_skill05_35</f><e type="setSound">Audio/ObitoMask/5.1.ogg</e>
-			<e type="stopJump">90</e>
-			<e type="setCommand">addExtern</e>
-			<e type="setMon">Shoryu</e>
-			<f>ObitoMask_R_skill05_36</f><f>ObitoMask_R_skill05_37</f><f>ObitoMask_R_skill05_38</f><f>ObitoMask_R_skill05_39</f><f>ObitoMask_R_skill05_40</f><e type="setDelay">10</e>
-			<f>ObitoMask_R_skill05_41</f><f>ObitoMask_R_skill05_42</f><e type="setDelay">10</e>
-			<e type="setCommand">reInvincible</e>
-		</frame>
+			<f>ObitoMask_R_skill05_01</f><e type="setSound">Audio/ObitoMask/5.ogg</e><e type="setSound">Audio/Effect/pup.ogg</e><e type="setDelay">1</e><f>ObitoMask_R_skill05_02</f><e type="setDelay">1</e><f>ObitoMask_R_skill05_03</f><e type="setDelay">1</e><f>ObitoMask_R_skill05_04</f><e type="setDelay">1</e><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>ObitoMask_R_skill05_05</f><e type="setDelay">2</e><f>ObitoMask_R_skill05_06</f><f>ObitoMask_R_skill05_07</f><f>ObitoMask_R_skill05_08</f><e type="setSound">Audio/ObitoMask/5.1.ogg</e><e type="setSound">Audio/Effect/blade_damage2.ogg</e><e type="setAttackBox">f2_hit</e><e type="setDelay">6</e><f>ObitoMask_R_skill05_09</f><e type="setDelay">5</e><f>ObitoMask_R_skill05_10</f><e type="setCommand">setInvincible</e><e type="setSound">Audio/Effect/ougis.ogg</e><f>ObitoMask_R_skill05_11</f><e type="setDelay">10</e><f>ObitoMask_R_skill05_12</f><e type="setAttackBox">s_hit</e><e type="setDelay">1</e><f>ObitoMask_R_skill05_13</f><e type="setAttackBox">s_hit</e><e type="setDelay">1</e><f>ObitoMask_R_skill05_14</f><e type="setAttackBox">s_hit</e><e type="setDelay">1</e><f>ObitoMask_R_skill05_15</f><e type="setAttackBox">s_hit</e><e type="setDelay">1</e><f>ObitoMask_R_skill05_16</f><e type="setAttackBox">s_hit</e><e type="setDelay">1</e><f>ObitoMask_R_skill05_17</f><e type="setOugis">10</e><e type="setDelay">4</e><f>ObitoMask_R_skill05_18</f><e type="setSound">Audio/ObitoMask/5.2.ogg</e><e type="setAttackBox">f2_hit</e><f>ObitoMask_R_skill05_19</f><e type="setSound">Audio/ObitoMask/5.2.ogg</e><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_20</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_21</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_22</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_23</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_24</f><e type="setSound">Audio/ObitoMask/5.2.ogg</e><e type="setAttackBox">f2_hit</e><f>ObitoMask_R_skill05_25</f><e type="setSound">Audio/ObitoMask/5.2.ogg</e><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_26</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_27</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_28</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_29</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_30</f><e type="setSound">Audio/ObitoMask/5.2.ogg</e><e type="setAttackBox">f2_hit</e><f>ObitoMask_R_skill05_31</f><e type="setSound">Audio/ObitoMask/5.2.ogg</e><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_32</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_33</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_34</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_35</f><e type="setAttackBox">ac_hit</e><e type="setCommand">addExtern</e>
+			<f>ObitoMask_R_skill05_36</f><e type="setAttackBox">f2_hit</e><f>ObitoMask_R_skill05_37</f><e type="setSound">Audio/ObitoMask/5.2.ogg</e><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_38</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_39</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_40</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_41</f><e type="setAttackBox">ac_hit</e><f>ObitoMask_R_skill05_42</f><e type="setDelay">50</e><e type="setSkillEffect">smk</e><e type="setCommand">reInvincible</e></frame>
 	</action>
 	<action name="skill06">
 		<frame />

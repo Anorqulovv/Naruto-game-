@@ -30,6 +30,7 @@ constexpr HeroSkin kHeroSkins[] = {
 	{"ObitoMask", "Tenten"},
 	{"Kaguya", "Tobi"},
 	{"NarutoKCM", "Tsunade"},
+	{"RikudoMadara", "Nagato"}, // not selectable: Madara awakens into it (Pain -> Nagato skills)
 };
 
 inline const char *skinBase(const std::string &name)
@@ -51,5 +52,7 @@ inline std::string heroPictureName(const std::string &hero, const char *suffix)
 		return n;
 	if (auto base = skinBase(hero))
 		return std::string(base) + suffix;
+	if (hero == "RockLee") // V2 has no HUD pictures for Lee's gates form
+		return std::string("Lee") + suffix;
 	return n;
 }

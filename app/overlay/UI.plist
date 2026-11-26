@@ -20,7 +20,7 @@
 		<key>Asuma_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{160,289},{44,44}}</string>
+			<string>{{242,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>Asuma_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{206,289},{44,44}}</string>
+			<string>{{288,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>Asuma_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{252,289},{44,44}}</string>
+			<string>{{334,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>Asuma_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{298,289},{44,44}}</string>
+			<string>{{380,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>Asuma_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{344,289},{44,44}}</string>
+			<string>{{426,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>Chiyo_GroupBuff.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{580,622},{25,25}}</string>
+			<string>{{902,647},{25,25}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>Chiyo_cBuff.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{607,622},{25,25}}</string>
+			<string>{{929,647},{25,25}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -124,7 +124,7 @@
 		<key>Chiyo_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{390,289},{44,44}}</string>
+			<string>{{472,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -137,7 +137,7 @@
 		<key>Chiyo_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{436,289},{44,44}}</string>
+			<string>{{518,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -150,7 +150,7 @@
 		<key>Chiyo_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{482,289},{44,44}}</string>
+			<string>{{564,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -163,7 +163,7 @@
 		<key>Chiyo_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{528,289},{44,44}}</string>
+			<string>{{610,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -176,7 +176,7 @@
 		<key>Chiyo_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{574,289},{44,44}}</string>
+			<string>{{656,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -202,7 +202,7 @@
 		<key>Choji_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{620,289},{44,44}}</string>
+			<string>{{702,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -215,7 +215,7 @@
 		<key>Choji_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{666,289},{44,44}}</string>
+			<string>{{748,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -228,7 +228,7 @@
 		<key>Choji_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{712,289},{44,44}}</string>
+			<string>{{794,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -241,7 +241,7 @@
 		<key>Choji_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{758,289},{44,44}}</string>
+			<string>{{840,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>Choji_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{804,289},{44,44}}</string>
+			<string>{{886,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -280,7 +280,7 @@
 		<key>Deidara_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{850,289},{44,44}}</string>
+			<string>{{932,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -293,7 +293,7 @@
 		<key>Deidara_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{896,289},{44,44}}</string>
+			<string>{{978,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -306,7 +306,7 @@
 		<key>Deidara_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{942,289},{44,44}}</string>
+			<string>{{1024,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -319,7 +319,7 @@
 		<key>Deidara_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{988,289},{44,44}}</string>
+			<string>{{1070,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -332,7 +332,7 @@
 		<key>Deidara_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1034,289},{44,44}}</string>
+			<string>{{1116,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -358,7 +358,7 @@
 		<key>Gaara_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1080,289},{44,44}}</string>
+			<string>{{1162,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -371,7 +371,7 @@
 		<key>Gaara_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1126,289},{44,44}}</string>
+			<string>{{1208,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -384,7 +384,7 @@
 		<key>Gaara_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1172,289},{44,44}}</string>
+			<string>{{1254,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -397,7 +397,7 @@
 		<key>Gaara_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1218,289},{44,44}}</string>
+			<string>{{1300,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -410,7 +410,7 @@
 		<key>Gaara_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1264,289},{44,44}}</string>
+			<string>{{1346,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -436,7 +436,7 @@
 		<key>Hanzo_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1310,289},{44,44}}</string>
+			<string>{{1392,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -449,7 +449,7 @@
 		<key>Hanzo_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1356,289},{44,44}}</string>
+			<string>{{1438,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -462,7 +462,7 @@
 		<key>Hanzo_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1402,289},{44,44}}</string>
+			<string>{{1484,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>Hanzo_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1448,289},{44,44}}</string>
+			<string>{{1530,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -488,7 +488,7 @@
 		<key>Hanzo_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1494,289},{44,44}}</string>
+			<string>{{1576,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -514,7 +514,7 @@
 		<key>Hashirama_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1540,289},{44,44}}</string>
+			<string>{{1622,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -527,7 +527,7 @@
 		<key>Hashirama_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1586,289},{44,44}}</string>
+			<string>{{1668,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -540,7 +540,7 @@
 		<key>Hashirama_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1632,289},{44,44}}</string>
+			<string>{{1714,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -553,7 +553,7 @@
 		<key>Hashirama_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1678,289},{44,44}}</string>
+			<string>{{1760,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -566,7 +566,7 @@
 		<key>Hashirama_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1724,289},{44,44}}</string>
+			<string>{{1806,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -592,7 +592,7 @@
 		<key>Hidan_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1770,289},{44,44}}</string>
+			<string>{{1852,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -605,7 +605,7 @@
 		<key>Hidan_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1816,289},{44,44}}</string>
+			<string>{{1898,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -618,7 +618,7 @@
 		<key>Hidan_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1862,289},{44,44}}</string>
+			<string>{{1944,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>Hidan_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1908,289},{44,44}}</string>
+			<string>{{1990,289},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -644,7 +644,7 @@
 		<key>Hidan_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1954,289},{44,44}}</string>
+			<string>{{0,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -670,7 +670,7 @@
 		<key>Hinata_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2000,289},{44,44}}</string>
+			<string>{{46,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -683,7 +683,7 @@
 		<key>Hinata_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,346},{44,44}}</string>
+			<string>{{92,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -696,7 +696,7 @@
 		<key>Hinata_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{46,346},{44,44}}</string>
+			<string>{{138,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -709,7 +709,7 @@
 		<key>Hinata_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{92,346},{44,44}}</string>
+			<string>{{184,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -722,7 +722,7 @@
 		<key>Hinata_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{138,346},{44,44}}</string>
+			<string>{{230,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -748,7 +748,7 @@
 		<key>Hiruzen_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{184,346},{44,44}}</string>
+			<string>{{276,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -761,7 +761,7 @@
 		<key>Hiruzen_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{230,346},{44,44}}</string>
+			<string>{{322,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -774,7 +774,7 @@
 		<key>Hiruzen_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{276,346},{44,44}}</string>
+			<string>{{368,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -787,7 +787,7 @@
 		<key>Hiruzen_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{322,346},{44,44}}</string>
+			<string>{{414,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -800,7 +800,7 @@
 		<key>Hiruzen_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{368,346},{44,44}}</string>
+			<string>{{460,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -826,7 +826,7 @@
 		<key>ImmortalSasuke_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{414,346},{44,44}}</string>
+			<string>{{506,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -839,7 +839,7 @@
 		<key>ImmortalSasuke_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{460,346},{44,44}}</string>
+			<string>{{552,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -852,7 +852,7 @@
 		<key>ImmortalSasuke_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{506,346},{44,44}}</string>
+			<string>{{598,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -865,7 +865,7 @@
 		<key>ImmortalSasuke_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{552,346},{44,44}}</string>
+			<string>{{644,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -878,7 +878,7 @@
 		<key>ImmortalSasuke_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{598,346},{44,44}}</string>
+			<string>{{690,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -904,7 +904,7 @@
 		<key>Ino_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{644,346},{44,44}}</string>
+			<string>{{736,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -917,7 +917,7 @@
 		<key>Ino_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{690,346},{44,44}}</string>
+			<string>{{782,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -930,7 +930,7 @@
 		<key>Ino_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{736,346},{44,44}}</string>
+			<string>{{828,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -943,7 +943,7 @@
 		<key>Ino_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{782,346},{44,44}}</string>
+			<string>{{874,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -956,7 +956,7 @@
 		<key>Ino_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{828,346},{44,44}}</string>
+			<string>{{920,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -982,7 +982,7 @@
 		<key>Itachi_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{874,346},{44,44}}</string>
+			<string>{{966,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -995,7 +995,7 @@
 		<key>Itachi_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{920,346},{44,44}}</string>
+			<string>{{1012,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1008,7 +1008,7 @@
 		<key>Itachi_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{966,346},{44,44}}</string>
+			<string>{{1058,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1021,7 +1021,7 @@
 		<key>Itachi_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1012,346},{44,44}}</string>
+			<string>{{1104,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1034,7 +1034,7 @@
 		<key>Itachi_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1058,346},{44,44}}</string>
+			<string>{{1150,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1060,7 +1060,7 @@
 		<key>Izuna_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1104,346},{44,44}}</string>
+			<string>{{1196,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1073,7 +1073,7 @@
 		<key>Izuna_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1150,346},{44,44}}</string>
+			<string>{{1242,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1086,7 +1086,7 @@
 		<key>Izuna_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1196,346},{44,44}}</string>
+			<string>{{1288,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1099,7 +1099,7 @@
 		<key>Izuna_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1242,346},{44,44}}</string>
+			<string>{{1334,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1112,7 +1112,7 @@
 		<key>Izuna_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1288,346},{44,44}}</string>
+			<string>{{1380,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1138,7 +1138,7 @@
 		<key>Jiraiya_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1334,346},{44,44}}</string>
+			<string>{{1426,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1151,7 +1151,7 @@
 		<key>Jiraiya_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1380,346},{44,44}}</string>
+			<string>{{1472,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1164,7 +1164,7 @@
 		<key>Jiraiya_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1426,346},{44,44}}</string>
+			<string>{{1518,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1177,7 +1177,7 @@
 		<key>Jiraiya_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1472,346},{44,44}}</string>
+			<string>{{1564,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1190,7 +1190,7 @@
 		<key>Jiraiya_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1518,346},{44,44}}</string>
+			<string>{{1610,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1203,7 +1203,7 @@
 		<key>JoyStick.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{57,289},{50,50}}</string>
+			<string>{{139,289},{50,50}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1216,7 +1216,7 @@
 		<key>JoyStickBg.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1942,199},{80,80}}</string>
+			<string>{{0,289},{80,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1242,7 +1242,7 @@
 		<key>Jugo_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1564,346},{44,44}}</string>
+			<string>{{1656,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1255,7 +1255,7 @@
 		<key>Jugo_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1610,346},{44,44}}</string>
+			<string>{{1702,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1268,7 +1268,7 @@
 		<key>Jugo_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1656,346},{44,44}}</string>
+			<string>{{1748,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1281,7 +1281,7 @@
 		<key>Jugo_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1702,346},{44,44}}</string>
+			<string>{{1794,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1294,7 +1294,7 @@
 		<key>Jugo_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1748,346},{44,44}}</string>
+			<string>{{1840,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1320,7 +1320,7 @@
 		<key>JuubiObito_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1794,346},{44,44}}</string>
+			<string>{{1886,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1333,7 +1333,7 @@
 		<key>JuubiObito_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1840,346},{44,44}}</string>
+			<string>{{1932,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1346,7 +1346,7 @@
 		<key>JuubiObito_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1886,346},{44,44}}</string>
+			<string>{{1978,371},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1359,7 +1359,7 @@
 		<key>JuubiObito_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1932,346},{44,44}}</string>
+			<string>{{0,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1372,7 +1372,7 @@
 		<key>JuubiObito_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1978,346},{44,44}}</string>
+			<string>{{46,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1398,7 +1398,7 @@
 		<key>Kaguya_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,392},{44,44}}</string>
+			<string>{{92,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1411,7 +1411,7 @@
 		<key>Kaguya_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{46,392},{44,44}}</string>
+			<string>{{138,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1424,7 +1424,7 @@
 		<key>Kaguya_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{92,392},{44,44}}</string>
+			<string>{{184,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1437,7 +1437,7 @@
 		<key>Kaguya_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{138,392},{44,44}}</string>
+			<string>{{230,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1450,7 +1450,7 @@
 		<key>Kaguya_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{184,392},{44,44}}</string>
+			<string>{{276,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1476,7 +1476,7 @@
 		<key>Kakashi_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{230,392},{44,44}}</string>
+			<string>{{322,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1489,7 +1489,7 @@
 		<key>Kakashi_skill1_1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{276,392},{44,44}}</string>
+			<string>{{368,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1502,7 +1502,7 @@
 		<key>Kakashi_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{322,392},{44,44}}</string>
+			<string>{{414,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1515,7 +1515,7 @@
 		<key>Kakashi_skill2_1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{368,392},{44,44}}</string>
+			<string>{{460,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1528,7 +1528,7 @@
 		<key>Kakashi_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{414,392},{44,44}}</string>
+			<string>{{506,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1541,7 +1541,7 @@
 		<key>Kakashi_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{460,392},{44,44}}</string>
+			<string>{{552,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1554,7 +1554,7 @@
 		<key>Kakashi_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{506,392},{44,44}}</string>
+			<string>{{598,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1580,7 +1580,7 @@
 		<key>Kakuzu_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{552,392},{44,44}}</string>
+			<string>{{644,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1593,7 +1593,7 @@
 		<key>Kakuzu_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{598,392},{44,44}}</string>
+			<string>{{690,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1606,7 +1606,7 @@
 		<key>Kakuzu_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{644,392},{44,44}}</string>
+			<string>{{736,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1619,7 +1619,7 @@
 		<key>Kakuzu_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{690,392},{44,44}}</string>
+			<string>{{782,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1632,7 +1632,7 @@
 		<key>Kakuzu_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{736,392},{44,44}}</string>
+			<string>{{828,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1658,7 +1658,7 @@
 		<key>Kankuro_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{782,392},{44,44}}</string>
+			<string>{{874,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1671,7 +1671,7 @@
 		<key>Kankuro_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{828,392},{44,44}}</string>
+			<string>{{920,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1684,7 +1684,7 @@
 		<key>Kankuro_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{874,392},{44,44}}</string>
+			<string>{{966,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1697,7 +1697,7 @@
 		<key>Kankuro_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{920,392},{44,44}}</string>
+			<string>{{1012,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1710,7 +1710,7 @@
 		<key>Kankuro_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{966,392},{44,44}}</string>
+			<string>{{1058,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1736,7 +1736,7 @@
 		<key>Karin_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1012,392},{44,44}}</string>
+			<string>{{1104,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1749,7 +1749,7 @@
 		<key>Karin_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1058,392},{44,44}}</string>
+			<string>{{1150,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1762,7 +1762,7 @@
 		<key>Karin_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1104,392},{44,44}}</string>
+			<string>{{1196,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1775,7 +1775,7 @@
 		<key>Karin_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1150,392},{44,44}}</string>
+			<string>{{1242,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1788,7 +1788,7 @@
 		<key>Karin_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1196,392},{44,44}}</string>
+			<string>{{1288,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1814,7 +1814,7 @@
 		<key>KazekageGaara_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1242,392},{44,44}}</string>
+			<string>{{1334,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1827,7 +1827,7 @@
 		<key>KazekageGaara_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1288,392},{44,44}}</string>
+			<string>{{1380,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1840,7 +1840,7 @@
 		<key>KazekageGaara_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1334,392},{44,44}}</string>
+			<string>{{1426,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1853,7 +1853,7 @@
 		<key>KazekageGaara_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1380,392},{44,44}}</string>
+			<string>{{1472,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1866,7 +1866,7 @@
 		<key>KazekageGaara_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1426,392},{44,44}}</string>
+			<string>{{1518,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1892,7 +1892,7 @@
 		<key>Kiba_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1472,392},{44,44}}</string>
+			<string>{{1564,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1905,7 +1905,7 @@
 		<key>Kiba_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1518,392},{44,44}}</string>
+			<string>{{1610,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1918,7 +1918,7 @@
 		<key>Kiba_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1564,392},{44,44}}</string>
+			<string>{{1656,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1931,7 +1931,7 @@
 		<key>Kiba_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1610,392},{44,44}}</string>
+			<string>{{1702,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1944,7 +1944,7 @@
 		<key>Kiba_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1656,392},{44,44}}</string>
+			<string>{{1748,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1970,7 +1970,7 @@
 		<key>KillerBee_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1702,392},{44,44}}</string>
+			<string>{{1794,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1983,7 +1983,7 @@
 		<key>KillerBee_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1748,392},{44,44}}</string>
+			<string>{{1840,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -1996,7 +1996,7 @@
 		<key>KillerBee_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1794,392},{44,44}}</string>
+			<string>{{1886,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2009,7 +2009,7 @@
 		<key>KillerBee_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1840,392},{44,44}}</string>
+			<string>{{1932,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2022,7 +2022,7 @@
 		<key>KillerBee_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1886,392},{44,44}}</string>
+			<string>{{1978,417},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2048,7 +2048,7 @@
 		<key>Kimimaro_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1932,392},{44,44}}</string>
+			<string>{{0,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2061,7 +2061,7 @@
 		<key>Kimimaro_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1978,392},{44,44}}</string>
+			<string>{{46,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2074,7 +2074,7 @@
 		<key>Kimimaro_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,438},{44,44}}</string>
+			<string>{{92,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2087,7 +2087,7 @@
 		<key>Kimimaro_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{46,438},{44,44}}</string>
+			<string>{{138,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2100,7 +2100,7 @@
 		<key>Kimimaro_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{92,438},{44,44}}</string>
+			<string>{{184,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2126,7 +2126,7 @@
 		<key>Kisame_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{138,438},{44,44}}</string>
+			<string>{{230,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2139,7 +2139,7 @@
 		<key>Kisame_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{184,438},{44,44}}</string>
+			<string>{{276,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2152,7 +2152,7 @@
 		<key>Kisame_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{230,438},{44,44}}</string>
+			<string>{{322,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2165,7 +2165,7 @@
 		<key>Kisame_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{276,438},{44,44}}</string>
+			<string>{{368,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2178,7 +2178,7 @@
 		<key>Kisame_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{322,438},{44,44}}</string>
+			<string>{{414,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2204,7 +2204,7 @@
 		<key>Konan_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{368,438},{44,44}}</string>
+			<string>{{460,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2217,7 +2217,7 @@
 		<key>Konan_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{414,438},{44,44}}</string>
+			<string>{{506,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2230,7 +2230,7 @@
 		<key>Konan_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{460,438},{44,44}}</string>
+			<string>{{552,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2243,7 +2243,7 @@
 		<key>Konan_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{506,438},{44,44}}</string>
+			<string>{{598,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2256,7 +2256,7 @@
 		<key>Konan_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{552,438},{44,44}}</string>
+			<string>{{644,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2282,7 +2282,7 @@
 		<key>Lee_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{598,438},{44,44}}</string>
+			<string>{{690,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2295,7 +2295,7 @@
 		<key>Lee_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{644,438},{44,44}}</string>
+			<string>{{736,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2308,7 +2308,7 @@
 		<key>Lee_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{690,438},{44,44}}</string>
+			<string>{{782,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2321,7 +2321,7 @@
 		<key>Lee_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{736,438},{44,44}}</string>
+			<string>{{828,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2334,7 +2334,7 @@
 		<key>Lee_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{782,438},{44,44}}</string>
+			<string>{{874,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2360,7 +2360,7 @@
 		<key>Madara_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{828,438},{44,44}}</string>
+			<string>{{920,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2373,7 +2373,7 @@
 		<key>Madara_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{874,438},{44,44}}</string>
+			<string>{{966,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2386,7 +2386,7 @@
 		<key>Madara_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{920,438},{44,44}}</string>
+			<string>{{1012,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2399,7 +2399,7 @@
 		<key>Madara_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{966,438},{44,44}}</string>
+			<string>{{1058,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2412,7 +2412,7 @@
 		<key>Madara_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1012,438},{44,44}}</string>
+			<string>{{1104,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2438,7 +2438,7 @@
 		<key>Mei_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1058,438},{44,44}}</string>
+			<string>{{1150,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2451,7 +2451,7 @@
 		<key>Mei_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1104,438},{44,44}}</string>
+			<string>{{1196,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2464,7 +2464,7 @@
 		<key>Mei_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1150,438},{44,44}}</string>
+			<string>{{1242,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2477,7 +2477,7 @@
 		<key>Mei_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1196,438},{44,44}}</string>
+			<string>{{1288,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2490,7 +2490,7 @@
 		<key>Mei_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1242,438},{44,44}}</string>
+			<string>{{1334,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2516,7 +2516,7 @@
 		<key>Minato_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1288,438},{44,44}}</string>
+			<string>{{1380,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2529,7 +2529,7 @@
 		<key>Minato_skill1_1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1334,438},{44,44}}</string>
+			<string>{{1426,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2542,7 +2542,7 @@
 		<key>Minato_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1380,438},{44,44}}</string>
+			<string>{{1472,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2555,7 +2555,7 @@
 		<key>Minato_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1426,438},{44,44}}</string>
+			<string>{{1518,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2568,7 +2568,7 @@
 		<key>Minato_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1472,438},{44,44}}</string>
+			<string>{{1564,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2581,7 +2581,7 @@
 		<key>Minato_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1518,438},{44,44}}</string>
+			<string>{{1610,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2607,7 +2607,7 @@
 		<key>Nagato_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1564,438},{44,44}}</string>
+			<string>{{1656,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2620,7 +2620,7 @@
 		<key>Nagato_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1610,438},{44,44}}</string>
+			<string>{{1702,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2633,7 +2633,7 @@
 		<key>Nagato_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1656,438},{44,44}}</string>
+			<string>{{1748,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2646,7 +2646,7 @@
 		<key>Nagato_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1702,438},{44,44}}</string>
+			<string>{{1794,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2659,7 +2659,7 @@
 		<key>Nagato_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1748,438},{44,44}}</string>
+			<string>{{1840,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2685,7 +2685,7 @@
 		<key>NarutoKCM_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1794,438},{44,44}}</string>
+			<string>{{1886,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2698,7 +2698,7 @@
 		<key>NarutoKCM_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1840,438},{44,44}}</string>
+			<string>{{1932,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2711,7 +2711,7 @@
 		<key>NarutoKCM_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1886,438},{44,44}}</string>
+			<string>{{1978,463},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2724,7 +2724,7 @@
 		<key>NarutoKCM_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1932,438},{44,44}}</string>
+			<string>{{0,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2737,7 +2737,7 @@
 		<key>NarutoKCM_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1978,438},{44,44}}</string>
+			<string>{{46,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2763,7 +2763,7 @@
 		<key>Naruto_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,484},{44,44}}</string>
+			<string>{{92,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2776,7 +2776,7 @@
 		<key>Naruto_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{46,484},{44,44}}</string>
+			<string>{{138,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2789,7 +2789,7 @@
 		<key>Naruto_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{92,484},{44,44}}</string>
+			<string>{{184,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2802,7 +2802,7 @@
 		<key>Naruto_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{138,484},{44,44}}</string>
+			<string>{{230,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2815,7 +2815,7 @@
 		<key>Naruto_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{184,484},{44,44}}</string>
+			<string>{{276,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2841,7 +2841,7 @@
 		<key>Neji_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{230,484},{44,44}}</string>
+			<string>{{322,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2854,7 +2854,7 @@
 		<key>Neji_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{276,484},{44,44}}</string>
+			<string>{{368,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2867,7 +2867,7 @@
 		<key>Neji_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{322,484},{44,44}}</string>
+			<string>{{414,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2880,7 +2880,7 @@
 		<key>Neji_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{368,484},{44,44}}</string>
+			<string>{{460,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2893,7 +2893,7 @@
 		<key>Neji_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{414,484},{44,44}}</string>
+			<string>{{506,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2919,7 +2919,7 @@
 		<key>ObitoMask_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{460,484},{44,44}}</string>
+			<string>{{552,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2932,7 +2932,7 @@
 		<key>ObitoMask_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{506,484},{44,44}}</string>
+			<string>{{598,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2945,7 +2945,7 @@
 		<key>ObitoMask_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{552,484},{44,44}}</string>
+			<string>{{644,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2958,7 +2958,7 @@
 		<key>ObitoMask_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{598,484},{44,44}}</string>
+			<string>{{690,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2971,7 +2971,7 @@
 		<key>ObitoMask_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{644,484},{44,44}}</string>
+			<string>{{736,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -2997,7 +2997,7 @@
 		<key>Obito_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{690,484},{44,44}}</string>
+			<string>{{782,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3010,7 +3010,7 @@
 		<key>Obito_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{736,484},{44,44}}</string>
+			<string>{{828,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3023,7 +3023,7 @@
 		<key>Obito_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{782,484},{44,44}}</string>
+			<string>{{874,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3036,7 +3036,7 @@
 		<key>Obito_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{828,484},{44,44}}</string>
+			<string>{{920,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3049,7 +3049,7 @@
 		<key>Obito_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{874,484},{44,44}}</string>
+			<string>{{966,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3075,7 +3075,7 @@
 		<key>Onoki_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{920,484},{44,44}}</string>
+			<string>{{1012,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3088,7 +3088,7 @@
 		<key>Onoki_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{966,484},{44,44}}</string>
+			<string>{{1058,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3101,7 +3101,7 @@
 		<key>Onoki_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1012,484},{44,44}}</string>
+			<string>{{1104,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3114,7 +3114,7 @@
 		<key>Onoki_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1058,484},{44,44}}</string>
+			<string>{{1150,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3127,7 +3127,7 @@
 		<key>Onoki_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1104,484},{44,44}}</string>
+			<string>{{1196,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3153,7 +3153,7 @@
 		<key>Orochimaru_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1150,484},{44,44}}</string>
+			<string>{{1242,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3166,7 +3166,7 @@
 		<key>Orochimaru_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1196,484},{44,44}}</string>
+			<string>{{1288,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3179,7 +3179,7 @@
 		<key>Orochimaru_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1242,484},{44,44}}</string>
+			<string>{{1334,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3192,7 +3192,7 @@
 		<key>Orochimaru_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1288,484},{44,44}}</string>
+			<string>{{1380,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3205,7 +3205,7 @@
 		<key>Orochimaru_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1334,484},{44,44}}</string>
+			<string>{{1426,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3231,7 +3231,7 @@
 		<key>Pain_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1380,484},{44,44}}</string>
+			<string>{{1472,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3244,7 +3244,7 @@
 		<key>Pain_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1426,484},{44,44}}</string>
+			<string>{{1518,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3257,7 +3257,7 @@
 		<key>Pain_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1472,484},{44,44}}</string>
+			<string>{{1564,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3270,7 +3270,7 @@
 		<key>Pain_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1518,484},{44,44}}</string>
+			<string>{{1610,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3283,7 +3283,85 @@
 		<key>Pain_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1564,484},{44,44}}</string>
+			<string>{{1656,509},{44,44}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{44,44}}</string>
+			<key>sourceSize</key>
+			<string>{44,44}</string>
+		</dict>
+		<key>RikudoMadara_avator.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{258,199},{80,88}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{80,88}}</string>
+			<key>sourceSize</key>
+			<string>{80,88}</string>
+		</dict>
+		<key>RikudoMadara_skill1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1702,509},{44,44}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{44,44}}</string>
+			<key>sourceSize</key>
+			<string>{44,44}</string>
+		</dict>
+		<key>RikudoMadara_skill2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1748,509},{44,44}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{44,44}}</string>
+			<key>sourceSize</key>
+			<string>{44,44}</string>
+		</dict>
+		<key>RikudoMadara_skill3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1794,509},{44,44}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{44,44}}</string>
+			<key>sourceSize</key>
+			<string>{44,44}</string>
+		</dict>
+		<key>RikudoMadara_skill4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1840,509},{44,44}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{44,44}}</string>
+			<key>sourceSize</key>
+			<string>{44,44}</string>
+		</dict>
+		<key>RikudoMadara_skill5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1886,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3296,7 +3374,7 @@
 		<key>RikudoNaruto_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{258,199},{100,88}}</string>
+			<string>{{340,199},{100,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3309,7 +3387,7 @@
 		<key>RikudoNaruto_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1610,484},{44,44}}</string>
+			<string>{{1932,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3322,7 +3400,7 @@
 		<key>RikudoNaruto_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1656,484},{44,44}}</string>
+			<string>{{1978,509},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3335,7 +3413,7 @@
 		<key>RikudoNaruto_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1702,484},{44,44}}</string>
+			<string>{{0,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3348,7 +3426,7 @@
 		<key>RikudoNaruto_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1748,484},{44,44}}</string>
+			<string>{{46,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3361,7 +3439,7 @@
 		<key>RikudoNaruto_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1794,484},{44,44}}</string>
+			<string>{{92,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3374,7 +3452,7 @@
 		<key>RikudoSennin_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{360,199},{90,88}}</string>
+			<string>{{442,199},{90,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3387,7 +3465,7 @@
 		<key>RikudoSennin_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1840,484},{44,44}}</string>
+			<string>{{138,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3400,7 +3478,7 @@
 		<key>RikudoSennin_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1886,484},{44,44}}</string>
+			<string>{{184,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3413,7 +3491,7 @@
 		<key>RikudoSennin_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1932,484},{44,44}}</string>
+			<string>{{230,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3426,7 +3504,7 @@
 		<key>RikudoSennin_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1978,484},{44,44}}</string>
+			<string>{{276,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3439,7 +3517,7 @@
 		<key>RikudoSennin_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,530},{44,44}}</string>
+			<string>{{322,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3452,7 +3530,7 @@
 		<key>SageJiraiya_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{452,199},{90,88}}</string>
+			<string>{{534,199},{90,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3465,7 +3543,7 @@
 		<key>SageJiraiya_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{46,530},{44,44}}</string>
+			<string>{{368,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3478,7 +3556,7 @@
 		<key>SageJiraiya_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{92,530},{44,44}}</string>
+			<string>{{414,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3491,7 +3569,7 @@
 		<key>SageJiraiya_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{138,530},{44,44}}</string>
+			<string>{{460,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3504,7 +3582,7 @@
 		<key>SageJiraiya_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{184,530},{44,44}}</string>
+			<string>{{506,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3517,7 +3595,7 @@
 		<key>SageJiraiya_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{230,530},{44,44}}</string>
+			<string>{{552,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3530,7 +3608,7 @@
 		<key>SageNaruto_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{544,199},{100,88}}</string>
+			<string>{{626,199},{100,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3543,7 +3621,7 @@
 		<key>SageNaruto_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{276,530},{44,44}}</string>
+			<string>{{598,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3556,7 +3634,7 @@
 		<key>SageNaruto_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{322,530},{44,44}}</string>
+			<string>{{644,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3569,7 +3647,7 @@
 		<key>SageNaruto_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{368,530},{44,44}}</string>
+			<string>{{690,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3582,7 +3660,7 @@
 		<key>SageNaruto_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{414,530},{44,44}}</string>
+			<string>{{736,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3595,7 +3673,7 @@
 		<key>SageNaruto_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{460,530},{44,44}}</string>
+			<string>{{782,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3608,7 +3686,7 @@
 		<key>Sai_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{646,199},{80,88}}</string>
+			<string>{{728,199},{80,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3621,7 +3699,7 @@
 		<key>Sai_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{506,530},{44,44}}</string>
+			<string>{{828,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3634,7 +3712,7 @@
 		<key>Sai_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{552,530},{44,44}}</string>
+			<string>{{874,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3647,7 +3725,7 @@
 		<key>Sai_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{598,530},{44,44}}</string>
+			<string>{{920,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3660,7 +3738,7 @@
 		<key>Sai_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{644,530},{44,44}}</string>
+			<string>{{966,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3673,7 +3751,7 @@
 		<key>Sai_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{690,530},{44,44}}</string>
+			<string>{{1012,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3686,7 +3764,7 @@
 		<key>Sakura_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{728,199},{96,88}}</string>
+			<string>{{810,199},{96,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3699,7 +3777,7 @@
 		<key>Sakura_cBuff.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{634,622},{25,25}}</string>
+			<string>{{956,647},{25,25}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3712,7 +3790,7 @@
 		<key>Sakura_hBuff.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{661,622},{25,25}}</string>
+			<string>{{983,647},{25,25}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3725,7 +3803,7 @@
 		<key>Sakura_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{736,530},{44,44}}</string>
+			<string>{{1058,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3738,7 +3816,7 @@
 		<key>Sakura_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{782,530},{44,44}}</string>
+			<string>{{1104,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3751,7 +3829,7 @@
 		<key>Sakura_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{828,530},{44,44}}</string>
+			<string>{{1150,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3764,7 +3842,7 @@
 		<key>Sakura_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{874,530},{44,44}}</string>
+			<string>{{1196,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3777,7 +3855,7 @@
 		<key>Sakura_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{920,530},{44,44}}</string>
+			<string>{{1242,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3790,7 +3868,7 @@
 		<key>Sasori_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{826,199},{80,88}}</string>
+			<string>{{908,199},{80,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3803,7 +3881,7 @@
 		<key>Sasori_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{966,530},{44,44}}</string>
+			<string>{{1288,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3816,7 +3894,7 @@
 		<key>Sasori_skill1_1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{109,289},{49,49}}</string>
+			<string>{{191,289},{49,49}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3829,7 +3907,7 @@
 		<key>Sasori_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1012,530},{44,44}}</string>
+			<string>{{1334,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3842,7 +3920,7 @@
 		<key>Sasori_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1058,530},{44,44}}</string>
+			<string>{{1380,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3855,7 +3933,7 @@
 		<key>Sasori_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1104,530},{44,44}}</string>
+			<string>{{1426,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3868,7 +3946,7 @@
 		<key>Sasori_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1150,530},{44,44}}</string>
+			<string>{{1472,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3881,7 +3959,7 @@
 		<key>Sasuke_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{908,199},{84,88}}</string>
+			<string>{{990,199},{84,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3894,7 +3972,7 @@
 		<key>Sasuke_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1196,530},{44,44}}</string>
+			<string>{{1518,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3907,7 +3985,7 @@
 		<key>Sasuke_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1242,530},{44,44}}</string>
+			<string>{{1564,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3920,7 +3998,7 @@
 		<key>Sasuke_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1288,530},{44,44}}</string>
+			<string>{{1610,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3933,7 +4011,7 @@
 		<key>Sasuke_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1334,530},{44,44}}</string>
+			<string>{{1656,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3946,7 +4024,7 @@
 		<key>Sasuke_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1380,530},{44,44}}</string>
+			<string>{{1702,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3959,7 +4037,7 @@
 		<key>Shikamaru_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{994,199},{88,88}}</string>
+			<string>{{1076,199},{88,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3972,7 +4050,7 @@
 		<key>Shikamaru_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1426,530},{44,44}}</string>
+			<string>{{1748,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3985,7 +4063,7 @@
 		<key>Shikamaru_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1472,530},{44,44}}</string>
+			<string>{{1794,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -3998,7 +4076,7 @@
 		<key>Shikamaru_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1518,530},{44,44}}</string>
+			<string>{{1840,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4011,7 +4089,7 @@
 		<key>Shikamaru_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1564,530},{44,44}}</string>
+			<string>{{1886,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4024,7 +4102,7 @@
 		<key>Shikamaru_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1610,530},{44,44}}</string>
+			<string>{{1932,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4037,7 +4115,7 @@
 		<key>Shino_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1084,199},{88,88}}</string>
+			<string>{{1166,199},{88,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4050,7 +4128,7 @@
 		<key>Shino_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1656,530},{44,44}}</string>
+			<string>{{1978,555},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4063,7 +4141,7 @@
 		<key>Shino_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1702,530},{44,44}}</string>
+			<string>{{0,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4076,7 +4154,7 @@
 		<key>Shino_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1748,530},{44,44}}</string>
+			<string>{{46,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4089,7 +4167,7 @@
 		<key>Shino_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1794,530},{44,44}}</string>
+			<string>{{92,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4102,7 +4180,7 @@
 		<key>Shino_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1840,530},{44,44}}</string>
+			<string>{{138,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4115,7 +4193,7 @@
 		<key>Shisui_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1174,199},{74,88}}</string>
+			<string>{{1256,199},{74,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4128,7 +4206,7 @@
 		<key>Shisui_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1886,530},{44,44}}</string>
+			<string>{{184,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4141,7 +4219,7 @@
 		<key>Shisui_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1932,530},{44,44}}</string>
+			<string>{{230,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4154,7 +4232,7 @@
 		<key>Shisui_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1978,530},{44,44}}</string>
+			<string>{{276,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4167,7 +4245,7 @@
 		<key>Shisui_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,576},{44,44}}</string>
+			<string>{{322,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4180,7 +4258,7 @@
 		<key>Shisui_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{46,576},{44,44}}</string>
+			<string>{{368,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4193,7 +4271,7 @@
 		<key>Suigetsu_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1250,199},{74,88}}</string>
+			<string>{{1332,199},{74,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4206,7 +4284,7 @@
 		<key>Suigetsu_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{92,576},{44,44}}</string>
+			<string>{{414,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4219,7 +4297,7 @@
 		<key>Suigetsu_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{138,576},{44,44}}</string>
+			<string>{{460,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4232,7 +4310,7 @@
 		<key>Suigetsu_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{184,576},{44,44}}</string>
+			<string>{{506,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4245,7 +4323,7 @@
 		<key>Suigetsu_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{230,576},{44,44}}</string>
+			<string>{{552,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4258,7 +4336,7 @@
 		<key>Suigetsu_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{276,576},{44,44}}</string>
+			<string>{{598,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4271,7 +4349,7 @@
 		<key>Temari_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1326,199},{88,88}}</string>
+			<string>{{1408,199},{88,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4284,7 +4362,7 @@
 		<key>Temari_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{322,576},{44,44}}</string>
+			<string>{{644,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4297,7 +4375,7 @@
 		<key>Temari_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{368,576},{44,44}}</string>
+			<string>{{690,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4310,7 +4388,7 @@
 		<key>Temari_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{414,576},{44,44}}</string>
+			<string>{{736,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4323,7 +4401,7 @@
 		<key>Temari_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{460,576},{44,44}}</string>
+			<string>{{782,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4336,7 +4414,7 @@
 		<key>Temari_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{506,576},{44,44}}</string>
+			<string>{{828,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4349,7 +4427,7 @@
 		<key>Tenten_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1416,199},{86,88}}</string>
+			<string>{{1498,199},{86,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4362,7 +4440,7 @@
 		<key>Tenten_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{552,576},{44,44}}</string>
+			<string>{{874,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4375,7 +4453,7 @@
 		<key>Tenten_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{598,576},{44,44}}</string>
+			<string>{{920,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4388,7 +4466,7 @@
 		<key>Tenten_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{644,576},{44,44}}</string>
+			<string>{{966,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4401,7 +4479,7 @@
 		<key>Tenten_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{690,576},{44,44}}</string>
+			<string>{{1012,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4414,7 +4492,7 @@
 		<key>Tenten_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{736,576},{44,44}}</string>
+			<string>{{1058,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4427,7 +4505,7 @@
 		<key>Tobi_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1504,199},{82,88}}</string>
+			<string>{{1586,199},{82,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4440,7 +4518,7 @@
 		<key>Tobi_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{782,576},{44,44}}</string>
+			<string>{{1104,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4453,7 +4531,7 @@
 		<key>Tobi_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{828,576},{44,44}}</string>
+			<string>{{1150,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4466,7 +4544,7 @@
 		<key>Tobi_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{874,576},{44,44}}</string>
+			<string>{{1196,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4479,7 +4557,7 @@
 		<key>Tobi_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{920,576},{44,44}}</string>
+			<string>{{1242,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4492,7 +4570,7 @@
 		<key>Tobi_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{966,576},{44,44}}</string>
+			<string>{{1288,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4505,7 +4583,7 @@
 		<key>Tobirama_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1588,199},{98,88}}</string>
+			<string>{{1670,199},{98,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4518,7 +4596,7 @@
 		<key>Tobirama_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1012,576},{44,44}}</string>
+			<string>{{1334,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4531,7 +4609,7 @@
 		<key>Tobirama_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1058,576},{44,44}}</string>
+			<string>{{1380,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4544,7 +4622,7 @@
 		<key>Tobirama_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1104,576},{44,44}}</string>
+			<string>{{1426,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4557,7 +4635,7 @@
 		<key>Tobirama_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1150,576},{44,44}}</string>
+			<string>{{1472,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4570,7 +4648,7 @@
 		<key>Tobirama_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1196,576},{44,44}}</string>
+			<string>{{1518,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4583,7 +4661,7 @@
 		<key>Tsunade_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1688,199},{86,88}}</string>
+			<string>{{1770,199},{86,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4596,7 +4674,7 @@
 		<key>Tsunade_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1242,576},{44,44}}</string>
+			<string>{{1564,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4609,7 +4687,7 @@
 		<key>Tsunade_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1288,576},{44,44}}</string>
+			<string>{{1610,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4622,7 +4700,7 @@
 		<key>Tsunade_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1334,576},{44,44}}</string>
+			<string>{{1656,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4635,7 +4713,7 @@
 		<key>Tsunade_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1380,576},{44,44}}</string>
+			<string>{{1702,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4648,7 +4726,7 @@
 		<key>Tsunade_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1426,576},{44,44}}</string>
+			<string>{{1748,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4661,7 +4739,7 @@
 		<key>Yagura_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1776,199},{80,88}}</string>
+			<string>{{1858,199},{80,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4674,7 +4752,7 @@
 		<key>Yagura_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1472,576},{44,44}}</string>
+			<string>{{1794,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4687,7 +4765,7 @@
 		<key>Yagura_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1518,576},{44,44}}</string>
+			<string>{{1840,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4700,7 +4778,7 @@
 		<key>Yagura_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1564,576},{44,44}}</string>
+			<string>{{1886,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4713,7 +4791,7 @@
 		<key>Yagura_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1610,576},{44,44}}</string>
+			<string>{{1932,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4726,7 +4804,7 @@
 		<key>Yagura_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1656,576},{44,44}}</string>
+			<string>{{1978,601},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4739,7 +4817,7 @@
 		<key>Zabuza_avator.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1858,199},{82,88}}</string>
+			<string>{{1940,199},{82,88}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4752,7 +4830,7 @@
 		<key>Zabuza_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1702,576},{44,44}}</string>
+			<string>{{0,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4765,7 +4843,7 @@
 		<key>Zabuza_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1748,576},{44,44}}</string>
+			<string>{{46,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4778,7 +4856,7 @@
 		<key>Zabuza_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1794,576},{44,44}}</string>
+			<string>{{92,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4791,7 +4869,7 @@
 		<key>Zabuza_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1840,576},{44,44}}</string>
+			<string>{{138,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4804,7 +4882,7 @@
 		<key>Zabuza_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1886,576},{44,44}}</string>
+			<string>{{184,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4830,7 +4908,7 @@
 		<key>ZetsuSpiral_skill1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1932,576},{44,44}}</string>
+			<string>{{230,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4843,7 +4921,7 @@
 		<key>ZetsuSpiral_skill2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1978,576},{44,44}}</string>
+			<string>{{276,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4856,7 +4934,7 @@
 		<key>ZetsuSpiral_skill3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,622},{44,44}}</string>
+			<string>{{322,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4869,7 +4947,7 @@
 		<key>ZetsuSpiral_skill4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{46,622},{44,44}}</string>
+			<string>{{368,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4882,7 +4960,7 @@
 		<key>ZetsuSpiral_skill5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{92,622},{44,44}}</string>
+			<string>{{414,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4895,7 +4973,7 @@
 		<key>dead_icon.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{717,622},{16,17}}</string>
+			<string>{{1039,647},{16,17}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4908,7 +4986,7 @@
 		<key>gear_freeze.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{476,622},{36,36}}</string>
+			<string>{{798,647},{36,36}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4921,7 +4999,7 @@
 		<key>gearbg.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{514,622},{36,36}}</string>
+			<string>{{836,647},{36,36}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4934,7 +5012,7 @@
 		<key>gearsign.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{552,622},{26,27}}</string>
+			<string>{{874,647},{26,27}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4947,7 +5025,7 @@
 		<key>icon_bg1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{322,622},{20,42}}</string>
+			<string>{{644,647},{20,42}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4960,7 +5038,7 @@
 		<key>icon_bg2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{344,622},{22,42}}</string>
+			<string>{{666,647},{22,42}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4973,7 +5051,7 @@
 		<key>icon_bg3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{368,622},{22,42}}</string>
+			<string>{{690,647},{22,42}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4986,7 +5064,7 @@
 		<key>icon_bg4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{688,622},{4,24}}</string>
+			<string>{{1010,647},{4,24}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -4999,7 +5077,7 @@
 		<key>icon_bg5.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{735,622},{4,6}}</string>
+			<string>{{1057,647},{4,6}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -5012,7 +5090,7 @@
 		<key>icon_bg6.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{436,622},{38,38}}</string>
+			<string>{{758,647},{38,38}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -5025,7 +5103,7 @@
 		<key>item1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{138,622},{44,44}}</string>
+			<string>{{460,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -5038,7 +5116,7 @@
 		<key>item2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{184,622},{44,44}}</string>
+			<string>{{506,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -5051,7 +5129,7 @@
 		<key>item3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{230,622},{44,44}}</string>
+			<string>{{552,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -5064,7 +5142,7 @@
 		<key>item4.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{276,622},{44,44}}</string>
+			<string>{{598,647},{44,44}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -5077,7 +5155,7 @@
 		<key>kill_icon.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{694,622},{21,22}}</string>
+			<string>{{1016,647},{21,22}}</string>
 			<key>offset</key>
 			<string>{0,3}</string>
 			<key>rotated</key>
@@ -5090,7 +5168,7 @@
 		<key>n_attack.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,289},{55,55}}</string>
+			<string>{{82,289},{55,55}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
@@ -5103,7 +5181,7 @@
 		<key>skill_freeze.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{392,622},{42,42}}</string>
+			<string>{{714,647},{42,42}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>

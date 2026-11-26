@@ -1553,16 +1553,13 @@ void CharacterBase::setDamgeEffect(const string &type)
 	{
 		if (damageEffectCount < 2)
 		{
+			Effect *ef = Effect::create(type, this);
+			if (!ef) // RotN 2.2: an unknown hit type shows nothing instead of crashing
+				return;
 			if (isNotFlog())
-			{
-				Effect *ef = Effect::create(type, this);
 				getGameLayer()->damageEffectBatch->addChild(ef, 5000);
-			}
 			else
-			{
-				Effect *ef = Effect::create(type, this);
 				getGameLayer()->damageEffectBatch->addChild(ef);
-			}
 
 			damageEffectCount++;
 		}
@@ -1575,6 +1572,8 @@ void CharacterBase::setSkillEffect(const string &type)
 		abs((getPosition() - getGameLayer()->view()->getPosition()).x) < winSize.width / 2)
 	{
 		Effect *ef = Effect::create(type, this);
+		if (!ef) // RotN 2.2: an unknown effect shows nothing instead of crashing
+			return;
 		if (type == "Bagua" ||
 			type == "Kujiyose")
 		{
@@ -3589,11 +3588,6 @@ void CharacterBase::setMonAttack(int skillNum)
 
 void CharacterBase::setTransform()
 {
-	// RotN 2.2: Pain keeps his form; only Madara (RotN hero on Pain's skills) awakens into Rikudo Madara
-	// (RotN's art on the Nagato form)
-	if (getName() == HeroEnum::Pain && _skin != "Madara")
-		return;
-
 	CCNotificationCenter::sharedNotificationCenter()->removeObserver(this, "acceptAttack");
 	unschedule(schedule_selector(CharacterBase::dehealBuff));
 
@@ -3616,6 +3610,9 @@ void CharacterBase::setTransform()
 	auto oldNAttackValue = getNAttackValue();
 	auto oldMaxHP = getMaxHP();
 	auto oldHP = getHP();
+	// RotN 2.2: the new form keeps the chakra (setID starts it from zero, so ougis stopped working)
+	auto oldCKR = getCKR();
+	auto oldCKR2 = getCKR2();
 
 	// NOTE: Update HudLayer logic was moved to Hero::setID
 	if (getName() == HeroEnum::Naruto)
@@ -3631,11 +3628,24 @@ void CharacterBase::setTransform()
 	else if (getName() == HeroEnum::RockLee)
 		setID(HeroEnum::Lee, _role, _group);
 	else if (getName() == HeroEnum::Pain)
+	{
+		// RotN 2.2: Pain becomes Nagato for good; Madara (RotN hero on Pain's skills) awakens into
+		// Rikudo Madara (RotN's art, Nagato's skills)
+		if (_skin == "Madara")
+			_skin = "RikudoMadara", _skinBase = HeroEnum::Nagato;
 		setID(HeroEnum::Nagato, _role, _group);
+	}
 
 	setNAttackValue(oldNAttackValue);
 	setMaxHPValue(oldMaxHP, false);
 	setHPValue(oldHP);
+	setCKR(oldCKR);
+	setCKR2(oldCKR2);
+	if (isViewPlayer())
+	{
+		getGameLayer()->setCKRLose(false);
+		getGameLayer()->setCKRLose(true);
+	}
 
 	if (_hpBar)
 	{

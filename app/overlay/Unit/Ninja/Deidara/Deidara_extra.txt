@@ -1,0 +1,3 @@
+Unit/Ninja/Deidara/Deidara.plist
+Unit/Ninja/Deidara/Deidara_Skill.plist
+Unit/Ninja/Tenten/Tenten_Skill.plist

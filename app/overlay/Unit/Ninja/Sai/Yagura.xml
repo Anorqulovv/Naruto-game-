@@ -20,9 +20,7 @@
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
-			<f>Yagura_R_hurt_01</f><f>Yagura_R_hurt_02</f><e type="setSound">Audio/Yagura/hurt.ogg</e>
-		</frame>
+			<e type="setMove">32</e><f>Yagura_R_hurt_01</f><f>Yagura_R_hurt_02</f><e type="setSound">Audio/Yagura/hurt.ogg</e></frame>
 	</action>
 
 	<action name="AirHurt">
@@ -32,21 +30,17 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>Yagura_R_knockdown_01</f><f>Yagura_R_knockdown_02</f><e type="setDelay">10</e>
-			<f>Yagura_R_knockdown_03</f><f>Yagura_R_knockdown_04</f><e type="setDelay">60</e>
-			<f>Yagura_R_knockdown_05</f><f>Yagura_R_knockdown_06</f></frame>
+			<f>Yagura_R_knockdown_01</f><e type="setSkillEffect">Bagua</e><e type="setSound">Audio/Yagura/walk.ogg</e><f>Yagura_R_knockdown_02</f><e type="setDelay">10</e><f>Yagura_R_knockdown_03</f><e type="setDelay">60</e><f>Yagura_R_knockdown_04</f><f>Yagura_R_knockdown_05</f><f>Yagura_R_knockdown_06</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>Yagura_R_float_01</f><e type="setDelay">10</e>
-			<f>Yagura_R_float_02</f><e type="setDelay">10</e>
-			<f>Yagura_R_float_03</f></frame>
+			<f>Yagura_R_float_01</f><e type="setDelay">10</e><f>Yagura_R_float_02</f><e type="setDelay">10</e><f>Yagura_R_float_03</f></frame>
 	</action>
 
 	<action name="Dead">
 		<frame>
-			<f>Yagura_R_dead_01</f><f>Yagura_R_dead_02</f><f>Yagura_R_dead_03</f></frame>
+			<e type="setSkillEffect">Hiraishin2</e><f>Yagura_R_dead_01</f><f>Yagura_R_dead_02</f><f>Yagura_R_dead_03</f></frame>
 	</action>
 
 	<action name="nAttack">
@@ -58,16 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Yagura_R_nattack_01</f><f>Yagura_R_nattack_02</f><f>Yagura_R_nattack_03</f><e type="setSound">Audio/Effect/combo1.ogg</e>
-			<f>Yagura_R_nattack_04</f><e type="setAttackBox">n_hit</e>
-			<f>Yagura_R_nattack_05</f><f>Yagura_R_nattack_06</f><f>Yagura_R_nattack_07</f><e type="setMove">8</e>
-			<f>Yagura_R_nattack_08</f><f>Yagura_R_nattack_09</f><f>Yagura_R_nattack_10</f><e type="setSound">Audio/Effect/combo2.ogg</e>
-			<e type="setAttackBox">n_hit</e>
-			<f>Yagura_R_nattack_11</f><e type="setSound">Audio/Yagura/n_attack.ogg</e>
-			<f>Yagura_R_nattack_12</f><f>Yagura_R_nattack_13</f><f>Yagura_R_nattack_14</f><e type="setSound">Audio/Effect/kong.ogg</e>
-			<e type="setAttackBox">bl_hit</e>
-			<e type="setMove">16</e>
-			<f>Yagura_R_nattack_15</f><f>Yagura_R_nattack_16</f><f>Yagura_R_nattack_17</f><f>Yagura_R_nattack_18</f><f>Yagura_R_nattack_19</f></frame>
+			<f>Yagura_R_nattack_01</f><f>Yagura_R_nattack_02</f><e type="setMove">8</e><f>Yagura_R_nattack_03</f><f>Yagura_R_nattack_04</f><e type="setSound">Audio/Effect/blade_damage2.ogg</e><e type="setAttackBox">a_hit</e><f>Yagura_R_nattack_05</f><e type="setAttackBox">a_hit</e><f>Yagura_R_nattack_06</f><e type="setAttackBox">l_hit</e><f>Yagura_R_nattack_07</f><f>Yagura_R_nattack_08</f><f>Yagura_R_nattack_09</f><e type="setMove">16</e><f>Yagura_R_nattack_10</f><e type="setSound">Audio/Effect/kong.ogg</e><e type="setAttackBox">a_hit</e><f>Yagura_R_nattack_11</f><e type="setAttackBox">l_hit</e><f>Yagura_R_nattack_12</f><e type="setAttackBox">a_hit</e><f>Yagura_R_nattack_13</f><f>Yagura_R_nattack_14</f><f>Yagura_R_nattack_15</f><e type="setSound">Audio/Yagura/n_attack.ogg</e><e type="setAttackBox">o2_hit</e><f>Yagura_R_nattack_16</f><f>Yagura_R_nattack_17</f><e type="setAttackBox">o2_hit</e><f>Yagura_R_nattack_18</f><f>Yagura_R_nattack_19</f><e type="setAttackBox">o2_hit</e></frame>
 	</action>
 
 	<action name="skill01">
@@ -80,9 +65,7 @@
 			<p type="combatPoint">0</p>
 		</data>
 		<frame>
-			<f>Yagura_R_skill01_01</f><f>Yagura_R_skill01_02</f><e type="setDelay">40</e>
-			<e type="setBuff">17</e>
-		</frame>
+			<f>Yagura_R_skill01_01</f><e type="setDelay">2</e><f>Yagura_R_skill01_02</f><e type="setBuff">17</e></frame>
 	</action>
 
 	<action name="skill02">
@@ -95,10 +78,7 @@
 			<p type="combatPoint">1560</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Yagura/2.ogg</e>
-			<f>Yagura_R_skill02_01</f><f>Yagura_R_skill02_02</f><f>Yagura_R_skill02_03</f><f>Yagura_R_skill02_04</f><e type="setMove">16</e>
-			<f>Yagura_R_skill02_05</f><f>Yagura_R_skill02_06</f><f>Yagura_R_skill02_07</f><f>Yagura_R_skill02_08</f><f>Yagura_R_skill02_09</f><e type="setMon">Tiger</e>
-		</frame>
+			<f>Yagura_R_skill02_01</f><e type="setSound">Audio/Yagura/2.ogg</e><f>Yagura_R_skill02_02</f><f>Yagura_R_skill02_03</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setDelay">2</e><f>Yagura_R_skill02_04</f><f>Yagura_R_skill02_05</f><e type="setAttackBox">b_hit</e><f>Yagura_R_skill02_06</f><e type="setAttackBox">b_hit</e><f>Yagura_R_skill02_07</f><e type="setAttackBox">b_hit</e><f>Yagura_R_skill02_08</f><e type="setAttackBox">b_hit</e><f>Yagura_R_skill02_09</f></frame>
 	</action>
 
 	<action name="skill03">
@@ -111,10 +91,7 @@
 			<p type="combatPoint">2160</p>
 		</data>
 		<frame>
-			<f>Yagura_R_skill03_01</f><f>Yagura_R_skill03_02</f><e type="setSound">Audio/Yagura/3.ogg</e>
-			<f>Yagura_R_skill03_03</f><f>Yagura_R_skill03_04</f><e type="setMon">InkBird</e>
-			<f>Yagura_R_skill03_05</f><f>Yagura_R_skill03_06</f><f>Yagura_R_skill03_07</f><f>Yagura_R_skill03_08</f><f>Yagura_R_skill03_09</f><e type="setAttackBox">bf_hit</e>
-			<f>Yagura_R_skill03_10</f><f>Yagura_R_skill03_11</f><f>Yagura_R_skill03_12</f><f>Yagura_R_skill03_13</f><f>Yagura_R_skill03_14</f><f>Yagura_R_skill03_15</f></frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e><f>Yagura_R_skill03_01</f><e type="setSound">Audio/Yagura/3.ogg</e><e type="setDelay">2</e><f>Yagura_R_skill03_02</f><e type="setDelay">5</e><f>Yagura_R_skill03_03</f><e type="setDelay">6</e><f>Yagura_R_skill03_04</f><e type="setDelay">6</e><f>Yagura_R_skill03_05</f><e type="setDelay">10</e><f>Yagura_R_skill03_06</f><e type="setAttackBox">o_hit</e><f>Yagura_R_skill03_07</f><e type="setAttackBox">o_hit</e><f>Yagura_R_skill03_08</f><e type="setAttackBox">o_hit</e><f>Yagura_R_skill03_09</f><e type="setAttackBox">o_hit</e><f>Yagura_R_skill03_10</f><e type="setAttackBox">f_hit</e><f>Yagura_R_skill03_11</f><e type="setAttackBox">ac_hit</e><f>Yagura_R_skill03_12</f><e type="setAttackBox">o_hit</e><f>Yagura_R_skill03_13</f><e type="setMon">Yominuma</e><f>Yagura_R_skill03_14</f><e type="setDelay">6</e><f>Yagura_R_skill03_15</f><e type="setDelay">6</e></frame>
 	</action>
 
 	<action name="skill04">
@@ -147,18 +124,7 @@
 			<p type="combatPoint">9120</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<e type="setCommand">setInvincible</e>
-			<f>Yagura_R_skill05_01</f><f>Yagura_R_skill05_02</f><f>Yagura_R_skill05_03</f><f>Yagura_R_skill05_04</f><f>Yagura_R_skill05_05</f><f>Yagura_R_skill05_06</f><e type="setOugis">10</e>
-			<e type="setDelay">10</e>
-			<f>Yagura_R_skill05_07</f><f>Yagura_R_skill05_08</f><f>Yagura_R_skill05_09</f><f>Yagura_R_skill05_10</f><f>Yagura_R_skill05_11</f><f>Yagura_R_skill05_12</f><e type="setMove">16</e>
-			<e type="setDelay">10</e>
-			<f>Yagura_R_skill05_13</f><f>Yagura_R_skill05_14</f><f>Yagura_R_skill05_15</f><f>Yagura_R_skill05_16</f><f>Yagura_R_skill05_17</f><f>Yagura_R_skill05_18</f><e type="setAttackBox">o2_hit</e>
-			<e type="setDSound">Audio/Effect/damage_o.ogg</e>
-			<e type="setDelay">20</e>
-			<f>Yagura_R_skill05_19</f><f>Yagura_R_skill05_20</f><f>Yagura_R_skill05_21</f><f>Yagura_R_skill05_22</f><f>Yagura_R_skill05_23</f><f>Yagura_R_skill05_24</f><f>Yagura_R_skill05_25</f><f>Yagura_R_skill05_26</f><f>Yagura_R_skill05_27</f><f>Yagura_R_skill05_28</f><f>Yagura_R_skill05_29</f><f>Yagura_R_skill05_30</f><f>Yagura_R_skill05_31</f><f>Yagura_R_skill05_32</f><f>Yagura_R_skill05_33</f><f>Yagura_R_skill05_34</f><f>Yagura_R_skill05_35</f><f>Yagura_R_skill05_36</f><f>Yagura_R_skill05_37</f><f>Yagura_R_skill05_38</f><f>Yagura_R_skill05_39</f><f>Yagura_R_skill05_40</f><f>Yagura_R_skill05_41</f><f>Yagura_R_skill05_42</f><f>Yagura_R_skill05_43</f><f>Yagura_R_skill05_44</f><f>Yagura_R_skill05_45</f><f>Yagura_R_skill05_46</f><f>Yagura_R_skill05_47</f><f>Yagura_R_skill05_48</f><f>Yagura_R_skill05_49</f><e type="setMon">InkDragon</e>
-			<e type="setCommand">reInvincible</e>
-		</frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e><f>Yagura_R_skill05_01</f><e type="setCommand">setInvincible</e><f>Yagura_R_skill05_02</f><f>Yagura_R_skill05_03</f><f>Yagura_R_skill05_04</f><f>Yagura_R_skill05_05</f><f>Yagura_R_skill05_06</f><f>Yagura_R_skill05_07</f><f>Yagura_R_skill05_08</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Yagura_R_skill05_09</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Yagura_R_skill05_10</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Yagura_R_skill05_11</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Yagura_R_skill05_12</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Yagura_R_skill05_13</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Yagura_R_skill05_14</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Yagura_R_skill05_15</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Yagura_R_skill05_16</f><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Yagura_R_skill05_17</f><e type="setDelay">2</e><e type="setSound">Audio/Effect/pup.ogg</e><f>Yagura_R_skill05_18</f><e type="setDelay">2</e><f>Yagura_R_skill05_19</f><e type="setDelay">2</e><e type="setSound">Audio/Effect/damage_k.ogg</e><e type="setAttackBox">o_hit</e><f>Yagura_R_skill05_20</f><e type="setDelay">5</e><f>Yagura_R_skill05_21</f><e type="setOugis">10</e><e type="setDelay">10</e><f>Yagura_R_skill05_22</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_23</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_24</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_25</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_26</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_27</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><f>Yagura_R_skill05_28</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_29</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_30</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><f>Yagura_R_skill05_31</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_32</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_33</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><f>Yagura_R_skill05_34</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_35</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_36</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><f>Yagura_R_skill05_37</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_38</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_39</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><f>Yagura_R_skill05_40</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_41</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_42</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><f>Yagura_R_skill05_43</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_44</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Yagura_R_skill05_45</f><e type="setSound">Audio/Effect/water_effect.ogg</e><e type="setAttackBox">c_hit</e><e type="setSkillEffect">smk</e><f>Yagura_R_skill05_46</f><e type="setDelay">60</e><f>Yagura_R_skill05_47</f><f>Yagura_R_skill05_48</f><f>Yagura_R_skill05_49</f><e type="setCommand">reInvincible</e></frame>
 	</action>
 	<action name="skill06">
 		<frame />

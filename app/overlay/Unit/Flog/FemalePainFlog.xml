@@ -15,14 +15,11 @@
 
 	<action name="Walk">
 		<frame>
-			<f>FemalePainFlog_R_walk_01</f><f>FemalePainFlog_R_walk_02</f><f>FemalePainFlog_R_walk_03</f><f>FemalePainFlog_R_walk_04</f><e type="setDelay">10</e>
-			<f>FemalePainFlog_R_walk_05</f><f>FemalePainFlog_R_walk_06</f><e type="setDelay">10</e>
-		</frame>
+			<f>FemalePainFlog_R_walk_01</f><f>FemalePainFlog_R_walk_02</f><f>FemalePainFlog_R_walk_03</f><f>FemalePainFlog_R_walk_04</f><f>FemalePainFlog_R_walk_05</f><f>FemalePainFlog_R_walk_06</f></frame>
 	</action>
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
 			<f>FemalePainFlog_R_hurt_01</f></frame>
 	</action>
 
@@ -33,16 +30,12 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>FemalePainFlog_R_knockdown_01</f><e type="setDelay">10</e>
-			<e type="setDelay">60</e>
-			</frame>
+			<f>FemalePainFlog_R_knockdown_01</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>FemalePainFlog_R_float_01</f><e type="setDelay">10</e>
-			<e type="setDelay">30</e>
-		</frame>
+			<f>FemalePainFlog_R_float_01</f></frame>
 	</action>
 
 	<action name="Dead">
@@ -59,11 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>FemalePainFlog_R_nattack_01</f><f>FemalePainFlog_R_nattack_02</f><e type="setDelay">10</e>
-			<f>FemalePainFlog_R_nattack_03</f><f>FemalePainFlog_R_nattack_04</f><e type="setDelay">10</e>
-			<f>FemalePainFlog_R_nattack_05</f><f>FemalePainFlog_R_nattack_06</f><f>FemalePainFlog_R_nattack_07</f><f>FemalePainFlog_R_nattack_08</f><f>FemalePainFlog_R_nattack_09</f><e type="setAttackBox">n_hit</e>
-			<e type="setDelay">10</e>
-		</frame>
+			<f>FemalePainFlog_R_nattack_01</f><e type="setDelay">10</e><f>FemalePainFlog_R_nattack_02</f><f>FemalePainFlog_R_nattack_03</f><e type="setAttackBox">n_hit</e><f>FemalePainFlog_R_nattack_04</f><e type="setDelay">10</e><f>FemalePainFlog_R_nattack_05</f><f>FemalePainFlog_R_nattack_06</f><e type="setAttackBox">n_hit</e><f>FemalePainFlog_R_nattack_07</f><e type="setMove">8</e><f>FemalePainFlog_R_nattack_08</f><f>FemalePainFlog_R_nattack_09</f><e type="setAttackBox">n_hit</e><e type="setDelay">10</e></frame>
 	</action>
 
 

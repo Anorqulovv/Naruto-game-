@@ -21,8 +21,7 @@
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
-			<f>Hashirama_R_hurt_01</f><f>Hashirama_R_hurt_02</f></frame>
+			<e type="setMove">32</e><f>Hashirama_R_hurt_01</f><f>Hashirama_R_hurt_02</f></frame>
 	</action>
 
 	<action name="AirHurt">
@@ -32,23 +31,17 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>Hashirama_R_knockdown_01</f><f>Hashirama_R_knockdown_02</f><e type="setDelay">10</e>
-			<f>Hashirama_R_knockdown_03</f><f>Hashirama_R_knockdown_04</f><f>Hashirama_R_knockdown_05</f><e type="setDelay">60</e>
-			<f>Hashirama_R_knockdown_06</f><f>Hashirama_R_knockdown_07</f><e type="setDelay">30</e>
-
-		</frame>
+			<f>Hashirama_R_knockdown_01</f><e type="setSkillEffect">Bagua</e><e type="setSound">Audio/Hashirama/walk.ogg</e><f>Hashirama_R_knockdown_02</f><f>Hashirama_R_knockdown_03</f><e type="setDelay">50</e><f>Hashirama_R_knockdown_04</f><e type="setDelay">10</e><f>Hashirama_R_knockdown_05</f><e type="setDelay">10</e><f>Hashirama_R_knockdown_06</f><f>Hashirama_R_knockdown_07</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>Hashirama_R_float_01</f><e type="setDelay">10</e>
-			<f>Hashirama_R_float_02</f><e type="setDelay">10</e>
-			<f>Hashirama_R_float_03</f></frame>
+			<f>Hashirama_R_float_01</f><e type="setDelay">10</e><f>Hashirama_R_float_02</f><e type="setDelay">10</e><f>Hashirama_R_float_03</f></frame>
 	</action>
 
 	<action name="Dead">
 		<frame>
-			<f>Hashirama_R_dead_01</f><f>Hashirama_R_dead_02</f><f>Hashirama_R_dead_03</f></frame>
+			<e type="setSkillEffect">Hiraishin2</e><f>Hashirama_R_dead_01</f><f>Hashirama_R_dead_02</f><f>Hashirama_R_dead_03</f></frame>
 	</action>
 
 	<action name="nAttack">
@@ -60,16 +53,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Hashirama_R_nattack_01</f><f>Hashirama_R_nattack_02</f><f>Hashirama_R_nattack_03</f><e type="setDelay">10</e>
-			<f>Hashirama_R_nattack_04</f><e type="setSound">Audio/Effect/combo1.ogg</e>
-			<e type="setAttackBox">n_hit</e>
-			<f>Hashirama_R_nattack_05</f><f>Hashirama_R_nattack_06</f><e type="setDelay">10</e>
-			<f>Hashirama_R_nattack_07</f><f>Hashirama_R_nattack_08</f><e type="setMove">8</e>
-			<f>Hashirama_R_nattack_09</f><e type="setAttackBox">n_hit</e>
-			<f>Hashirama_R_nattack_10</f><f>Hashirama_R_nattack_11</f><f>Hashirama_R_nattack_12</f><e type="setSound">Audio/Hashirama/Gaara_combo.ogg</e>
-			<e type="setAttackBox">n_hit</e>
-			<f>Hashirama_R_nattack_13</f><f>Hashirama_R_nattack_14</f><f>Hashirama_R_nattack_15</f><f>Hashirama_R_nattack_16</f><f>Hashirama_R_nattack_17</f><e type="setAttackBox">l_hit</e>
-			<f>Hashirama_R_nattack_18</f></frame>
+			<f>Hashirama_R_nattack_01</f><f>Hashirama_R_nattack_02</f><f>Hashirama_R_nattack_03</f><f>Hashirama_R_nattack_04</f><e type="setSound">Audio/Effect/combo2.ogg</e><e type="setAttackBox">n_hit</e><f>Hashirama_R_nattack_05</f><f>Hashirama_R_nattack_06</f><f>Hashirama_R_nattack_07</f><f>Hashirama_R_nattack_08</f><e type="setSound">Audio/Effect/combo2.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_nattack_09</f><f>Hashirama_R_nattack_10</f><f>Hashirama_R_nattack_11</f><f>Hashirama_R_nattack_12</f><f>Hashirama_R_nattack_13</f><e type="setSound">Audio/Effect/combo2.ogg</e><e type="setAttackBox">n_hit</e><f>Hashirama_R_nattack_14</f><f>Hashirama_R_nattack_15</f><e type="setMove">16</e><e type="setSound">Audio/Hashirama/Gaara_combo.ogg</e><f>Hashirama_R_nattack_16</f><e type="setSound">Audio/Effect/combo2.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_nattack_17</f><f>Hashirama_R_nattack_18</f></frame>
 	</action>
 
 	<action name="skill01">
@@ -82,11 +66,7 @@
 			<p type="combatPoint">1380</p>
 		</data>
 		<frame>
-			<f>Hashirama_R_skill01_01</f><e type="setMove">8</e>
-			<f>Hashirama_R_skill01_02</f><f>Hashirama_R_skill01_03</f><f>Hashirama_R_skill01_04</f><f>Hashirama_R_skill01_05</f><f>Hashirama_R_skill01_06</f><e type="setAttackBox">c_hit</e>
-			<f>Hashirama_R_skill01_07</f><f>Hashirama_R_skill01_08</f><f>Hashirama_R_skill01_09</f><e type="setAttackBox">c_hit</e>
-			<f>Hashirama_R_skill01_10</f><f>Hashirama_R_skill01_11</f><f>Hashirama_R_skill01_12</f><e type="setAttackBox">c_hit</e>
-			<f>Hashirama_R_skill01_13</f></frame>
+			<f>Hashirama_R_skill01_01</f><f>Hashirama_R_skill01_02</f><f>Hashirama_R_skill01_03</f><f>Hashirama_R_skill01_04</f><f>Hashirama_R_skill01_05</f><e type="setAttackBox">o_hit</e><f>Hashirama_R_skill01_06</f><e type="setAttackBox">o_hit</e><f>Hashirama_R_skill01_07</f><e type="setSound">Audio/Effect/break_sound.ogg</e><e type="setAttackBox">o_hit</e><f>Hashirama_R_skill01_08</f><e type="setAttackBox">ab_hit</e><f>Hashirama_R_skill01_09</f><f>Hashirama_R_skill01_10</f><e type="setSound">Audio/Effect/break_sound.ogg</e><e type="setAttackBox">ab_hit</e><f>Hashirama_R_skill01_11</f><e type="setAttackBox">ab_hit</e><f>Hashirama_R_skill01_12</f><f>Hashirama_R_skill01_13</f></frame>
 	</action>
 
 	<action name="skill02">
@@ -99,10 +79,7 @@
 			<p type="combatPoint">1560</p>
 		</data>
 		<frame>
-			<f>Hashirama_R_skill02_01</f><f>Hashirama_R_skill02_02</f><f>Hashirama_R_skill02_03</f><f>Hashirama_R_skill02_04</f><f>Hashirama_R_skill02_05</f><e type="setMon">SandHand</e>
-			<e type="setDelay">10</e>
-			<f>Hashirama_R_skill02_06</f><f>Hashirama_R_skill02_07</f><e type="setDelay">10</e>
-		</frame>
+			<f>Hashirama_R_skill02_01</f><f>Hashirama_R_skill02_02</f><f>Hashirama_R_skill02_03</f><f>Hashirama_R_skill02_04</f><f>Hashirama_R_skill02_05</f><f>Hashirama_R_skill02_06</f><e type="setSkillEffect">Kujiyose</e><e type="setAttackBox">f2_hit</e><e type="setAttackBox">ac_hit</e><f>Hashirama_R_skill02_07</f><e type="setAttackBox">ac_hit</e><e type="setDelay">40</e></frame>
 	</action>
 
 	<action name="skill03">
@@ -115,9 +92,7 @@
 			<p type="combatPoint">1980</p>
 		</data>
 		<frame>
-			<f>Hashirama_R_skill03_01</f><e type="setSound">Audio/Hashirama/Gaara_skill3.ogg</e>
-			<e type="setMon">SandBall</e>
-			<f>Hashirama_R_skill03_02</f><f>Hashirama_R_skill03_03</f><f>Hashirama_R_skill03_04</f><f>Hashirama_R_skill03_05</f><f>Hashirama_R_skill03_06</f><f>Hashirama_R_skill03_07</f></frame>
+			<f>Hashirama_R_skill03_01</f><f>Hashirama_R_skill03_02</f><f>Hashirama_R_skill03_03</f><f>Hashirama_R_skill03_04</f><f>Hashirama_R_skill03_05</f><e type="setSound">Audio/Hashirama/Gaara_skill3.ogg</e><f>Hashirama_R_skill03_06</f><e type="setMon">SansyoGreen</e><f>Hashirama_R_skill03_07</f><e type="setDelay">20</e></frame>
 	</action>
 
 	<action name="skill04">
@@ -130,11 +105,7 @@
 			<p type="combatPoint">3300</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>Hashirama_R_skill04_01</f><e type="setDelay">10</e>
-			<f>Hashirama_R_skill04_02</f><f>Hashirama_R_skill04_03</f><e type="setMon">Sabaku</e>
-			<e type="setSound">Audio/Hashirama/Gaara_skill3.ogg</e>
-			<f>Hashirama_R_skill04_04</f><f>Hashirama_R_skill04_05</f><f>Hashirama_R_skill04_06</f><f>Hashirama_R_skill04_07</f><f>Hashirama_R_skill04_08</f><f>Hashirama_R_skill04_09</f></frame>
+			<f>Hashirama_R_skill04_01</f><f>Hashirama_R_skill04_02</f><f>Hashirama_R_skill04_03</f><f>Hashirama_R_skill04_04</f><f>Hashirama_R_skill04_05</f><e type="setSound">Audio/Hashirama/Gaara_skill3.ogg</e><f>Hashirama_R_skill04_06</f><e type="setMon">Sabaku</e><f>Hashirama_R_skill04_07</f><e type="setDelay">30</e><e type="setSound">Audio/Hashirama/Gaara_skill4.ogg</e><f>Hashirama_R_skill04_08</f><e type="setSkillEffect">Kujiyose</e><f>Hashirama_R_skill04_09</f><e type="setDelay">20</e></frame>
 	</action>
 
 	<action name="skill05">
@@ -148,13 +119,8 @@
 			<p type="combatPoint">8000</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>Hashirama_R_skill05_01</f><f>Hashirama_R_skill05_02</f><f>Hashirama_R_skill05_03</f><f>Hashirama_R_skill05_04</f><f>Hashirama_R_skill05_05</f><f>Hashirama_R_skill05_06</f><f>Hashirama_R_skill05_07</f><f>Hashirama_R_skill05_08</f><f>Hashirama_R_skill05_09</f><e type="setCommand">setInvincible</e>
-			<f>Hashirama_R_skill05_10</f><f>Hashirama_R_skill05_11</f><f>Hashirama_R_skill05_12</f><f>Hashirama_R_skill05_13</f><f>Hashirama_R_skill05_14</f><f>Hashirama_R_skill05_15</f><f>Hashirama_R_skill05_16</f><f>Hashirama_R_skill05_17</f><f>Hashirama_R_skill05_18</f><e type="setOugis">10</e>
-			<f>Hashirama_R_skill05_19</f><f>Hashirama_R_skill05_20</f><f>Hashirama_R_skill05_21</f><f>Hashirama_R_skill05_22</f><f>Hashirama_R_skill05_23</f><f>Hashirama_R_skill05_24</f><f>Hashirama_R_skill05_25</f><f>Hashirama_R_skill05_26</f><f>Hashirama_R_skill05_27</f><e type="setSkillEffect">smk</e>
-			<e type="setBuff">17</e>
-			<e type="setCommand">reInvincible</e>
-		</frame>
+			<f>Hashirama_R_skill05_01</f><e type="setSound">Audio/Effect/ougis.ogg</e><f>Hashirama_R_skill05_02</f><f>Hashirama_R_skill05_03</f><f>Hashirama_R_skill05_04</f><f>Hashirama_R_skill05_05</f><e type="setCommand">setInvincible</e><f>Hashirama_R_skill05_06</f><e type="setOugis">10</e><f>Hashirama_R_skill05_07</f><f>Hashirama_R_skill05_08</f><f>Hashirama_R_skill05_09</f><e type="setAttackBox">f_hit</e><e type="setSound">Audio/Effect/break_sound3.ogg</e><f>Hashirama_R_skill05_10</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">ac_hit</e><f>Hashirama_R_skill05_11</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">ac_hit</e><f>Hashirama_R_skill05_12</f><e type="setAttackBox">ac_hit</e><f>Hashirama_R_skill05_13</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">ac_hit</e><f>Hashirama_R_skill05_14</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_skill05_15</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_skill05_16</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_skill05_17</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_skill05_18</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_skill05_19</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_skill05_20</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_skill05_21</f><e type="setAttackBox">c_hit</e><f>Hashirama_R_skill05_22</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_skill05_23</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">c_hit</e><f>Hashirama_R_skill05_24</f><f>Hashirama_R_skill05_25</f><f>Hashirama_R_skill05_26</f><f>Hashirama_R_skill05_27</f><e type="setCommand">reInvincible</e><e type="setBuff">17</e>
+			</frame>
 
 	</action>
 	<action name="skill06">
@@ -179,7 +145,7 @@
 		</data>
 
 		<frame>
-			<f>Hashirama_R_skill10_01</f></frame>
+			<f>Hashirama_R_skill10_01</f><e type="setDelay">50</e></frame>
 	</action>
 
 	<action name="skill10">
@@ -191,7 +157,7 @@
 			<p type="cd">10</p>
 		</data>
 		<frame>
-			<f>Hashirama_R_skill10_01</f></frame>
+			<f>Hashirama_R_skill10_01</f><e type="setDelay">50</e></frame>
 	</action>
 
 	<action name="skill10">

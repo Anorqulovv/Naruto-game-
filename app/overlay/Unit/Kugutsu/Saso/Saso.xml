@@ -20,7 +20,6 @@
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
 			<f>Saso_R_hurt_01</f></frame>
 	</action>
 
@@ -53,15 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Saso_R_nattack_01</f><e type="setDelay">10</e>
-			<e type="setAttackBox">n_hit</e>
-			<e type="setDelay">10</e>
-			<f>Saso_R_nattack_02</f><f>Saso_R_nattack_03</f><e type="setDelay">10</e>
-			<f>Saso_R_nattack_04</f><e type="setAttackBox">n_hit</e>
-			<f>Saso_R_nattack_05</f><e type="setDelay">10</e>
-			<f>Saso_R_nattack_06</f><e type="setDelay">10</e>
-			<f>Saso_R_nattack_07</f><e type="setAttackBox">n_hit</e>
-			<f>Saso_R_nattack_08</f></frame>
+			<f>Saso_R_nattack_01</f><f>Saso_R_nattack_02</f><e type="setAttackBox">o_hit</e><e type="setSound">Audio/Effect/combo1.ogg</e><e type="setDelay">10</e><e type="setAttackBox">c_hit</e><f>Saso_R_nattack_03</f><f>Saso_R_nattack_04</f><f>Saso_R_nattack_05</f><f>Saso_R_nattack_06</f><e type="setAttackBox">c_hit</e><e type="setSound">Audio/Effect/combo1.ogg</e><e type="setDelay">10</e><e type="setAttackBox">c_hit</e><f>Saso_R_nattack_07</f><e type="setAttackBox">o_hit</e><e type="setDelay">10</e><e type="setAttackBox">o_hit</e><e type="setDelay">10</e><f>Saso_R_nattack_08</f><e type="setDelay">50</e></frame>
 	</action>
 
 	<action name="skill01">
@@ -73,17 +64,7 @@
 			<p type="cd">10</p>
 		</data>
 		<frame>
-			<f>Saso_R_skill01_01</f><f>Saso_R_skill01_02</f><f>Saso_R_skill01_03</f><f>Saso_R_skill01_04</f><f>Saso_R_skill01_05</f><f>Saso_R_skill01_06</f><f>Saso_R_skill01_07</f><f>Saso_R_skill01_08</f><f>Saso_R_skill01_09</f><f>Saso_R_skill01_10</f><f>Saso_R_skill01_11</f><e type="setSound">Audio/Kankuro/kankuro_skill5_1.ogg</e>
-			<f>Saso_R_skill01_12</f><f>Saso_R_skill01_13</f><f>Saso_R_skill01_14</f><f>Saso_R_skill01_15</f><f>Saso_R_skill01_16</f><f>Saso_R_skill01_17</f><f>Saso_R_skill01_18</f><f>Saso_R_skill01_19</f><f>Saso_R_skill01_20</f><f>Saso_R_skill01_21</f><f>Saso_R_skill01_22</f><e type="setAttackBox">o_hit</e>
-			<e type="setSound">Audio/Effect/goukakyu.ogg</e>
-			<e type="setDelay">10</e>
-			<f>Saso_R_skill01_23</f><f>Saso_R_skill01_24</f><f>Saso_R_skill01_25</f><f>Saso_R_skill01_26</f><f>Saso_R_skill01_27</f><f>Saso_R_skill01_28</f><f>Saso_R_skill01_29</f><f>Saso_R_skill01_30</f><f>Saso_R_skill01_31</f><f>Saso_R_skill01_32</f><f>Saso_R_skill01_33</f><e type="setAttackBox">o_hit</e>
-			<e type="setDelay">10</e>
-			<f>Saso_R_skill01_34</f><f>Saso_R_skill01_35</f><f>Saso_R_skill01_36</f><f>Saso_R_skill01_37</f><f>Saso_R_skill01_38</f><f>Saso_R_skill01_39</f><f>Saso_R_skill01_40</f><f>Saso_R_skill01_41</f><f>Saso_R_skill01_42</f><f>Saso_R_skill01_43</f><f>Saso_R_skill01_44</f><e type="setAttackBox">o_hit</e>
-			<e type="setDelay">10</e>
-			<f>Saso_R_skill01_45</f><f>Saso_R_skill01_46</f><f>Saso_R_skill01_47</f><f>Saso_R_skill01_48</f><f>Saso_R_skill01_49</f><f>Saso_R_skill01_50</f><f>Saso_R_skill01_51</f><f>Saso_R_skill01_52</f><f>Saso_R_skill01_53</f><f>Saso_R_skill01_54</f><f>Saso_R_skill01_55</f><e type="setAttackBox">o_hit</e>
-			<e type="setDelay">10</e>
-		</frame>
+			<f>Saso_R_skill01_01</f><f>Saso_R_skill01_02</f><e type="setAttackBox">o_hit</e><e type="setSound">Audio/Effect/combo1.ogg</e><e type="setDelay">10</e><e type="setAttackBox">c_hit</e><f>Saso_R_skill01_03</f><f>Saso_R_skill01_04</f><f>Saso_R_skill01_05</f><f>Saso_R_skill01_06</f><e type="setAttackBox">c_hit</e><e type="setSound">Audio/Effect/combo1.ogg</e><e type="setDelay">10</e><e type="setAttackBox">c_hit</e><f>Saso_R_skill01_07</f><e type="setAttackBox">o_hit</e><e type="setDelay">10</e><e type="setAttackBox">o_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_08</f><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>Saso_R_skill01_09</f><f>Saso_R_skill01_10</f><f>Saso_R_skill01_11</f><e type="setSound">Audio/Effect/kuwu.ogg</e><e type="setAttackBox">bl_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_12</f><e type="setAttackBox">bl_hit</e><f>Saso_R_skill01_13</f><e type="setAttackBox">bl_hit</e><e type="setSound">Audio/Effect/kuwu.ogg</e><f>Saso_R_skill01_14</f><e type="setAttackBox">bl_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_15</f><e type="setAttackBox">bl_hit</e><e type="setSound">Audio/Effect/kuwu.ogg</e><f>Saso_R_skill01_16</f><e type="setAttackBox">bl_hit</e><f>Saso_R_skill01_17</f><e type="setAttackBox">bl_hit</e><e type="setSound">Audio/Effect/kuwu.ogg</e><f>Saso_R_skill01_18</f><e type="setAttackBox">bl_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_19</f><f>Saso_R_skill01_20</f><e type="setSound">Audio/Effect/kuwu.ogg</e><f>Saso_R_skill01_21</f><e type="setAttackBox">bl_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_22</f><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>Saso_R_skill01_23</f><f>Saso_R_skill01_24</f><e type="setAttackBox">n_hit</e><f>Saso_R_skill01_25</f><f>Saso_R_skill01_26</f><e type="setAttackBox">o_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_27</f><f>Saso_R_skill01_28</f><e type="setSound">Audio/Effect/kong.ogg</e><f>Saso_R_skill01_29</f><e type="setAttackBox">n_hit</e><e type="setDelay">10</e><e type="setAttackBox">n_hit</e><f>Saso_R_skill01_30</f><e type="setAttackBox">n_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_31</f><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>Saso_R_skill01_32</f><f>Saso_R_skill01_33</f><f>Saso_R_skill01_34</f><e type="setAttackBox">l_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_35</f><e type="setAttackBox">c_hit</e><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Saso_R_skill01_36</f><e type="setAttackBox">c_hit</e><f>Saso_R_skill01_37</f><e type="setAttackBox">c_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_38</f><e type="setAttackBox">c_hit</e><f>Saso_R_skill01_39</f><e type="setAttackBox">c_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_40</f><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>Saso_R_skill01_41</f><f>Saso_R_skill01_42</f><e type="setAttackBox">o_hit</e><f>Saso_R_skill01_43</f><e type="setAttackBox">o_hit</e><f>Saso_R_skill01_44</f><e type="setAttackBox">o_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_45</f><f>Saso_R_skill01_46</f><e type="setAttackBox">c_hit</e><f>Saso_R_skill01_47</f><f>Saso_R_skill01_48</f><e type="setDelay">10</e><f>Saso_R_skill01_49</f><e type="setAttackBox">c_hit</e><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Saso_R_skill01_50</f><e type="setAttackBox">c_hit</e><f>Saso_R_skill01_51</f><e type="setAttackBox">c_hit</e><e type="setSound">Audio/Effect/goukakyu.ogg</e><f>Saso_R_skill01_52</f><e type="setAttackBox">c_hit</e><f>Saso_R_skill01_53</f><e type="setAttackBox">c_hit</e><e type="setSound">Audio/Effect/goukakyu.ogg</e><e type="setDelay">10</e><f>Saso_R_skill01_54</f><e type="setAttackBox">c_hit</e><e type="setDelay">10</e><f>Saso_R_skill01_55</f></frame>
 	</action>
 
 	<action name="skill02">

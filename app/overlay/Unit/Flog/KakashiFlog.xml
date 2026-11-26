@@ -15,15 +15,12 @@
 
 	<action name="Walk">
 		<frame>
-			<f>KakashiFlog_R_walk_01</f><f>KakashiFlog_R_walk_02</f><f>KakashiFlog_R_walk_03</f><f>KakashiFlog_R_walk_04</f><e type="setDelay">10</e>
-			<f>KakashiFlog_R_walk_05</f><f>KakashiFlog_R_walk_06</f><e type="setDelay">10</e>
-		</frame>
+			<f>KakashiFlog_R_walk_01</f><f>KakashiFlog_R_walk_02</f><f>KakashiFlog_R_walk_03</f><f>KakashiFlog_R_walk_04</f><f>KakashiFlog_R_walk_05</f><f>KakashiFlog_R_walk_06</f></frame>
 	</action>
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
-			<f>KakashiFlog_R_hurt_01</f></frame>
+			<e type="setMove">32</e><f>KakashiFlog_R_hurt_01</f></frame>
 	</action>
 
 	<action name="AirHurt">
@@ -33,16 +30,12 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>KakashiFlog_R_knockdown_01</f><f>KakashiFlog_R_knockdown_02</f><e type="setDelay">10</e>
-			<f>KakashiFlog_R_knockdown_03</f><e type="setDelay">60</e>
-			<f>KakashiFlog_R_knockdown_04</f></frame>
+			<f>KakashiFlog_R_knockdown_01</f><f>KakashiFlog_R_knockdown_02</f><f>KakashiFlog_R_knockdown_03</f><e type="setDelay">10</e><f>KakashiFlog_R_knockdown_04</f><e type="setDelay">60</e></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>KakashiFlog_R_float_01</f><e type="setDelay">10</e>
-			<f>KakashiFlog_R_float_02</f><e type="setDelay">20</e>
-		</frame>
+			<f>KakashiFlog_R_float_01</f><e type="setDelay">10</e><f>KakashiFlog_R_float_02</f><e type="setDelay">30</e></frame>
 	</action>
 
 	<action name="Dead">
@@ -59,11 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>KakashiFlog_R_nattack_01</f><e type="setDelay">10</e>
-			<f>KakashiFlog_R_nattack_02</f><e type="setDelay">10</e>
-			<f>KakashiFlog_R_nattack_03</f><f>KakashiFlog_R_nattack_04</f><e type="setAttackBox">n_hit</e>
-			<e type="setDelay">10</e>
-		</frame>
+			<f>KakashiFlog_R_nattack_01</f><e type="setDelay">10</e><f>KakashiFlog_R_nattack_02</f><e type="setDelay">10</e><f>KakashiFlog_R_nattack_03</f><f>KakashiFlog_R_nattack_04</f><e type="setAttackBox">n_hit</e><e type="setDelay">10</e></frame>
 	</action>
 
 

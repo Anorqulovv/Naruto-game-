@@ -20,9 +20,7 @@
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
-			<f>Kakashi_R_hurt_01</f><f>Kakashi_R_hurt_02</f><e type="setSound">Audio/Kakashi/kakashi_hurt.ogg</e>
-		</frame>
+			<e type="setMove">32</e><f>Kakashi_R_hurt_01</f><f>Kakashi_R_hurt_02</f><e type="setSound">Audio/Kakashi/kakashi_hurt.ogg</e></frame>
 	</action>
 
 	<action name="AirHurt">
@@ -32,22 +30,17 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>Kakashi_R_knockdown_01</f><e type="setDelay">10</e>
-			<e type="setDelay">60</e>
-			<f>Kakashi_R_knockdown_02</f><f>Kakashi_R_knockdown_03</f><f>Kakashi_R_knockdown_04</f></frame>
+			<f>Kakashi_R_knockdown_01</f><e type="setSkillEffect">Bagua</e><e type="setSound">Audio/Kakashi/walk.ogg</e><e type="setDelay">5</e><f>Kakashi_R_knockdown_02</f><e type="setDelay">60</e><f>Kakashi_R_knockdown_03</f><f>Kakashi_R_knockdown_04</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>Kakashi_R_float_01</f><e type="setDelay">10</e>
-			<f>Kakashi_R_float_02</f><e type="setDelay">10</e>
-			<f>Kakashi_R_float_03</f></frame>
+			<f>Kakashi_R_float_01</f><e type="setDelay">10</e><f>Kakashi_R_float_02</f><e type="setDelay">10</e><f>Kakashi_R_float_03</f></frame>
 	</action>
 
 	<action name="Dead">
 		<frame>
-			<f>Kakashi_R_dead_01</f><f>Kakashi_R_dead_02</f><e type="setSound">Audio/Kakashi/kakashi_dead.ogg</e>
-		</frame>
+			<e type="setSkillEffect">Hiraishin2</e><f>Kakashi_R_dead_01</f><f>Kakashi_R_dead_02</f><e type="setSound">Audio/Kakashi/kakashi_dead.ogg</e></frame>
 	</action>
 
 	<action name="nAttack">
@@ -59,16 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Kakashi_R_nattack_01</f><f>Kakashi_R_nattack_02</f><e type="setSound">Audio/Effect/combo1.ogg</e>
-			<e type="setAttackBox">n_hit</e>
-			<f>Kakashi_R_nattack_03</f><f>Kakashi_R_nattack_04</f><f>Kakashi_R_nattack_05</f><e type="setMove">8</e>
-			<f>Kakashi_R_nattack_06</f><e type="setSound">Audio/Effect/combo2.ogg</e>
-			<e type="setAttackBox">n_hit</e>
-			<f>Kakashi_R_nattack_07</f><e type="setSound">Audio/Kakashi/kakashi_combo.ogg</e>
-			<e type="setMove">16</e>
-			<f>Kakashi_R_nattack_08</f><e type="setSound">Audio/Effect/combo3.ogg</e>
-			<e type="setAttackBox">l_hit</e>
-			<f>Kakashi_R_nattack_09</f></frame>
+			<f>Kakashi_R_nattack_01</f><f>Kakashi_R_nattack_02</f><f>Kakashi_R_nattack_03</f><e type="setSound">Audio/Effect/combo1.ogg</e><e type="setAttackBox">n_hit</e><f>Kakashi_R_nattack_04</f><f>Kakashi_R_nattack_05</f><f>Kakashi_R_nattack_06</f><e type="setMove">8</e><f>Kakashi_R_nattack_07</f><e type="setSound">Audio/Effect/combo2.ogg</e><e type="setAttackBox">n_hit</e><f>Kakashi_R_nattack_08</f><e type="setSound">Audio/Kakashi/kakashi_combo.ogg</e><f>Kakashi_R_nattack_09</f><e type="setMove">16</e></frame>
 	</action>
 
 	<action name="skill01">
@@ -81,11 +65,7 @@
 			<p type="combatPoint">2240</p>
 		</data>
 		<frame>
-			<f>Kakashi_R_skill01_01</f><f>Kakashi_R_skill01_02</f><f>Kakashi_R_skill01_03</f><f>Kakashi_R_skill01_04</f><e type="setSound">Audio/Kakashi/kakashi_skill1.ogg</e>
-			<f>Kakashi_R_skill01_05</f><f>Kakashi_R_skill01_06</f><e type="setCharge">200</e>
-			<f>Kakashi_R_skill01_07</f><f>Kakashi_R_skill01_08</f><f>Kakashi_R_skill01_09</f><f>Kakashi_R_skill01_10</f><f>Kakashi_R_skill01_11</f><e type="setAttackBox">f_hit</e>
-			<e type="setDelay">20</e>
-		</frame>
+			<f>Kakashi_R_skill01_01</f><f>Kakashi_R_skill01_02</f><f>Kakashi_R_skill01_03</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill01_04</f><f>Kakashi_R_skill01_05</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill01_06</f><f>Kakashi_R_skill01_07</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill01_08</f><f>Kakashi_R_skill01_09</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill01_10</f><f>Kakashi_R_skill01_11</f><e type="setAttackBox">c_hit</e></frame>
 	</action>
 
 	<action name="skill02">
@@ -98,10 +78,7 @@
 			<p type="combatPoint">2460</p>
 		</data>
 		<frame>
-			<f>Kakashi_R_skill02_01</f><f>Kakashi_R_skill02_02</f><f>Kakashi_R_skill02_03</f><f>Kakashi_R_skill02_04</f><f>Kakashi_R_skill02_05</f><f>Kakashi_R_skill02_06</f><e type="setSound">Audio/Kakashi/kakashi_skill2.ogg</e>
-			<f>Kakashi_R_skill02_07</f><f>Kakashi_R_skill02_08</f><f>Kakashi_R_skill02_09</f><f>Kakashi_R_skill02_10</f><f>Kakashi_R_skill02_11</f><f>Kakashi_R_skill02_12</f><e type="setMon">Paku</e>
-			<e type="setDelay">10</e>
-		</frame>
+			<f>Kakashi_R_skill02_01</f><f>Kakashi_R_skill02_02</f><f>Kakashi_R_skill02_03</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill02_04</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill02_05</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill02_06</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill02_07</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill02_08</f><e type="setAttackBox">b_hit</e><f>Kakashi_R_skill02_09</f><e type="setAttackBox">b_hit</e><f>Kakashi_R_skill02_10</f><e type="setAttackBox">b_hit</e><f>Kakashi_R_skill02_11</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill02_12</f><e type="setAttackBox">c_hit</e></frame>
 	</action>
 
 	<action name="skill03">
@@ -114,12 +91,7 @@
 			<p type="combatPoint">0</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Kakashi/kakashi_skill3.ogg</e>
-			<f>Kakashi_R_skill03_01</f><e type="setSkillEffect">sharingan2</e>
-			<e type="setSound">Audio/Effect/srg2.ogg</e>
-			<e type="setDelay">30</e>
-			<e type="setBuff">17</e>
-		</frame>
+			<e type="setSound">Audio/Kakashi/kakashi_skill3.ogg</e><f>Kakashi_R_skill03_01</f><e type="setSound">Audio/Effect/srg2.ogg</e><e type="setDelay">50</e><e type="setBuff">17</e></frame>
 	</action>
 
 	<action name="skill04">
@@ -132,13 +104,7 @@
 			<p type="combatPoint">3480</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<e type="setSound">Audio/Kakashi/kakashi_skill4.ogg</e>
-			<f>Kakashi_R_skill04_01</f><f>Kakashi_R_skill04_02</f><f>Kakashi_R_skill04_03</f><f>Kakashi_R_skill04_04</f><f>Kakashi_R_skill04_05</f><f>Kakashi_R_skill04_06</f><f>Kakashi_R_skill04_07</f><f>Kakashi_R_skill04_08</f><f>Kakashi_R_skill04_09</f><f>Kakashi_R_skill04_10</f><f>Kakashi_R_skill04_11</f><f>Kakashi_R_skill04_12</f><f>Kakashi_R_skill04_13</f><f>Kakashi_R_skill04_14</f><f>Kakashi_R_skill04_15</f><f>Kakashi_R_skill04_16</f><f>Kakashi_R_skill04_17</f><f>Kakashi_R_skill04_18</f><f>Kakashi_R_skill04_19</f><f>Kakashi_R_skill04_20</f><f>Kakashi_R_skill04_21</f><f>Kakashi_R_skill04_22</f><f>Kakashi_R_skill04_23</f><e type="setCommand">setInvincible</e>
-			<e type="setClone">5</e>
-			<e type="setDelay">70</e>
-			<e type="setCommand">reInvincible</e>
-		</frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e><f>Kakashi_R_skill04_01</f><e type="setChargeB">352</e><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_02</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_03</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_04</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_05</f><e type="setFlipped">10</e><f>Kakashi_R_skill04_06</f><e type="setChargeB">352</e><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_07</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_08</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_09</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_10</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_11</f><f>Kakashi_R_skill04_12</f><e type="setFlipped">10</e><f>Kakashi_R_skill04_13</f><e type="setAttackBox">a_hit</e><f>Kakashi_R_skill04_14</f><e type="setAttackBox">a_hit</e><f>Kakashi_R_skill04_15</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_16</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_17</f><e type="setAttackBox">b_hit</e><f>Kakashi_R_skill04_18</f><e type="setAttackBox">b_hit</e><e type="setSound">Audio/Effect/bom.ogg</e><f>Kakashi_R_skill04_19</f><e type="setAttackBox">b_hit</e><f>Kakashi_R_skill04_20</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_21</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_22</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill04_23</f><e type="setDelay">50</e></frame>
 	</action>
 
 	<action name="skill05">
@@ -151,30 +117,7 @@
 			<p type="combatPoint">9440</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<e type="setSound">Audio/Kakashi/kakashi_skill5_1.ogg</e>
-			<f>Kakashi_R_skill05_01</f><e type="setCommand">setInvincible</e>
-			<e type="setSound">Audio/Kakashi/leiqie.ogg</e>
-			<e type="setOugis">10</e>
-			<f>Kakashi_R_skill05_02</f><f>Kakashi_R_skill05_03</f><e type="setSound">Audio/Kakashi/kakashi_skill2_1.ogg</e>
-			<e type="setCharge">192</e>
-			<e type="setSound">Audio/Kakashi/leiqie.ogg</e>
-			<e type="setAttackBox">c_hit</e>
-			<f>Kakashi_R_skill05_04</f><f>Kakashi_R_skill05_05</f><e type="setAttackBox">f_hit</e>
-			<f>Kakashi_R_skill05_06</f><e type="setSound">Audio/Kakashi/kakashi_skill5_4.ogg</e>
-			<f>Kakashi_R_skill05_07</f><e type="setChargeB">48</e>
-			<e type="setSound">Audio/Kakashi/kakashi_skill5_3.ogg</e>
-			<e type="setAttackBox">ac_hit</e>
-			<f>Kakashi_R_skill05_08</f><f>Kakashi_R_skill05_09</f><e type="setAttackBox">c_hit</e>
-			<f>Kakashi_R_skill05_10</f><f>Kakashi_R_skill05_11</f><f>Kakashi_R_skill05_12</f><e type="setAttackBox">b_hit</e>
-			<f>Kakashi_R_skill05_13</f><f>Kakashi_R_skill05_14</f><e type="setSound">Audio/Kakashi/leiqie.ogg</e>
-			<e type="setMon">ThunderWave</e>
-			<f>Kakashi_R_skill05_15</f><f>Kakashi_R_skill05_16</f><f>Kakashi_R_skill05_17</f><f>Kakashi_R_skill05_18</f><f>Kakashi_R_skill05_19</f><e type="setSkillEffect">sharingan3</e>
-			<e type="setSound">Audio/Kakashi/kakashi_skill5_5.ogg</e>
-			<e type="setMon">Shenwei</e>
-			<e type="setDelay">130</e>
-			<e type="setCommand">reInvincible</e>
-		</frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e><f>Kakashi_R_skill05_01</f><e type="setOugis">10</e><e type="setDelay">5</e><f>Kakashi_R_skill05_02</f><e type="setAttackBox">c_hit</e><e type="setDelay">15</e><f>Kakashi_R_skill05_03</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill05_04</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill05_05</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill05_06</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill05_07</f><e type="setAttackBox">c_hit</e><e type="setDelay">25</e><f>Kakashi_R_skill05_08</f><e type="setDelay">5</e><e type="setCommand">setInvincible</e><f>Kakashi_R_skill05_09</f><e type="setSound">Audio/Effect/bom.ogg</e><e type="setAttackBox">b_hit</e><e type="setDelay">5</e><f>Kakashi_R_skill05_10</f><e type="setAttackBox">b_hit</e><e type="setDelay">5</e><f>Kakashi_R_skill05_11</f><e type="setAttackBox">b_hit</e><e type="setDelay">5</e><f>Kakashi_R_skill05_12</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Kakashi_R_skill05_13</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Kakashi_R_skill05_14</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Kakashi_R_skill05_15</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Kakashi_R_skill05_16</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Kakashi_R_skill05_17</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Kakashi_R_skill05_18</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Kakashi_R_skill05_19</f><e type="setCommand">reInvincible</e></frame>
 	</action>
 	<action name="skill06">
 		<frame />
@@ -197,15 +140,7 @@
 			<p type="cd">10</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Kakashi/leiqie2.ogg</e>
-			<f>Kakashi_R_skill10_01</f><f>Kakashi_R_skill10_02</f><f>Kakashi_R_skill10_03</f><f>Kakashi_R_skill10_04</f><f>Kakashi_R_skill10_05</f><f>Kakashi_R_skill10_06</f><e type="setSound">Audio/Kakashi/kakashi_skill10.ogg</e>
-			<f>Kakashi_R_skill10_07</f><e type="setChargeB">192</e>
-			<e type="setSound">Audio/Kakashi/leiqie.ogg</e>
-			<f>Kakashi_R_skill10_08</f><f>Kakashi_R_skill10_09</f><e type="setAttackBox">o_hit</e>
-			<f>Kakashi_R_skill10_10</f><e type="setAttackBox">o_hit</e>
-			<f>Kakashi_R_skill10_11</f><f>Kakashi_R_skill10_12</f><e type="setAttackBox">o_hit</e>
-			<f>Kakashi_R_skill10_13</f><e type="setAttackBox">o_hit</e>
-		</frame>
+			<f>Kakashi_R_skill10_01</f><e type="setSound">Audio/Kakashi/kakashi_skill5_4.ogg</e><f>Kakashi_R_skill10_02</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill10_03</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill10_04</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill10_05</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill10_06</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill10_07</f><e type="setAttackBox">c_hit</e><e type="setSound">Audio/Kakashi/kakashi_skill5_2.ogg</e><f>Kakashi_R_skill10_08</f><e type="setAttackBox">f_hit</e><e type="setChargeB">122</e><f>Kakashi_R_skill10_09</f><e type="setAttackBox">ac_hit</e><e type="setChargeB">252</e><f>Kakashi_R_skill10_10</f><e type="setAttackBox">ac_hit</e><f>Kakashi_R_skill10_11</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill10_12</f><e type="setAttackBox">c_hit</e><f>Kakashi_R_skill10_13</f></frame>
 	</action>
 
 	<action name="skill11">
@@ -217,12 +152,7 @@
 			<p type="cd">15</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Kakashi/kakashi_skill11.ogg</e>
-			<f>Kakashi_R_skill11_01</f><e type="setSkillEffect">smk</e>
-			<e type="setDelay">20</e>
-			<e type="setDelay">10</e>
-			<e type="setMon">Dogs</e>
-		</frame>
+			<e type="setSound">Audio/Kakashi/kakashi_skill11.ogg</e><f>Kakashi_R_skill11_01</f><e type="setSkillEffect">sharingan3</e><e type="setSound">Audio/Kakashi/kakashi_skill5_5.ogg</e><e type="setMon">Shenwei</e><e type="setDelay">90</e></frame>
 
 	</action>
 	<action name="skill12">

@@ -96,6 +96,8 @@ def skin_unit(v2_plist, rotn_plist, v2_res, out_dir, log):
     items = load_frames(v2_plist, v2_tex)
     pvr = v2_tex.endswith('.pvr.ccz')
     ract = rotn_actions(r_xml)
+    revents = rotn_heroes.rotn_events(r_xml)
+    copied, extra = set(), set()
     rotn_root = rotn_plist[:rotn_plist.index(os.sep + 'Element' + os.sep)]
     rframes = rotn_heroes.pool(rotn_root).frames(load_frames(rotn_plist, r_tex), [n for v in ract.values() for n in v],
                                                  os.path.basename(rotn_plist)[:-6])
@@ -110,6 +112,25 @@ def skin_unit(v2_plist, rotn_plist, v2_res, out_dir, log):
         nv = sum(1 for k in kids if k.tag == 'f')
         rlist = [n for n in ract[aname] if n in rframes]
         if nv == 0 or not rlist: continue
+        # RotN's own events (its frames already draw most effects; V2's spawns on top = "two skills")
+        native = rotn_heroes.native_events(rotn_root, v2_res, unit, unit, aname, revents.get(aname), kids, rframes,
+                                           copied, out_dir, extra) if revents.get(aname) else None
+        if native:
+            for k in kids: frame_el.remove(k)
+            j = 0
+            for x in native:
+                if x[0] == 'f':
+                    j += 1
+                    fname = '%s_R_%s_%02d' % (unit, aname, j)
+                    if fname not in items:
+                        img, f = rframes[x[1]]
+                        items[fname] = (premultiply(img) if pvr else img, f)
+                    el = ET.Element('f'); el.text = fname
+                    frame_el.append(el)
+                else:
+                    frame_el.append(x[1])
+            changed += 1
+            continue
         nr = len(rlist)
         # events keyed by how many V2 frames came before them
         events, seen = [], 0
@@ -143,6 +164,9 @@ def skin_unit(v2_plist, rotn_plist, v2_res, out_dir, log):
     rel = os.path.relpath(v2_plist, v2_res)[:-6]
     save_atlas(out_dir, rel, items, v2_tex)
     tree.write(os.path.join(out_dir, rel + '.xml'), encoding='utf-8', xml_declaration=True)
+    extra.discard(None)
+    with open(os.path.join(out_dir, rel + '_extra.txt'), 'w') as fh:
+        fh.write('\n'.join(sorted(extra)) + '\n')
     log.append('unit %s: %d actions' % (unit, changed))
 
 

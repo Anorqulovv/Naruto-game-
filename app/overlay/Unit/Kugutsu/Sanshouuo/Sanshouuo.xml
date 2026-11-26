@@ -15,15 +15,11 @@
 
 	<action name="Walk">
 		<frame>
-			<f>Sanshouuo_R_walk_01</f><e type="setDelay">10</e>
-			<e type="setDelay">10</e>
-			<e type="setDelay">10</e>
-		</frame>
+			<f>Sanshouuo_R_walk_01</f></frame>
 	</action>
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
 			<f>Sanshouuo_R_hurt_01</f></frame>
 	</action>
 
@@ -34,21 +30,17 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>Sanshouuo_R_knockdown_01</f><e type="setDelay">10</e>
-			<e type="setDelay">60</e>
-			</frame>
+			<f>Sanshouuo_R_knockdown_01</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>Sanshouuo_R_float_01</f><e type="setDelay">10</e>
-			<e type="setDelay">10</e>
-			</frame>
+			<f>Sanshouuo_R_float_01</f></frame>
 	</action>
 
 	<action name="Dead">
 		<frame>
-			<f>Sanshouuo_R_dead_01</f></frame>
+			<f>Sanshouuo_R_dead_01</f><e type="setSkillEffect">smk</e><e type="setSound">Audio/Effect/poof.ogg</e></frame>
 	</action>
 
 	<action name="nAttack">
@@ -60,13 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Sanshouuo_R_nattack_01</f><f>Sanshouuo_R_nattack_02</f><e type="setAttackBox">n_hit</e>
-			<e type="setDelay">40</e>
-			<f>Sanshouuo_R_nattack_03</f><e type="setAttackBox">n_hit</e>
-			<e type="setDelay">40</e>
-			<f>Sanshouuo_R_nattack_04</f><f>Sanshouuo_R_nattack_05</f><e type="setAttackBox">n_hit</e>
-			<e type="setDelay">40</e>
-		</frame>
+			<f>Sanshouuo_R_nattack_01</f><e type="setDelay">5</e><f>Sanshouuo_R_nattack_02</f><e type="setDelay">5</e><e type="setSound">Audio/Sanshouuo/1.1.ogg</e><f>Sanshouuo_R_nattack_03</f><e type="setAttackBox">n_hit</e><e type="setDelay">5</e><f>Sanshouuo_R_nattack_04</f><e type="setDelay">5</e><f>Sanshouuo_R_nattack_05</f><e type="setDelay">10</e></frame>
 	</action>
 
 	<action name="skill01">
@@ -78,19 +64,7 @@
 			<p type="cd">15</p>
 		</data>
 		<frame>
-			<f>Sanshouuo_R_skill01_01</f><f>Sanshouuo_R_skill01_02</f><e type="setAttackBox">a_hit</e>
-			<e type="setDelay">10</e>
-			<f>Sanshouuo_R_skill01_03</f><f>Sanshouuo_R_skill01_04</f><f>Sanshouuo_R_skill01_05</f><e type="setAttackBox">a_hit</e>
-			<e type="setDelay">10</e>
-			<f>Sanshouuo_R_skill01_06</f><f>Sanshouuo_R_skill01_07</f><f>Sanshouuo_R_skill01_08</f><e type="setAttackBox">a_hit</e>
-			<e type="setDelay">10</e>
-			<f>Sanshouuo_R_skill01_09</f><f>Sanshouuo_R_skill01_10</f><e type="setAttackBox">a_hit</e>
-			<e type="setDelay">10</e>
-			<f>Sanshouuo_R_skill01_11</f><f>Sanshouuo_R_skill01_12</f><e type="setAttackBox">a_hit</e>
-			<e type="setDelay">10</e>
-			<f>Sanshouuo_R_skill01_13</f><f>Sanshouuo_R_skill01_14</f><f>Sanshouuo_R_skill01_15</f><e type="setAttackBox">a_hit</e>
-			<e type="setDelay">10</e>
-		</frame>
+			<e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>Sanshouuo_R_skill01_01</f><e type="setShadow">5</e><e type="setDelay">-10</e><f>Sanshouuo_R_skill01_02</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><e type="setSound">Audio/Sanshouuo/3.1.ogg</e><f>Sanshouuo_R_skill01_03</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><f>Sanshouuo_R_skill01_04</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><f>Sanshouuo_R_skill01_05</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>Sanshouuo_R_skill01_06</f><e type="setShadow">5</e><e type="setDelay">-10</e><f>Sanshouuo_R_skill01_07</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><e type="setSound">Audio/Sanshouuo/3.1.ogg</e><f>Sanshouuo_R_skill01_08</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><f>Sanshouuo_R_skill01_09</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><f>Sanshouuo_R_skill01_10</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>Sanshouuo_R_skill01_11</f><e type="setShadow">5</e><e type="setDelay">-10</e><f>Sanshouuo_R_skill01_12</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><e type="setSound">Audio/Sanshouuo/3.1.ogg</e><f>Sanshouuo_R_skill01_13</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><f>Sanshouuo_R_skill01_14</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e><f>Sanshouuo_R_skill01_15</f><e type="setShadow">5</e><e type="setAttackBox">c_hit</e><e type="setDelay">-10</e></frame>
 	</action>
 
 	<action name="skill02">

@@ -10,7 +10,7 @@
 			<p type="cd">224</p>
 		</data>
 		<frame>
-			<f>Minato_R_idle_01</f><f>Minato_R_idle_02</f><f>Minato_R_idle_03</f><f>Minato_R_idle_04</f></frame>
+			<f>Minato_R_idle_01</f><e type="setDelay">20</e><f>Minato_R_idle_02</f><e type="setDelay">20</e><f>Minato_R_idle_03</f><e type="setDelay">10</e><f>Minato_R_idle_04</f><e type="setDelay">10</e></frame>
 	</action>
 
 	<action name="Walk">
@@ -20,8 +20,7 @@
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
-			<f>Minato_R_hurt_01</f><f>Minato_R_hurt_02</f></frame>
+			<e type="setMove">32</e><f>Minato_R_hurt_01</f><f>Minato_R_hurt_02</f></frame>
 	</action>
 
 	<action name="AirHurt">
@@ -31,21 +30,17 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>Minato_R_knockdown_01</f><e type="setDelay">10</e>
-			<f>Minato_R_knockdown_02</f><f>Minato_R_knockdown_03</f><f>Minato_R_knockdown_04</f><e type="setDelay">60</e>
-			<f>Minato_R_knockdown_05</f><f>Minato_R_knockdown_06</f></frame>
+			<f>Minato_R_knockdown_01</f><e type="setSkillEffect">Bagua</e><e type="setSound">Audio/Effect/damage_i.ogg</e><f>Minato_R_knockdown_02</f><f>Minato_R_knockdown_03</f><e type="setDelay">60</e><f>Minato_R_knockdown_04</f><f>Minato_R_knockdown_05</f><f>Minato_R_knockdown_06</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>Minato_R_float_01</f><e type="setDelay">10</e>
-			<f>Minato_R_float_02</f><e type="setDelay">10</e>
-			<f>Minato_R_float_03</f></frame>
+			<f>Minato_R_float_01</f><e type="setDelay">10</e><f>Minato_R_float_02</f><e type="setDelay">10</e><f>Minato_R_float_03</f></frame>
 	</action>
 
 	<action name="Dead">
 		<frame>
-			<f>Minato_R_dead_01</f><f>Minato_R_dead_02</f></frame>
+			<e type="setSkillEffect">Hiraishin2</e><e type="setSound">Audio/Minato/walk.ogg</e><f>Minato_R_dead_01</f><f>Minato_R_dead_02</f><e type="setSound">Audio/Minato/dead.ogg</e></frame>
 	</action>
 
 	<action name="nAttack">
@@ -57,17 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Minato_R_nattack_01</f><f>Minato_R_nattack_02</f><e type="setMove">8</e>
-			<f>Minato_R_nattack_03</f><e type="setSound">Audio/Effect/combo1.ogg</e>
-			<e type="setAttackBox">n_hit</e>
-			<f>Minato_R_nattack_04</f><e type="setDelay">10</e>
-			<f>Minato_R_nattack_05</f><f>Minato_R_nattack_06</f><e type="setSound">Audio/Effect/kuwu.ogg</e>
-			<e type="setAttackBox">bl_hit</e>
-			<f>Minato_R_nattack_07</f><f>Minato_R_nattack_08</f><e type="setMove">16</e>
-			<f>Minato_R_nattack_09</f><e type="setSound">Audio/Minato/Minato_combo.ogg</e>
-			<e type="setSound">Audio/Effect/combo3.ogg</e>
-			<e type="setAttackBox">l_hit</e>
-			<f>Minato_R_nattack_10</f></frame>
+			<f>Minato_R_nattack_01</f><e type="setSound">Audio/Effect/Kuwu.ogg</e><f>Minato_R_nattack_02</f><f>Minato_R_nattack_03</f><e type="setAttackBox">n_hit</e><f>Minato_R_nattack_04</f><f>Minato_R_nattack_05</f><f>Minato_R_nattack_06</f><e type="setAttackBox">n_hit</e><e type="setSound">Audio/Effect/combo2.ogg</e><f>Minato_R_nattack_07</f><e type="setChargeB">16</e><f>Minato_R_nattack_08</f><f>Minato_R_nattack_09</f><e type="setAttackBox">c_hit</e><e type="setSkillEffect">Hiraishin</e><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e><f>Minato_R_nattack_10</f><e type="setDelay">10</e><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e></frame>
 	</action>
 
 	<action name="skill01">
@@ -80,11 +65,8 @@
 			<p type="combatPoint">3900</p>
 		</data>
 		<frame>
-			<f>Minato_R_skill01_01</f><f>Minato_R_skill01_02</f><e type="setSound">Audio/Minato/Minato_skill1.ogg</e>
-			<f>Minato_R_skill01_03</f><f>Minato_R_skill01_04</f><f>Minato_R_skill01_05</f><f>Minato_R_skill01_06</f><f>Minato_R_skill01_07</f><f>Minato_R_skill01_08</f><e type="setDelay">10</e>
-			<e type="setBuff">17</e>
-			<e type="setMon">HiraishinMark</e>
-		</frame>
+			<e type="setSkillEffect">Hiraishin</e><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e><f>Minato_R_skill01_01</f><e type="setDelay">10</e><e type="setCommand">setInvincible</e><f>Minato_R_skill01_02</f><f>Minato_R_skill01_03</f><f>Minato_R_skill01_04</f><e type="setAttackBox">c_hit</e><e type="setAttackBox">c_hit</e><f>Minato_R_skill01_05</f><e type="setChargeB">550</e><e type="setSound">Audio/Minato/skill1.ogg</e><f>Minato_R_skill01_06</f><f>Minato_R_skill01_07</f><e type="setSound">Audio/Effect/hiraishin_effect2.ogg</e><f>Minato_R_skill01_08</f><e type="setCommand">reInvincible</e><e type="setBuff">17</e>
+			</frame>
 	</action>
 
 	<action name="skill02">
@@ -97,10 +79,7 @@
 			<p type="combatPoint">2280</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Minato/Minato_skill2.ogg</e>
-			<f>Minato_R_skill02_01</f><e type="setBullet">HiraishinKunai</e>
-			<f>Minato_R_skill02_02</f><e type="setSound">Audio/Effect/rasen.ogg</e>
-			<f>Minato_R_skill02_03</f><f>Minato_R_skill02_04</f><f>Minato_R_skill02_05</f><f>Minato_R_skill02_06</f><f>Minato_R_skill02_07</f><f>Minato_R_skill02_08</f><f>Minato_R_skill02_09</f><f>Minato_R_skill02_10</f><f>Minato_R_skill02_11</f></frame>
+			<f>Minato_R_skill02_01</f><e type="setSound">Audio/Minato/skill2.1.ogg</e><f>Minato_R_skill02_02</f><f>Minato_R_skill02_03</f><f>Minato_R_skill02_04</f><f>Minato_R_skill02_05</f><e type="setCharge">700</e><e type="setCommand">setInvincible</e><f>Minato_R_skill02_06</f><e type="setSkillEffect">Hiraishin2</e><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e><e type="setDelay">20</e><e type="setSound">Audio/Minato/skill2.2.ogg</e><f>Minato_R_skill02_07</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Minato_R_skill02_08</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Minato_R_skill02_09</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Minato_R_skill02_10</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Minato_R_skill02_11</f><e type="setAttackBox">b_hit</e><e type="setDelay">5</e><e type="setCommand">reInvincible</e></frame>
 	</action>
 
 	<action name="skill03">
@@ -113,8 +92,7 @@
 			<p type="combatPoint">0</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Minato/Minato_skill3.ogg</e>
-			<f>Minato_R_skill03_01</f><f>Minato_R_skill03_02</f><f>Minato_R_skill03_03</f><f>Minato_R_skill03_04</f><f>Minato_R_skill03_05</f><f>Minato_R_skill03_06</f><f>Minato_R_skill03_07</f><f>Minato_R_skill03_08</f><f>Minato_R_skill03_09</f><f>Minato_R_skill03_10</f><f>Minato_R_skill03_11</f><f>Minato_R_skill03_12</f><f>Minato_R_skill03_13</f><f>Minato_R_skill03_14</f><f>Minato_R_skill03_15</f><f>Minato_R_skill03_16</f><f>Minato_R_skill03_17</f><f>Minato_R_skill03_18</f><f>Minato_R_skill03_19</f><e type="setBuff">18</e>
+			<e type="setSkillEffect">Hiraishin</e><e type="setSound">Audio/Effect/hiraishin_effect2.ogg</e><e type="setSound">Audio/Minato/skill3.1.ogg</e><f>Minato_R_skill03_01</f><f>Minato_R_skill03_02</f><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><e type="setSkillEffect">Hiraishin</e><e type="setSound">Audio/Effect/hiraishin_effect2.ogg</e><f>Minato_R_skill03_03</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill03_04</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill03_05</f><e type="setChargeB">120</e><e type="setSkillEffect">Hiraishin</e><e type="setSound">Audio/Effect/hiraishin_effect2.ogg</e><f>Minato_R_skill03_06</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill03_07</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill03_08</f><e type="setChargeB">-120</e><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>Minato_R_skill03_09</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill03_10</f><e type="setAttackBox">f_hit</e><f>Minato_R_skill03_11</f><e type="setSound">Audio/Effect/hiraishin_effect2.ogg</e><f>Minato_R_skill03_12</f><f>Minato_R_skill03_13</f><f>Minato_R_skill03_14</f><e type="setSound">Audio/Effect/hiraishin_effect2.ogg</e><f>Minato_R_skill03_15</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill03_16</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill03_17</f><e type="setAttackBox">f_hit</e><f>Minato_R_skill03_18</f><f>Minato_R_skill03_19</f><e type="setBuff">18</e>
 		</frame>
 	</action>
 
@@ -128,39 +106,7 @@
 			<p type="combatPoint">3600</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>Minato_R_skill04_01</f><e type="setSound">Audio/Minato/Minato_skill4.ogg</e>
-			<f>Minato_R_skill04_02</f><e type="setCommand">setInvincible</e>
-			<f>Minato_R_skill04_03</f><e type="setAttackBox">f_hit</e>
-			<e type="setDSound">Audio/Effect/damage_o.ogg</e>
-			<f>Minato_R_skill04_04</f><f>Minato_R_skill04_05</f><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e>
-			<f>Minato_R_skill04_06</f><f>Minato_R_skill04_07</f><e type="setAttackBox">ac_hit</e>
-			<f>Minato_R_skill04_08</f><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e>
-			<f>Minato_R_skill04_09</f><f>Minato_R_skill04_10</f><e type="setAttackBox">ac_hit</e>
-			<f>Minato_R_skill04_11</f><f>Minato_R_skill04_12</f><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e>
-			<f>Minato_R_skill04_13</f><f>Minato_R_skill04_14</f><f>Minato_R_skill04_15</f><e type="setCharge">320</e>
-			<e type="setAttackBox">c_hit</e>
-			<e type="setDelay">10</e>
-			<f>Minato_R_skill04_16</f><e type="setAttackBox">c_hit</e>
-			<e type="setDSound">Audio/Effect/damage_rasen.ogg</e>
-			<e type="setDelay">10</e>
-			<f>Minato_R_skill04_17</f><e type="setAttackBox">c_hit</e>
-			<e type="setDSound">Audio/Effect/damage_rasen.ogg</e>
-			<e type="setDelay">10</e>
-			<f>Minato_R_skill04_18</f><e type="setAttackBox">c_hit</e>
-			<e type="setDSound">Audio/Effect/damage_rasen.ogg</e>
-			<e type="setDelay">10</e>
-			<f>Minato_R_skill04_19</f><e type="setAttackBox">c_hit</e>
-			<e type="setDSound">Audio/Effect/damage_rasen.ogg</e>
-			<e type="setDelay">10</e>
-			<f>Minato_R_skill04_20</f><e type="setAttackBox">c_hit</e>
-			<e type="setDSound">Audio/Effect/damage_rasen.ogg</e>
-			<e type="setDelay">10</e>
-			<f>Minato_R_skill04_21</f><e type="setAttackBox">c_hit</e>
-			<e type="setDSound">Audio/Effect/damage_rasen.ogg</e>
-			<e type="setDelay">10</e>
-			<e type="setCommand">reInvincible</e>
-		</frame>
+			<e type="setCommand">setInvincible</e><e type="setSkillEffect">Hiraishin</e><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e><e type="setSound">Audio/Minato/skill4.1.ogg</e><f>Minato_R_skill04_01</f><e type="setCharge">500</e><f>Minato_R_skill04_02</f><f>Minato_R_skill04_03</f><e type="setAttackBox">c_hit</e><e type="setSound">Audio/Effect/blade_damage2.ogg</e><f>Minato_R_skill04_04</f><f>Minato_R_skill04_05</f><e type="setSound">Audio/Effect/dash_effect.ogg</e><e type="setDelay">5</e><f>Minato_R_skill04_06</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><e type="setSound">Audio/Effect/dash_effect.ogg</e><f>Minato_R_skill04_07</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Minato_R_skill04_08</f><e type="setSound">Audio/Effect/dash_effect.ogg</e><e type="setDelay">5</e><f>Minato_R_skill04_09</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><e type="setSound">Audio/Effect/dash_effect.ogg</e><f>Minato_R_skill04_10</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><f>Minato_R_skill04_11</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><e type="setSound">Audio/Effect/dash_effect.ogg</e><f>Minato_R_skill04_12</f><e type="setAttackBox">c_hit</e><e type="setDelay">5</e><e type="setSkillEffect">Hiraishin</e><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e><f>Minato_R_skill04_13</f><e type="setSound">Audio/Minato/skill4.3.ogg</e><f>Minato_R_skill04_14</f><e type="setAttackBox">ac_hit</e><e type="setDelay">5</e><e type="setSound">Audio/Effect/damage_rasen.ogg</e><f>Minato_R_skill04_15</f><e type="setAttackBox">ac_hit</e><e type="setDelay">5</e><f>Minato_R_skill04_16</f><e type="setAttackBox">ac_hit</e><e type="setDelay">5</e><e type="setSound">Audio/Effect/damage_rasen.ogg</e><f>Minato_R_skill04_17</f><e type="setAttackBox">ac_hit</e><e type="setDelay">5</e><f>Minato_R_skill04_18</f><e type="setAttackBox">ac_hit</e><e type="setDelay">5</e><e type="setSound">Audio/Effect/damage_rasen.ogg</e><f>Minato_R_skill04_19</f><e type="setAttackBox">ac_hit</e><e type="setDelay">5</e><f>Minato_R_skill04_20</f><e type="setAttackBox">ac_hit</e><e type="setDelay">5</e><e type="setSound">Audio/Effect/damage_rasen.ogg</e><f>Minato_R_skill04_21</f><e type="setAttackBox">ac_hit</e><e type="setDelay">5</e><e type="setCommand">reInvincible</e></frame>
 	</action>
 
 	<action name="skill05">
@@ -173,20 +119,7 @@
 			<p type="combatPoint">9260</p>
 		</data>
 		<frame>
-			<e type="setCommand">setInvincible</e>
-			<f>Minato_R_skill05_01</f><e type="setOugis">10</e>
-			<f>Minato_R_skill05_02</f><e type="setMon">FakeMinato</e>
-			<e type="setSound">Audio/Minato/Minato_skill5.ogg</e>
-			<e type="setDelay">70</e>
-			<f>Minato_R_skill05_03</f><f>Minato_R_skill05_04</f><f>Minato_R_skill05_05</f><f>Minato_R_skill05_06</f><f>Minato_R_skill05_07</f><f>Minato_R_skill05_08</f><f>Minato_R_skill05_09</f><f>Minato_R_skill05_10</f><f>Minato_R_skill05_11</f><f>Minato_R_skill05_12</f><f>Minato_R_skill05_13</f><f>Minato_R_skill05_14</f><f>Minato_R_skill05_15</f><f>Minato_R_skill05_16</f><e type="setAttackBox">c_hit</e>
-			<e type="setSound">Audio/Effect/damage_rasen.ogg</e>
-			<f>Minato_R_skill05_17</f><f>Minato_R_skill05_18</f><e type="setAttackBox">c_hit</e>
-			<e type="setSound">Audio/Effect/damage_rasen.ogg</e>
-			<f>Minato_R_skill05_19</f><f>Minato_R_skill05_20</f><e type="setAttackBox">b_hit</e>
-			<e type="setSound">Audio/Effect/damage_h.ogg</e>
-			<f>Minato_R_skill05_21</f><f>Minato_R_skill05_22</f><f>Minato_R_skill05_23</f><f>Minato_R_skill05_24</f><f>Minato_R_skill05_25</f><e type="setDelay">30</e>
-			<e type="setCommand">reInvincible</e>
-		</frame>
+			<e type="setSound">Audio/Effect/ougis.ogg</e><f>Minato_R_skill05_01</f><e type="setSound">Audio/Minato/skill5.1.ogg</e><f>Minato_R_skill05_02</f><f>Minato_R_skill05_03</f><f>Minato_R_skill05_04</f><f>Minato_R_skill05_05</f><e type="setCommand">setInvincible</e><f>Minato_R_skill05_06</f><f>Minato_R_skill05_07</f><e type="setSound">Audio/Minato/skill5.2.ogg</e><f>Minato_R_skill05_08</f><f>Minato_R_skill05_09</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill05_10</f><e type="setSound">Audio/Minato/skill5.3.ogg</e><f>Minato_R_skill05_11</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill05_12</f><f>Minato_R_skill05_13</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill05_14</f><f>Minato_R_skill05_15</f><e type="setAttackBox">c_hit</e><f>Minato_R_skill05_16</f><f>Minato_R_skill05_17</f><e type="setAttackBox">l_hit</e><f>Minato_R_skill05_18</f><e type="setAttackBox">c_hit</e><e type="setOugis">10</e><f>Minato_R_skill05_19</f><e type="setSkillEffect">Hiraishin2</e><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e><f>Minato_R_skill05_20</f><e type="setCharge">500</e><f>Minato_R_skill05_21</f><e type="setAttackBox">c_hit</e><e type="setDelay">10</e><f>Minato_R_skill05_22</f><e type="setAttackBox">c_hit</e><e type="setDelay">10</e><e type="setMon">Hasan</e><f>Minato_R_skill05_23</f><e type="setSkillEffect">Hiraishin2</e><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e><e type="setDelay">5</e><f>Minato_R_skill05_24</f><e type="setDelay">5</e><e type="setSound">Audio/Minato/skill5.4.ogg</e><f>Minato_R_skill05_25</f><e type="setDelay">60</e><e type="setSkillEffect">Hiraishin</e><e type="setSound">Audio/Effect/hiraishin_effect.ogg</e><e type="setCommand">reInvincible</e></frame>
 
 	</action>
 

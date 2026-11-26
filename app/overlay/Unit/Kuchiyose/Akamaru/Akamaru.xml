@@ -52,11 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Akamaru_R_nattack_01</f><f>Akamaru_R_nattack_02</f><f>Akamaru_R_nattack_03</f><e type="setDelay">10</e>
-			<f>Akamaru_R_nattack_04</f><f>Akamaru_R_nattack_05</f><f>Akamaru_R_nattack_06</f><f>Akamaru_R_nattack_07</f><e type="setDelay">10</e>
-			<f>Akamaru_R_nattack_08</f><f>Akamaru_R_nattack_09</f><f>Akamaru_R_nattack_10</f><e type="setAttackBox">l_hit</e>
-			<e type="setDelay">20</e>
-		</frame>
+			<f>Akamaru_R_nattack_01</f><f>Akamaru_R_nattack_02</f><f>Akamaru_R_nattack_03</f><e type="setAttackBox">n_hit</e><e type="setSound">Audio/Effect/combo1.ogg</e><f>Akamaru_R_nattack_04</f><f>Akamaru_R_nattack_05</f><e type="setAttackBox">n_hit</e><f>Akamaru_R_nattack_06</f><e type="setMove">8</e><f>Akamaru_R_nattack_07</f><e type="setSound">Audio/Akamaru/sakura_combo.ogg</e><e type="setAttackBox">n_hit</e><e type="setDelay">10</e><f>Akamaru_R_nattack_08</f><f>Akamaru_R_nattack_09</f><e type="setAttackBox">n_hit</e><f>Akamaru_R_nattack_10</f></frame>
 	</action>
 
 	<action name="skill01">
@@ -68,19 +64,7 @@
 			<p type="cd">10</p>
 		</data>
 		<frame>
-			<f>Akamaru_R_skill01_01</f><f>Akamaru_R_skill01_02</f><f>Akamaru_R_skill01_03</f><e type="setChargeB">96</e>
-			<e type="setAttackBox">c_hit</e>
-			<e type="setDelay">10</e>
-			<f>Akamaru_R_skill01_04</f><f>Akamaru_R_skill01_05</f><f>Akamaru_R_skill01_06</f><e type="setAttackBox">c_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage2.ogg</e>
-			<e type="setDelay">10</e>
-			<f>Akamaru_R_skill01_07</f><f>Akamaru_R_skill01_08</f><f>Akamaru_R_skill01_09</f><f>Akamaru_R_skill01_10</f><e type="setChargeB">96</e>
-			<e type="setAttackBox">c_hit</e>
-			<e type="setDelay">10</e>
-			<f>Akamaru_R_skill01_11</f><f>Akamaru_R_skill01_12</f><f>Akamaru_R_skill01_13</f><e type="setAttackBox">c_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage2.ogg</e>
-			<e type="setDelay">10</e>
-		</frame>
+			<f>Akamaru_R_skill01_01</f><f>Akamaru_R_skill01_02</f><e type="setSound">Audio/Akamaru/sakura_skill2.ogg</e><f>Akamaru_R_skill01_03</f><e type="setAttackBox">a_hit</e><f>Akamaru_R_skill01_04</f><e type="setAttackBox">a_hit</e><f>Akamaru_R_skill01_05</f><e type="setSound">Audio/Effect/break_sound.ogg</e><e type="setAttackBox">f_hit</e><f>Akamaru_R_skill01_06</f><e type="setAttackBox">f_hit</e><f>Akamaru_R_skill01_07</f><e type="setAttackBox">f_hit</e><f>Akamaru_R_skill01_08</f><e type="setAttackBox">f_hit</e><f>Akamaru_R_skill01_09</f><e type="setAttackBox">a_hit</e><f>Akamaru_R_skill01_10</f><e type="setSound">Audio/Effect/break_sound.ogg</e><e type="setAttackBox">a_hit</e><f>Akamaru_R_skill01_11</f><e type="setAttackBox">a_hit</e><f>Akamaru_R_skill01_12</f><e type="setAttackBox">a_hit</e><f>Akamaru_R_skill01_13</f><e type="setAttackBox">a_hit</e></frame>
 	</action>
 
 	<action name="skill02">

@@ -20,9 +20,7 @@
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
-			<f>ImmortalSasuke_R_hurt_01</f><f>ImmortalSasuke_R_hurt_02</f><f>ImmortalSasuke_R_hurt_03</f><e type="setSound">Audio/Sasuke/sasuke_hurt.ogg</e>
-		</frame>
+			<e type="setMove">32</e><f>ImmortalSasuke_R_hurt_01</f><f>ImmortalSasuke_R_hurt_02</f><f>ImmortalSasuke_R_hurt_03</f><e type="setSound">Audio/ImmortalSasuke/RS_hurt.ogg</e></frame>
 	</action>
 
 	<action name="AirHurt">
@@ -32,22 +30,17 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>ImmortalSasuke_R_knockdown_01</f><e type="setDelay">10</e>
-			<f>ImmortalSasuke_R_knockdown_02</f><f>ImmortalSasuke_R_knockdown_03</f><e type="setDelay">60</e>
-			<f>ImmortalSasuke_R_knockdown_04</f><f>ImmortalSasuke_R_knockdown_05</f><f>ImmortalSasuke_R_knockdown_06</f><f>ImmortalSasuke_R_knockdown_07</f><f>ImmortalSasuke_R_knockdown_08</f></frame>
+			<f>ImmortalSasuke_R_knockdown_01</f><e type="setSkillEffect">Bagua</e><e type="setSound">Audio/ImmortalSasuke/walk.ogg</e><f>ImmortalSasuke_R_knockdown_02</f><e type="setDelay">10</e><f>ImmortalSasuke_R_knockdown_03</f><e type="setDelay">40</e><f>ImmortalSasuke_R_knockdown_04</f><f>ImmortalSasuke_R_knockdown_05</f><f>ImmortalSasuke_R_knockdown_06</f><f>ImmortalSasuke_R_knockdown_07</f><f>ImmortalSasuke_R_knockdown_08</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>ImmortalSasuke_R_float_01</f><e type="setDelay">10</e>
-			<f>ImmortalSasuke_R_float_02</f><e type="setDelay">10</e>
-			<f>ImmortalSasuke_R_float_03</f></frame>
+			<f>ImmortalSasuke_R_float_01</f><e type="setDelay">10</e><f>ImmortalSasuke_R_float_02</f><e type="setDelay">10</e><f>ImmortalSasuke_R_float_03</f></frame>
 	</action>
 
 	<action name="Dead">
 		<frame>
-			<f>ImmortalSasuke_R_dead_01</f><f>ImmortalSasuke_R_dead_02</f><f>ImmortalSasuke_R_dead_03</f><e type="setSound">Audio/Sasuke/sasuke_dead.ogg</e>
-		</frame>
+			<e type="setSkillEffect">Hiraishin2</e><f>ImmortalSasuke_R_dead_01</f><f>ImmortalSasuke_R_dead_02</f><f>ImmortalSasuke_R_dead_03</f></frame>
 	</action>
 
 	<action name="nAttack">
@@ -59,18 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>ImmortalSasuke_R_nattack_01</f><f>ImmortalSasuke_R_nattack_02</f><e type="setDelay">10</e>
-			<f>ImmortalSasuke_R_nattack_03</f><e type="setSound">Audio/Effect/kong.ogg</e>
-			<e type="setDelay">10</e>
-			<f>ImmortalSasuke_R_nattack_04</f><e type="setAttackBox">n_hit</e>
-			<f>ImmortalSasuke_R_nattack_05</f><e type="setMove">8</e>
-			<f>ImmortalSasuke_R_nattack_06</f><f>ImmortalSasuke_R_nattack_07</f><e type="setAttackBox">n_hit</e>
-			<e type="setSound">Audio/Effect/kong.ogg</e>
-			<f>ImmortalSasuke_R_nattack_08</f><f>ImmortalSasuke_R_nattack_09</f><f>ImmortalSasuke_R_nattack_10</f><e type="setSound">Audio/Sasuke/sasuke_combo.ogg</e>
-			<e type="setMove">16</e>
-			<f>ImmortalSasuke_R_nattack_11</f><e type="setAttackBox">bl_hit</e>
-			<e type="setSound">Audio/Effect/kong.ogg</e>
-			<f>ImmortalSasuke_R_nattack_12</f><f>ImmortalSasuke_R_nattack_13</f><f>ImmortalSasuke_R_nattack_14</f></frame>
+			<f>ImmortalSasuke_R_nattack_01</f><f>ImmortalSasuke_R_nattack_02</f><e type="setSound">Audio/ImmortalSasuke/combo1.ogg</e><f>ImmortalSasuke_R_nattack_03</f><e type="setAttackBox">n_hit</e><e type="setMove">8</e><f>ImmortalSasuke_R_nattack_04</f><f>ImmortalSasuke_R_nattack_05</f><f>ImmortalSasuke_R_nattack_06</f><f>ImmortalSasuke_R_nattack_07</f><e type="setSound">Audio/ImmortalSasuke/combo2.ogg</e><e type="setAttackBox">n_hit</e><f>ImmortalSasuke_R_nattack_08</f><e type="setSound">Audio/ImmortalSasuke/RS_combo.ogg</e><f>ImmortalSasuke_R_nattack_09</f><f>ImmortalSasuke_R_nattack_10</f><e type="setSound">Audio/ImmortalSasuke/kong.ogg</e><e type="setAttackBox">bl_hit</e><e type="setMove">16</e><f>ImmortalSasuke_R_nattack_11</f><f>ImmortalSasuke_R_nattack_12</f><f>ImmortalSasuke_R_nattack_13</f><f>ImmortalSasuke_R_nattack_14</f></frame>
 	</action>
 
 	<action name="skill01">
@@ -83,12 +65,7 @@
 			<p type="combatPoint">1520</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill1_1.ogg</e>
-			<f>ImmortalSasuke_R_skill01_01</f><f>ImmortalSasuke_R_skill01_02</f><f>ImmortalSasuke_R_skill01_03</f><f>ImmortalSasuke_R_skill01_04</f><e type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill1_2.ogg</e>
-			<f>ImmortalSasuke_R_skill01_05</f><f>ImmortalSasuke_R_skill01_06</f><f>ImmortalSasuke_R_skill01_07</f><f>ImmortalSasuke_R_skill01_08</f><f>ImmortalSasuke_R_skill01_09</f><e type="setChargeB">196</e>
-			<f>ImmortalSasuke_R_skill01_10</f><f>ImmortalSasuke_R_skill01_11</f><f>ImmortalSasuke_R_skill01_12</f><f>ImmortalSasuke_R_skill01_13</f><f>ImmortalSasuke_R_skill01_14</f><f>ImmortalSasuke_R_skill01_15</f><f>ImmortalSasuke_R_skill01_16</f><f>ImmortalSasuke_R_skill01_17</f><e type="setAttackBox">bc_hit</e>
-			<f>ImmortalSasuke_R_skill01_18</f><f>ImmortalSasuke_R_skill01_19</f><f>ImmortalSasuke_R_skill01_20</f><f>ImmortalSasuke_R_skill01_21</f><f>ImmortalSasuke_R_skill01_22</f><f>ImmortalSasuke_R_skill01_23</f><f>ImmortalSasuke_R_skill01_24</f><f>ImmortalSasuke_R_skill01_25</f><f>ImmortalSasuke_R_skill01_26</f><e type="setAttackBox">bc_hit</e>
-		</frame>
+			<f>ImmortalSasuke_R_skill01_01</f><e type="setSound">Audio/ImmortalSasuke/RS_skill1.mp3</e><f>ImmortalSasuke_R_skill01_02</f><f>ImmortalSasuke_R_skill01_03</f><f>ImmortalSasuke_R_skill01_04</f><f>ImmortalSasuke_R_skill01_05</f><e type="setMove">64</e><f>ImmortalSasuke_R_skill01_06</f><e type="setSound">Audio/ImmortalSasuke/Chidori.mp3</e><e type="setCommand">findTarget</e><e type="setCommand">setTransport</e><f>ImmortalSasuke_R_skill01_07</f><e type="setSound">Audio/ImmortalSasuke/RS_skill1_1.mp3</e><e type="setDelay">1</e><e type="setAttackBox">f_hit</e><f>ImmortalSasuke_R_skill01_08</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>ImmortalSasuke_R_skill01_09</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>ImmortalSasuke_R_skill01_10</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>ImmortalSasuke_R_skill01_11</f><f>ImmortalSasuke_R_skill01_12</f><f>ImmortalSasuke_R_skill01_13</f><f>ImmortalSasuke_R_skill01_14</f><e type="setSound">Audio/ImmortalSasuke/RS_skill1_2.mp3</e><e type="setDelay">2</e><e type="setCommand">setInvincible</e><f>ImmortalSasuke_R_skill01_15</f><e type="setAttackBox">ab_hit</e><e type="setSound">Audio/ImmortalSasuke/Honoikazuchi.mp3</e><f>ImmortalSasuke_R_skill01_16</f><e type="setAttackBox">ab_hit</e><f>ImmortalSasuke_R_skill01_17</f><f>ImmortalSasuke_R_skill01_18</f><e type="setAttackBox">f_hit</e><f>ImmortalSasuke_R_skill01_19</f><e type="setAttackBox">ac_hit</e><f>ImmortalSasuke_R_skill01_20</f><e type="setAttackBox">ac_hit</e><f>ImmortalSasuke_R_skill01_21</f><e type="setAttackBox">ac_hit</e><f>ImmortalSasuke_R_skill01_22</f><f>ImmortalSasuke_R_skill01_23</f><f>ImmortalSasuke_R_skill01_24</f><f>ImmortalSasuke_R_skill01_25</f><f>ImmortalSasuke_R_skill01_26</f><e type="setCommand">reInvincible</e></frame>
 	</action>
 
 	<action name="skill02">
@@ -101,12 +78,7 @@
 			<p type="combatPoint">2520</p>
 		</data>
 		<frame>
-			<f>ImmortalSasuke_R_skill02_01</f><f>ImmortalSasuke_R_skill02_02</f><f>ImmortalSasuke_R_skill02_03</f><e type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill2.ogg</e>
-			<f>ImmortalSasuke_R_skill02_04</f><f>ImmortalSasuke_R_skill02_05</f><f>ImmortalSasuke_R_skill02_06</f><f>ImmortalSasuke_R_skill02_07</f><f>ImmortalSasuke_R_skill02_08</f><e type="setSound">Audio/Effect/thunder_effect.ogg</e>
-			<f>ImmortalSasuke_R_skill02_09</f><f>ImmortalSasuke_R_skill02_10</f><f>ImmortalSasuke_R_skill02_11</f><e type="setAttackBox">bc_hit</e>
-			<e type="setDelay">10</e>
-			<f>ImmortalSasuke_R_skill02_12</f><f>ImmortalSasuke_R_skill02_13</f><f>ImmortalSasuke_R_skill02_14</f><f>ImmortalSasuke_R_skill02_15</f><f>ImmortalSasuke_R_skill02_16</f><e type="setAttackBox">bc_hit</e>
-			<f>ImmortalSasuke_R_skill02_17</f><f>ImmortalSasuke_R_skill02_18</f><f>ImmortalSasuke_R_skill02_19</f></frame>
+			<f>ImmortalSasuke_R_skill02_01</f><f>ImmortalSasuke_R_skill02_02</f><f>ImmortalSasuke_R_skill02_03</f><e type="setSound">Audio/ImmortalSasuke/RS_skill2.mp3</e><f>ImmortalSasuke_R_skill02_04</f><f>ImmortalSasuke_R_skill02_05</f><e type="setSound">Audio/ImmortalSasuke/Katon.mp3</e><f>ImmortalSasuke_R_skill02_06</f><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill02_07</f><f>ImmortalSasuke_R_skill02_08</f><e type="setSound">Audio/ImmortalSasuke/RS_skill2_1.mp3</e><f>ImmortalSasuke_R_skill02_09</f><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill02_10</f><f>ImmortalSasuke_R_skill02_11</f><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill02_12</f><f>ImmortalSasuke_R_skill02_13</f><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill02_14</f><f>ImmortalSasuke_R_skill02_15</f><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill02_16</f><f>ImmortalSasuke_R_skill02_17</f><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill02_18</f><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill02_19</f></frame>
 	</action>
 
 	<action name="skill03">
@@ -119,12 +91,7 @@
 			<p type="combatPoint">0</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill3.ogg</e>
-			<f>ImmortalSasuke_R_skill03_01</f><f>ImmortalSasuke_R_skill03_02</f><f>ImmortalSasuke_R_skill03_03</f><f>ImmortalSasuke_R_skill03_04</f><f>ImmortalSasuke_R_skill03_05</f><f>ImmortalSasuke_R_skill03_06</f><f>ImmortalSasuke_R_skill03_07</f><e type="setSkillEffect">sharingan4</e>
-			<e type="setSound">Audio/Effect/srg2.ogg</e>
-			<f>ImmortalSasuke_R_skill03_08</f><f>ImmortalSasuke_R_skill03_09</f><f>ImmortalSasuke_R_skill03_10</f><e type="setDelay">20</e>
-			<f>ImmortalSasuke_R_skill03_11</f><f>ImmortalSasuke_R_skill03_12</f><f>ImmortalSasuke_R_skill03_13</f><f>ImmortalSasuke_R_skill03_14</f><e type="setDelay">30</e>
-			<e type="setBuff">17</e>
+			<f>ImmortalSasuke_R_skill03_01</f><f>ImmortalSasuke_R_skill03_02</f><f>ImmortalSasuke_R_skill03_03</f><e type="setSound">Audio/ImmortalSasuke/RS_skill3.mp3</e><f>ImmortalSasuke_R_skill03_04</f><f>ImmortalSasuke_R_skill03_05</f><f>ImmortalSasuke_R_skill03_06</f><f>ImmortalSasuke_R_skill03_07</f><f>ImmortalSasuke_R_skill03_08</f><f>ImmortalSasuke_R_skill03_09</f><f>ImmortalSasuke_R_skill03_10</f><f>ImmortalSasuke_R_skill03_11</f><f>ImmortalSasuke_R_skill03_12</f><f>ImmortalSasuke_R_skill03_13</f><f>ImmortalSasuke_R_skill03_14</f><e type="setDelay">20</e><e type="setBuff">17</e>
 		</frame>
 	</action>
 
@@ -138,17 +105,7 @@
 			<p type="combatPoint">4560</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>ImmortalSasuke_R_skill04_01</f><f>ImmortalSasuke_R_skill04_02</f><f>ImmortalSasuke_R_skill04_03</f><e type="setSkillEffect">sharingan4</e>
-			<f>ImmortalSasuke_R_skill04_04</f><e type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill4.ogg</e>
-			<e type="setDelay">20</e>
-			<f>ImmortalSasuke_R_skill04_05</f><f>ImmortalSasuke_R_skill04_06</f><e type="setCommand">findTarget</e>
-			<e type="setTrap">Amaterasu</e>
-			<e type="setSound">Audio/Effect/srg.ogg</e>
-			<f>ImmortalSasuke_R_skill04_07</f><f>ImmortalSasuke_R_skill04_08</f><e type="setCommand">setTransport</e>
-			<f>ImmortalSasuke_R_skill04_09</f><f>ImmortalSasuke_R_skill04_10</f><f>ImmortalSasuke_R_skill04_11</f><f>ImmortalSasuke_R_skill04_12</f><f>ImmortalSasuke_R_skill04_13</f><f>ImmortalSasuke_R_skill04_14</f><e type="setAttackBox">b_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>ImmortalSasuke_R_skill04_15</f></frame>
+			<f>ImmortalSasuke_R_skill04_01</f><f>ImmortalSasuke_R_skill04_02</f><f>ImmortalSasuke_R_skill04_03</f><e type="setSound">Audio/ImmortalSasuke/RS_skill4.mp3</e><f>ImmortalSasuke_R_skill04_04</f><f>ImmortalSasuke_R_skill04_05</f><e type="setAttackBox">f_hit</e><e type="setSound">Audio/ImmortalSasuke/S4.mp3</e><f>ImmortalSasuke_R_skill04_06</f><e type="setAttackBox">f_hit</e><f>ImmortalSasuke_R_skill04_07</f><e type="setAttackBox">f_hit</e><f>ImmortalSasuke_R_skill04_08</f><e type="setAttackBox">f_hit</e><f>ImmortalSasuke_R_skill04_09</f><e type="setAttackBox">f_hit</e><f>ImmortalSasuke_R_skill04_10</f><e type="setAttackBox">f_hit</e><f>ImmortalSasuke_R_skill04_11</f><e type="setMon">Qilin</e><e type="setDelay">3</e><f>ImmortalSasuke_R_skill04_12</f><e type="setDelay">3</e><e type="setSound">Audio/ImmortalSasuke/RS_skill4_1.mp3</e><f>ImmortalSasuke_R_skill04_13</f><e type="setSound">Audio/ImmortalSasuke/srg.mp3</e><e type="setDelay">3</e><f>ImmortalSasuke_R_skill04_14</f><e type="setDelay">3</e><f>ImmortalSasuke_R_skill04_15</f><e type="setDelay">10</e></frame>
 	</action>
 
 	<action name="skill05">
@@ -161,15 +118,8 @@
 			<p type="combatPoint">10000</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>ImmortalSasuke_R_skill05_01</f><f>ImmortalSasuke_R_skill05_02</f><f>ImmortalSasuke_R_skill05_03</f><f>ImmortalSasuke_R_skill05_04</f><f>ImmortalSasuke_R_skill05_05</f><f>ImmortalSasuke_R_skill05_06</f><f>ImmortalSasuke_R_skill05_07</f><e type="setDelay">10</e>
-			<f>ImmortalSasuke_R_skill05_08</f><f>ImmortalSasuke_R_skill05_09</f><f>ImmortalSasuke_R_skill05_10</f><f>ImmortalSasuke_R_skill05_11</f><f>ImmortalSasuke_R_skill05_12</f><f>ImmortalSasuke_R_skill05_13</f><f>ImmortalSasuke_R_skill05_14</f><f>ImmortalSasuke_R_skill05_15</f><e type="setCommand">setInvincible</e>
-			<f>ImmortalSasuke_R_skill05_16</f><f>ImmortalSasuke_R_skill05_17</f><f>ImmortalSasuke_R_skill05_18</f><f>ImmortalSasuke_R_skill05_19</f><f>ImmortalSasuke_R_skill05_20</f><f>ImmortalSasuke_R_skill05_21</f><f>ImmortalSasuke_R_skill05_22</f><e type="setOugis">10</e>
-			<f>ImmortalSasuke_R_skill05_23</f><f>ImmortalSasuke_R_skill05_24</f><f>ImmortalSasuke_R_skill05_25</f><f>ImmortalSasuke_R_skill05_26</f><f>ImmortalSasuke_R_skill05_27</f><f>ImmortalSasuke_R_skill05_28</f><f>ImmortalSasuke_R_skill05_29</f><f>ImmortalSasuke_R_skill05_30</f><f>ImmortalSasuke_R_skill05_31</f><f>ImmortalSasuke_R_skill05_32</f><f>ImmortalSasuke_R_skill05_33</f><f>ImmortalSasuke_R_skill05_34</f><f>ImmortalSasuke_R_skill05_35</f><f>ImmortalSasuke_R_skill05_36</f><f>ImmortalSasuke_R_skill05_37</f><f>ImmortalSasuke_R_skill05_38</f><f>ImmortalSasuke_R_skill05_39</f><f>ImmortalSasuke_R_skill05_40</f><f>ImmortalSasuke_R_skill05_41</f><f>ImmortalSasuke_R_skill05_42</f><f>ImmortalSasuke_R_skill05_43</f><f>ImmortalSasuke_R_skill05_44</f><f>ImmortalSasuke_R_skill05_45</f><f>ImmortalSasuke_R_skill05_46</f><f>ImmortalSasuke_R_skill05_47</f><f>ImmortalSasuke_R_skill05_48</f><f>ImmortalSasuke_R_skill05_49</f><f>ImmortalSasuke_R_skill05_50</f><f>ImmortalSasuke_R_skill05_51</f><e type="setBuff">18</e>
-			<e type="setSound">Audio/Itachi/itachi_skill5_1.ogg</e>
-			<e type="setMon">SasukeSusano</e>
-			<e type="setCommand">reInvincible</e>
-		</frame>
+			<e type="setSound">Audio/ImmortalSasuke/RS_skill5.mp3</e><f>ImmortalSasuke_R_skill05_01</f><e type="setCommand">setInvincible</e><f>ImmortalSasuke_R_skill05_02</f><f>ImmortalSasuke_R_skill05_03</f><e type="setAttackBox">f_hit</e><f>ImmortalSasuke_R_skill05_04</f><e type="setAttackBox">a_hit</e><f>ImmortalSasuke_R_skill05_05</f><e type="setAttackBox">a_hit</e><f>ImmortalSasuke_R_skill05_06</f><e type="setAttackBox">a_hit</e><f>ImmortalSasuke_R_skill05_07</f><e type="setAttackBox">a_hit</e><f>ImmortalSasuke_R_skill05_08</f><e type="setAttackBox">a_hit</e><f>ImmortalSasuke_R_skill05_09</f><f>ImmortalSasuke_R_skill05_10</f><f>ImmortalSasuke_R_skill05_11</f><e type="setSound">Audio/ImmortalSasuke/RS_skill5_1.mp3</e><e type="setDelay">2</e><f>ImmortalSasuke_R_skill05_12</f><e type="setDelay">2</e><f>ImmortalSasuke_R_skill05_13</f><e type="setDelay">2</e><e type="setSound">Audio/ImmortalSasuke/RS_skill5_2.mp3</e><f>ImmortalSasuke_R_skill05_14</f><e type="setDelay">2</e><f>ImmortalSasuke_R_skill05_15</f><e type="setDelay">2</e><f>ImmortalSasuke_R_skill05_16</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/ImmortalSasuke/Slash.mp3</e><f>ImmortalSasuke_R_skill05_17</f><e type="setAttackBox">f_hit</e><f>ImmortalSasuke_R_skill05_18</f><e type="setAttackBox">ac_hit</e><f>ImmortalSasuke_R_skill05_19</f><e type="setAttackBox">ac_hit</e><f>ImmortalSasuke_R_skill05_20</f><f>ImmortalSasuke_R_skill05_21</f><f>ImmortalSasuke_R_skill05_22</f><e type="setAttackBox">ac_hit</e><f>ImmortalSasuke_R_skill05_23</f><f>ImmortalSasuke_R_skill05_24</f><f>ImmortalSasuke_R_skill05_25</f><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/ImmortalSasuke/Transform.mp3</e><f>ImmortalSasuke_R_skill05_26</f><e type="setAttackBox">s_hit</e><f>ImmortalSasuke_R_skill05_27</f><e type="setAttackBox">s_hit</e><f>ImmortalSasuke_R_skill05_28</f><e type="setDelay">2</e><e type="setAttackBox">s_hit</e><f>ImmortalSasuke_R_skill05_29</f><e type="setDelay">2</e><e type="setAttackBox">s_hit</e><f>ImmortalSasuke_R_skill05_30</f><e type="setDelay">2</e><f>ImmortalSasuke_R_skill05_31</f><e type="setDelay">2</e><f>ImmortalSasuke_R_skill05_32</f><e type="setOugis">10</e><f>ImmortalSasuke_R_skill05_33</f><f>ImmortalSasuke_R_skill05_34</f><e type="setSound">Audio/ImmortalSasuke/L1.mp3</e><e type="setDelay">3</e><f>ImmortalSasuke_R_skill05_35</f><e type="setDelay">3</e><f>ImmortalSasuke_R_skill05_36</f><e type="setDelay">3</e><f>ImmortalSasuke_R_skill05_37</f><e type="setDelay">3</e><f>ImmortalSasuke_R_skill05_38</f><e type="setDelay">3</e><e type="setAttackBox">c_hit</e><e type="setSound">Audio/ImmortalSasuke/L2.mp3</e><f>ImmortalSasuke_R_skill05_39</f><e type="setDelay">3</e><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill05_40</f><e type="setDelay">3</e><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill05_41</f><e type="setDelay">3</e><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill05_42</f><e type="setDelay">3</e><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill05_43</f><e type="setDelay">3</e><e type="setAttackBox">c_hit</e><f>ImmortalSasuke_R_skill05_44</f><e type="setDelay">3</e><f>ImmortalSasuke_R_skill05_45</f><e type="setDelay">3</e><f>ImmortalSasuke_R_skill05_46</f><f>ImmortalSasuke_R_skill05_47</f><f>ImmortalSasuke_R_skill05_48</f><f>ImmortalSasuke_R_skill05_49</f><f>ImmortalSasuke_R_skill05_50</f><f>ImmortalSasuke_R_skill05_51</f><e type="setCommand">reInvincible</e><e type="setBuff">18</e>
+			</frame>
 	</action>
 	<action name="skill06">
 		<frame />

@@ -29,6 +29,7 @@ public:
 
 	CREATE_FUNC(LoadLayer);
 	static void perloadCharIMG(const string &name);
+	static void addSkinExtras(const string &base, const string &skin);
 	static void unloadCharIMG(CharacterBase *player);
 	static void unloadAllCharsIMG(const vector<Hero *> &players);
 

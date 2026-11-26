@@ -20,8 +20,7 @@
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
-			<f>Shisui_R_hurt_01</f><f>Shisui_R_hurt_02</f></frame>
+			<e type="setMove">32</e><f>Shisui_R_hurt_01</f><f>Shisui_R_hurt_02</f></frame>
 	</action>
 
 	<action name="AirHurt">
@@ -31,21 +30,17 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>Shisui_R_knockdown_01</f><e type="setDelay">10</e>
-			<f>Shisui_R_knockdown_02</f><f>Shisui_R_knockdown_03</f><e type="setDelay">60</e>
-			<f>Shisui_R_knockdown_04</f><f>Shisui_R_knockdown_05</f><f>Shisui_R_knockdown_06</f><f>Shisui_R_knockdown_07</f><f>Shisui_R_knockdown_08</f></frame>
+			<f>Shisui_R_knockdown_01</f><e type="setSkillEffect">Bagua</e><e type="setSound">Audio/Shisui/walk.ogg</e><f>Shisui_R_knockdown_02</f><f>Shisui_R_knockdown_03</f><e type="setDelay">60</e><f>Shisui_R_knockdown_04</f><f>Shisui_R_knockdown_05</f><f>Shisui_R_knockdown_06</f><f>Shisui_R_knockdown_07</f><f>Shisui_R_knockdown_08</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>Shisui_R_float_01</f><e type="setDelay">10</e>
-			<f>Shisui_R_float_02</f><e type="setDelay">10</e>
-			<f>Shisui_R_float_03</f></frame>
+			<f>Shisui_R_float_01</f><f>Shisui_R_float_02</f><f>Shisui_R_float_03</f></frame>
 	</action>
 
 	<action name="Dead">
 		<frame>
-			<f>Shisui_R_dead_01</f><f>Shisui_R_dead_02</f><f>Shisui_R_dead_03</f></frame>
+			<e type="setSkillEffect">Hiraishin2</e><f>Shisui_R_dead_01</f><f>Shisui_R_dead_02</f><f>Shisui_R_dead_03</f></frame>
 	</action>
 
 	<action name="nAttack">
@@ -58,15 +53,7 @@
 
 		</data>
 		<frame>
-			<f>Shisui_R_nattack_01</f><f>Shisui_R_nattack_02</f><f>Shisui_R_nattack_03</f><e type="setAttackBox">n_hit</e>
-			<e type="setSound">Audio/Effect/combo1.ogg</e>
-			<f>Shisui_R_nattack_04</f><f>Shisui_R_nattack_05</f><f>Shisui_R_nattack_06</f><f>Shisui_R_nattack_07</f><e type="setMove">8</e>
-			<f>Shisui_R_nattack_08</f><e type="setAttackBox">n_hit</e>
-			<e type="setSound">Audio/Effect/combo2.ogg</e>
-			<f>Shisui_R_nattack_09</f><f>Shisui_R_nattack_10</f><f>Shisui_R_nattack_11</f><e type="setMove">16</e>
-			<f>Shisui_R_nattack_12</f><e type="setAttackBox">l_hit</e>
-			<e type="setSound">Audio/Shisui/nattack.ogg</e>
-			<f>Shisui_R_nattack_13</f><f>Shisui_R_nattack_14</f></frame>
+			<f>Shisui_R_nattack_01</f><e type="setDelay">3</e><f>Shisui_R_nattack_02</f><e type="setMove">4</e><f>Shisui_R_nattack_03</f><e type="setDelay">3</e><e type="setAttackBox">n_hit</e><e type="setSound">Audio/Effect/combo1.ogg</e><f>Shisui_R_nattack_04</f><e type="setDelay">2</e><f>Shisui_R_nattack_05</f><e type="setMove">6</e><f>Shisui_R_nattack_06</f><e type="setDelay">3</e><e type="setAttackBox">l_hit</e><e type="setSound">Audio/Effect/combo2.ogg</e><f>Shisui_R_nattack_07</f><e type="setDelay">4</e><e type="setSound">Audio/Shisui/nattack.ogg</e><f>Shisui_R_nattack_08</f><e type="setDelay">3</e><f>Shisui_R_nattack_09</f><f>Shisui_R_nattack_10</f><f>Shisui_R_nattack_11</f><f>Shisui_R_nattack_12</f><e type="setDelay">2</e><e type="setAttackBox">c_hit</e><f>Shisui_R_nattack_13</f><f>Shisui_R_nattack_14</f></frame>
 	</action>
 
 	<action name="skill01">
@@ -79,15 +66,7 @@
 			<p type="combatPoint">1120</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Shisui/1.mp3</e>
-			<f>Shisui_R_skill01_01</f><f>Shisui_R_skill01_02</f><f>Shisui_R_skill01_03</f><f>Shisui_R_skill01_04</f><f>Shisui_R_skill01_05</f><f>Shisui_R_skill01_06</f><f>Shisui_R_skill01_07</f><f>Shisui_R_skill01_08</f><f>Shisui_R_skill01_09</f><f>Shisui_R_skill01_10</f><e type="setChargeB">192</e>
-			<f>Shisui_R_skill01_11</f><f>Shisui_R_skill01_12</f><f>Shisui_R_skill01_13</f><f>Shisui_R_skill01_14</f><f>Shisui_R_skill01_15</f><e type="setAttackBox">bl_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage2.ogg</e>
-			<e type="setDelay">10</e>
-			<f>Shisui_R_skill01_16</f><f>Shisui_R_skill01_17</f><f>Shisui_R_skill01_18</f><f>Shisui_R_skill01_19</f><f>Shisui_R_skill01_20</f><e type="setAttackBox">bl_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage2.ogg</e>
-			<e type="setDelay">10</e>
-		</frame>
+			<f>Shisui_R_skill01_01</f><e type="setDelay">5</e><f>Shisui_R_skill01_02</f><e type="setDelay">10</e><f>Shisui_R_skill01_03</f><e type="setDelay">15</e><f>Shisui_R_skill01_04</f><e type="setAttackBox">c_hit</e><f>Shisui_R_skill01_05</f><e type="setSound">Audio/Shisui/1.mp3</e><f>Shisui_R_skill01_06</f><e type="setAttackBox">c_hit</e><f>Shisui_R_skill01_07</f><f>Shisui_R_skill01_08</f><e type="setSound">Audio/Shisui/1.1.mp3</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill01_09</f><f>Shisui_R_skill01_10</f><e type="setAttackBox">c_hit</e><f>Shisui_R_skill01_11</f><f>Shisui_R_skill01_12</f><e type="setAttackBox">c_hit</e><f>Shisui_R_skill01_13</f><f>Shisui_R_skill01_14</f><e type="setAttackBox">c_hit</e><f>Shisui_R_skill01_15</f><f>Shisui_R_skill01_16</f><e type="setAttackBox">c_hit</e><f>Shisui_R_skill01_17</f><f>Shisui_R_skill01_18</f><e type="setAttackBox">c_hit</e><f>Shisui_R_skill01_19</f><f>Shisui_R_skill01_20</f><e type="setDelay">10</e></frame>
 	</action>
 
 	<action name="skill02">
@@ -100,10 +79,7 @@
 			<p type="combatPoint">1560</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Shisui/2.mp3</e>
-			<f>Shisui_R_skill02_01</f><f>Shisui_R_skill02_02</f><f>Shisui_R_skill02_03</f><f>Shisui_R_skill02_04</f><f>Shisui_R_skill02_05</f><f>Shisui_R_skill02_06</f><f>Shisui_R_skill02_07</f><f>Shisui_R_skill02_08</f><f>Shisui_R_skill02_09</f><f>Shisui_R_skill02_10</f><f>Shisui_R_skill02_11</f><f>Shisui_R_skill02_12</f><f>Shisui_R_skill02_13</f><f>Shisui_R_skill02_14</f><f>Shisui_R_skill02_15</f><f>Shisui_R_skill02_16</f><f>Shisui_R_skill02_17</f><f>Shisui_R_skill02_18</f><f>Shisui_R_skill02_19</f><e type="setMon">Kubi</e>
-			<f>Shisui_R_skill02_20</f><f>Shisui_R_skill02_21</f><f>Shisui_R_skill02_22</f><f>Shisui_R_skill02_23</f><f>Shisui_R_skill02_24</f><e type="setDelay">160</e>
-			<f>Shisui_R_skill02_25</f><f>Shisui_R_skill02_26</f><f>Shisui_R_skill02_27</f><f>Shisui_R_skill02_28</f><f>Shisui_R_skill02_29</f></frame>
+			<f>Shisui_R_skill02_01</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><e type="setSound">Audio/Shisui/2.mp3</e><f>Shisui_R_skill02_02</f><e type="setDelay">2</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill02_03</f><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill02_04</f><e type="setSound">Audio/Shisui/2.1.mp3</e><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill02_05</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill02_06</f><e type="setAttackBox">ac_hit</e><e type="setDelay">1</e><f>Shisui_R_skill02_07</f><e type="setDelay">5</e><f>Shisui_R_skill02_08</f><e type="setDelay">4</e><f>Shisui_R_skill02_09</f><e type="setDelay">3</e><f>Shisui_R_skill02_10</f><f>Shisui_R_skill02_11</f><f>Shisui_R_skill02_12</f><e type="setMove">50</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill02_13</f><e type="setMove">70</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill02_14</f><e type="setMove">90</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill02_15</f><e type="setChargeB">100</e><e type="setAttackBox">o_hit</e><e type="setSound">Audio/Shisui/2.2.mp3</e><f>Shisui_R_skill02_16</f><e type="setCharge">100</e><e type="setAttackBox">f_hit</e><f>Shisui_R_skill02_17</f><e type="setDelay">1</e><f>Shisui_R_skill02_18</f><f>Shisui_R_skill02_19</f><f>Shisui_R_skill02_20</f><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill02_21</f><e type="setSound">Audio/Shisui/2.4.mp3</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill02_22</f><e type="setAttackBox">c_hit</e><f>Shisui_R_skill02_23</f><e type="setAttackBox">c_hit</e><f>Shisui_R_skill02_24</f><e type="setSound">Audio/Shisui/2.3.mp3</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill02_25</f><e type="setAttackBox">c_hit</e><f>Shisui_R_skill02_26</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill02_27</f><e type="setDelay">1</e><f>Shisui_R_skill02_28</f><e type="setDelay">1</e><f>Shisui_R_skill02_29</f><e type="setDelay">1</e></frame>
 	</action>
 
 	<action name="skill03">
@@ -116,8 +92,7 @@
 			<p type="combatPoint">1960</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Shisui/1.1.mp3</e>
-			<f>Shisui_R_skill03_01</f><f>Shisui_R_skill03_02</f><f>Shisui_R_skill03_03</f><f>Shisui_R_skill03_04</f><f>Shisui_R_skill03_05</f><f>Shisui_R_skill03_06</f><f>Shisui_R_skill03_07</f><f>Shisui_R_skill03_08</f><f>Shisui_R_skill03_09</f><f>Shisui_R_skill03_10</f><f>Shisui_R_skill03_11</f><f>Shisui_R_skill03_12</f><f>Shisui_R_skill03_13</f><f>Shisui_R_skill03_14</f><f>Shisui_R_skill03_15</f><f>Shisui_R_skill03_16</f><f>Shisui_R_skill03_17</f><f>Shisui_R_skill03_18</f><f>Shisui_R_skill03_19</f><f>Shisui_R_skill03_20</f><f>Shisui_R_skill03_21</f><f>Shisui_R_skill03_22</f><f>Shisui_R_skill03_23</f><f>Shisui_R_skill03_24</f><f>Shisui_R_skill03_25</f><f>Shisui_R_skill03_26</f><f>Shisui_R_skill03_27</f><f>Shisui_R_skill03_28</f><f>Shisui_R_skill03_29</f><f>Shisui_R_skill03_30</f><e type="setBuff">17</e>
+			<f>Shisui_R_skill03_01</f><e type="setDelay">5</e><f>Shisui_R_skill03_02</f><e type="setDelay">10</e><f>Shisui_R_skill03_03</f><e type="setDelay">10</e><f>Shisui_R_skill03_04</f><e type="setDelay">1</e><f>Shisui_R_skill03_05</f><e type="setSound">Audio/Shisui/1.1.mp3</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_06</f><e type="setDelay">1</e><f>Shisui_R_skill03_07</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_08</f><e type="setDelay">1</e><f>Shisui_R_skill03_09</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_10</f><f>Shisui_R_skill03_11</f><e type="setDelay">3</e><f>Shisui_R_skill03_12</f><e type="setDelay">5</e><f>Shisui_R_skill03_13</f><e type="setMove">100</e><e type="setAttackBox">o_hit</e><e type="setMon">Tuji</e><f>Shisui_R_skill03_14</f><e type="setSound">Audio/Shisui/3.1.mp3</e><e type="setMove">80</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill03_15</f><e type="setMove">70</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill03_16</f><e type="setMove">50</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill03_17</f><e type="setMove">30</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill03_18</f><e type="setDelay">6</e><f>Shisui_R_skill03_19</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_20</f><e type="setSound">Audio/Shisui/3.3.mp3</e><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_21</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_22</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_23</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_24</f><e type="setDelay">1</e><f>Shisui_R_skill03_25</f><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_26</f><e type="setSound">Audio/Shisui/4.4.mp3</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_27</f><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_28</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_29</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill03_30</f><e type="setAttackBox">ac_hit</e><e type="setDelay">1</e><e type="setBuff">17</e>
 		</frame>
 	</action>
 
@@ -131,14 +106,7 @@
 			<p type="combatPoint">3000</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<e type="setSound">Audio/Shisui/4.1.mp3</e>
-			<f>Shisui_R_skill04_01</f><f>Shisui_R_skill04_02</f><f>Shisui_R_skill04_03</f><f>Shisui_R_skill04_04</f><f>Shisui_R_skill04_05</f><f>Shisui_R_skill04_06</f><f>Shisui_R_skill04_07</f><f>Shisui_R_skill04_08</f><f>Shisui_R_skill04_09</f><f>Shisui_R_skill04_10</f><f>Shisui_R_skill04_11</f><f>Shisui_R_skill04_12</f><f>Shisui_R_skill04_13</f><f>Shisui_R_skill04_14</f><f>Shisui_R_skill04_15</f><f>Shisui_R_skill04_16</f><e type="setMon">WaterBullet</e>
-			<f>Shisui_R_skill04_17</f><f>Shisui_R_skill04_18</f><f>Shisui_R_skill04_19</f><f>Shisui_R_skill04_20</f><f>Shisui_R_skill04_21</f><f>Shisui_R_skill04_22</f><f>Shisui_R_skill04_23</f><f>Shisui_R_skill04_24</f><f>Shisui_R_skill04_25</f><f>Shisui_R_skill04_26</f><f>Shisui_R_skill04_27</f><f>Shisui_R_skill04_28</f><e type="setMon">WaterBullet</e>
-			<f>Shisui_R_skill04_29</f><f>Shisui_R_skill04_30</f><f>Shisui_R_skill04_31</f><f>Shisui_R_skill04_32</f><e type="setDelay">30</e>
-			<f>Shisui_R_skill04_33</f><f>Shisui_R_skill04_34</f><f>Shisui_R_skill04_35</f><f>Shisui_R_skill04_36</f><e type="setMon">WaterBom</e>
-			<e type="setDelay">20</e>
-		</frame>
+			<f>Shisui_R_skill04_01</f><e type="setDelay">10</e><f>Shisui_R_skill04_02</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill04_03</f><e type="setSound">Audio/Shisui/4.1.mp3</e><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill04_04</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill04_05</f><e type="setAttackBox">o_hit</e><e type="setDelay">1</e><f>Shisui_R_skill04_06</f><e type="setAttackBox">o_hit</e><e type="setDelay">1</e><f>Shisui_R_skill04_07</f><e type="setDelay">5</e><f>Shisui_R_skill04_08</f><e type="setMove">90</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill04_09</f><e type="setSound">Audio/Shisui/3.1.mp3</e><e type="setMon">Tuji</e><e type="setMove">70</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill04_10</f><e type="setMove">50</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill04_11</f><e type="setMove">40</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill04_12</f><e type="setMove">30</e><e type="setAttackBox">o_hit</e><f>Shisui_R_skill04_13</f><e type="setDelay">15</e><f>Shisui_R_skill04_14</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_15</f><e type="setDelay">1</e><e type="setSound">Audio/Shisui/4.mp3</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_16</f><e type="setAttackBox">f_hit</e><e type="setDelay">1</e><f>Shisui_R_skill04_17</f><e type="setDelay">1</e><e type="setAttackBox">ac_hit</e><f>Shisui_R_skill04_18</f><e type="setAttackBox">ac_hit</e><e type="setDelay">1</e><f>Shisui_R_skill04_19</f><e type="setAttackBox">ac_hit</e><e type="setDelay">1</e><f>Shisui_R_skill04_20</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_21</f><e type="setSound">Audio/Shisui/4.1.1.mp3</e><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_22</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_23</f><e type="setDelay">10</e><f>Shisui_R_skill04_24</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_25</f><e type="setDelay">1</e><e type="setSound">Audio/Shisui/4.3.mp3</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_26</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_27</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_28</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_29</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_30</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_31</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill04_32</f><e type="setDelay">-1</e><f>Shisui_R_skill04_33</f><e type="setDelay">1</e><e type="setSound">Audio/Shisui/4.5.mp3</e><f>Shisui_R_skill04_34</f><e type="setDelay">-1</e><f>Shisui_R_skill04_35</f><e type="setDelay">-1</e><f>Shisui_R_skill04_36</f></frame>
 	</action>
 
 	<action name="skill05">
@@ -152,49 +120,7 @@
 			<p type="combatPoint">8480</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>Shisui_R_skill05_01</f><f>Shisui_R_skill05_02</f><e type="setOugis">10</e>
-			<f>Shisui_R_skill05_03</f><e type="setCommand">setInvincible</e>
-			<f>Shisui_R_skill05_04</f><f>Shisui_R_skill05_05</f><e type="setMove">32</e>
-			<f>Shisui_R_skill05_06</f><e type="setSound">Audio/Shisui/5.mp3</e>
-			<f>Shisui_R_skill05_07</f><e type="setAttackBox">o2_hit</e>
-			<f>Shisui_R_skill05_08</f><e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Shisui_R_skill05_09</f><f>Shisui_R_skill05_10</f><e type="setChargeB">128</e>
-			<f>Shisui_R_skill05_11</f><e type="setShadow">10</e>
-			<e type="setDelay">10</e>
-			<f>Shisui_R_skill05_12</f><e type="setSound">Audio/Shisui/4.4.mp3</e>
-			<e type="setAttackBox">o_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Shisui_R_skill05_13</f><f>Shisui_R_skill05_14</f><f>Shisui_R_skill05_15</f><e type="setShadow">10</e>
-			<e type="setChargeB">128</e>
-			<f>Shisui_R_skill05_16</f><e type="setShadow">10</e>
-			<f>Shisui_R_skill05_17</f><e type="setShadow">10</e>
-			<e type="setAttackBox">bf_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Shisui_R_skill05_18</f><e type="setShadow">10</e>
-			<e type="setAttackBox">bf_hit</e>
-			<f>Shisui_R_skill05_19</f><e type="setShadow">10</e>
-			<e type="setAttackBox">ac_hit</e>
-			<f>Shisui_R_skill05_20</f><f>Shisui_R_skill05_21</f><f>Shisui_R_skill05_22</f><e type="setChargeB">48</e>
-			<f>Shisui_R_skill05_23</f><e type="setShadow">10</e>
-			<e type="setAttackBox">ac_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Shisui_R_skill05_24</f><f>Shisui_R_skill05_25</f><e type="setShadow">10</e>
-			<f>Shisui_R_skill05_26</f><f>Shisui_R_skill05_27</f><e type="setShadow">10</e>
-			<e type="setChargeB">48</e>
-			<e type="setAttackBox">ac_hit</e>
-			<e type="setDSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Shisui_R_skill05_28</f><f>Shisui_R_skill05_29</f><f>Shisui_R_skill05_30</f><f>Shisui_R_skill05_31</f><e type="setJump">true</e>
-			<f>Shisui_R_skill05_32</f><e type="setShadow">10</e>
-			<f>Shisui_R_skill05_33</f><e type="setShadow">10</e>
-			<f>Shisui_R_skill05_34</f><e type="setShadow">10</e>
-			<f>Shisui_R_skill05_35</f><e type="setShadow">10</e>
-			<f>Shisui_R_skill05_36</f><e type="setShadow">10</e>
-			<e type="setDelay">10</e>
-			<f>Shisui_R_skill05_37</f><f>Shisui_R_skill05_38</f><f>Shisui_R_skill05_39</f><f>Shisui_R_skill05_40</f><e type="setSound">Audio/Shisui/Bom.mp3</e>
-			<e type="setAttackBox">f_hit</e>
-			<f>Shisui_R_skill05_41</f><f>Shisui_R_skill05_42</f><e type="setCommand">reInvincible</e>
-		</frame>
+			<f>Shisui_R_skill05_01</f><e type="setDelay">5</e><e type="setOugis">10</e><f>Shisui_R_skill05_02</f><e type="setDelay">-1</e><f>Shisui_R_skill05_03</f><e type="setDelay">-1</e><f>Shisui_R_skill05_04</f><e type="setDelay">1</e><f>Shisui_R_skill05_05</f><e type="setDelay">1</e><e type="setSound">Audio/Shisui/5.mp3</e><f>Shisui_R_skill05_06</f><e type="setDelay">1</e><f>Shisui_R_skill05_07</f><e type="setDelay">-1</e><f>Shisui_R_skill05_08</f><e type="setDelay">-1</e><f>Shisui_R_skill05_09</f><e type="setDelay">-1</e><f>Shisui_R_skill05_10</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_11</f><e type="setDelay">1</e><e type="setSound">Audio/Shisui/4.4.mp3</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_12</f><e type="setDelay">2</e><e type="setSound">Audio/Shisui/Bom.mp3</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_13</f><e type="setDelay">2</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_14</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_15</f><e type="setDelay">2</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_16</f><e type="setDelay">2</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_17</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_18</f><e type="setDelay">1</e><f>Shisui_R_skill05_19</f><e type="setDelay">8</e><f>Shisui_R_skill05_20</f><e type="setDelay">1</e><f>Shisui_R_skill05_21</f><e type="setDelay">1</e><e type="setSound">Audio/Shisui/4.5.mp3</e><f>Shisui_R_skill05_22</f><e type="setDelay">1</e><f>Shisui_R_skill05_23</f><e type="setDelay">1</e><f>Shisui_R_skill05_24</f><e type="setSound">Audio/Shisui/5.2.mp3</e><e type="setDelay">3</e><f>Shisui_R_skill05_25</f><e type="setDelay">1</e><f>Shisui_R_skill05_26</f><e type="setDelay">1</e><f>Shisui_R_skill05_27</f><e type="setDelay">1</e><e type="setSound">Audio/Shisui/4.2.mp3</e><f>Shisui_R_skill05_28</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_29</f><e type="setSound">Audio/Shisui/4.3.mp3</e><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_30</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_31</f><e type="setDelay">1</e><e type="setSound">Audio/Shisui/4.1.mp3</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_32</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_33</f><e type="setDelay">2</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_34</f><e type="setDelay">2</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_35</f><e type="setDelay">2</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_36</f><e type="setDelay">1</e><e type="setAttackBox">c_hit</e><f>Shisui_R_skill05_37</f><f>Shisui_R_skill05_38</f><f>Shisui_R_skill05_39</f><e type="setSound">Audio/Shisui/5.3.mp3</e><f>Shisui_R_skill05_40</f><f>Shisui_R_skill05_41</f><e type="setDelay">1</e><f>Shisui_R_skill05_42</f><e type="setDelay">1</e></frame>
 
 	</action>
 

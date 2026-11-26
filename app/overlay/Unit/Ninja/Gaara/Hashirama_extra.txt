@@ -1,0 +1,2 @@
+Unit/Ninja/Gaara/Gaara_Skill.plist
+Unit/Ninja/Orochimaru/Orochimaru_Skill.plist

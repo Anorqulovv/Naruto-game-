@@ -1,0 +1,1 @@
+Unit/Ninja/Orochimaru/Orochimaru_Skill.plist

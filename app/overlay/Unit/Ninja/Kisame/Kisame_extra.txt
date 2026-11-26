@@ -1,0 +1,1 @@
+Unit/Ninja/Kisame/Kisame_Skill.plist

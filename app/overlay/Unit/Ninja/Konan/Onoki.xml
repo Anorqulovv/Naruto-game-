@@ -15,14 +15,12 @@
 
 	<action name="Walk">
 		<frame>
-			<f>Onoki_R_walk_01</f><f>Onoki_R_walk_02</f><f>Onoki_R_walk_03</f><f>Onoki_R_walk_04</f><f>Onoki_R_walk_05</f><f>Onoki_R_walk_06</f></frame>
+			<f>Onoki_R_walk_01</f><e type="setMove">3</e><f>Onoki_R_walk_02</f><e type="setCharge">3</e><f>Onoki_R_walk_03</f><e type="setMove">3</e><f>Onoki_R_walk_04</f><e type="setMove">3</e><f>Onoki_R_walk_05</f><e type="setMove">3</e><f>Onoki_R_walk_06</f><e type="setMove">3</e></frame>
 	</action>
 
 	<action name="Hurt">
 		<frame>
-			<e type="setMove">32</e>
-			<f>Onoki_R_hurt_01</f><f>Onoki_R_hurt_02</f><f>Onoki_R_hurt_03</f><e type="setSound">Audio/Onoki/hurt.ogg</e>
-		</frame>
+			<e type="setMove">32</e><f>Onoki_R_hurt_01</f><f>Onoki_R_hurt_02</f><f>Onoki_R_hurt_03</f><e type="setSound">Audio/Onoki/hurt.ogg</e></frame>
 	</action>
 
 	<action name="AirHurt">
@@ -32,23 +30,17 @@
 
 	<action name="KnockDown">
 		<frame>
-			<f>Onoki_R_knockdown_01</f><f>Onoki_R_knockdown_02</f><e type="setDelay">10</e>
-			<e type="setDelay">60</e>
-			<f>Onoki_R_knockdown_03</f><f>Onoki_R_knockdown_04</f><f>Onoki_R_knockdown_05</f></frame>
+			<f>Onoki_R_knockdown_01</f><e type="setSkillEffect">Bagua</e><e type="setSound">Audio/Onoki/walk.ogg</e><f>Onoki_R_knockdown_02</f><e type="setDelay">10</e><f>Onoki_R_knockdown_03</f><e type="setDelay">35</e><f>Onoki_R_knockdown_04</f><f>Onoki_R_knockdown_05</f></frame>
 	</action>
 
 	<action name="Float">
 		<frame>
-			<f>Onoki_R_float_01</f><e type="setDelay">10</e>
-			<e type="setDelay">10</e>
-			<f>Onoki_R_float_02</f></frame>
+			<f>Onoki_R_float_01</f><e type="setDelay">6</e><f>Onoki_R_float_02</f><e type="setDelay">7</e></frame>
 	</action>
 
 	<action name="Dead">
 		<frame>
-			<f>Onoki_R_dead_01</f><f>Onoki_R_dead_02</f><f>Onoki_R_dead_03</f><e type="setSound">Audio/Onoki/dead.ogg</e>
-
-		</frame>
+			<e type="setSkillEffect">Hiraishin2</e><f>Onoki_R_dead_01</f><f>Onoki_R_dead_02</f><e type="setSound">Audio/Onoki/dead.ogg</e><f>Onoki_R_dead_03</f></frame>
 	</action>
 
 	<action name="nAttack">
@@ -60,14 +52,7 @@
 			<p type="cd">0</p>
 		</data>
 		<frame>
-			<f>Onoki_R_nattack_01</f><f>Onoki_R_nattack_02</f><f>Onoki_R_nattack_03</f><f>Onoki_R_nattack_04</f><e type="setSound">Audio/Effect/combo1.ogg</e>
-			<e type="setAttackBox">n_hit</e>
-			<f>Onoki_R_nattack_05</f><f>Onoki_R_nattack_06</f><f>Onoki_R_nattack_07</f><e type="setSound">Audio/Effect/combo2.ogg</e>
-			<e type="setAttackBox">n_hit</e>
-			<f>Onoki_R_nattack_08</f><f>Onoki_R_nattack_09</f><f>Onoki_R_nattack_10</f><e type="setMove">16</e>
-			<e type="setAttackBox">bl_hit</e>
-			<f>Onoki_R_nattack_11</f><e type="setAttackBox">bl_hit</e>
-			<f>Onoki_R_nattack_12</f><f>Onoki_R_nattack_13</f><f>Onoki_R_nattack_14</f></frame>
+			<f>Onoki_R_nattack_01</f><e type="setDelay">2</e><f>Onoki_R_nattack_02</f><e type="setAttackBox">n_hit</e><e type="setSound">Audio/Effect/combo1.ogg</e><e type="setDelay">4</e><f>Onoki_R_nattack_03</f><e type="setDelay">2</e><f>Onoki_R_nattack_04</f><e type="setDelay">2</e><f>Onoki_R_nattack_05</f><e type="setAttackBox">l_hit</e><e type="setSound">Audio/Effect/o2_damage.ogg</e><e type="setDelay">2</e><f>Onoki_R_nattack_06</f><e type="setDelay">2</e><f>Onoki_R_nattack_07</f><e type="setDelay">2</e><f>Onoki_R_nattack_08</f><e type="setDelay">2</e><f>Onoki_R_nattack_09</f><e type="setDelay">2</e><f>Onoki_R_nattack_10</f><e type="setAttackBox">n_hit</e><e type="setSound">Audio/Effect/damage_h.ogg</e><e type="setDelay">2</e><f>Onoki_R_nattack_11</f><e type="setAttackBox">l_hit</e><e type="setDelay">2</e><f>Onoki_R_nattack_12</f><e type="setAttackBox">n_hit</e><e type="setDelay">2</e><f>Onoki_R_nattack_13</f><e type="setDelay">2</e><f>Onoki_R_nattack_14</f><e type="setDelay">2</e></frame>
 	</action>
 
 	<action name="skill01">
@@ -80,8 +65,7 @@
 			<p type="combatPoint">0</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Onoki/1.ogg</e>
-			<f>Onoki_R_skill01_01</f><f>Onoki_R_skill01_02</f><f>Onoki_R_skill01_03</f><f>Onoki_R_skill01_04</f><f>Onoki_R_skill01_05</f><f>Onoki_R_skill01_06</f><f>Onoki_R_skill01_07</f><f>Onoki_R_skill01_08</f><f>Onoki_R_skill01_09</f><f>Onoki_R_skill01_10</f><f>Onoki_R_skill01_11</f><f>Onoki_R_skill01_12</f><f>Onoki_R_skill01_13</f><f>Onoki_R_skill01_14</f><e type="setBuff">5</e>
+			<f>Onoki_R_skill01_01</f><e type="setSound">Audio/Onoki/1.ogg</e><e type="setDelay">4</e><f>Onoki_R_skill01_02</f><e type="setDelay">4</e><f>Onoki_R_skill01_03</f><e type="setDelay">4</e><f>Onoki_R_skill01_04</f><e type="setDelay">2</e><f>Onoki_R_skill01_05</f><e type="setSound">Audio/Effect/suiryudan.ogg</e><e type="setDelay">2</e><f>Onoki_R_skill01_06</f><e type="setDelay">2</e><f>Onoki_R_skill01_07</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Onoki_R_skill01_08</f><e type="setDelay">2</e><f>Onoki_R_skill01_09</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Onoki_R_skill01_10</f><e type="setDelay">2</e><f>Onoki_R_skill01_11</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Onoki_R_skill01_12</f><e type="setAttackBox">c_hit</e><e type="setDelay">2</e><f>Onoki_R_skill01_13</f><e type="setDelay">2</e><f>Onoki_R_skill01_14</f><e type="setDelay">2</e><e type="setBuff">5</e>
 		</frame>
 	</action>
 
@@ -95,10 +79,7 @@
 			<p type="combatPoint">2600</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Onoki/2.ogg</e>
-			<f>Onoki_R_skill02_01</f><f>Onoki_R_skill02_02</f><f>Onoki_R_skill02_03</f><f>Onoki_R_skill02_04</f><f>Onoki_R_skill02_05</f><f>Onoki_R_skill02_06</f><f>Onoki_R_skill02_07</f><f>Onoki_R_skill02_08</f><f>Onoki_R_skill02_09</f><f>Onoki_R_skill02_10</f><f>Onoki_R_skill02_11</f><f>Onoki_R_skill02_12</f><f>Onoki_R_skill02_13</f><e type="setBullet">PaperSpear</e>
-			<f>Onoki_R_skill02_14</f><f>Onoki_R_skill02_15</f><f>Onoki_R_skill02_16</f><e type="setDelay">10</e>
-		</frame>
+			<f>Onoki_R_skill02_01</f><e type="setSound">Audio/Onoki/2.ogg</e><e type="setDelay">4</e><f>Onoki_R_skill02_02</f><e type="setDelay">4</e><f>Onoki_R_skill02_03</f><e type="setDelay">4</e><f>Onoki_R_skill02_04</f><e type="setDelay">2</e><f>Onoki_R_skill02_05</f><e type="setSound">Audio/Effect/damage_k.ogg</e><f>Onoki_R_skill02_06</f><f>Onoki_R_skill02_07</f><f>Onoki_R_skill02_08</f><e type="setSound">Audio/Effect/damage_k.ogg</e><e type="setAttackBox">c_hit</e><f>Onoki_R_skill02_09</f><e type="setAttackBox">c_hit</e><f>Onoki_R_skill02_10</f><e type="setAttackBox">c_hit</e><f>Onoki_R_skill02_11</f><e type="setSound">Audio/Effect/damage_k.ogg</e><e type="setAttackBox">c_hit</e><f>Onoki_R_skill02_12</f><e type="setAttackBox">c_hit</e><f>Onoki_R_skill02_13</f><e type="setAttackBox">c_hit</e><f>Onoki_R_skill02_14</f><f>Onoki_R_skill02_15</f><f>Onoki_R_skill02_16</f><e type="setDelay">16</e></frame>
 	</action>
 
 	<action name="skill03">
@@ -111,10 +92,7 @@
 			<p type="combatPoint">4600</p>
 		</data>
 		<frame>
-			<f>Onoki_R_skill03_01</f><f>Onoki_R_skill03_02</f><e type="setSound">Audio/Onoki/3.ogg</e>
-			<f>Onoki_R_skill03_03</f><f>Onoki_R_skill03_04</f><f>Onoki_R_skill03_05</f><f>Onoki_R_skill03_06</f><e type="setBullet">PaperSrk</e>
-			<f>Onoki_R_skill03_07</f><f>Onoki_R_skill03_08</f><f>Onoki_R_skill03_09</f><f>Onoki_R_skill03_10</f><f>Onoki_R_skill03_11</f><f>Onoki_R_skill03_12</f><f>Onoki_R_skill03_13</f><f>Onoki_R_skill03_14</f><f>Onoki_R_skill03_15</f><e type="setBullet">PaperSrk</e>
-		</frame>
+			<f>Onoki_R_skill03_01</f><e type="setSound">Audio/Onoki/3.ogg</e><e type="setDelay">2</e><f>Onoki_R_skill03_02</f><e type="setDelay">4</e><f>Onoki_R_skill03_03</f><e type="setDelay">1</e><f>Onoki_R_skill03_04</f><e type="setDelay">1</e><f>Onoki_R_skill03_05</f><e type="setDelay">1</e><f>Onoki_R_skill03_06</f><e type="setDelay">1</e><f>Onoki_R_skill03_07</f><e type="setDelay">1</e><f>Onoki_R_skill03_08</f><e type="setAttackBox">ac_hit</e><e type="setDelay">1</e><f>Onoki_R_skill03_09</f><e type="setSound">Audio/Effect/bom.ogg</e><e type="setAttackBox">ac_hit</e><e type="setDelay">1</e><f>Onoki_R_skill03_10</f><e type="setAttackBox">ac_hit</e><e type="setDelay">1</e><f>Onoki_R_skill03_11</f><e type="setAttackBox">ac_hit</e><e type="setDelay">1</e><f>Onoki_R_skill03_12</f><e type="setAttackBox">ac_hit</e><e type="setDelay">1</e><f>Onoki_R_skill03_13</f><e type="setAttackBox">ac_hit</e><e type="setDelay">1</e><f>Onoki_R_skill03_14</f><e type="setDelay">1</e><f>Onoki_R_skill03_15</f><e type="setDelay">1</e></frame>
 	</action>
 
 	<action name="skill04">
@@ -127,13 +105,8 @@
 			<p type="combatPoint">5040</p>
 		</data>
 		<frame>
-			<e type="setCommand">setInvincible</e>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<e type="setSound">Audio/Onoki/4.ogg</e>
-			<f>Onoki_R_skill04_01</f><f>Onoki_R_skill04_02</f><f>Onoki_R_skill04_03</f><f>Onoki_R_skill04_04</f><f>Onoki_R_skill04_05</f><f>Onoki_R_skill04_06</f><f>Onoki_R_skill04_07</f><f>Onoki_R_skill04_08</f><f>Onoki_R_skill04_09</f><f>Onoki_R_skill04_10</f><f>Onoki_R_skill04_11</f><e type="setSkillEffect">smk</e>
-			<f>Onoki_R_skill04_12</f><f>Onoki_R_skill04_13</f><f>Onoki_R_skill04_14</f><f>Onoki_R_skill04_15</f><f>Onoki_R_skill04_16</f><f>Onoki_R_skill04_17</f><e type="setBuff">17</e>
-			<e type="setCommand">reInvincible</e>
-		</frame>
+			<e type="setCommand">setInvincible</e><f>Onoki_R_skill04_01</f><e type="setSound">Audio/Onoki/4.ogg</e><e type="setDelay">4</e><f>Onoki_R_skill04_02</f><e type="setDelay">4</e><f>Onoki_R_skill04_03</f><e type="setDelay">4</e><e type="setSound">Audio/Effect/ougis.ogg</e><f>Onoki_R_skill04_04</f><e type="setDelay">2</e><f>Onoki_R_skill04_05</f><e type="setDelay">2</e><f>Onoki_R_skill04_06</f><e type="setDelay">2</e><f>Onoki_R_skill04_07</f><e type="setDelay">2</e><f>Onoki_R_skill04_08</f><e type="setDelay">4</e><f>Onoki_R_skill04_09</f><e type="setDelay">8</e><f>Onoki_R_skill04_10</f><e type="setDelay">2</e><f>Onoki_R_skill04_11</f><e type="setSound">Audio/Effect/break_sound3.ogg</e><e type="setAttackBox">f_hit</e><e type="setDelay">3</e><f>Onoki_R_skill04_12</f><e type="setAttackBox">c_hit</e><e type="setDelay">3</e><f>Onoki_R_skill04_13</f><e type="setAttackBox">c_hit</e><e type="setDelay">3</e><f>Onoki_R_skill04_14</f><e type="setAttackBox">c_hit</e><e type="setDelay">3</e><f>Onoki_R_skill04_15</f><e type="setAttackBox">n_hit</e><e type="setDelay">3</e><f>Onoki_R_skill04_16</f><e type="setDelay">3</e><f>Onoki_R_skill04_17</f><e type="setDelay">8</e><e type="setCommand">reInvincible</e><e type="setBuff">17</e>
+			</frame>
 	</action>
 	<action name="skill05">
 		<data>
@@ -145,36 +118,7 @@
 			<p type="combatPoint">8400</p>
 		</data>
 		<frame>
-			<e type="setSound">Audio/Effect/ougis.ogg</e>
-			<f>Onoki_R_skill05_01</f><f>Onoki_R_skill05_02</f><e type="setCommand">setInvincible</e>
-			<f>Onoki_R_skill05_03</f><e type="setAttackBox">f2_hit</e>
-			<f>Onoki_R_skill05_04</f><e type="setAttackBox">f2_hit</e>
-			<f>Onoki_R_skill05_05</f><f>Onoki_R_skill05_06</f><e type="setAttackBox">f2_hit</e>
-			<f>Onoki_R_skill05_07</f><e type="setAttackBox">f2_hit</e>
-			<f>Onoki_R_skill05_08</f><e type="setShadow">10</e>
-			<e type="setChargeB">280</e>
-			<f>Onoki_R_skill05_09</f><e type="setShadow">10</e>
-			<e type="setSound">Audio/Effect/blade_damage.ogg</e>
-			<e type="setAttackBox">ac_hit</e>
-			<f>Onoki_R_skill05_10</f><e type="setShadow">10</e>
-			<e type="setAttackBox">ac_hit</e>
-			<e type="setSound">Audio/Effect/blade_damage.ogg</e>
-			<f>Onoki_R_skill05_11</f><e type="setShadow">10</e>
-			<e type="setAttackBox">ac_hit</e>
-			<f>Onoki_R_skill05_12</f><e type="setShadow">10</e>
-			<e type="setAttackBox">ac_hit</e>
-			<f>Onoki_R_skill05_13</f><f>Onoki_R_skill05_14</f><e type="setShadow">10</e>
-			<f>Onoki_R_skill05_15</f><f>Onoki_R_skill05_16</f><f>Onoki_R_skill05_17</f><e type="setShadow">10</e>
-			<e type="setOugis">10</e>
-			<f>Onoki_R_skill05_18</f><e type="setShadow">10</e>
-			<e type="setJump">true</e>
-			<f>Onoki_R_skill05_19</f><e type="setShadow">10</e>
-			<f>Onoki_R_skill05_20</f><e type="setShadow">10</e>
-			<f>Onoki_R_skill05_21</f><e type="setShadow">10</e>
-			<f>Onoki_R_skill05_22</f><f>Onoki_R_skill05_23</f><f>Onoki_R_skill05_24</f><e type="setMon">PaperRain</e>
-			<e type="stopJump">180</e>
-			<f>Onoki_R_skill05_25</f><f>Onoki_R_skill05_26</f><f>Onoki_R_skill05_27</f><e type="setCommand">reInvincible</e>
-		</frame>
+			<e type="setCommand">setInvincible</e><e type="setSound">Audio/Effect/ougis.ogg</e><f>Onoki_R_skill05_01</f><e type="setDelay">4</e><f>Onoki_R_skill05_02</f><e type="setDelay">4</e><f>Onoki_R_skill05_03</f><e type="setDelay">6</e><f>Onoki_R_skill05_04</f><e type="setDelay">6</e><f>Onoki_R_skill05_05</f><e type="setDelay">1</e><f>Onoki_R_skill05_06</f><e type="setDelay">1</e><f>Onoki_R_skill05_07</f><e type="setDelay">1</e><f>Onoki_R_skill05_08</f><e type="setOugis">10</e><e type="setDelay">12</e><f>Onoki_R_skill05_09</f><e type="setDelay">2</e><f>Onoki_R_skill05_10</f><e type="setDelay">2</e><f>Onoki_R_skill05_11</f><e type="setAttackBox">ac_hit</e><e type="setDelay">2</e><f>Onoki_R_skill05_12</f><e type="setAttackBox">ac_hit</e><e type="setDelay">2</e><f>Onoki_R_skill05_13</f><e type="setAttackBox">ac_hit</e><e type="setDelay">2</e><f>Onoki_R_skill05_14</f><e type="setAttackBox">ac_hit</e><e type="setDelay">2</e><f>Onoki_R_skill05_15</f><e type="setAttackBox">ac_hit</e><e type="setDelay">2</e><f>Onoki_R_skill05_16</f><e type="setAttackBox">ac_hit</e><e type="setDelay">2</e><f>Onoki_R_skill05_17</f><e type="setAttackBox">ac_hit</e><e type="setDelay">2</e><f>Onoki_R_skill05_18</f><e type="setDelay">2</e><f>Onoki_R_skill05_19</f><e type="setDelay">2</e><f>Onoki_R_skill05_20</f><e type="setDelay">2</e><f>Onoki_R_skill05_21</f><f>Onoki_R_skill05_22</f><f>Onoki_R_skill05_23</f><f>Onoki_R_skill05_24</f><f>Onoki_R_skill05_25</f><f>Onoki_R_skill05_26</f><f>Onoki_R_skill05_27</f><e type="setCommand">reInvincible</e></frame>
 	</action>
 	<action name="skill06">
 		<frame />
@@ -212,13 +156,7 @@
 			<p type="cd">10</p>
 		</data>
 		<frame>
-			<f>Onoki_R_skill11_01</f><e type="setAttackBox">s_hit</e>
-			<e type="setDelay">10</e>
-			<f>Onoki_R_skill11_02</f><e type="setDelay">10</e>
-			<f>Onoki_R_skill11_03</f><e type="setAttackBox">s_hit</e>
-			<e type="setDelay">10</e>
-			<f>Onoki_R_skill11_04</f><e type="setDelay">10</e>
-		</frame>
+			<f>Onoki_R_skill11_01</f><e type="setAttackBox">a_hit</e><e type="setDelay">10</e><f>Onoki_R_skill11_02</f><e type="setDelay">10</e><f>Onoki_R_skill11_03</f><e type="setAttackBox">a_hit</e><e type="setDelay">10</e><f>Onoki_R_skill11_04</f><e type="setDelay">10</e></frame>
 
 	</action>
 

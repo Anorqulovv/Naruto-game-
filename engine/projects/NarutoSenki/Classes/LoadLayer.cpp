@@ -1,3 +1,5 @@
+#include <map>
+#include <vector>
 #include "Mp/Mp.h"
 #include "LoadLayer.h"
 #include "GameMode/GameModeImpl.h"
@@ -136,6 +138,34 @@ void LoadLayer::preloadIMG()
 	scheduleOnce(schedule_selector(LoadLayer::onLoadFinish), 3.0f);
 }
 
+// RotN 2.2: atlases of the objects a RotN hero's own skills spawn (listed by the asset tools)
+void LoadLayer::addSkinExtras(const string &base, const string &skin)
+{
+	auto fu = FileUtils::sharedFileUtils();
+	auto path = fu->fullPathForFilename(format("Unit/Ninja/{}/{}_extra.txt", base, skin).c_str());
+	if (!fu->isFileExist(path))
+		return;
+	unsigned long size = 0;
+	unsigned char *data = fu->getFileData(path.c_str(), "rb", &size);
+	if (!data)
+		return;
+	string text((const char *)data, size);
+	delete[] data;
+	size_t pos = 0;
+	while (pos < text.size())
+	{
+		size_t end = text.find('\n', pos);
+		if (end == string::npos)
+			end = text.size();
+		string line = text.substr(pos, end - pos);
+		pos = end + 1;
+		if (!line.empty() && line.back() == '\r')
+			line.pop_back();
+		if (!line.empty() && fu->isFileExist(fu->fullPathForFilename(line.c_str())))
+			addSprites(line);
+	}
+}
+
 void LoadLayer::perloadCharIMG(const string &name)
 {
 	Texture2D::PVRImagesHavePremultipliedAlpha(true);
@@ -144,6 +174,17 @@ void LoadLayer::perloadCharIMG(const string &name)
 	{
 		// RotN extra hero: its own sprites + everything of the hero whose skills it uses
 		addSprites(format("Unit/Ninja/{}/{}.plist", base, name));
+		// its own skill effects first: the slot hero's atlas (same frame names) then only fills the gaps
+		if (FileUtils::sharedFileUtils()->isFileExist(FileUtils::sharedFileUtils()->fullPathForFilename(format("Unit/Ninja/{}/{}_Skill.plist", base, name).c_str())))
+			addSprites(format("Unit/Ninja/{}/{}_Skill.plist", base, name));
+		addSkinExtras(base, name);
+		if (name == "Madara") // awakens into Rikudo Madara (the Nagato form)
+		{
+			addSprites("Unit/Ninja/Nagato/RikudoMadara.plist");
+			addSkinExtras("Nagato", "RikudoMadara");
+			if (FileUtils::sharedFileUtils()->isFileExist(FileUtils::sharedFileUtils()->fullPathForFilename("Unit/Ninja/Nagato/RikudoMadara_Skill.plist")))
+				addSprites("Unit/Ninja/Nagato/RikudoMadara_Skill.plist");
+		}
 		perloadCharIMG(base);
 		return;
 	}
@@ -158,6 +199,15 @@ void LoadLayer::perloadCharIMG(const string &name)
 
 	path = format("Unit/Ninja/{}/{}.plist", name, name);
 	addSprites(path);
+	// RotN 2.2: objects RotN's own skills spawn (also for the forms this hero can turn into)
+	addSkinExtras(name, name);
+	static const std::map<string, std::vector<string>> kForms = {
+		{"Naruto", {"SageNaruto", "RikudoNaruto"}}, {"SageNaruto", {"RikudoNaruto"}}, {"Jiraiya", {"SageJiraiya"}},
+		{"Sasuke", {"ImmortalSasuke"}}, {"Lee", {"RockLee"}}, {"Pain", {"Nagato"}}};
+	auto forms = kForms.find(name);
+	if (forms != kForms.end())
+		for (auto &f : forms->second)
+			addSkinExtras(f, f);
 	// RotN 2.2: a form picked as a hero also needs everything of its base hero
 	if (heroFamily(name) != name)
 		perloadCharIMG(heroFamily(name));
